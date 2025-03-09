@@ -1,0 +1,94 @@
+**Title: İş Akışları**
+
+**Öğrenci İşleri İş Süreçleri**
+- SEK 08-01-02-04.18 Mezuniyet (Diploma) Töreni Süreci
+- SEK 08-01-02-04.01 Bitirme Tasarım Projesi Süreci
+- SEK 08-01-02-04.21 Özel Öğrenci (Başka bir Yükseköğ.Kurum.öğren.) Süreci
+- SEK 08-01-02-04.19 Öğrenci Disiplin Soruşturması Süreci
+- SEK 08-01-02-04.11 Dikey Geçiş Kabul İşlemleri Süreci
+- SEK 08-01-02-04.23 Sınav Sonucuna İtiraz Süreci
+- SEK 08-01-02-04.20 Öğrenci Temsilcisi Seçimi Süreci
+- SEK 08-01-02-04.24 Staj İşlemleri Süreci
+- SEK 08-01-02-04.28 Yurtdışından Öğrenci Kabul Kontenjanı Belirleme Süreci
+- SEK 08-01-02-04.25 Teknik Gezi Süreci
+- SEK 08-01-02-04.05 Çeşitli Öğrenci Etkinlikleri Görev. Süreci
+- SEK 08-01-02-04.22 Özel öğrenci (İTÜ öğrencisi) Süreci
+- SEK 08-01-02-04.03 ÇAP Kredi Düşürme Süreci
+- SEK 08-01-02-04.27 Yurtdışından Öğrenci Başvuru ve Kabulü Süreci
+- SEK 08-01-02-04.17 Mazeret Sınavı Talebi Süreci
+- SEK 08-01-02-04.12 Erasmus Süreci
+- SEK 08-01-02-04.26 Yatay-Dikey Geçiş İntibak İşlemleri Süreci
+- SEK 08-01-02-04.04 ÇAP,Yandal,Yatay Geçiş Kon.Belir.Süreci
+- SEK 08-01-02-04.08 Ders Planlarının Güncellenmesi Süreci
+- SEK 08-01-02-04.07 Ders Başarı Değerlendirme Süreci
+- SEK 08-01-02-04.10 Dersin Ön Koşul.Güncel.Süreci
+- SEK 08-01-02-04.09 Ders Prog.Hazır.Süreci
+- SEK 08-01-02-04.16 Kredi Artırımı Süreci
+- SEK 08-01-02-04.13 Gözetmen Görev.Süreci
+- SEK 08-01-02-04.06 Danışman Atanması Süreci
+- SEK 08-01-02-04.02 Burs İşlemleri Süreci
+
+**Özlük İş Süreçleri**
+- SEK 08-01-02-05.48 Mazeret İzni Süreci
+- SEK 08-01-02-05.26 Ölüm Halinde Emeklilik Süreci
+- SEK 08-01-02-05.14 Hizmet Birleştirme Süreci
+- SEK 08-01-02-05.27 Profesör ve Doçent Atama Süreci
+- SEK 08-01-02-05.34 Kısa Süreli Görev.(15 güne kadar)Süreci
+- SEK 08-01-02-05.28 Sözleşmeli Yabanı Uyruklu ÖE görevlendirilme Süreci - Kopya
+- SEK 08-01-02-05.23 Öğretim Elemanları Görev Süresi Uzatım Süreci
+- SEK 08-01-02-05.47 Yıllık İzin Süreci
+- SEK 08-01-02-05.46 38. mad.görev. süreci
+- SEK 08-01-02-05.07 Askerlik Dönüş Süreci
+- SEK 08-01-02-05.39 İdari Pers.Görev.Süreci
+- SEK 08-01-02-05.36 Uzun Süreli Görev.(3 aydan fazla)Süreci
+- SEK 08-01-02-05.32 Kısa Süreli Görev.(yolluk-yevmiye) Süreci
+- SEK 08-01-02-05.35 Kısa Süreli Görev.(3 aya kadar)Süreci
+- SEK 08-01-02-05.33 Kısa Süre Görev. (7 günden az yolluksuz) Süreci
+- SEK 08-01-02-05.31 Yurtdışı Doktora Eğitimi Görevlendirme Süreci
+- SEK 08-01-02-05.29 Hastalık-Refakat İzni Süreci
+- SEK 08-01-02-05.06 Araştırma Görevlisi Görev Süresi Uzatma İşlemleri Süreci
+- SEK 08-01-02-05.15 Hizmet Borçlanması Süreci
+- SEK 08-01-02-05.25 Öğretim Elemanlarının Başvuru ve Atama Süreci
+- SEK 08-01-02-05.13 Emeklilik Süreci
+- SEK 08-01-02-05.12 Doğum ve Askerlik Dışındaki Nedenlerle Ücretsiz İzin Süreci
+- SEK 08-01-02-05.24 Öğretim Elemanları Öğrenim Değişikliği Süreci
+- SEK 08-01-02-05.22 Malulen Emeklilik Süreci
+- SEK 08-01-02-05.11 Doğum ve Askerlik Dışındaki Nedenlerle Ücretsiz İzin Dönüş Süreci
+- SEK 08-01-02-05.30 Maaşsız İzin Süreci
+- SEK 08-01-02-05.38 Misafir Öğr.Üye.Görev.Süreci
+- SEK 08-01-02-05.08 Doğum Öncesi İzin Süreci
+- SEK 08-01-02-05.37 Teknokent Görev.Süreci
+- SEK 08-01-02-05.19 İdari Personel Nakil İşlemleri(Geliş)
+- SEK 08-01-02-05.03 2547 60B Maddesi Uyarınca Atama Süreci
+- SEK 08-01-02-05.18 İdari Öğrenim Değişikliği Değerlendirmesi Süreci
+- SEK 08-01-02-05.17 İdari Görev Dekan ve Yardımcıları, Enstitü Müdürü ve Yardımcıları, Yüksekokul Müdürü ve Yardımcıları Süreci
+- SEK 08-01-02-04.15 İzin Süreci
+- SEK 08-01-02-05.16 İdari Personel Nakil İşlemleri(Gidiş)
+- SEK 08-01-02-05.21 Kadro Talep Süreci
+- SEK 08-01-02-05.09 Doğum Sonrası İzin Süreci
+- SEK 08-01-02-05.02 Akademik Personel Nakil İşlemleri(Geliş)
+- SEK 08-01-02-05.04 Akademik Personel Nakil İşlemleri(Gidiş)
+- SEK 08-01-02-04.14 Harçsız Pasaport Süreci
+- SEK 08-01-02-05.01 Yardımcı Doçentler Görev Süresi Uzatım Süreci
+- SEK 08-01-02-05.20 İstifa Süreci
+- SEK 08-01-02-05.05 Akademik-İdari Personelin Askere Gidiş İşlemleri Süreci
+- SEK 08-01-02-05.10 Doğum Sonrası Ücretsiz İzin Süreci
+
+**Maaş İş Süreçleri**
+- SEK 08-01-02-03.01 Maaş Ödeme
+- SEK 08-01-02-03.06 Ek Ders Ödeme
+- SEK 08-01-02-03.02 Jüri Üyeliği Ödemesi
+- SEK 08-01-02-03.05 Yabancı Uyruklu Maaş Ödeme
+- SEK 08-01-02-03.04 Kadrolu Personel Sigorta
+- SEK 08-01-02-03.07 Kıst Maaş Ödeme Süreci
+- SEK 08-01-02-03.03 Maaş Farkları Ödeme
+- SEK 08-01-02-05.41 Ek Ders (89.mad.) Görev.Süreci
+- SEK 08-01-02-03.08 Çocuk Yardımı
+- SEK 08-01-02-05.44 Ek ders (40b) Görev.Süreci
+- SEK 08-01-02-05.42 Ek Ders (40a-Kurumiçi) Görev.Süreci
+- SEK 08-01-02-05.40 31.mad.Ek Ders Görev.Süreci
+- SEK 08-01-02-05.45 Döner Sermaye (37.mad.) Görev.Süreci
+- SEK 08-01-02-05.43 Ek Ders (40a,c,d) Görev.Süreci
+
+**Taşınır İş Süreçleri**
+- Satınalma İş Süreçleri

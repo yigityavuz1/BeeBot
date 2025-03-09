@@ -1,0 +1,16 @@
+**Title:** Harita
+
+**Künye:**
+- İlk yayın tarihi: Ocak 2015
+- Aktif kullanıcı sayısı: 5.000
+- Web Adresi: http://harita.itu.edu.tr
+
+**Açıklama:**
+İTÜ yerleşkelerinde bulunan bina ve birimlerin harita üzerinde gösterilerek kampüslerin yerleşim düzenleri hakkında bilgi vermek için hazırlanmıştır. İTÜ içerisinde tanımlanmış olan tur güzergahları hareketli olarak ziyaretçilerin tur için izlemesi gereken yol bilgisi harita üzerinde gösterilir. Kampüs içi mekik servislerinin anlık konumları harita üzerinde gösterilerek kampüs içi ulaşıma yardımcı olur.
+
+**İletişim:**
+- Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- Telefon: 0212 285 3930
+
+**BİDB Yardım:**
+İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz.

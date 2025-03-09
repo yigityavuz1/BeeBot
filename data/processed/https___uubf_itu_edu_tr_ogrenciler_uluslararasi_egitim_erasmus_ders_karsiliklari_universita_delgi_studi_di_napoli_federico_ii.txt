@@ -1,0 +1,27 @@
+**Title:** Universita Delgi Studi Di Napoli Federico II
+
+**Relevant Courses:**
+
+- Aerodynamics (UCK351) - Aerodinamik
+- Strutture Aerospeziali (ING-IND/04) - Aerospace Structures (UZB331)
+- Disegno Tecnico Aerospaziali (ING-IND/15) - Computer Aided Technical Drawing (UZB112)
+- Analisi Matematica II (MAT/05) - Differential Equations (MAT201)
+- Fisica Matematica (MAT/07) - Dynamics (DNK 201)
+- Business Economics and Organization (EKO201) - Ekonomi
+- Aerospace Structures (UZB318E) - Finite Element Method
+- Mechanics of The Flight (20019) - Flight Mechanics (UCK322E)
+- Aerospace Structures I (20017) - Hava Uzay Yapıları (UZB331)
+- Flight Mechanics of Helicopters (20030) - Helikopter Teorisi (UCK459)
+- Elementi di Informatica (ING-IND/05) - Introduction to Scientific and Engineering Computing (BİL108)
+- Strength of Materials (MUK203) - Mukavemet I
+- Strength of Materials (MUK204) - Mukavemet II
+- Statistics and Calculus of Probability (MAT271) - Olasılık ve İstatistik
+- General Psychology I (6800) - Psikolojiye Giriş (ITB220)
+- Science of Materials (ING-IND/22) - Science of Materials (MAL201)
+- General Sociology I (18015) - Sosyolojiye Giriş (ITB203)
+- Aerospace Structures (UCK226) - Structural and Mechanical Vibrations
+
+**Contact Information:**
+- **Phone:** +90 (212) 285 31 01
+- **Fax:** +90 (212) 285 31 39
+- **Address:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

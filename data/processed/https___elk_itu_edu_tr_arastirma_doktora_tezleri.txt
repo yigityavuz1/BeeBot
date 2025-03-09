@@ -1,0 +1,146 @@
+**Title: Doktora Tezleri**
+
+**Doktora Programı Bilgisi:**
+Doktora programına mülakatla alınan öğrenciler, 24 kredilik ders programını tamamladıktan ve yeterlik sınavını başarı ile geçtikten sonra, bilimsel ve teknolojik inovasyon için temel Elektrik Mühendisliği veya disiplinler arası araştırma konularında derinlemesine araştırma yapmaya başlarlar. Araştırma periyodu bitiminde ortaya çıkan araştırma sonuçlarının doktora derecesi için yeterli olması durumunda, öğrenci doktora tezini yazarak teslim eder. Doktora sınavında başarılı olan öğrenciler doktor (PhD) unvanı alırlar.
+
+**Tamamlanmış Doktora Tezleri:**
+
+1. **Yüksek darbe gerilimleri altında gazlarda kısmi boşalma akımlarının zaman-frekans analizi (2021)**
+   - Dr. Kemal ARIKAN
+   - Danışman: PROF. DR. Şükran EMEL ÖNAL
+
+2. **Elektrikli araç uygulamaları için yeni yarı kesişen sargılarla donanımlı gömülü kalıcı mıknatıslı makinelerin tasarımı ve analizi (2021)**
+   - Dr. Tayfun Gündoğdu
+   - Danışman: PROF. DR. Güven KÖMÜRGÖZ KIRIŞ
+
+3. **Dağıtık üretim sistemleri içeren dağıtım şebekelerinde akıllı gerilim kontrol yöntemi geliştirilmesi (2021)**
+   - Dr. Merve Güleryüz Halaçlı
+   - Danışman: Prof. Dr. Ayşen DEMİRÖREN
+
+4. **Elektrik güç sistemlerinde transformatörlerin yaşlanması koşulları altında verimlilik artışı amaçlı işletim koşullarının iyileştirilmesinin araştırılması (2020)**
+   - Dr. Banu Öztürk Uçar
+   - Danışman: Prof. Dr. Mustafa Bağrıyanık
+
+5. **Yüksek doğru gerilim (HVDC) iletim hatlarının korona karakteristikleri ve elektromanyetik etkileri (2020)**
+   - Dr. Aytuğ Font
+   - Danışman: Prof. Dr. Aydoğan Özdemir
+
+6. **Şebeke etkileşimli tüketiciler ile toplu talep yönetimi (2019)**
+   - Dr. Mustafa Alparslan Zehir
+   - Danışman: Prof. Dr. Mustafa Bağrıyanık
+
+7. **Sinyal analizi için makine öğrenme algoritmaları ile desteklenen geliştirilmiş hilbert huang dönüşümü (2019)**
+   - Dr. Hamid Erinç Karatoprak
+   - Danışman: Prof. Dr. Şahin Serhat Şeker
+
+8. **Akım regülasyonlu uygulamalar için sayısal kontrollü alçaltıcı çeviriciler (2019)**
+   - Dr. Abdulkerim Uğur
+   - Danışman: Dr. Öğr. Üyesi Murat Yılmaz
+
+9. **Yüksek hızlı tahrik sistemleri için kütlesel rotorlu asenkron motorun rotor harmonik kayıplarını azaltmaya yönelik katkılar (2019)**
+   - Dr. Mehmet Onur Gülbahçe
+   - Danışman: Yrd. Doç. Derya Ahmet Kocabaş
+
+10. **Yüksek gerilim darbe işaretlerinin incelenmesinde kullanılan k-faktör filtreleme yöntemine dalgacık tabanlı yaklaşım (2018)**
+    - Dr. Kahraman Yumak
+    - Danışman: Doç. Dr. Şükran Emel Önal
+
+11. **Elektrikli araç otoparklarının dağıtım sistemi güvenilirliğine etkilerinin incelenmesi (2018)**
+    - Dr. Sıtkı Güner
+    - Danışman: Prof. Dr. Aydoğan Özdemir
+
+12. **Flicker contribution evaluation in electric power systems (2018)**
+    - Dr. Murat Silsüpür
+    - Danışman: Prof. Dr. Belgin Türkay
+
+13. **Yük altında kademe değiştiricilerin ark tabanlı modellenmesi, durum izlenmesi ve arıza tespiti (2018)**
+    - Dr. Behnam Feizifar
+    - Danışman: Prof. Dr. Ömer Usta
+
+14. **Güç sistemlerinde geçici hal kararlılığı için geniş alan ölçümlerine dayalı erken kestirim ve düzeltici kontrol (2018)**
+    - Dr. Mohammed S.M. Mahdi
+    - Danışman: Doç. Dr. Veysel Murat İstemihan Genç
+
+15. **Dalgacık çerçeveleri ve artıklı dalgacık dönüşümleri ile arıza tespiti (2017)**
+    - Dr. Tayfun Şengüler
+    - Danışman: Prof. Dr. Şahin Serhat Şeker
+
+16. **Reliability centered asset management for power transformers in Turkish national power transmission system (2016)**
+    - Dr. Havva Aysun Köksal
+    - Danışman: Prof. Dr. Aydoğan Özdemir
+
+17. **Çok Makinalı Güç Sisteminde Açısal Kararlılık Analizi ve Kontrolör parametre Optimizasyonu (2015)**
+    - Dr. Serdar Ekinci
+    - Danışman: Prof. Dr. Ayşen DEMİRÖREN
+
+18. **Dynamic Security Enhancement of Power Systems via Population Based Optimization Methods Integrated with Artificial Neural Networks (2015)**
+    - Dr. Fatih Küçüktezcan
+    - Danışman: Doç. Dr. İstemihan GENÇ
+
+19. **Condition Monitoring and Fault Detection for Induction Motors by Geometric Trending and Stationary Wavelet Analysis (2015)**
+    - Dr. Duygu Bayram
+    - Danışman: Prof. Dr. Serhat ŞEKER
+
+20. **Multi Resolution Wavelet Analysis for Ferroresonance Phenomenon on Power Systems and Its Nonlinear Dynamics (2015)**
+    - Dr. Sezen YILDIRIM ÜNNÜ
+    - Danışman: Prof. Dr. Serhat ŞEKER
+
+21. **Elektrik Güç Sistemlerinde Sistem Genişlemesi Koşulları Altında İşletmenin Eniyilenmesi için Yeni Bir Akıllı Yöntem Geliştirilmesi (2014)**
+    - Dr. Doğan Recep Gümeli
+    - Danışman: Prof. Dr. Mustafa BAĞRIYANIK
+
+22. **Discharge Characterization of Small Air Gaps with Dielectric Barriers (2013)**
+    - Dr. Alper KARA
+    - Danışman: Prof. Dr. Kevork MARDİKYAN
+
+23. **Corona Ring Design and Parameter Optimization for 380 kV V-Insulator Strings Used in Turkish National Power Transmission System (2013)**
+    - Dr. Suat İLHAN
+    - Danışman: Prof. Dr. Aydoğan ÖZDEMİR
+
+24. **Dalgacık Analizi ile Yüksek Gerilim Aygıtlarından Alınan İşaretlerin Değerlendirilmesi (2010)**
+    - Dr. Özkan ALTAY
+    - Danışman: Prof. Dr. Özcan KALENDERLİ
+
+25. **Elektriksel Boşalma Sesinin Tanınması (2010)**
+    - Dr. Suna BOLAT SERT
+    - Danışman: Prof. Dr. Özcan KALENDERLİ
+
+26. **Elektrik Güç Sistemlerinde Harmonik Kaynaklarının Yerinin Saptanması (2010)**
+    - Dr. Oben DAĞ
+    - Danışman: Prof. Dr. Ömer USTA, Prof. Dr. Canbolat UÇAK
+
+27. **Yüksek Dinamik Ölçekli Fotoğrafların ve Monitörlerin Aydınlatma Araştırma Projeleri ve Aydınlatma Tasarımında Kullanımının Onaylanması (2010)**
+    - Dr. Duygu ÇETEGEN MOREWOOD
+    - Danışman: Y. Doç. Dr. Ramazan ÇAGLAR, Dr. Jennifer A. VEITCH
+
+28. **Asenkron Makinede Kafes Kırılmasının İncelenmesi (2009)**
+    - Dr. Murat İMERYÜZ
+    - Danışman: Prof. Dr. A. Faik MERGEN
+
+29. **Senkronalti Rezonansa Duyarlı Bir Güç Sisteminde Hopf Çatallanmaları Ve Burulma Salınımlarının Sönümlendirilmesi İçin Yeni Bir Kontrolör (2009)**
+    - Dr. Yaşar KÜÇÜKEFE
+    - Danışman: Prof. Dr. Adnan KAYPMAZ, Doç. Dr. M. Turan SÖYLEMEZ
+
+30. **Üç Fazlı Asenkron Motorlarda Sıcaklık Dağılımının Çıkartılarak Tasarım Optimizasyonunun Yapılması (2009)**
+    - Dr. Filiz GÜRGÖZE
+    - Danışman: Prof. Dr. A. Faik MERGEN
+
+31. **Li-İyon Polimer Pil Karakteristiklerinin Analizi Ve Arıza Tanısı (2009)**
+    - Dr. Tevhit Cem KAYPMAZ
+    - Danışman: Prof. Dr. Nejat TUNCAY
+
+32. **Anahtarlamalı Relüktans Motorlarında Bulanık Mantık Ve Yapay Sinir Ağları ile Konum Algılayıcısız Denetim (2008)**
+    - Dr. Taşdemir AŞAN
+    - Danışman: Prof. Dr. Emin TACER
+
+33. **Çok Hatlı Çok Araçlı Raylı Sistemlerde Enerji Tasarrufuna Yönelik Sürüş Kontrolü (2008)**
+    - Dr. Süleyman AÇIKBAŞ
+    - Danışman: Prof. Dr. Adnan KAYPMAZ
+
+34. **Asenkron Motorlarda İşaret Tabanlı Stator Yalıtım Arıza Tanısı (2008)**
+    - Dr. Hasan Murat UÇAR
+    - Danışman: Prof. Dr. Serhat SEKER, Doç. Dr. Emine AYAZ
+
+35. **Zamanla Hızlı Değişen Gerilimlerde Boşalma Olaylarının İncelenmesi (2006)**
+    - Dr. Aysam AKSES
+    - Danışman: Prof. Dr. Özcan KALENDERLİ

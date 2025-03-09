@@ -1,0 +1,55 @@
+**Course Name:** Organic Chemistry Lab  
+**Code:** KIM 104 -104L  
+**Semester:** 4  
+**Local Credits:** 1  
+**ECTS Credits:** 1.5  
+**Course Implementation (Hours/Week):** 2  
+**Department/Program:** Food Engineering and Chemical Engineering  
+**Course Type:** Compulsory  
+**Course Language:** Turkish  
+**Course Prerequisites:** KIM 101 MIN DD or KIM 101E MIN DD  
+
+**Course Description:**  
+Crystallization, distillation, extraction, chromatography, Cannizzaro reaction, aldol condensation, polymerization, esterification.
+
+**Course Objectives:**  
+1. To teach the basic methods and principles of organic chemistry lab.  
+2. To improve the ability of organic chemistry lab.  
+3. To explain the importance of organic chemistry in industry.
+
+**Course Learning Outcomes:**  
+Students who pass the course satisfactorily can:  
+1. Learn the basic methods and principles of organic chemistry.  
+2. Apply the basic concepts in the laboratory.  
+3. Integrate theoretical and practical knowledge.  
+4. Develop problem-solving skills in organic chemistry lab.  
+5. Apply theoretical knowledge in laboratory production.
+
+**Course Plan:**  
+- **Week 1:** Crystallization, Melting Point  
+- **Week 2:** Sublimation  
+- **Week 3:** Distillation I  
+- **Week 4:** Distillation II  
+- **Week 5:** Extraction I  
+- **Week 6:** Extraction II  
+- **Week 7:** Chromatography I  
+- **Week 8:** Chromatography II  
+- **Week 9:** Cannizzaro Reaction  
+- **Week 10:** Aldol Condensation (Dibenzalacetone synthesis)  
+- **Week 11:** Aldol Condensation (Dibenzalacetone synthesis)  
+- **Week 12:** Polymerization (Polystyrene synthesis)  
+- **Week 13:** Esterification (Ethylacetate synthesis)  
+- **Week 14:** Esterification (Ethylacetate synthesis)  
+
+**Textbook:** Organic Chemistry Experiments and Techniques (2009)  
+**Publisher:** ITU Rectorate, ISBN: 978-975-561-351-2  
+**Other References:** DENEL ORGANIC CHEMISTRY (2018) by Ender Erdik, ISBN: 978-975-600-993-2  
+
+**Assessment Criteria:**  
+- Midterm Exams: 2 (70%)  
+- Quizzes: 10 (20%)  
+- Homework: 10 (10%)  
+- Laboratory Work: 14  
+- Final Exam: [Details not provided]  
+
+This cleaned version retains all relevant course information while removing extraneous details and links.

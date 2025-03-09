@@ -1,0 +1,24 @@
+**İTÜ MasterBee Bütünleşik Programı Başvuru İşlemi**
+
+**a) Başvuru için Giriş:**
+- İTÜ Giriş sayfasına yönlendirileceksiniz. İTÜ Kullanıcı Adı ve Şifrenizi giriniz.
+- Bilgileri doğru girdiğinizde başvuru için giriş sayfasına yönlendirileceksiniz.
+- TC Kimlik Numarası ve Öğrenci Numaranızı giriniz.
+
+**b) Başvuru İşlemi:**
+
+1. **Aday Bilgi ve Tercih Formu:**
+   - Güncel cep telefon numaranızı yazınız.
+   - Yüksek Lisans Program tercihlerinizi yapınız ve Kaydet butonuna tıklayınız.
+   - Kaydet butonuna tıkladıktan sonra bilgilerinizin kayıt edildiğine dair mesaj alacaksınız.
+
+2. **Niyet Mektubu:**
+   - Tercih ettiğiniz program için niyet mektubunu (pdf olarak) yükleyiniz.
+   - Yükledikten sonra doğru yüklendiğini kontrol ediniz.
+
+3. **Başvuruyu Tamamla:**
+   - Sisteme girilen bilgilerinizi ve yüklenen belgelerinizi kontrol ediniz.
+   - Tüm bilgileri kontrol ettikten sonra "Başvuruyu Tamamla" butonuna tıklayınız.
+   - Butona tıkladıktan sonra bilgi, tercih ve belgelerinizde değişiklik yapamazsınız.
+
+Başvuru duyurusunda ve İTÜ MasterBee Bütünleşik Program Esaslarında yer alan başvuru koşullarını sağlamayan öğrencilerin başvurusu daha sonra ret edilecektir. Başvurunuz başarıyla gönderildiğinde “Başvuru Talebiniz Gönderilmiştir.” mesajı yer alacaktır.

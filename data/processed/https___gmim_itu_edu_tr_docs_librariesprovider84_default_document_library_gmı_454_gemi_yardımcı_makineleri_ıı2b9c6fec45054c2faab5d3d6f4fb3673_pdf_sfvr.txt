@@ -1,0 +1,59 @@
+**Title:** GMI 454 Gemi Yardımcı Makineleri II
+
+**Published Time:** 2022-05-15
+
+**Course Name:** Marine Auxiliary Machinery II
+
+**Course Code:** GMI 454  
+**Semester:** 7  
+**Local Credits:** 2  
+**ECTS Credits:** 4  
+**Course Implementation Hours/Week:** 2 (Theoretical)  
+
+**Department/Program:** Marine Engineering  
+**Course Type:** Compulsory  
+**Course Language:** Turkish  
+**Course Prerequisites:** GMI 392E min DD  
+
+**Course Description:**  
+- Pump terminology, total (differential) head, pipe and valve losses, flow control methods, net positive suction head, cavitation, troubleshooting on dynamic and positive displacement pumps, L/O and F/O separators, oily water separators, air compressors, refrigerating units, evaporators, incinerators, sewage plants, steering gears, and ship pipeline issues.
+
+**Course Objectives:**  
+1. Teach onboard pump line loss calculations.  
+2. Teach pump applications onboard.  
+3. Teach troubleshooting of auxiliary machinery and systems.
+
+**Course Learning Outcomes:**  
+Students who pass the course will be able to:  
+I. Calculate and analyze pump system losses.  
+II. Understand flow control methods in pumping systems and remedy problems.  
+III. Troubleshoot pump operation and cavitation problems.  
+IV. Remedy troubles of F/O -L/O and oily water separators, air compressors, refrigerating units, evaporators, incinerators, sewage treatment plants, and steering gears.
+
+**Course Plan:**  
+1. Pump terminology, total head, calculation of pipe and valve losses  
+2. Calculation of pipe and valve losses  
+3. Calculation of pipe and valve losses  
+4. Flow control methods and affinity laws  
+5. Net positive suction head and cavitation  
+6. Pumping viscous liquid  
+7. Pumping applications using ERS and CBT  
+8. Troubleshooting in dynamic and positive displacement pumps  
+9. Troubleshooting in pipelines  
+10. Troubleshooting in L/O and F/O separators  
+11. Troubleshooting in oily water separators  
+12. Troubleshooting in air compressors and refrigeration systems  
+13. Troubleshooting in evaporators and incinerators  
+14. Troubleshooting in sewage treatment plants and steering gears  
+
+**Textbook:**  
+1. Kemal Demirel, Gemi Yardımcı Makineleri ve Sistemleri I, Birsen Yayınevi, İstanbul, 2014.  
+2. Kemal Demirel, Gemi Yardımcı Makineleri ve Sistemleri II, Birsen Yayınevi, İstanbul, 2014.  
+
+**Other References:**  
+1. H. D. McGeorge, Marine Auxiliary Machinery, 7th Edition, Butterworth-Heinemann, 2002.  
+2. Kemal Demirel - İ. Deha Er, Gemi Mühendisleri İçin Pompa Uygulamaları, Birsen Yayınevi, İstanbul, 2007.  
+
+**Assessment Criteria:**  
+- Midterm Exams: 2 (60%)  
+- Final Exam: 1 (40%)  

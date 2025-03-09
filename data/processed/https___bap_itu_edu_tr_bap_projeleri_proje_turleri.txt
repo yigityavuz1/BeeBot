@@ -1,0 +1,31 @@
+**Title: Proje Türleri**
+
+**Proje Türleri:**
+1. Araştırma Altyapısı Destek Projesi (ALDEP)
+2. Araştırma Başlangıç Destek Projesi (ABP)
+3. Araştırma Üniversiteleri Destek Programı Projesi (ADEP) (Önceki İsmi: Yetkin Alan Projesi (YAP))
+4. Disiplinler Arası Araştırma Projesi (DAP)
+5. Eş Finansmanlı Araştırma Projesi (EFAP)
+6. Eşik Üstü Destek Projesi (EÜDEP)
+7. Genel Araştırma Projesi (GAP)
+8. Hızlı Destek Projesi (HIZDEP)
+9. Hızlı Destek Projesi (HIZDEP1)
+10. Hızlı Destek Projesi (HIZDEP10)
+11. Hızlı Destek Projesi (HIZDEP40)
+12. İkili İşbirliği Projesi (İKİP)
+13. İleri Araştırma Projesi (İLAP)
+14. Lisans Öğrencisi Katılımlı Araştırma Projesi - T (LÖKAP-T)
+15. Lisansüstü Tez Projeleri (LTP) Doktora Tez Projesi
+16. Lisansüstü Tez Projeleri (LTP) Doktora Tez Projesi (Burslu)
+17. Lisansüstü Tez Projeleri (LTP) Doktora Tez Projesi (İlave Kongre Destekli)
+18. Lisansüstü Tez Projeleri (LTP) Yüksek Lisans Tez Projesi (Burslu)
+19. Lisansüstü Tez Projeleri (LTP) Yüksek Lisans Tez Projesi
+20. Performansa Dayalı Araştırma Projesi (PEDAP)
+21. Uluslararası Araştırma İş Birliği Projesi (UAİP)
+22. Üniversite-Kamu-Sanayi-Özel Sektör İş Birliği Projeleri (ÜKSÖS-A)
+23. Üniversite-Kamu-Sanayi-Özel Sektör İş Birliği Projesi (ÜKSÖS-B)
+24. Yayın Esaslı Araştırma Projesi (YESAP)
+
+**Contact Information:**
+İstanbul Teknik Üniversitesi  
+İTÜ Ayazağa Kampüsü, Rektörlük Binası, 5. Kat, Maslak, Sarıyer, İstanbul

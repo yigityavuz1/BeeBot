@@ -1,0 +1,100 @@
+Title: İTÜ | Registrar's Office
+
+URL Source: https://www.sis.itu.edu.tr/EN/student/equivalence-document/equivalence-document.php
+
+Markdown Content:
+### Academic Calendar
+
+*   [Undergraduate Level Academic Calendar](https://www.takvim.sis.itu.edu.tr/AkademikTakvim/EN/academic-calendar/index.php?takvimadi=15 "lisansakademik")
+*   [Undergraduate Internal Transfer, Double Major, Minor Calendar](https://www.takvim.sis.itu.edu.tr/AkademikTakvim/EN/academic-calendar/index.php?takvimadi=16 "yatay")
+*   [Pre-Registration Calendar](https://www.takvim.sis.itu.edu.tr/AkademikTakvim/EN/academic-calendar/index.php?takvimadi=17 "onkayit")
+*   [Graduate Level Academic Calendar](https://www.takvim.sis.itu.edu.tr/AkademikTakvim/EN/academic-calendar/index.php?takvimadi=19 "yukseklisan")
+*   [Graduate Level Evening Education Calendar](https://www.takvim.sis.itu.edu.tr/AkademikTakvim/EN/academic-calendar/index.php?takvimadi=20 "ikinciogretim")
+*   [English Preparatory Class Calendar](https://www.takvim.sis.itu.edu.tr/AkademikTakvim/EN/academic-calendar/index.php?takvimadi=18 "ingilizce")
+
+* * *
+
+### Course Information
+
+*   [Course Plans](https://obs.itu.edu.tr/public/DersPlan/ "dersplanlari")
+*   [Course Equivalence](https://obs.itu.edu.tr/public/GenelTanimlamalar/DersPlanDenklikleri "dersdenklikleri")
+*   [Prerequisites](https://obs.itu.edu.tr/public/GenelTanimlamalar/DersOnsartList "onsartlar")
+*   [Course Information](https://www.sis.itu.edu.tr/EN/student/undergraduate/course-information/course-information.php "dersbilgileri")
+*   [Course Schedules](https://obs.itu.edu.tr/public/DersProgram "dersprogramlari")
+*   [Building Codes](https://www.sis.itu.edu.tr/EN/about-sis/building-codes.php "bina")
+*   [Undergraduate Program Codes](https://www.sis.itu.edu.tr/EN/about-sis/undergraduate-program-codes.php "lisansprogram")
+
+### Procedures
+
+*   [Application and Admission](https://www.sis.itu.edu.tr/EN/application-admission/application-admission.php "Application and Admission")
+*   [Double Major, Minor, Internal Transfer Procedures](https://www.sis.itu.edu.tr/EN/student/undergraduate/double-major-minor-transfer-students/double-major-minor-transfer-students.php "cap")
+*   [Graduation And Diploma Procedures](https://www.sis.itu.edu.tr/EN/student/graduation-and-diploma/graduation-and-diploma.php "mezuniyet")
+
+* * *
+
+### Institutes
+
+*   [Graduate School](http://lee.itu.edu.tr/en/home-page "Graduate School")
+*   [Disaster Management Institute](https://eedmi.itu.edu.tr/ "afet")
+*   [Eurasia Institute of Earth Sciences](https://eies.itu.edu.tr/ "avrasya")
+*   [Informatics Institute](http://www.be.itu.edu.tr/ "bilisim")
+*   [Energy Institute](https://enerji.itu.edu.tr/ "enerji")
+*   [Aviation Institute](https://www.sis.itu.edu.tr/EN/student/equivalence-document/equivalence-document.php# "havacilik")
+
+* * *
+
+*   [**Faculties**](https://www.itu.edu.tr/en/faculty-list "List of Faculty")
+*   * * *
+    
+    [**School of Foreign Languages**](http://www.ydy.itu.edu.tr/en/homepage "beden")
+*   * * *
+    
+    [**Turkish Music State Conservatory**](https://tmdk.itu.edu.tr/en/homepage "beden")
+*   * * *
+    
+    [**Cyber Security Vocational School**](https://sgmyo.itu.edu.tr/en/home "beden")
+
+### Other Procedures
+
+*   [Regulations](https://www.sis.itu.edu.tr/TR/mevzuat/mevzuat.php "Mevzuat")
+*   [Erasmus Exchange Program](https://www.sis.itu.edu.tr/EN/student/erasmus-exchange-programs/erasmus-exchange-programs.php "erasmus")
+*   [Mevlana Exchange Program](http://www.mevlana.itu.edu.tr/ "mevlana")
+*   [Fee/Tuition Fee](https://www.sis.itu.edu.tr/EN/student/tuition-fee/tuition-fee.php "katkipayi")
+*   [Competent Engineering Exam](https://www.sis.itu.edu.tr/EN/student/undergraduate/engineering-completion/engineering-completion.php "yetkin")
+*   [Equivalence Procedures](https://www.sis.itu.edu.tr/EN/student/equivalence-document/equivalence-document.php "denklik")
+
+* * *
+
+*   [Webmail](http://webmail.itu.edu.tr/ "webmail")
+*   [İTÜ PORTAL](https://portal.itu.edu.tr/ "portal")
+*   [Ninova](https://ninova.itu.edu.tr/ "ninova")
+*   [İTÜ Career and Internship Center](http://ikm.itu.edu.tr/ "kariyer")
+*   [International Relations Office](https://international.itu.edu.tr/home "uluslararasi")
+*   [Scholarship and Dormitories Coordination](https://yurtburs.itu.edu.tr/ "yurtburs")
+*   [Student with Disabilities Unit](https://engelsiz.itu.edu.tr/ "engelli")
+*   [Physical Education Department](https://beb.itu.edu.tr/ "beden")
+
+**Phone**
+
++90 212 365 78 00-99 (100 line)
+
+**Fax**
+
++90 212 285 29 09
+
+**İTÜ Ayazağa Campus**
+
+Registrar's Office  
+34469 Maslak - İstanbul
+
+**Registrar's Office**
+
+[Create Help Ticket](https://yardim.itu.edu.tr/birim.aspx?birim=2&ogrenci+isleri+daire+baskanligi)
+
+**Registrar's Office**
+
+[Clarification Text](http://www.sis.itu.edu.tr/EN/KVKK/clarification-text.php)
+
+**Registrar's Office**
+
+[ogrenciisleri@itu.edu.tr](mailto:ogrenciisleri@itu.edu.tr)

@@ -1,0 +1,111 @@
+**Title: Dersler**
+
+**ZORUNLU DERSLER**
+
+**I. YARIYIL**
+- **Ders Kodu:** IMT 501  
+  **Ders Adı:** İç Mimarlık Projesi I  
+  **Zorunlu/Seçmeli:** Zorunlu  
+  **Kredi:** 8  
+  **ECTS:** 12  
+
+- **Ders Kodu:** IMT 502  
+  **Ders Adı:** Yapı Teknolojisi  
+  **Zorunlu/Seçmeli:** Zorunlu  
+  **Kredi:** 4  
+  **ECTS:** 5  
+
+- **Ders Kodu:** IMT 503  
+  **Ders Adı:** İletişim ve Müşteri İlişkileri  
+  **Zorunlu/Seçmeli:** Zorunlu  
+  **Kredi:** 3  
+  **ECTS:** 3.5  
+
+- **Ders Kodu:** IMT 504E  
+  **Ders Adı:** Research for Interior Architecture  
+  **Zorunlu/Seçmeli:** Zorunlu  
+  **Kredi:** 3  
+  **ECTS:** 4.5  
+
+- **Ders Kodu:** IMT 505  
+  **Ders Adı:** Kültür Tarihi  
+  **Zorunlu/Seçmeli:** Zorunlu  
+  **Kredi:** 3  
+  **ECTS:** 5  
+
+**Dönem Toplamı:** 21 Kredi, 30 ECTS
+
+**II. YARIYIL**
+- **Ders Kodu:** IMT 506E  
+  **Ders Adı:** Interior Architecture Project II  
+  **Zorunlu/Seçmeli:** Zorunlu  
+  **Kredi:** 10  
+  **ECTS:** 12.5  
+
+- **Ders Kodu:** IMT 507E  
+  **Ders Adı:** Seminar I  
+  **Zorunlu/Seçmeli:** Zorunlu  
+  **Kredi:** 2  
+  **ECTS:** 5  
+
+- **Ders Kodu:** IMT 508E  
+  **Ders Adı:** Architecture and Design in Cultural Context  
+  **Zorunlu/Seçmeli:** Zorunlu  
+  **Kredi:** 4  
+  **ECTS:** 7.5  
+
+- **Ders Kodu:** IMT 514E  
+  **Ders Adı:** Digital Representation Techniques for Interior Design  
+  **Zorunlu/Seçmeli:** Zorunlu  
+  **Kredi:** 3  
+  **ECTS:** 5  
+
+**Dönem Toplamı:** 19 Kredi, 30 ECTS
+
+**III. YARIYIL**
+- **Ders Kodu:** IMT 509E  
+  **Ders Adı:** Interior Architecture Project III  
+  **Zorunlu/Seçmeli:** Zorunlu  
+  **Kredi:** 12  
+  **ECTS:** 12.5  
+
+- **Ders Kodu:** IMT 510  
+  **Ders Adı:** Seminar II  
+  **Zorunlu/Seçmeli:** Zorunlu  
+  **Kredi:** 2  
+  **ECTS:** 5  
+
+- **Ders Kodu:** IMT 511  
+  **Ders Adı:** Meslek Pratiği ve Yönetimi  
+  **Zorunlu/Seçmeli:** Zorunlu  
+  **Kredi:** 3  
+  **ECTS:** 5  
+
+- **Ders Kodu:** KHS  
+  **Ders Adı:** İsteğe Bağlı Seçme Ders*  
+  **Zorunlu/Seçmeli:** Seçmeli  
+  **Kredi:** 3  
+  **ECTS:** 7.5  
+
+**Dönem Toplamı:** 20 Kredi, 30 ECTS
+
+**IV. YARIYIL**
+- **Ders Kodu:** IMT YLT  
+  **Ders Adı:** Tez Çalışması**  
+  **Zorunlu/Seçmeli:** Zorunlu  
+  **Kredi:** -  
+  **ECTS:** 30  
+
+**Program Toplamı:** 60 Kredi, 120 ECTS
+
+**SEÇMELİ DERSLER**
+- **Ders Kodu:** IMT 512E  
+  **Ders Adı:** Human Sciences for Interior Architecture  
+  **Zorunlu/Seçmeli:** Seçmeli  
+  **Kredi:** 3  
+  **ECTS:** 7.5  
+
+- **Ders Kodu:** IMT 5xxE  
+  **Ders Adı:** Critical Debate in Design and Theory  
+- **Ders Kodu:** IMT 5xxE  
+  **Ders Adı:** Methodologies and Techniques in Digital Design  

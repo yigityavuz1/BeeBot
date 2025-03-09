@@ -1,0 +1,79 @@
+**MATEMATİK MÜHENDİSLİĞİ**
+
+**Çevrim İçi Tanıtım ve Tercih Günleri - 04.08.2020**
+
+**Matematik Mühendisi:**
+- Matematiksel analiz yapabilme gücüne ve mühendislik formasyonuna sahip,
+- Matematiksel modelleme yapabilen,
+- Güncel bilişim teknolojilerini bu amaçlar doğrultusunda kullanabilen.
+
+**Matematik Mühendisliği Lisans Programı:**
+- Kuramsal, uygulamalı ve hesaplamalı matematik alanlarında eğitim verilmektedir.
+- Eğitim; mühendislik, finans ve ekonomi problemleri gibi sektörel problemlerin çözümünde bilişim teknolojilerini kullanmayı kapsar.
+
+**Programı Tamamlayan Öğrenciler:**
+- Temel bilim ve mühendislik prensiplerini öğrenmiş,
+- Bilimsel problemleri tanımlama, modelleme ve yazılım uygulamaları ile çözümleyebilme yeteneğine sahip,
+- Seçeceği uzmanlık alanında güncel gereksinimleri karşılayabilecek bilgi ve donanıma sahip olarak mezun olurlar.
+
+**Ders Planı:**
+- 8 yarıyılda toplam 150 kredilik ders okutulmaktadır.
+  - 120 kredilik ders zorunlu, 30 kredilik ders seçmelidir.
+  - Ders planı, matematik ağırlıklı olup:
+    - %45 temel bilim,
+    - %21 meslek tasarımı,
+    - %17 temel mühendislik,
+    - %17 insan ve toplum bilimleri derslerinden oluşmaktadır.
+
+**Bazı Seçmeli Dersler:**
+- Programming Algorithms
+- Web Programming
+- Database Management & Big Data
+- Data Analysis in Fundamental Sciences
+- Financial Mathematics
+- Tensor Analysis
+
+**Açılması Planlanan Seçmeli Derslerden Örnekler:**
+- Computational Data Science
+- Introduction to Data Science
+
+**Kayıtlı Öğrenci Sayısı:**
+- Toplam: 447
+  - Kız: 174 (%38,9)
+  - Erkek: 273 (%61,1)
+
+**Mezuniyet Yılı:**
+- 2017: Toplam 85 (Erkek 25, Kız 60)
+- 2018: Toplam 84 (Erkek 34, Kız 50)
+- 2019: Toplam 69 (Erkek 36, Kız 33)
+
+**Akademik Kadro:**
+- Profesör: 15
+- Doçent: 18
+- Doktor Öğretim Üyesi: 8
+- Doktor Öğr./Arş. Görevlisi: 7
+- Araştırma Görevlisi: 25
+- Toplam: 73
+
+**Neden İTÜ?**
+- Zengin ve konusunda uzman geniş akademik kadro
+- Ülkemizin en eski kurumsal mühendislik eğitimi veren üniversitesi
+- Zengin altyapı olanakları
+- Erasmus imkanları
+- Öğrenci proje takımları
+- Çap
+- Yeşil Kampüs
+- Sosyal olanaklar ve kulüpler
+- Arge merkezlerinin bulunduğu kampüste yarı zamanlı ve stajer olarak çalışma fırsatı
+
+**İş İmkanları:**
+- Mezunlarımız çoğunlukla ulusal veya uluslararası firmaların mühendislik, bilişim teknolojileri, ar-ge kadrolarında çalışmakta,
+- Girişimcilik yeteneklerini kullanarak bilişim şirketleri kurmakta,
+- Matematiksel modelleme, veri analizi, yazılım ve benzeri teknolojilerden faydalanan otomasyon sistemlerine gereksinim duyan bankacılık, finans, sigortacılık, ilaç, gıda, hazır giyim sektörleri gibi farklı iş alanlarında çalışmaktadırlar.
+
+**Öne Çıkan Mezunlar:**
+- Rahşan Kavas: QNB Finansbank Nakit Yönetimi ve Dış Ticaret Direktörü
+- Batuhan Köse: Garanti BBVA Kıdemli Veri Bilimi Uzmanı
+- Emre Sancakoğlu: ING Veri Yönetimi Grup Müdürü
+- Ceren Çevik Doğanay: SOFTECH Ürün Yöneticisi
+- Yeşim Şahin: MİGROS Talep ve Proje Yönetimi Grup Müdürü

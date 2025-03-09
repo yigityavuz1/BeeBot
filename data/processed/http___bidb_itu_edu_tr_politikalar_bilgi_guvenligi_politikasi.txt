@@ -1,0 +1,19 @@
+**Title: Bilgi Güvenliği Politikası**
+
+**Bilgi Güvenliği Politikamız**
+
+İstanbul Teknik Üniversitesi Bilgi İşlem Daire Başkanlığı olarak bilgi güvenliğinin etkin yönetimi için ISO/IEC 27001:2022 standardına uyumlu Bilgi Güvenliği Yönetim Sistemi uygulanmaktadır. Başkanlığımızın hâlihazırdaki misyonu ve vizyonu doğrultusunda bilgi varlıklarının gizliliğine, bütünlüğüne ve erişilebilirliğine özen göstermektedir.
+
+Bu kapsamda oluşturduğu bilgi güvenliği politika ve prosedürleri ile;
+
+- Sahip olduğumuz tüm bilgi varlıklarını korumak, kullanımının kesintisiz ve güven içinde devam etmesi için bilgi güvenliği şartlarını uluslararası standartlar, yasa ve mevzuatlar çerçevesinde sağlamak ve işletmek.
+- Bilgi güvenliği yönetim sisteminin işletilmesi için ihtiyaç duyulan kaynakların sürekliliğini sağlamak.
+- Varlıklarımıza yönelik riskleri tespit etmek ve yönetmek.
+- Bilgi güvenliği yönetim sistemimizi, iç ve dış denetimlerle gözden geçirmek ve sistemimizin sürekli iyileştirilmesini sağlamayı taahhüt ederiz.
+
+**İletişim:**
+
+Bilgi İşlem Daire Başkanlığı,  
+İTÜ Ayazağa Kampüsü,  
+Maslak-Sarıyer / İstanbul  
+0212 285 3930

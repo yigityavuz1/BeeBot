@@ -1,0 +1,17 @@
+**Title: Kayıtlı ve Mezun Öğrenci Verileri**
+
+**Akademik Yıl Verileri:**
+
+| Akademik Yıl | Kayıtlı Öğrenci | Mezun |
+|---------------|------------------|-------|
+| 2017-2018     | 240              | 48    |
+| 2018-2019     | 252              | 51    |
+| 2019-2020     | 272              | 43    |
+| 2020-2021     | 299              | 54    |
+| 2021-2022     | 329              | 46    |
+| 2022-2023     | 325              |       |
+
+**İletişim Bilgileri:**
+- **Telefon:** +90 (212) 285 60 40
+- **Fax:** +90 (212) 285 73 33
+- **Adres:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

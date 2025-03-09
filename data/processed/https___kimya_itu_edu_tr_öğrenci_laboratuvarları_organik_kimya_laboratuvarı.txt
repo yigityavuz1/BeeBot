@@ -1,0 +1,42 @@
+**Organik Kimya Laboratuvarı**
+
+**KIM 231L - Organik Kimya Lab. I**
+1. Kristallendirme, Erime Noktası, Süblimasyon
+2. Damıtma I
+3. Damıtma II
+4. Ekstraksiyon
+5. Kromatografi
+6. Cannizaro Reaksiyonu
+7. 1-Bromo Bütan Sentezi
+8. Benzil Fenil Eter Sentezi
+9. Polimerleşme (Polistiren sentezi) ve Benzoik asit sentezi
+10. Benzhidrol Sentezi
+
+**KIM 232L - Organik Kimya Lab. II**
+1. Etil asetat sentezi
+2. Claisen kondenzasyonu
+3. Heterosiklik bileşik sentezi
+4. Aldol kondenzasyonu + indirgeme tepkimesi
+5. Asetalleşme
+6. Oksiran sentezi
+7. Fenolün nitrolanması
+8. Friedel-Crafts tepkimesi
+9. Boyarmadde sentezi + aspirin sentezi
+10. Diels-Alder tepkimesi
+
+**KIM 104L - Organik Kimya Lab.**
+1. Crystallization, Melting Point, Sublimation
+2. Distillation I
+3. Distillation II
+4. Extraction I
+5. Extraction II
+6. Chromatography
+7. Cannizaro Reaction
+8. Aldol Condensation (Dibenzalacetone synthesis)
+9. Polymerization (Polystyrene synthesis)
+10. Esterification (Ethylacetate synthesis)
+
+**İletişim Bilgileri:**
+- **Telefon:** +90 212 285 3233
+- **Fax:** +90 212 285 6386
+- **Adres:** İTÜ Fen Edebiyat Fakültesi Kimya Bölümü, Maslak 34469, İstanbul

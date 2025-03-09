@@ -1,0 +1,90 @@
+**Title:** UUBF Hassas Görevler Çalışması
+
+**Birim:** Uçak ve Uzay Bilimleri Fakültesi  
+**Alt Birim:** Personel İşleri Birimi  
+
+**Hassas Görevler ve Önlemler:**
+
+1. **Görev:** Özlük dosyaları hazırlamak  
+   **Risk Düzeyi:** Yüksek  
+   **Sonuç:** İtibar kaybı, hak kaybı, güven kaybı  
+   **Önlemler:** Yasal süre içerisinde hizmet içi eğitim almak.
+
+2. **Görev:** Akademik ve idari kadrolar ile ilgili ilan çalışmaları  
+   **Risk Düzeyi:** Yüksek  
+   **Sonuç:** İtibar kaybı, hak kaybı, güven kaybı  
+   **Önlemler:** Takip işlemlerinin yasal süre içerisinde yapılması.
+
+3. **Görev:** Öğretim elemanlarının görev süresi uzatımı işlemleri  
+   **Risk Düzeyi:** Yüksek  
+   **Sonuç:** Hak kaybı  
+   **Önlemler:** Takip işlemlerinin yasal süre içerisinde yapılması.
+
+4. **Görev:** Akademik ve idari personel ayırma/ilişik kesme işlemleri  
+   **Risk Düzeyi:** Yüksek  
+   **Sonuç:** Hak kaybı, itibar kaybı, zaman kaybı  
+   **Önlemler:** Takip işlemlerinin yasal süre içerisinde yapılması.
+
+5. **Görev:** 1416 sayılı Kanun uyarınca yapılan işlemler  
+   **Risk Düzeyi:** Orta  
+   **Sonuç:** Hak kaybı  
+   **Önlemler:** Takip işlemlerinin yasal süre içerisinde yapılması.
+
+6. **Görev:** Askerlik Yazışmaları  
+   **Risk Düzeyi:** Orta  
+   **Sonuç:** Hak kaybı  
+   **Önlemler:** Takip işlemlerinin yasal süre içerisinde yapılması.
+
+7. **Görev:** SGK Tescil İşlemleri  
+   **Risk Düzeyi:** Yüksek  
+   **Sonuç:** Hak kaybı, kişi mağduriyeti  
+   **Önlemler:** Takip işlemlerinin yasal süre içerisinde yapılması.
+
+8. **Görev:** Büroya gelen evrakların genel takibini yapmak  
+   **Risk Düzeyi:** Orta  
+   **Sonuç:** Görevin aksaması, hak kaybı, kamu zararı  
+   **Önlemler:** Takip işlemlerinin yasal süre içerisinde yapılması.
+
+9. **Görev:** Personel İzin İşlemleri  
+   **Risk Düzeyi:** Düşük  
+   **Sonuç:** Hak kaybı, kişi mağduriyeti, kamu zararı  
+   **Önlemler:** Kanun, Yönetmelik ve mevzuata uygun işlem yapmak.
+
+10. **Görev:** Süreli yazıları takip etmek  
+    **Risk Düzeyi:** Yüksek  
+    **Sonuç:** İşlerin aksaması ve evrakların kaybolması  
+    **Önlemler:** Süreli yazılara zamanında cevap verilmesi.
+
+11. **Görev:** Yurtiçi ve Yurtdışı görevlendirme işlemleri  
+    **Risk Düzeyi:** Düşük  
+    **Sonuç:** Hak kaybı  
+    **Önlemler:** Takip işlemlerinin yasal süre içerisinde yapılması.
+
+12. **Görev:** Mal Bildirim Formları  
+    **Risk Düzeyi:** Düşük  
+    **Sonuç:** Cezai yaptırım, mevzuatın gerekliliklerinin yerine getirilmesi  
+    **Önlemler:** Takip işlemlerinin yasal süre içerisinde yapılması.
+
+13. **Görev:** Atama, terfi, intibak işlemleri  
+    **Risk Düzeyi:** Yüksek  
+    **Sonuç:** Hak kaybı, kişi mağduriyeti  
+    **Önlemler:** Takip işlemlerinin yasal süre içerisinde yapılması.
+
+14. **Görev:** İdari Personel Emeklilik İşlemleri  
+    **Risk Düzeyi:** Yüksek  
+    **Sonuç:** Hak kaybı, kişi mağduriyeti  
+    **Önlemler:** Takip işlemlerinin yasal süre içerisinde yapılması.
+
+15. **Görev:** Elektronik yazışma takibi  
+    **Risk Düzeyi:** Yüksek  
+    **Sonuç:** Evrak kaybı, görevlerin aksaması, kurumsallığın itibar kaybı  
+    **Önlemler:** EBYS yazışmaları ile ilgili bilgi akışının sağlanması.
+
+16. **Görev:** Yıl sonunda büro içerisinde gerekli düzenlemeyi sağlamak  
+    **Risk Düzeyi:** Yüksek  
+    **Sonuç:** Çalışma veriminin düşmesi  
+    **Önlemler:** Düzenli ve sistematik çalışmanın sağlanması.
+
+**Hazırlayan:** İlgili Alt Birim Amiri  
+**Onaylayan:** Prof. Dr. Metin Orhan KAYA, Dekan  
+**Fakülte Sekreteri:** Gülay BİRSEN

@@ -1,0 +1,44 @@
+**Title:** Sayılarla İTÜ DF
+
+**Lisans Programları ve Öğrenci Sayısı:**
+
+- **Deniz Ulaştırma İşletme Mühendisliği:** 689 (Erkek: 529, Kız: 60)
+- **Deniz Ulaştırma İşletme Müh. %100:** 27 (Erkek: 26, Kız: 1)
+- **Gemi Makineleri İşletme Mühendisliği:** 466 (Erkek: 448, Kız: 18)
+- **Gemi Makineleri İşletme Müh. %100:** 25 (Erkek: 25, Kız: 0)
+- **SUNY Deniz Ulaştırma İşletme Mühendisliği:** 23 (Erkek: 21, Kız: 2)
+- **SUNY Gemi Makineleri İşletme Mühendisliği:** 16 (Erkek: 16, Kız: 0)
+
+**Toplam Öğrenci Sayısı:** 1146 (Erkek: 1065, Kız: 81)
+
+*Yabancı Dil Eğitimi Gören Hazırlık Sınıfı Öğrenci Sayısı:* 246
+
+**Lisans Üstü Programları ve Öğrenci Sayısı:**
+
+- **Deniz Ulaştırma Mühendisliği:** 177 (Yüksek Lisans: 123, Doktora: 54)
+
+**Akademik Personel Sayısı:**
+
+- **Toplam:** 65
+  - Profesör: 5
+  - Doçent: 7
+  - Yrd. Doç.: 13
+  - Öğr. Gör. Dr.: 6
+  - Öğr. Gör.: 9
+  - Uzman: 4
+  - Okutman: 2
+  - Ar. Gör.: 9
+  - Ar. Gör. (ÖYP): 10
+
+**Gerçekleşen Denetim Sayısı:**
+
+- **Toplam:** 26
+  - İç Denetim: 16
+  - Dış Denetim: 9
+  - İsteğe Bağlı Denetim: 1
+
+**İletişim Bilgileri:**
+
+- **Telefon:** +90 (0216) 395 45 01
+- **Belge Geçer:** +90 (216) 395 45 00
+- **Adres:** İTÜ Tuzla Yerleşkesi, 34940, Tuzla, İstanbul

@@ -1,0 +1,53 @@
+**Title: İş Akış Süreçleri**
+
+**Bilgi İşlem Daire Başkanlığı**
+
+**Genel Süreçler**
+- SEK 08-04-01 Bilgi İşlem Altyapı Kurulum Süreci
+- SEK 08-04-02 Bilgi İşlem Altyapısı Sürekliliğinin Sağlanması Süreci
+- SEK 08-04-03 Bilgi İşlem Altyapısı Arıza ve Bakım Süreci
+- SEK 08-04-08 Öğrenci Bilgisayar Laboratuvarları Destek Hizmetleri Sunum Süreci
+
+**Ağ Hizmetleri Planlama Destek Grubu**
+- SEK 08-04-28 Ağ Cihazları OS Güncelleme
+- SEK 08-04-29 Bilgi İşlem Ağ Cihazları Yapılandırma Güncelleme
+- SEK 08-04-30 Ağ Hizmetleri Planlama ve Destek Altyapı Projelendirme
+- SEK 08-04-31 Bilgisayar Laboratuvarlarında Erişim Kısıtlama
+- SEK 08-04-33 Sunuculara Dışarıdan Erişim
+- SEK 08-04-34 Bilgi İşlem Ağ Hizmetleri Planlama ve Destek VPN Hizmeti Alma
+- SEK 08-04-35 YurtNet Kayıt Süreci
+
+**Sistem Destek Grubu**
+- SEK 08-04-15 Yazılım Alım Süreci
+- SEK 08-04-16 Donanım Alım Süreci
+- SEK 08-04-17 Yedekleme Süreci
+- SEK 08-04-18 Yedekten Veri Kurtarma Süreci
+- SEK 08-04-19 Yeni Servis Sunulma Süreci
+- SEK 08-04-20 Servis Kapatılma Süreci
+- SEK 08-04-21 Servis Güncelleme Süreci
+- SEK 08-04-22 Sunucu Montaj Süreci
+- SEK 08-04-23 Sunucu Sökülme Süreci
+- SEK 08-04-24 Hurdaya Çıkarma Süreci
+- SEK 08-04-25 Yarı Zamanlı Yetiştirme Süreci
+- SEK 08-04-26 Sistem İzleme Süreci
+- SEK 08-04-27 Kullanıcı Desteği Süreci
+
+**Yazılım Geliştirme Grubu**
+- SEK 08-04-04 Yazılım Talebi Değerlendirme Süreci
+- SEK 08-04-05 Yazılım Geliştirme Süreci
+- SEK 08-04-06 Yazılım Bakım Süreci
+
+**Yarı Zamanlı Çalışan Koordinatörlüğü**
+- SEK 08-04-09 Yarı Zamanlı Öğrenci İşe Alım Süreci
+- SEK 08-04-10 Asistan Öğrenci Çalışma Süreci
+- SEK 08-04-11 Nöbetçi Asistan Öğrenci Çalışma Süreci
+
+**Atölye Hizmetleri Birimi**
+- SEK 08-04-07 Bilgi İşlem Atölye Hizmeti Sunum Süreci
+
+**İletişim Bilgileri**
+- İTÜ Ayazağa Kampüsü, Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- Telefon: 0212 285 3930
+
+**Yardım Sistemi**
+- İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz.

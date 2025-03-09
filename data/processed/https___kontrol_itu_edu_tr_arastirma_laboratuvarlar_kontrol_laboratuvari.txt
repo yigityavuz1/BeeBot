@@ -1,0 +1,22 @@
+**Ölçme, Enstrümentasyon ve Kontrol Laboratuvarı**
+
+- **Oda numarası:** 4101 
+
+- **Laboratuvar çalışanları:** 
+  - Araş. Gör. Erhan Yumuk
+  - Araş. Gör. Çağrı Güzay 
+
+- **Genel bilgi:** 
+  Laboratuvarda, lisans öğrencilerine yönelik olarak hazırlanmış temel kontrol yöntemlerinin uygulandığı laboratuvar dersinde de kullanılan bazı sistemler bulunmaktadır. Öğrenciler burada bitirme ödevlerini ve lisansüstü tezleri için sistemler üzerinde çalışmalar yürütmektedirler.
+
+- **Laboratuvarda yapılan deneyler:**
+  - **Top-Çubuk Sistemi:** Uçakların dönüş açısını kontrol etme problemi.
+  - **Kağıt Sarma Sistemi:** Endüstriyel kağıt matbaasında kullanılan sistemlerin modeli.
+  - **Helikopter Sistemi:** Yükseliş ve seyir açılarını düzenlemek için kontrol sistemi tasarımı.
+  - **Aktif Süspansiyon Sistemi:** Otomotiv endüstrisindeki arabaların çeyrek modelinin laboratuvar ölçeğindeki temsilidir.
+  - **Dört Rotorlu Hava Aracı:** Otonom yönlendirme ve engellerden kaçma uygulamaları için model.
+
+- **İletişim Bilgileri:**
+  - **Telefon:** +90 212 285 35 75
+  - **Fax:** +90 212 285 29 20
+  - **Adres:** İTÜ Ayazağa Kampüsü, PK: 34469, Maslak / İstanbul, Türkiye

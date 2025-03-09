@@ -1,0 +1,29 @@
+**Title:** Staj Otomasyon Sistemi
+
+**KÜNYE:**
+- **İlk yayın tarihi:** Haziran 2011
+- **Aktif kullanıcı sayısı:** 21.000
+- **Web Adresi:** [Staj Otomasyon Sistemi Portal](https://portal.itu.edu.tr/apps/ogrenci/staj-islemleri/)
+
+**Açıklama:**
+Staj Otomasyon Sistemi, İTÜ Portal üzerinden sunulmaktadır. Öğrenciler, staj kayıtlarını yapabilir, düzenleyebilir ve onay için gönderebilirler. Ayrıca, staj öncesi zorunlu İş Güvenliği Sınavı için eğitime kaydolabilirler.
+
+**Öğrenciler için Özellikler:**
+- Staj bilgilerini kaydetme, düzenleme ve onay için gönderme
+- Önceki staj detaylarını görüntüleme
+- İş Güvenliği Sınavı için eğitim kaydı ve doküman erişimi
+- Staj sorumlusunun duyurularına ve belgelerine erişim
+
+**Fakülte Staj Sorumluları için Özellikler:**
+- Öğrencilerin staj kayıtlarını inceleme, onaylama ve silme
+- SGK işe giriş-çıkış ve tahakkuk işlemleri
+- Duyuru ekleme ve belge yükleme
+
+**İletişim:**
+- **Adres:** İTÜ Ayazağa Kampüsü, Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- **Telefon:** 0212 285 3930
+
+**Yardım Sistemi:**
+- [BİDB Yardım Al](http://yardim.itu.edu.tr/birim.aspx?birim=1&bilgi+islem+daire+baskanligi)
+
+**Not:** İTÜ Bilgi İşlem Daire Başkanlığı tarafından geliştirilmiştir. © 2023

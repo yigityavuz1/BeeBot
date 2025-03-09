@@ -1,0 +1,12 @@
+**Title: Dolapların Kullanımı**
+
+1. Kütüphanenin girişinde bulunan dolapları yalnızca İTÜ personeli ve öğrencileri kullanabilir.
+2. Anahtarlar Ödünç Verme Bankosundan İTÜ Kimlik Kartı ile 5 saatliğine ödünç verilir.
+3. Gecikme durumunda saat başı 0,50 kr gecikme ücreti alınır.
+4. Anahtarı kaybetme durumunda kaybetme bedeli 5 TL'dir.
+
+**İletişim Bilgileri:**
+- **Telefon:** (0212) 285 35 96 
+- **Santral:** (0212) 285 30 13
+- **Fax:** (212) 285 33 02
+- **Adres:** İstanbul Teknik Üniversitesi, Ayazağa Kampüsü, Maslak Sarıyer, İstanbul

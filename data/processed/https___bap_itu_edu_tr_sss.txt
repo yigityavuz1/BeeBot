@@ -1,0 +1,28 @@
+**Title:** SSS
+
+**Content:**
+
+Sık sorulan soruları aşağıdan inceleyebilirsiniz, yardım bileti oluşturmak isterseniz buradan bilet oluşturabilirsiniz.
+
+* **E-Fatura Bilgileri:** 
+  - 397 Vergi Usul Kanunu Genel Tebliği ile e-fatura uygulaması yürürlüğe konulmuştur.
+  - 5018 sayılı Kanun kapsamındaki kamu idareleri, Hazine ve Maliye Bakanlığının 04.06.2021 tarih ve 343930 sayılı yazısı ile 10.06.2021 tarihinden itibaren e-fatura uygulamasına dahil edilmiştir.
+  - E-fatura uygulamasına dahil olma zorunluluğu bulunan mükelleflerin, sattıkları mallar ve/veya ifa ettikleri hizmetler için düzenleyecekleri faturaları e-Fatura olarak düzenlemeleri ve almaları zorunludur.
+
+  **Belgeler:**
+  - [E-Fatura Düzenleme Kılavuzu](https://bap.itu.edu.tr/docs/librariesprovider95/default-document-library/e-fatura-duzenleme-klavuzu.pdf?sfvrsn=cee094d8_0)
+  - [İç Kontrol Birimi Yazısı](https://bap.itu.edu.tr/docs/librariesprovider95/default-document-library/ic-kontrol-birimi-yazisi.pdf?sfvrsn=cdc5c1e1_0)
+  - [Gelir İdaresi Başkanlığı Duyurusu](https://bap.itu.edu.tr/docs/librariesprovider95/default-document-library/gelir-idaresi-baskanligi-duyurusu.pdf?sfvrsn=9fde4f4d_0)
+  - [E-Fatura İtiraz Kılavuzu](https://bap.itu.edu.tr/docs/librariesprovider95/default-document-library/e-fatura-itiraz-klavuzu.pdf?sfvrsn=ba4b5f02_0)
+  - [E-Fatura Uygulama Bilgileri](https://bap.itu.edu.tr/docs/librariesprovider95/default-document-library/e-fatura-uygulama-bilgileri.pdf?sfvrsn=957b0651_0)
+
+* **KDV Tevfikatı:**
+  - 01.05.2012 tarihi itibarıyla yürürlüğe giren 117 nolu KDV Genel Tebliğine göre kamu kurumlarınca yapılan tüm hizmet alımlarında KDV Tevkifatı uygulaması zorunlu hale gelmiştir.
+
+  **Belgeler:**
+  - [KDV Tevkifatı](https://bap.itu.edu.tr/docs/librariesprovider95/default-document-library/kdv-tevkifati.ppt?sfvrsn=bca25b2e_0)
+  - [117 Nolu KDV Genel Tebliği](https://bap.itu.edu.tr/docs/librariesprovider95/default-document-library/117-nolu-kdv-genel-tebligi.pdf?sfvrsn=48953d33_0)
+
+**Contact Information:**
+İstanbul Teknik Üniversitesi  
+İTÜ Ayazağa Kampüsü, Rektörlük Binası, 5. Kat, Maslak, Sarıyer, İstanbul

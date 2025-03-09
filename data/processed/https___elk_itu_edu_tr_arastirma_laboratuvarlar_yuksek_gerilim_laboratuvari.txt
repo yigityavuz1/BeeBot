@@ -1,0 +1,38 @@
+**Yüksek Gerilim Laboratuvarı**
+
+İstanbul Teknik Üniversitesi (İTÜ) Yüksek Gerilim Laboratuvarları, Türkiye'nin en büyük ve Dünya'nın sayılı büyük üniversite yüksek gerilim laboratuvarlarından biridir. Laboratuvarın amacı:
+
+- Yüksek gerilim tekniği ile ilgili eğitim ve öğretim hizmetleri vermek,
+- Bilimsel araştırmalar yapmak,
+- Yüksek gerilim teknolojisini kullanan endüstrinin araştırma ve geliştirme çalışmalarına katkıda bulunmak,
+- Standart yüksek gerilim deneylerini gerçekleştirmek.
+
+**Laboratuvarlar:**
+
+1. **İTÜ Fuat Külünk Yüksek Gerilim Laboratuvarı**
+   - 420 kV'a kadar deney yapabilme kapasitesine sahip.
+   - 4000 m²'lik bir alanda üç bloktan oluşmaktadır:
+     - **A Blok:** Orta gerilim deney laboratuvarları ve çalışma ofisleri.
+     - **B Blok:** 420 kV'luk tesislere ilişkin yüksek gerilim deneyleri.
+     - **C Blok:** B blokundaki aygıtların besleme grupları ve panoları.
+
+2. **İTÜ Maslak Yüksek Gerilim Laboratuvarı**
+   - 1995 yılında kurulmuştur.
+   - İki ayrı deney odasından oluşmaktadır:
+     - 10 m x 18 m x 9 m
+     - 7 m x 18 m x 9 m
+
+**Akademik Kadro:**
+
+- Prof. Dr. Emel ÖNAL (Ph.D. İTÜ)
+  - Telefon: 0212 285 60 17
+  - E-posta: eonal@itu.edu.tr
+
+- Doç. Dr. Suat İLHAN (Ph.D. İTÜ)
+  - Telefon: 0212 285 67 80
+  - E-posta: ilhansu@itu.edu.tr
+
+- Araş. Gör. İdris Özdemir (M.Sc. İTÜ)
+  - E-posta: ozdemiridr20@itu.edu.tr
+
+Teşekkür: Bu metnin hazırlanmasında emeği geçen Prof. Dr. Özcan Kalenderli’ye teşekkür ederiz.

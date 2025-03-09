@@ -1,0 +1,35 @@
+**Title: İnternet**
+
+**KÜNYE**
+- İlk Yayın Tarihi: 1996
+- Anlık Aktif Kullanıcı Sayısı: 35.000
+- Erişim Hızı: 5 Gbps
+
+**İstanbul Teknik Üniversitesi'nde internet bağlantısının gelişim süreci:**
+- 1986’da TÜVEKA'ya bağlanmasıyla başlamıştır.
+- 12 Şubat 1987 tarihinde EARN/BITNET ağına dâhil olmuştur.
+- ODTÜ üzerinden TCP/IP protokolü ile ABD'deki NSFNet'e dahil olmuştur.
+- İTÜ/NET'in internet bağlantısı Şubat 1996'da sağlanmıştır.
+- 2002 yılında internet çıkış hızı 100 Mbps seviyelerine ulaşmıştır.
+- Günümüzde İTÜ/NET’in internet çıkışı 5 Gbps'dir.
+
+**İTÜ-BİDB, İTÜ/NET'e bağlanan kullanıcıların erişim hizmetleri:**
+- İnternet'teki web sitelerine erişim
+- E-postaların iletimi
+- İTÜ/NET'teki web ve diğer hizmetlere erişim
+
+**İTÜ/NET omurgasını destekleyen alt yapı hizmetleri:**
+- Web Hizmeti
+- E-Posta Hizmeti
+- Listeci Hizmeti
+- DNS Hizmeti
+- İçerik Saklayıcı
+- DHCP Hizmeti
+
+**İletişim:**
+- İTÜ Ayazağa Kampüsü
+- Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- Telefon: 0212 285 3930
+
+**BİDB YARDIM:**
+- İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz.

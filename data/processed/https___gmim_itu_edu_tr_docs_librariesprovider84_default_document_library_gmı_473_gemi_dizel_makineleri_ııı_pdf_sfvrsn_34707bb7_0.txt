@@ -1,0 +1,43 @@
+**Title:** GMI 473 Gemi Dizel Makineleri III
+
+**Course Name:** Marine Diesel Engines III  
+**Course Code:** GMI 473  
+**Semester:** 7  
+**Local Credits:** 1.5  
+**ECTS Credits:** 4  
+**Course Implementation (Hours/Week):** 1 (Theoretical), 1 (Tutorial)  
+**Department/Program:** Marine Engineering  
+**Course Type:** Compulsory  
+**Course Language:** Turkish  
+**Course Prerequisites:** GMI 39 3E  
+
+**Course Description:**  
+Theoretical and actual cycles, heat calculations, combustion and combustion efficiency, mean pressure, indicated power, brake power, power of mechanical losses, efficiencies (theoretical, thermal, charge, volumetric), fuel consumption, engine performance diagrams.
+
+**Course Objectives:**  
+1. To teach the design principles of marine diesel engines.  
+2. To teach efficient operation of marine diesel engines.
+
+**Course Learning Outcomes:**  
+Students who pass the course will be able to:  
+I. Perform theoretical calculations of marine diesel engines.  
+II. Perform calculations of realistic marine diesel engine cycles.  
+III. Design realistic dimensions of marine diesel engines.  
+IV. Perform the design calculation of marine diesel engines.
+
+**Course Plan:**  
+1. Theoretical cycles  
+2. Real cycles: Computation of cycle parameters  
+3. Real cycles: Combustion and combustion products  
+4. Real cycles: Mean effective pressures and power calculations  
+5. Design calculations: Main dimensions and performance diagrams  
+6. Design calculations: Types of efficiencies and calculations  
+7. Design calculations: Fuel consumption calculations  
+8. Design calculations: Heat balance calculations  
+
+**Textbook:**  
+Fahrettin Küçükşahin, Dizel Motorlarının Teorisi, Birsen Yayınevi, İstanbul 2008.
+
+**Assessment Criteria:**  
+- Midterm Exams: 60%  
+- Final Exam: 40%

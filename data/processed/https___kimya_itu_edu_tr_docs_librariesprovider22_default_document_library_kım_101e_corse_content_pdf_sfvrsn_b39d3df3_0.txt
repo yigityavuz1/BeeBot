@@ -1,0 +1,39 @@
+**KIM101E: GENERAL CHEMISTRY COURSE**
+
+## CHAPTER and TOPIC CONTENTS 
+
+**Chp:1-2-8**  
+- Electronic Structure of Atom: Atoms and the Atomic Theory, Structure of Atoms, Dalton’s Atom Model, Electromagnetic Radiation, Atomic Spectra, Hydrogen Atom (The Bohr Atom), Quantum Theory, Quantum Numbers, Energy Levels and Electron Orbitals, Electron, Pauli Principle, Electron Configurations.
+
+**Chp:9 ve 3**  
+- Periodic Table and Chemical Compounds: Periodic Table, Classifying the Elements, Oxidation states of elements, Sizes of Atoms and Ions, Electronegativity, Electron Affinity. Types of Chemical Compounds, Formulas of Chemical Compounds, The Mole Concept, Composition of Chemical Compounds, Oxidation States.
+
+**Chp: 4 ve 5**  
+- Chemical Reactions and Reactions in Aqueous Solutions: Balancing Chemical Equations, Chemical Equations and Stoichiometry, Molarity, Dilution of Solutions, Limiting Reactant, Precipitation Reactions, Acid-Base Reactions, Oxidation-Reduction Reactions, Stoichiometry of Reactions in Aqueous Solutions.
+
+**Chp:6**  
+- Gases: Introduction, Gas Pressure, Simple Gas Laws, Ideal Gas Equation, Applications of the Ideal Gas Law, Kinetic-Molecular Theory of Gases, Nonideal Gases.
+
+**Chp:7**  
+- Thermochemistry: Heat, Heats of Reaction, First Law of Thermodynamics, Hess's Law, Standard Enthalpy of Formation.
+
+**Chp:10**  
+- Chemical Bonding -I: Classification of Bonds, Ionic Bonding, Covalent Bonding, Writing Lewis Structures, Resonance, Exceptions to the Octet Rule.
+
+**Chp:11**  
+- Chemical Bonding -II: Shapes of Molecules, Hybridization of Atomic Orbitals, Molecular Orbital Theory, Metallic Bonding.
+
+**Chp:12**  
+- Liquids, Solids, and Intermolecular Forces: Intermolecular Forces, Vaporization of Liquids, Phase Diagrams, Hydrogen Bonding, Energy Changes in Ionic Crystal Formation.
+
+**Chp:13**  
+- Solutions and Their Physical Properties: Types of Solutions, Solution Concentration, Effect of Pressure and Temperature on Solubility, Osmotic Pressure, Freezing-Point Depression and Boiling-Point Elevation.
+
+**Chp:15**  
+- Chemical Equilibrium: Dynamic Equilibrium, Equilibrium Constant, Le Chatelier Principle.
+
+**Chp:16**  
+- Acids and Bases: Arrhenius Theory, Brønsted-Lowry Theory, pH Scale, Strong and Weak Acids and Bases, Equilibrium Calculations.
+
+**Chp:20**  
+- Thermodynamics: Spontaneity, Entropy, Second Law of Thermodynamics, Free Energy and Equilibrium.

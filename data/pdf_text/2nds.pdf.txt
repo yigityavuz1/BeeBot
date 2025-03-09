@@ -1,0 +1,62 @@
+**SÜREÇ EL KİTABI - YÜKSEK ÖĞRENİM (ÖĞRENCİ İŞLERİ) SÜREÇLERİ**
+
+**Sürecin Tanımı:**  
+2. Nüsha Diploma (DUPLICAT) Süreci
+
+**Süreç Sahibi:**  
+Öğrenci İşleri Daire Başkanı
+
+**Sürecin Amacı:**  
+2. Nüsha Diploma (DUPLICAT) hazırlanması
+
+**Süreç Girdileri:**  
+- Talep yazısı  
+- Gazete İlanı  
+- Banka Dekontu  
+- Nüfus Cüzdanı Örneğinin Fotokopisi  
+- Üniversite Yönetim Kurulu Kararı  
+
+**Süreç Çıktıları:**  
+2. Nüsha Diploma (DUPLICAT)
+
+**Süreç Performans Göstergeleri:**  
+2. Nüsha Diploma (DUPLICAT) en kısa sürede hazırlanıp sahibine teslim edilmesi
+
+**İlgili Kanun/Standart Maddeleri:**  
+- 2547 Sayılı Kanun
+
+**Kullanılan Dokümanlar:**  
+- Talep Yazısı
+
+**Kullanılan Kaynaklar:**  
+- Bilgisayar, Bilgisayar Programları
+
+**Doküman Akış Sorumluları:**  
+- Mezun öğrenci  
+- ÖİDB Memur  
+- ÖİDB Daire Başkanı  
+- Üniversite Yönetim Kurulu  
+- Rektör  
+- Fakülte Dekanı  
+- TMDK Müdürü  
+- ÖİDB Başkanı  
+
+**Süreç Adımları:**
+
+1. **Mezun Öğrencinin Diplomasını Kaybetmesi:**  
+   Mezun öğrenci, gerekli belgeler (Gazete İlanı, Kaybettiğine Dair Dilekçe, Banka Dekontu, Nüfus Cüzdanı Örneğinin Fotokopisi) ile ÖİDB'ye başvurur.
+
+2. **Dilekçenin İşlenmesi:**  
+   ÖİDB, dilekçenin üzerine gerekli açıklamaları yaparak Üniversite Yönetim Kurulu'na sunar.
+
+3. **Üniversite Yönetim Kurulu Kararı:**  
+   Karar doğrultusunda 2. Nüsha Diploma (DUPLICAT) basılır ve ilgili birimlere imzaya sunulur.
+
+4. **Diplomaların Mühürlenmesi ve Arşivlenmesi:**  
+   Diplomalar mühürlenir, bilgisayara taranarak arşivlenir.
+
+5. **İmza Defterlerinin Oluşturulması:**  
+   Eski imza defterlerine 2. Nüsha Diploma (DUPLICAT) verileri işlenir ve Diploma Takip Programına gerekli açıklamalar yapılır.
+
+6. **Kimlik Kontrolü ve Teslimat:**  
+   Mezunun veya vekalet verilen kişinin kimlik kontrolü yapılır. İmza defteri mezun veya vekalet verilen kişi tarafından imzalanır. Diploma mezunun kendisine veya vekaletname verdiği kişiye teslim edilir.

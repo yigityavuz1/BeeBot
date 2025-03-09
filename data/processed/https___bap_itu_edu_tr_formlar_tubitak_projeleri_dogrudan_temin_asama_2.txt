@@ -1,0 +1,15 @@
+**Title:** 2. Aşama (Ödeme İçin Gerekli Belgeler)
+
+**Fatura:** Faturalar proje numarası belirtilerek kurum adına düzenlenir (**"İTÜ REKTÖRLÜĞÜ .........NO'LU TÜBİTAK PROJESİ Ayazağa Yerleşkesi, Sarıyer/İSTANBUL"**). Faturada vergi dairesi kısmına **"SARIYER VERGİ DAİRESİ"** ve vergi numarası kısmına **"481 054 9377"** yazılmalıdır. Fatura ve benzeri belgeler yürütücü ve/veya varsa araştırmacı ve/veya satın alma işlemini yürüten görevli tarafından **"Piyasa fiyat araştırması yapılmıştır ve belirtilen taşınır mallar muayene ve kabulü yapılarak tam ve kusursuz teslim alınmıştır.”** şerhi düşülerek imzalanır.
+
+**Makina Teçhizat Alımları:** Fatura aslı ve Proje Yürütücüsünün bağlı olduğu fakülte/enstitü ayniyat memuruna düzenletilen Taşınır İşlem Fişi BAP Birimine getirilir.
+
+**Sarf Malzemesi Alımları:** Fatura aslı BAP Birimine getirilir.
+
+**Hizmet Alımları:** Fatura aslı BAP Birimine getirilir. Kamu kurumlarına kesilen tüm hizmet faturalarında KDV Tevkifatı uygulaması zorunludur. Hizmet alımlarında hakediş raporu doldurulması gerekmektedir. Hakediş raporuna firma kaşe ve imzası, proje yürütücüsü imzası ve piyasa fiyat araştırmacıları veya uzman kadrolu kişiler imza atmalıdır.
+
+**MUAYENE RAPORU:** Muayene raporu tarihi fatura tarihi ile (veya varsa sevk irsaliyesi tarihi ile) aynı olmalıdır.
+
+**ÖNEMLİ NOT:** Tüm alımlarda faturanın fakülte/enstitü ayniyat saymanına gösterilmesi ve taşınır işlem fişi düzenlenmesine gerek olmayanlar için faturanın arkasının ilgili ayniyat saymanına onaylatılması zorunludur. Ayrıca tüm mal ve hizmet alımlarında ödeme yapılacak firmanın İnternet Vergi Dairesi sisteminden alacağı en fazla 10 gün öncesine ait "Vergi Borcu" durumunu gösterir belge diğer belgelerle birlikte BAP birimine getirilecektir.
+
+Muhasebe İşlem Fişi BAP Birimi tarafından düzenlenecektir.

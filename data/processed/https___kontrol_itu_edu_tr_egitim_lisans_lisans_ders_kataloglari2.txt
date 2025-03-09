@@ -1,0 +1,54 @@
+**Title:** Lisans Ders Katalogları
+
+**Kontrol ve Otomasyon Mühendisliği - İletişim Bilgileri:**
+- **Telefon:** 0212 285 35 75
+- **Fax:** 0212 285 29 20
+- **Adres:** İTÜ Ayazağa Kampüsü, PK: 34469, Maslak / İstanbul
+
+**KON Kodlu Dersler:**
+1. KON 101-101E - Kontrol ve Otomasyon Müh. Etik
+2. KON 110E - Introduction to Scientific and Engineering Computing
+3. KON 111 - Kontrol ve Otomasyon Müh. Giriş
+4. KON 201-201E - Diferansiyel Denklemler
+5. KON 214-214E - Sistem Modelleme ve Simülasyonu
+6. KON 218-218E - Ölçme Tekniği ve Algılayıcılar
+7. KON 224-224E - Ölçme ve Enstrümantasyon
+8. KON 305E - Programming Techniques in Control
+9. KON 306-306E - Bilgisayar Kontrollü Sistemler
+10. KON 309E - Microcontroller Systems
+11. KON 313-313E - Geribeslemeli Kontrol Sistemleri
+12. KON 314-314E - Kontrol Sistem Tasarımı
+13. KON 315-315E - Elektronik Enstrümantasyon
+14. KON 317-317E - Otomatik Kontrol Sistemleri
+15. KON 318E - Introduction to Robotics
+16. KON 322-322E - Industrial Automated Systems
+17. KON 324E - Sensing and Transducing Systems in Control
+18. KON 405E - State Space Methods in Control Systems
+19. KON 411 - Control Lab
+20. KON 413 - Endüstriyel Otomasyon
+21. KON 417-417E - Servo Motorlar
+22. KON 419E - Control Systems Design Project
+23. KON 421-421E - Robot Kontrolü
+24. KON 422-422E - Elektrikli Ulaşım Sistemleri
+25. KON 424-424E - Biyolojik Sistemlerin Modellenmesi ve Kontrolü
+26. KON 425E - Process Control
+27. KON 426E - Intelligent Control Systems
+28. KON 428-428E - Introduction to Optimal Control
+29. KON 435E - Industrial Data Communications
+30. KON 436E - Introduction to Nonlinear Control Systems
+31. KON 437-437E - Hareket Kontrol Sistemleri
+32. KON 4901-4901E - Kontrol ve Otomasyon Müh. Tasarımı I
+33. KON 4902-4902E - Kontrol ve Otomasyon Müh. Tasarımı II
+
+**EEF Kodlu Dersler:**
+1. EEF 205 - Lojik Tasarıma Giriş
+2. EEF 206 - İşaret İşleme ve Lineer Sistemler
+3. EEF 210 - Diferansiyel Denklemler
+4. EEF 211 - Elektrik Devre Temelleri
+5. EEF 212 - Elektromanyetik Teori-I
+6. EEF 221 - Elektrik Devre Temelleri Lab
+7. EEF 232 - Devre ve Sistem Analizi
+8. EEF 262 - Elektroniğin Temelleri
+9. EEF 311 - Numerical Methods with Python
+10. EEF 28E - Linear Algebra
+11. EEF 271E - Probability and Statistics

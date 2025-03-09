@@ -1,0 +1,103 @@
+**Title:** RWTH Aachen
+
+**Courses Offered:**
+
+1. **Computational Fluid Dynamics I**
+   - ITU Code: MT
+   - Year: 6. YY MT (2022)
+
+2. **Boundary-Layer Theory**
+   - ITU Code: TM
+   - Year: 7. YY TM (2022)
+
+3. **Mechanics of Composite Materials**
+   - ITU Code: TM
+   - Year: 8. YY TM (2022)
+
+4. **Finite Element Methods**
+   - ITU Code: TM
+   - Year: 6. YY TM (2022)
+
+5. **Strategic Technology Management**
+   - ITU Code: ITB
+   - Year: 8. YY ITB (2022)
+
+6. **Gasdynamics**
+   - ITU Code: UZB362E
+   - Course Name: Compressible Aerodynamics (2022)
+
+7. **Space Propulsion**
+   - ITU Code: UZB441E
+   - Course Name: Rocket Propulsion (2022)
+
+8. **Leichtbau**
+   - ITU Code: UZB331
+   - Course Name: Hava Uzay Yapıları (2021)
+
+9. **Strömungsmechanik II**
+   - ITU Code: AKM215
+   - Course Name: Akışkanlar Mekaniği 2 (2021)
+
+10. **Grundlagen der Flugmechanik**
+    - ITU Code: UCK322E
+    - Course Name: Flight Mechanics (2021)
+
+11. **Gas Dynamic**
+    - ITU Code: AKM214E
+    - Course Name: Fluid Mechanics I (2021)
+
+12. **Flugdynamik**
+    - ITU Code: UCK441E
+    - Course Name: Flight Stability and Control (2021)
+
+13. **Wärme- und Stoffübertragung I**
+    - ITU Code: UZB317
+    - Course Name: Isı Geçişi (2021)
+
+14. **Mikroökonomie I**
+    - ITU Code: 8. YY ITB (2021)
+
+15. **Luftverkehrssysteme**
+    - ITU Code: MT
+    - Year: 8. YY.MT (2021)
+
+16. **Informatik im Maschinenbau**
+    - ITU Code: MT
+    - Year: 7. YY.MT (2021)
+
+17. **Air Transportation Systems I**
+    - ITU Code: UCK457E
+    - Course Name: Airline Management (2021)
+
+18. **Mechanics I**
+    - ITU Code: MUK203/MUK203E
+    - Course Name: Mukavemet I (2021)
+
+19. **Mechanics II**
+    - ITU Code: MUK204/MUK204E
+    - Course Name: Mukavemet II (2021)
+
+20. **Numerical Analysis**
+    - ITU Code: MAT202E
+    - Course Name: Numerical Methods (2021)
+
+21. **Physik II**
+    - ITU Code: FIZ102E
+    - Course Name: Physics II
+
+22. **Space Propulsion I**
+    - ITU Code: UZB441E
+    - Course Name: Rocket Propulsion (2021)
+
+23. **Messtechnik Labor**
+    - ITU Code: UZB341
+    - Course Name: Ölçme Tekniği (2021)
+
+24. **Aircraft Propulsion Engines I**
+    - ITU Code: UCK421E
+    - Course Name: Jet Propulsion Principles (2021)
+
+**Contact Information:**
+- **Phone:** +90 (212) 285 31 01
+- **Fax:** +90 (212) 285 31 39
+- **Address:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

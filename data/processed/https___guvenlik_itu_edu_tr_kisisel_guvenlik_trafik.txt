@@ -1,0 +1,56 @@
+**Title: Trafik**
+
+**Uyulması Gereken Kurallar:**
+
+1. Servis araçlarının sürücüleri, plakalarını Elektronik Kart İşlem Merkezine kaydettirecek ve giriş çıkışlar otomatik plaka tanıma sistemi ile yapılacaktır.
+2. Özel araçla girecek kişilerin, Kart İşlem Merkezine başvurarak araçlarını sisteme tanıtması zorunludur.
+3. Araç tanıtımı her araç için ayrı yapılmalıdır.
+4. Tanıtılan araçlarda sürücü ile birlikte gelenlerin kimlik göstermesi gerekmektedir.
+5. Birden fazla araç kullananlar her araç için ayrı tanıtım yaptırmalıdır.
+6. Ziyaretçilerin otopark fişi alması ve misafir araç giriş kaydı yaptırması gerekmektedir.
+7. Yerleşke içerisinde sadece belirli kişilerin otoparklardan yararlanma hakkı vardır.
+8. İTÜ mezunları ve emeklileri günübirlik araç park edebilir, ancak otoparka park ederek yerleşkeden ayrılamazlar.
+
+**Seyir ve Park Kuralları:**
+
+- Yayaların geçiş önceliği vardır.
+- Hız limitlerine uyulmalıdır.
+- Tehlikeli araç kullanmak yasaktır.
+- Klakson çalmak, yüksek sesle müzik dinlemek ve araçtan çöp atmak yasaktır.
+- Araçlar yaya geçitlerinin gerisinde durmalı ve yayalara yol vermelidir.
+- Alkollü araç kullanmak yasaktır.
+- Otoparklar, akademik-idari personel, öğrenci ve ziyaretçi olarak sınıflandırılmıştır.
+- Motosikletler araç otoparklarına, bisikletler ise özel yerlere park edilmelidir.
+- Araç sahipleri, otoparkta düzeni sağlamak için çizgilere uygun park etmelidir.
+
+**Kural İhlali Halinde Uygulanacak Yaptırımlar:**
+
+- Kurallara aykırı hareket eden sürücüler için ceza puan sistemi uygulanır.
+- İhlal durumunda sürücüler, Trafik Şefliğine davet edilir ve ceza puanı kaydedilir.
+- 100 ceza puanı limitini dolduran sürücülerin araç tanıtım etiketi iptal edilir.
+- Sürücü belgesi olmadan araç kullananların araçları yerleşke dışına çıkarılır.
+
+**Disiplin Soruşturması Gerektirecek Durumlar:**
+
+- Alkollü araç kullanmak.
+- Tehlike oluşturacak şekilde araç kullanmak.
+- Trafik veya güvenlik görevlilerinin uyarılarına uymamak.
+- Araç tanıtım etiketi sahtekarlığı yapmak.
+
+**Trafik Cezası Puan Tablosu:**
+
+1. Araç giriş tanıtım etiketini bulundurmamak: 20 puan
+2. Araç yıkamak: 20 puan
+3. Otoparkta yanlış park etmek: 25 puan
+4. Diğer trafik kurallarına uymamak: 25 puan
+5. Güvenlik personelinin uyarılarına uymamak: 25 puan
+6. Klakson çalmak, yüksek sesle müzik dinlemek: 25 puan
+7. Tehlikeli şekilde araç kullanmak: 50 puan
+8. Hız sınırını aşmak: 50 puan
+
+**İletişim:**
+- Tel: (549) 180 81 05
+- E-Posta: guvenlik@itu.edu.tr
+
+**Acil Durum:**
+- İTÜMOBİL uygulaması üzerinden acil çağrı yaparak güvenlik devriyesi çağırabilirsiniz.

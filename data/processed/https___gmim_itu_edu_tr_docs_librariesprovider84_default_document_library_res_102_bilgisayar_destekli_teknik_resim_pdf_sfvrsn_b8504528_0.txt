@@ -1,0 +1,61 @@
+**Title:** RES 102 Bilgisayar Destekli Teknik Resim
+
+**Published Time:** 2022-05-14
+
+**Course Name:** Computer Aided Technical Drawing
+
+**Course Code:** RES 102  
+**Semester:** 1  
+**Local Credits:** 2.5  
+**ECTS Credits:** 4  
+**Course Implementation (Hours/Week):** 1 Theoretical, 3 Tutorial
+
+**Department/Program:** Marine Engineering  
+**Course Type:** Compulsory  
+**Course Language:** Turkish  
+**Course Prerequisites:** None  
+
+**Course Description:**  
+Introduction to technical drawing, sectional views, fundamentals of dimensions and tolerances, standards of machine elements, introduction to computer-aided technical drawing, basic view drawing, geometrical drawings, viewing draw, techniques of dimensions, sectional drawing, drawing of standard machine elements, assembly modelling and assembling parts.
+
+**Course Objectives:**  
+1. To provide knowledge of basic technical drawing.  
+2. To teach technical drawing using a computer.  
+3. To draw standard machine elements using computer-aided techniques.
+
+**Course Learning Outcomes:**  
+Students who pass the course will:  
+I. Apply basic technical drawing skills.  
+II. Draw projections, viewings, and sectional views.  
+III. Understand the fundamentals of dimensions and tolerances.  
+IV. Read and understand standard machine elements drawings.  
+V. Draw course applications using computer-aided drawing software.
+
+**Course Plan:**  
+- **Week 1:** Fundamentals of technical drawing, lines, legendry  
+- **Week 2-4:** Projections and viewing draw  
+- **Week 5-6:** Dimensions, surface treatment, and tolerances  
+- **Week 7:** Illustration of standard machine elements  
+- **Week 8:** Introduction to computer-aided design and drawing functions  
+- **Week 9-14:** Applications of computer-aided basic technical drawing  
+
+**Relationship of the Course to Marine Engineering Student Outcomes:**  
+1. Ability to identify, formulate, and solve complex engineering problems.  
+2. Ability to apply engineering design considering public health, safety, and welfare.  
+3. Ability to communicate effectively with a range of audiences.  
+4. Ability to recognize ethical and professional responsibilities in engineering.  
+5. Ability to function effectively on a team.  
+6. Ability to develop and conduct appropriate experimentation and analyze data.  
+7. Ability to acquire and apply new knowledge as needed.  
+8. Ability to effectively and safely operate and maintain marine engines and systems.
+
+**Textbook:**  
+Y. Durmuşoğlu - A. S. Emir, STCW 95’e Uygun Teknik Resim I, İTÜ Denizcilik Fakültesi Yayınları, 2004.
+
+**Other References:**  
+S. Trymbaka Murthy, Computer Aided Engineering Drawing, I K International Publishing House Pvt. Ltd, 2011.
+
+**Assessment Criteria:**  
+- Midterm Exams: 20%  
+- Homework: 20% (5 assignments)  
+- Final Exam: 60%

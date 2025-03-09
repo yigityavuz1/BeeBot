@@ -1,0 +1,51 @@
+**Title:** Analitik Kimya Laboratuvarı
+
+**Laboratory Information:**
+
+- **KIM 211L - Analitik Kimya Lab:**
+  1. Katyonların Sistematik Analizi
+  2. Anyonların Sistematik Analizi
+  3. Asidimetri
+  4. Alkalimetri
+  5. Manganometri
+  6. İyodometri
+  7. Gravimetri-1
+  8. Gravimetri-2
+  9. Kompleksometri
+  10. Arjantometri
+  11. Uygulama Deneyleri
+
+- **KIM 212L - Enstrumental Analitik Yön.Lab:**
+  1. UV-GB Moleküler Absorpsiyon Spektroskopisi
+  2. Türbidimetri
+  3. IR Spektroskopisi
+  4. Refraktometri
+  5. Atomik Absorpsiyon ve Emisyon Spektroskopisi
+  6. Yüksek Performanslı Sıvı Kromatografisi (HPLC)
+  7. İnce Tabaka Kromatografisi (TLC)
+  8. Gaz Kromatografisi
+  9. Potansiyometrik Titrasyonlar
+  10. Kondüktometri
+  11. Agoroz Jel Elektroforez
+  12. Direkt Potansiyometri
+
+- **KIM 206L - Analitik Kimya & Enstrumental Analiz Lab:**
+  1. Katyonların Sistematik Analizi
+  2. Anyonların Sistematik Analizi
+  3. Asidimetri
+  4. Alkalimetri
+  5. Manganometri
+  6. İyodometri
+  7. Gravimetri
+  8. Kompleksometri
+  9. Enstrumental Analiz-1
+  10. Enstrumental Analiz-2
+  11. Enstrumental Analiz-3
+  12. Enstrumental Analiz-4
+
+**Contact Information:**
+- **Phone:** +90 212 285 3233
+- **Fax:** +90 212 285 6386
+- **Address:** İTÜ Fen Edebiyat Fakültesi Kimya Bölümü, Maslak 34469, İstanbul
+
+**Department:** İTÜ Fen Edebiyat Fakültesi Kimya Bölümü, Ayazağa Kampüsü, İstanbul

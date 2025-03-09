@@ -1,0 +1,84 @@
+**Ders Planı**
+
+**1. Yarıyıl**
+- KIM 101E: General Chemistry I, 3 Kredi
+- KIM 101EL: General Chemistry I Lab, 1 Kredi
+- PET 113E: Introduction to Petroleum & Natural Gas Engineering, 1 Kredi
+- MAT 103E: Mathematics I, 4 Kredi
+- FIZ 101E: Physics I, 3 Kredi
+- FIZ 101EL: Physics I Laboratory, 1 Kredi
+- RES 107E: Technical Drawing, 2 Kredi
+- DAN 101: Academic Advising, 1 Kredi
+- ING 112: English I, 3 Kredi
+
+**2. Yarıyıl**
+- KIM 102E: General Chemistry II, 3 Kredi
+- KIM 102EL: General Chemistry II Lab, 1 Kredi
+- MAT 104E: Mathematics II, 4 Kredi
+- FIZ 102E: Physics II, 3 Kredi
+- FIZ 102EL: Physics II Laboratory, 1 Kredi
+- BIL 100E: Introduction to Programming Language (PYTHON), 2 Kredi
+- ETK 101E: Engineering Ethics, 1 Kredi
+- ING 201: English III, 3 Kredi
+- PET 112: Physical Education, 0 Kredi
+
+**3. Yarıyıl**
+- MAT 210E: Engineering Mathematics, 4 Kredi
+- EKO 201E: Economics, 3 Kredi
+- STA 204E: Statics & Strength of Materials, 3 Kredi
+- JEO 112E: General Geology, 3 Kredi
+- PET 211E: Petroleum Fluid Properties, 3 Kredi
+- TUR 101: Turkish Language I, 2 Kredi
+- MAT 271E: Probability and Statistics, 3 Kredi
+
+**4. Yarıyıl**
+- AKM 204E: Fluid Mechanics, 3 Kredi
+- PET 212E: Rock Properties, 3 Kredi
+- MAT 202E: Numerical Methods, 3 Kredi
+- TUR 102: Turkish Language II, 2 Kredi
+- ELK 221E: Fundamentals of Electrical Engineering, 3 Kredi
+- 4th Semester Elective Course (TB), 3 Kredi
+- 4th Semester Elective Course (TM), 3 Kredi
+
+**5. Yarıyıl**
+- ATA 101: Atatürk's Principles & History of Revolution I, 2 Kredi
+- PET 342E: Reservoir Engineering, 3 Kredi
+- PET 335E: Well Logging I, 3 Kredi
+- JEO 445E: Petroleum and Natural Gas Geology, 3 Kredi
+- TER 201E: Thermodynamics, 3 Kredi
+- PET 309E: Fluid and Rock Properties Lab, 1 Kredi
+- PET 333E: Drilling Engineering, 3 Kredi
+
+**6. Yarıyıl**
+- ATA 102: Atatürk's Principles & History of Revolution II, 2 Kredi
+- MAL 201E: Materials Science, 3 Kredi
+- MAK 311E: Heat Transfer, 3 Kredi
+- PET 332E: Production Engineering & Surface Facilities, 3 Kredi
+- PET 310E: Drilling & Completion Fluids Lab, 1 Kredi
+- PET 417E: Flow Through Porous Media, 3 Kredi
+- DAN 301: Career Counseling, 1 Kredi
+- 6th Semester Elective Course (MT), 3 Kredi
+
+**7. Yarıyıl**
+- PET 412E: Petroleum & Natural Gas Economics, 3 Kredi
+- PET 4901E: Petroleum & Natural Gas Engineering Design I, 4 Kredi
+- PET 409E: Well Design and Completions, 3 Kredi
+- 7th Semester Elective Course I (MT), 3 Kredi
+- 7th Semester Elective Course II (MT), 3 Kredi
+- 7th Semester Elective Course (ITB), 3 Kredi
+
+**8. Yarıyıl**
+- PET 4902E: Petroleum & Natural Gas Engineering Design II, 4 Kredi
+- PET 431E: Natural Gas Systems Engineering, 3 Kredi
+- PET 407E: Geothermal Engineering, 3 Kredi
+- 8th Semester Elective Course (MT), 3 Kredi
+- 8th Semester Elective Course (SNT), 3 Kredi
+
+**TOPLAM KREDİ:** 150  
+**TOPLAM AKTS:** 240.5  
+**Z:** Zorunlu, **S:** Seçmeli
+
+**İletişim Bilgileri:**
+- Telefon: 0212 285 62 70
+- Fax: 0212 285 62 63
+- Adres: İTÜ Ayazağa Yerleşkesi, Maden Fakültesi, 34469 Maslak/İstanbul, Türkiye

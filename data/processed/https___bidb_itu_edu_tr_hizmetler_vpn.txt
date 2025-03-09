@@ -1,0 +1,15 @@
+**İTÜ/VPN Hizmeti (Sanal Özel Ağlar)**
+
+VPN, kullanıcıların halka açık ağlar üzerinden güvenli bir şekilde kendi kurum kaynaklarına erişimini sağlayan bir ağ teknolojisidir. İTÜ/VPN servisi, yerleşke dışındayken İTÜ/NET içerisinde kullanılabilen hizmetlere erişim sağlar. Kullanıcılar, İTÜ/VPN servisini kullandıklarında bilgisayarlarına otomatik olarak bir İTÜ/NET IP adresi atanır.
+
+İTÜ/VPN bağlantısı etkinleştirildiğinde, bilgisayar ile İTÜ/NET arasında şifrelenmiş bir tünel oluşturulur. Kullanıcıların güvenlik prosedürlerine dikkat etmeleri önerilir. VPN bağlantısı kurarken kullanılan şifreler sadece kullanıcıya ait olmalıdır ve paylaşılmamalıdır.
+
+İTÜ Bilgi İşlem Daire Başkanlığı, yerleşke dışından İTÜ/NET'e güvenli erişim sağlamak amacıyla üç ayrı VPN hizmeti sunmaktadır:
+
+1. **Akademik VPN**: Tüm İTÜ akademik personeline açıktır. Kullanıcı adı ve şifre İTÜ Single Sign On sistemi üzerinden sağlanır. Akademik VPN, aynı anda 1000 kullanıcıya hizmet verebilir ve kullanıcılar, İTÜ/Mail hizmeti için kullandıkları bilgilerle erişim sağlayabilirler. Bu hizmetten sadece İTÜ akademik personeli yararlanabilir ve başvuru gerektirmez.
+
+2. **Öğrenci VPN**: 2020-2021 eğitim-öğretim yılı itibarıyla tüm İTÜ öğrencilerine tanımlanmıştır. Öğrenciler, GlobalProtect VPN üzerinden bağlantı sağlayabilir. Bu hizmet, sadece İTÜ/NET'e erişim amacıyla kullanılabilir ve akademik veri tabanlarına erişim sağlamaz.
+
+3. **İdari VPN**: İdari personelin İTÜ kaynaklarına güvenli erişim sağlaması için sunulan bir hizmettir. Bu hizmetten faydalanmak isteyen kullanıcıların, bağlı bulundukları birimden onaylı bir dilekçe ile başvurmaları gerekmektedir. İdari VPN hizmeti, aynı anda maksimum 50 kullanıcıya hizmet verebilir.
+
+Tüm kullanıcılar, VPN hizmetlerini kullanırken VPN Kullanım Politikasını kabul etmiş sayılır.

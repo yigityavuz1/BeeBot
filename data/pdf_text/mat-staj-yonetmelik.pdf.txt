@@ -1,0 +1,39 @@
+**İTÜ Matematik Bölümü Staj Yönetmeliği**
+
+**Staj Esasları ve Süresi**
+
+- **Madde 1:** Staj, Matematik Mühendisliği bölümündeki derslerin uygulama ve araştırmasına yönelik konuları kapsar. Amaç, öğrencilerin akademik ve mesleki gelişimlerine katkı sağlamak ve derslerde öğrenilen kuramsal bilgilerin uygulamalarını yerinde görmelerini sağlamaktır.
+
+- **Madde 2:** İTÜ Fen-Edebiyat Fakültesi, Matematik Mühendisliği Bölümü öğrencileri, en az 30 iş günü staj yapmak zorundadır. Mezun olabilmek için bu sürenin tamamlanmış ve Bölüm Staj Komisyonunca stajın geçerli sayılması zorunludur.
+
+- **Madde 3:** Her bir staj dönemi en az 10 iş gününü kapsamalıdır. Öğrenci, toplam staj iş gününü bir staj döneminde veya birden fazla staj döneminde tamamlayabilir.
+
+- **Madde 4:** Stajlar yarıyıllar arasındaki tatil süreleri içerisinde yapılabilir. Yaz okuluna devam eden öğrenciler, derslerinin olmadığı günlerde (en az 3 boş iş günü) staj yapabilirler. Cumartesi günleri çalışılan yerlerde bu günler de staj gününe dâhil edilir.
+
+- **Madde 5:** Staj yapabilmenin ön şartı olarak öğrenci, bağlı olduğu ders planından en az 35 krediyi tamamlamış olmalıdır.
+
+- **Madde 6:** ÇAP (Çift Anadal Programı) yapan öğrenciler, Madde 2 ve 3'de belirtilen sürelerde staj yapmak zorundadırlar. Elektrik-Elektronik Fakültesi ve Bilgisayar Bilişim Fakültesi bölümlerinde ÇAP yapan öğrencilerin bu bölümler için yaptığı staj, Matematik Mühendisliği Bölümü staj komisyonunca geçerli sayılması kaydıyla kabul edilir.
+
+- **Madde 7:** Yatay veya dikey geçişle kayıt yaptıran öğrencilerin daha önceki bölümlerinde kabul edilmiş eski stajları, İTÜ Matematik Mühendisliği Bölümü staj sürelerine uyması ve içeriğinin Bölüm staj komisyonunca kabul edilebilir bulunması şartıyla geçerli sayılır.
+
+- **Madde 8:** Öğrencinin, staja başlamadan önce İTÜ İş Sağlığı ve Güvenliği Biriminde eğitim alması gerekmektedir.
+
+- **Madde 9:** Öğrenci staj yerini kendi imkânları ile bulur ve staj yaptığı iş yerinin yasal ve idari kurallarına uymak zorundadır.
+
+- **Madde 10:** Staja başlamadan önce stajın yapılacağı kurum, mutlaka Bölüm Staj Sorumlusu Öğretim Üyesine onaylatılacaktır.
+
+- **Madde 11:** Firmadan staj kabulü ve Bölüm Staj Sorumlusu Öğretim Üyesinden onay alan öğrenci, İTÜ portalından gerekli işlemleri staja başlamadan en geç 15 gün önce yapmalı ve staj bürosuna bildirimde bulunmalıdır.
+
+- **Madde 12:** Staj defteri yazımında kullanılacak dil Türkçe veya İngilizcedir. Yurtdışında staj yapan öğrencinin staj defteri belirtilen dillerden birinde yazılmamışsa, yeminli bürolar tarafından Türkçe’ye tercüme ettirerek teslim etmesi gerekmektedir. Staj defteri, temiz, düzenli ve okunaklı bir şekilde Üniversite Staj Esaslarına uygun olarak bilgisayar ile doldurulmalıdır.
+
+- **Madde 13:** Staj bittiğinde resimsiz, resmi soğuk damgasız ve imzasız defter teslim edenlerin stajları kabul edilmeyecektir. Stajını bitiren öğrenci staj defterini ve belirtilen diğer belgelerle birlikte Matematik Mühendisliği Bölüm Sekreterliğine teslim etmek zorundadır.
+
+- **Madde 14:** Staj defterlerinin incelenmesi sonucunda, staj evrakında ve ekli belgelerinde tahrifat yapan veya çalışma yapmadığı halde Staj Defteri düzenleyip teslim ettiği belirlenen öğrencinin stajı kabul edilmez ve hakkında Öğrenci Disiplin Yönetmeliği çerçevesinde soruşturma açılır.
+
+- **Madde 15:** Öğrencinin staj çalışmalarının değerlendirilmesi ve staj ile ilgili özel durumların karara bağlanması, Dekanlık tarafından görevlendirilen ilgili bölümün "Bölüm Staj Komisyonu" tarafından yapılır.
+
+- **Madde 16:** Bu yönetmelikte belirtilmeyen ve karşılaşılabilecek özel durumlarda Üniversite Staj Genel Esaslarına göre hareket edilir.
+
+**Staj Yapılabilecek Yerler**
+
+Matematik Mühendisliği Bölümü öğrencileri aşağıda belirtilen alanlarda stajlarını yapabilirler: İlgili kurumların bilgi işlem birimlerinde yazılım veya donanım alanında, aktüerya (sigortacılık), istatistik, veri madenciliği, ilgili kurumların finans birimlerinde, kriptoloji ve bölüm staj komisyonunun uygun bulduğu diğer çalışma alanlarında.

@@ -1,0 +1,21 @@
+**Title: Etkinlik Sistemi**
+
+**Künye:**
+- İlk yayın tarihi: Haziran 2016
+- Web Adresi: [http://etkinlik.itu.edu.tr](http://etkinlik.itu.edu.tr)
+
+**Açıklama:**
+İTÜ Bilgi İşlem Daire Başkanlığı tarafından geliştirilmiş İTÜ Etkinlik Sistemi, İTÜ bünyesindeki etkinlik niteliğindeki organizasyonlar, konserler, konferanslar, tiyatro gösterileri, sergiler, seminerler, söyleşiler, eğitimler ve kurslar gibi faaliyetlerden İTÜ mensuplarını ve ilgili kitleyi haberdar etmek amacıyla oluşturulmuştur. Sistem, etkinliklerin düzenlenmesi aşamasındaki prosedür zorluklarını en aza indirgeyerek online başvuru sistemlerinin uygulanabilirliğini sağlamayı hedefler.
+
+**Özellikler:**
+- Etkinlikleri kategori ve tarihlerine göre filtreleme
+- Etkinlik ile ilgili detay bilgilerine ulaşma
+- Etkinlik mekanına ulaşım bilgisi
+- Etkinlik oluşturma ve yayın talebinde bulunma
+
+**İletişim:**
+- İTÜ Ayazağa Kampüsü, Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- Telefon: 0212 285 3930
+
+**Yardım:**
+İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz.

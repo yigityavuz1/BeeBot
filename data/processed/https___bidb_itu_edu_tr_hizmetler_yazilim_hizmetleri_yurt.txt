@@ -1,0 +1,18 @@
+**Yurt Yönetim Sistemi**
+
+**Künye:**
+- İlk yayın tarihi: Eylül 2011
+- Aktif kullanıcı sayısı: 5.000
+- Web Adresi: [http://konaklama.itu.edu.tr/yurt](http://konaklama.itu.edu.tr/yurt)
+
+**Açıklama:**
+Yurt Yönetim Sistemi, İstanbul Teknik Üniversitesi bünyesindeki yurtların konaklama planlaması ve yönetimi için hazırlanmış bir sistemdir. Sistem üzerinden Yurt Burs Ofisi tarafından belirlenen başvuru dönemleri içerisinde yurtlarda konaklamak isteyen öğrencilerin başvuruları alınır ve yurtlardaki kontenjan durumlarına göre tercih edilen yurtlara atamaları yapılır. Yurt atamaları yurt görevlileri tarafından kabul edilip oda atamaları gerçekleştirilir. Ayrıca, konaklayan kişilerle ilgili izin bilgileri, yurt giriş çıkış bilgileri, kayıt dondurma, kayıt uzatma işlemleri ve mali bilgileri sistem tarafından kontrol edilmektedir. Kayıtlı kişiler, kendi portal sayfaları üzerinden bilgilerini güncelleyebilir veya yurtlarda konaklamak için başvuru oluşturabilirler.
+
+**İletişim:**
+- Bilgi İşlem Daire Başkanlığı, İTÜ Ayazağa Kampüsü, Maslak-Sarıyer / İstanbul
+- Telefon: 0212 285 3930
+
+**Yardım:**
+İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz. 
+
+**Not:** Bu sistem İTÜ Bilgi İşlem Daire Başkanlığı ürünüdür. © 2023

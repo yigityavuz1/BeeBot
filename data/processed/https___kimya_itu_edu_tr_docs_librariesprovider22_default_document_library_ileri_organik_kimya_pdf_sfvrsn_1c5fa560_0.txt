@@ -1,0 +1,57 @@
+**Course Name:** İleri Organik Kimya (Advance Organic Chemistry)
+
+**Code:** KIM 208 -208E  
+**Semester:** 4  
+**Local Credits:** 3  
+**ECTS Credits:** 4  
+**Course Implementation (Hours/Week):** Theoretical: 3, Tutorial: 0, Laboratory: 0  
+**Department/Program:** Ortak Havuz (Common Pool)  
+**Course Type:** Seçmeli (Selective)  
+**Course Language:** İngilizce (English)  
+**Course Prerequisites:** KIM 104 MIN DD or equivalent
+
+**Course Description:**  
+- Functional Aromatic Compounds, Carbohydrates, Cellulose and derivatives, Spectroscopic Methods for Identification of organic structures, Compounds for using industrial additives, Polymers, Polymerization methods, Industrial polymers, Synthesis of industrial polymers and applications, Dyes, Surfactants.
+
+**Course Objectives:**  
+1. To teach the basic concepts and principles of structures, synthesis, and usage of natural and synthetic macromolecules.  
+2. To apply theoretical knowledge to industry.  
+3. To improve problem-solving skills in organic production processes.  
+4. To convey the importance of organic chemistry in daily life.  
+5. To encourage logical and positive thinking regarding the significance of organic chemistry in engineering.
+
+**Course Plan:**  
+- Week 1: Functional Aromatic Compounds  
+- Week 2: Carbohydrates  
+- Week 3: Carbohydrates, Cellulose and derivatives  
+- Week 4: Proteins, amino acids, and peptides  
+- Week 5: Spectroscopic Methods for Identification of organic structures  
+- Week 6: Compounds for using industrial additives  
+- Week 7: Compounds for using industrial additives II  
+- Week 8: Polymers  
+- Week 9: Methods of Polymerization  
+- Week 10: Industrial polymers  
+- Week 11: Application and Synthesis of industrial polymers  
+- Week 12: Dyes Compounds  
+- Week 13: Surfactants  
+- Week 14: Surfactants II  
+
+**Course Learning Outcomes:**  
+1. Apply knowledge of structures, synthesis, and usage of natural and synthetic macromolecules.  
+2. Utilize theoretical organic reactions knowledge for producing industrial products.  
+3. Distinguish between natural and synthetic polymers.  
+4. Use spectroscopic methods for identification of organic structures.  
+5. Apply knowledge of additives and raw materials in industrial production.
+
+**Assessment Criteria:**  
+- Midterm Exams: 2 (50%)  
+- Quizzes: 4 (10%)  
+- Final Exam: 1 (40%)  
+
+**Textbook:**  
+- Paula Yurkanis Bruice, 2001, Organic Chemistry, Prentice-Hall, Inc. Pearson Education, ISBN: 0-13-017858-.
+
+**Other References:**  
+- T.W. Graham Solomons and Craig B. Fryhle, 2004, Organic Chemistry, John Wiley & Sons, ISBN: 0-471-41799-.
+
+This cleaned text retains only the relevant information about the course, its objectives, content, and assessment criteria, while removing any extraneous links and unrelated details.

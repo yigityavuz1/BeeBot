@@ -1,0 +1,21 @@
+**Title:** Elektrik Dağıtım Otomasyonu Laboratuvarı
+
+**Laboratuvar Açıklaması:**
+Laboratuvarda, koruma rölelelerinin işletim özellikleri ve başlıca çeşitleri sunulmaktadır. Ayrıca, güç sistemlerinin kontrolü açısından generatör geriliminin ayarlanmasının temel prensiplerini de içermektedir. Güç sistemi işletiminde bilgisayarlı SCADA sisteminin rolü, fotovoltaik hücreler, modüller ve sistem bileşenleri hakkında da temel bilgi kazandıracak deneylerde öğrenciler tarafından gerçekleştirilecektir. 
+
+**Mevcut Öğrenci Deneyleri:**
+- Dağıtım sistemlerinde SCADA uygulamaları ve RTU sistemleri
+- Aşırı ve düşük gerilime karşı koruma
+- Aşırı akım ve toprak teması rölesi
+- Mesafe rölesi
+- Diferansiyel röle
+- Fotovoltaik Güneş Pilleri
+- Üç fazlı sistemlerde gerilim ayarı ve regülatörler
+- Kompanzasyon ve güç faktörünün düzeltilmesi
+- Ölçü transformatörleri
+- Topraklama ve potansiyel sürüklenmesi
+
+**İletişim Bilgileri:**
+- **Telefon:** +90 (212) 285 6745
+- **Fax:** +90 (212) 285 6700
+- **Adres:** İTÜ Ayazağa Kampüsü, Elektrik Elektronik Fakültesi, 34469, Maslak, İstanbul

@@ -1,0 +1,41 @@
+**Title:** UUBF Hassas Görevler Çalışması
+
+**Hassas Görev Listesi:**
+
+1. **Görev:** Bütçenin hazırlanması ve yönetimi  
+   **Riskler:** Bütçe açığı ve hak kaybı  
+   **Risk Düzeyi:** Yüksek  
+   **Önlemler:** Hazırlayan kişinin bilinçli olması, mevzuata hakim olmak, koordinasyon yeteneği ve iş takibi.
+
+2. **Görev:** Maaş, ek ders, yolluk evraklarının hazırlanması  
+   **Riskler:** Hatalı ödemeler  
+   **Risk Düzeyi:** Yüksek  
+   **Önlemler:** Personel İşleri ve Öğrenci İşleri Birimi ile koordineli çalışılması, mevzuata hakim olmak, koordinasyon yeteneği ve iş takibi.
+
+3. **Görev:** Maaş hazırlamasında özlük haklarının zamanında temin edilmesi  
+   **Riskler:** Hak kaybı oluşması  
+   **Risk Düzeyi:** Orta  
+   **Önlemler:** Personel İşleri ile koordineli çalışılması, mevzuata hakim olmak, koordinasyon yeteneği ve iş takibi.
+
+4. **Görev:** Maaş hazırlanması sırasında kesintilerin doğru ve eksiksiz yapılması  
+   **Riskler:** Kamu ve kişi zararı  
+   **Risk Düzeyi:** Yüksek  
+   **Önlemler:** Mevzuata hakim olması, Personel İşleri ile koordineli çalışılması, mevzuata hakim olmak, koordinasyon yeteneği ve iş takibi.
+
+5. **Görev:** Ödeme emri belgesinin düzenlemesi  
+   **Riskler:** Kamu zararına sebebiyet verme riski  
+   **Risk Düzeyi:** Yüksek  
+   **Önlemler:** Kontrollerin doğru yapılması, mevzuata hakim olmak, koordinasyon yeteneği ve iş takibi.
+
+6. **Görev:** SGK'na elektronik ortamda gönderilen keseneklerin doğru, eksiksiz ve zamanında gönderilmesi  
+   **Riskler:** Kamu zararına sebebiyet verme riski, cezai işlem  
+   **Risk Düzeyi:** Yüksek  
+   **Önlemler:** Hatasız yapılması gerektiğinden işi ehil kişiler tarafından yapılması, mevzuata hakim olmak, koordinasyon yeteneği ve iş takibi.
+
+7. **Görev:** Yıl sonunda büro içerisinde gerekli düzenlemeyi sağlamak  
+   **Riskler:** Çalışma veriminin düşmesi  
+   **Risk Düzeyi:** Yüksek  
+   **Önlemler:** Gelişime açık olmak.
+
+**Hazırlayan:** İlgili Alt Birim Amiri  
+**Onaylayan:** Birim Amiri

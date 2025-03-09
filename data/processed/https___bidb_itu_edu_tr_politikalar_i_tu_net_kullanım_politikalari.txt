@@ -1,0 +1,20 @@
+**Title: İTÜ/NET Kullanım Politikaları**
+
+Bu Kullanım Politikası, tüm "İTÜ/NET" kullanıcıları için uygulanan kuralları tanımlamaktadır. Kullanıcılar, üniversitemizin öğrencileri, öğretim üyeleri, araştırmacıları ve diğer birimlerdeki çalışanlardır. İTÜ/NET, kullanıcıların haberleşme gereksinimlerinin TCP/IP protokolü ile çalışan bir ağ üzerinden karşılandığı tüm servis ve altyapıya verilen isimdir. İTÜ/NET Ağı eğitim, bilimsel araştırma, teknik gelişme, teknoloji transferi ve bilimsel, teknik ve kültürel bilginin yayılması gibi amaçlar için kurulmuştur.
+
+Sistem ve ağ güvenliğinin ihlal edilmesi yasaktır ve cezai ve hukuki mesuliyetle sonuçlanabilir. İTÜ BİDB, ihlallerin söz konusu olduğu durumları inceler ve eğer bir suç oluştuğundan şüphe duyulursa yasa uygulayıcı ile işbirliği yapar. İTÜ/NET aşağıdaki amaçlar için kullanılamaz:
+
+- Ticari reklâmlar ve istenmeyen mesajlar (SPAM) göndermek,
+- Başka bir kullanıcının posta sunucusunu izinsiz kullanmak,
+- Servis kalitesini bozacak trafik düzenlemeleri oluşturmak,
+- Kullanım amaçlarına uymayan rahatsız edici materyalin üretilmesi ve dağıtılması,
+- Gerçek dışı, rahatsızlık verici materyalin üretimi ve dağıtımı,
+- İftira ve karalama mahiyetinde materyalin üretimi ve dağıtımı,
+- Başkalarının fikri haklarını ihlal eden materyalin dağıtımı,
+- İTÜ/NET üzerinden yetkisiz hizmet kullanımı,
+- Başkalarının verilerini tahrip etmek,
+- Başkalarına ait kişisel bilgilere tecavüz,
+- İTÜ BİDB onayı olmaksızın port taraması gerçekleştirmek,
+- İTÜ BİDB tarafından yasaklanan yazılımları kullanmak.
+
+Bu Kullanım Politikası'nı kabul eden taraf, İTÜ BİDB'nin ağın yukarıdaki kurallara uygun kullanımını kontrol edebileceğini kabul eder. Kullanıcı, İTÜ BİDB'nin güvenliği sağlamak için acil önlemler alabileceğini kabul eder. Kullanıcıların, başka bir kullanıcının düşmanca hareketlerinden zarar görmesi halinde, İTÜ BİDB kısıtlayıcı önlemler alabilir. Kullanıcı, İTÜ BİDB'nin bu Kullanım Politikası'nı değiştirebileceğini kabul eder.

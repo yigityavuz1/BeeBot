@@ -1,0 +1,17 @@
+**University of Hamburg**
+
+**Courses:**
+
+| University of Hamburg Code | Course Name                             | ITU Code | ITU Course Name                       |
+|----------------------------|-----------------------------------------|----------|---------------------------------------|
+| OSF                        | Optik Strahlung Fernerkundung          | MTO497   | Atmosferde Optik ve Akustik          |
+| SYN                        | Syonoptiche Meteorologie II             | MTO322   | Hava Analizi ve Öngörüsü II          |
+|                            | Wetterbesprechung                      |          |                                       |
+| WF                         | Wahifach                                | MT       | Seçmeli                               |
+|                            | Einführüng in die Meteorologie          | MT       | Seçmeli                               |
+| SP                         | Turbulanz und Greızıchicht             | MT       | Şeçmeli                               |
+
+**Contact Information:**
+- **Phone:** +90 (212) 285 31 01
+- **Fax:** +90 (212) 285 31 39
+- **Address:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

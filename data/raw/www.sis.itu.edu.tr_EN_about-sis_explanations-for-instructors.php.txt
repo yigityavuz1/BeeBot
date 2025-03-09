@@ -1,0 +1,177 @@
+Title: İTÜ | Registrar's Office
+
+URL Source: https://www.sis.itu.edu.tr/EN/about-sis/explanations-for-instructors.php
+
+Markdown Content:
+EXPLANATIONS FOR INSTRUCTORS
+----------------------------
+
+USER LOGIN TO THE SYSTEM
+------------------------
+
+*   Click on the "Login to System" link on the website [www.sis.itu.edu.tr.](https://www.sis.itu.edu.tr/EN/)
+*   Your WEB client will be directed to the ITU GİRİŞ server and page on the next page. Enter your ITU login information in the "username and password" sections on this page.
+*   Student Information Automation System can only be accessed after ITU LOGIN user login. After this login, your use will continue with ITU LOGIN rights until your client is closed.
+*   When your ITU LOGIN registration is confirmed, your WEB client will come to the Student Information System "Banner" entry. You can log in to the Student Information System by entering the password of your user number in the PIN field and clicking the Login button.
+*   You will enter the page entitled Istanbul Technical University - Student Information Systems Main Menu. This page is the home page of the system.
+*   If you enter your user number and / or password incorrectly 5 times in a row, your account will be locked. In order to re-enter the system, if you select "PIN Transactions" from the category selection [on the help ticket creation screen](https://yardim.itu.edu.tr/choose.aspx?birim=2&kid=0&akid=0) and "PIN Block transactions" from the sub-category selection, and submit a help ticket, you will be sent your new password.
+
+CHANGING THE PASSWORD
+---------------------
+
+As soon as you connect to the system with your first password given by Student Information Systems Automation, we recommend that you change your password to a password that you can remember. There is no limit to the number of password changes. You can change your password as many times as you want at any time.
+
+*   After logging into the system and accessing ‘Istanbul Technical University Student Information Systems Main Menu’, click on the 'Personal Information' menu item.
+*   Click on the 'Change PIN' menu item under the Personal Information Menu.
+*   After entering your old password in the 'Enter Old PIN' field, enter your new password in the 'Enter new PIN' field, then in the 'Re-enter New PIN' field, and press the 'Change PIN' button.
+*   For a successful password change, your new password must be different from your old password and must consist of six numeric characters.
+*   If your password change process is successful, the system will send you to the 'Personal Information Menu' and give the message 'Your Changes were saved successfully' on the first line of the page. From now on, your logins to the system will only be with your new password.
+
+ 
+
+VIEWING / UPDATING ADDRESS, PHONE AND E-MAIL INFORMATION
+--------------------------------------------------------
+
+The address you see in Istanbul Technical University address type is the address given to you by the Information Technologies Directorate. Please do not make any changes to this address, as this address will be used as the official communication channel.
+
+*   After logging into the system and accessing the 'Istanbul Technical University Main Menu', click on the 'Personal Information' menu item.
+*   Under the Personal Information Menu, you will find four menu items for viewing and updating your address, phone and e-mail information.
+*   Click on the 'See Address and Phone Information' menu item to see your address and telephone information registered in the system.
+*   For an update, click on the 'Update Address and Phone Information' menu item. Select the address type, click 'Update Address and Phones' and enter your new address.
+*   To view your e-mail information registered in the system, click on the 'View E-mail Addresses' menu item.
+*   For updating, select the address type from the 'Update Email Address' menu item and click 'Update E-Mail Addresses'. Check the 'Preferred' option for the e-mail address you prefer to use.
+
+VIEWING DETAILED SCHEDULE AND UPDATING THE SYYLABUS FORM ON THE BASIS OF CRN
+----------------------------------------------------------------------------
+
+*   Click on the ‘Instructor Service’ menu.
+*   Click on the ‘Detailed Schedule Menu’  and select term.
+*   Your detailed schedule is viewed on the basis of CRN.
+*   If you wish, you can access Syllabus information with the maintain button in the Syllabus section, change the syllabus form on the basis of CRN and save it with Submit.
+
+SAVING THE DETAILED CLASS LIST AS WORD or EXCEL DOCUMENT
+--------------------------------------------------------
+
+*   Click on the ‘Instructor Service’ menu.
+*   Click on the ‘Student List’ menu.
+*   By selecting term and CRN, you can access the student list of the course here and download the list as a Word and Excel document.
+
+ANNOUNCEMENT OF THE LIST OF STUDENTS WHO CANNOT MEET THE CONDITION/S TO TAKE THE END-OF-SEMESTER EXAM
+-----------------------------------------------------------------------------------------------------
+
+*   After entering the system and reaching the 'Istanbul Technical University Main Menu', click on the 'Instructor' menu item.
+*   Select ‘Final Grades’ menu.
+*   Select the period you are in from the ‘Term  Selection’ section and click the submit button.
+*   Select the relevant CRN and click the submit button.
+*   In the Final Grade section, select "VF" grade for students who do not meet the requirement to enter the end-of-semester exam and click the Submit button.
+*   In the system, these grades will be recorded in the student history every day between 17:30 and 18:30. Rolled part appears as 'Y' next to the grades recorded in the history and it is announced to the student. Please note that with this process, the grades are announced to the student on the web and can only be changed with the decision of the Faculty Administrative Board.
+*   To view the announced list;
+*   Select the period you are in from the ‘Select Term’ section.
+*   Select the relevant CRN from ‘Select CRN’ section.
+*   Go to ‘Visa Fail List Menu’
+
+ENTERING THE END-OF-SEMESTER GRADES
+-----------------------------------
+
+Entering the end-of-semester grades will be done online by the specified grade entry deadline in the Academic Calendar. It is a requirement for all the instructors having courses on that term to enter their students’ grades on the web in order for the system to be executed on time and completely.
+
+*   Go to the Course Programs link on the main page and examine the courses you have given at that time by the university and note their CRN numbers.
+*   After entering the system and reaching the 'Istanbul Technical University Main Menu', click on the ‘Instructor Menu'.
+*   Select ‘Final Grades’ menu.
+*   Select the period you are in from the ‘Term Selection’ section and click the submit button.
+*   Select the relevant CRN and click the submit button.
+*   Enter the grades of the students in ‘Final Grades’ section.
+In this section, the grades of the students who could not obtain the right to enter the Final exam, if any, will appear as "VF".*   After entering the notes, click the submit button.
+In the system, these grades will be recorded in the student history every day between 17:30 and 18:30. Rolled part appears as 'Y' next to the grades recorded in the history and it is announced to the student. Please note that with this process, the grades are announced to the student on the web and can only be changed with the decision of the Faculty Administrative Board.*   Entering the Make-Up Exam Grades
+
+From Instructor Service, Makeup Exam link, the make-up exam grades are required to be entered by selecting relevant term and CRN.
+
+TWO ADDITIONAL END-OF-SEMESTER EXAM RIGHT
+-----------------------------------------
+
+To access "Additional Exam Student List" and ‘Additional Exam Grade Entry’ links for Additional-1 and Additional-2 exams of your course;
+
+*   After entering [www.sis.itu.edu.tr,](https://www.sis.itu.edu.tr/EN/) select the semester of your course in the links ‘Additional Exam Student List’ and ‘Additional Exam Grade Entry’ under the ‘Instructor Service’ Menu, select the relevant CRN and which additional exam you want to choose. Click on the Additional 1 or Additional 2 Exam and ‘Submit’.
+*   You cannot make changes after submitting the grades on the Additional Exam Grade Entry page. Select the grade of the student who did not take the additional exam as ‘Not Entered’.
+
+ACCESSING STUDENT INFORMATION
+-----------------------------
+
+*   After entering the system and reaching the 'Istanbul Technical University Main Menu', click on the ‘Instructor Service' menu.
+*   Click on the ‘Student Menu’ on the ‘Instructor Service'.
+*   By clicking on ‘Student Number Selection’ which is on ‘Instructor-Student Menu’, you can access the information of the student by searching with the student number.
+*   You can access the personal information of the student you have selected from the 'Viewing Student Address and Telephone Information' and 'Viewing Student E-mail Addresses' menu items in the menu.
+*   You can also use the 'Student Schedule' menu item to access your students' schedule.
+*   You can view the internships of your students from the Internship Information link.
+
+FOR ADVISORS
+------------
+
+When you enter the ‘Advisors Menu’ under the ‘Instructor’ Menu, you can access the e-mail, address and academic status information of the students for whom you are assigned as an advisor. You can send an e-mail to all your advisees.
+
+**FOR ADD DROP:**
+
+After the registration week, according to the ITU Undergraduate Education Regulations, the course change and withdrawal process must be done together by the students and their advisors.
+
+*   Click on the ‘Instructor Service' menu.
+*   ‘Click on the ‘Student Menu’
+*   Select the term you are in from ‘Term Selection’ section.
+*   ‘Click on ‘Add-Drop Menu’.
+*   Enter the student number of the student for whose courses you will add/drop and click ‘Submit’.
+*   Enter the password of the student to enter the system in the ‘Student PIN’ section. Click on ‘Submit’.
+*   In the ‘Current Schedule’ section, the courses that the student is registered for this term are displayed.
+*   For dropping a course, in the Action section, select the 'Course Change-Web' option in the relevant CRN and click the 'Submit' button.
+*   For adding a course, in the ‘Add Classes Worksheet’ 'section, type CRN in the box and click the ‘Submit’ button.
+*   The final version of the registered courses is as seen in the ‘Current Schedule’ section.
+
+FOR WITHDRAWAL FROM A COURSE
+----------------------------
+
+According to the regulations, a student can withdraw from maximum one course in a semester.
+
+*   Click on the ‘Instructor Service' menu.
+*   ‘Click on the ‘Student Menu’
+*   Select the term you are in from ‘Term Selection’ section.
+*   ‘Click on ‘Add-Drop Menu’.
+*   Enter the student number of the student for whose courses you will do withdrawal and click ‘Submit’.
+*   Enter the password of the student to enter the system in the ‘Student PIN’ section. Click on ‘Submit’.
+*   In the ‘Current Schedule’ section, the courses that the student is registered for this term are displayed.
+*   To withdraw from a course, in the Action section, select the 'Course Change-Web' option in the relevant CRN and click the 'Submit' button.
+*   The final version of the registered courses is as seen in the ‘Current Schedule’ section.
+*   A new course will not be selected in course withdrawal process.
+
+ 
+
+GIVING THE ADVISOR OPINION FOR REGISTERED COURSES
+-------------------------------------------------
+
+**A. ANNOUNCEMENT OF THE WEEKLY MEETING PLAN FOR THE TERM**
+
+*   Click on the ‘Instructor Service' menu.
+*   Click on the ‘Advisors Menu’.
+*   Select the relevant term from ‘Term Selection’ section.
+*   In the week after registration, enter the days and times that you are available to meet with the students you are advisor in the form of Weekly Advisor-Student Meeting Plan as follows.
+*   In the Week section, enter the week as: starting day of the week / month / year, for example: 16-04-2011.
+*   Enter the hours you are available to on the relevant days, for example, 09:00 - 13:00.
+*   If there is a message you want to write, enter the message section.
+*   ‘Click the ‘Submit’ button..
+The meeting date and time information you set will be viewed on the pages of your advisees.
+
+**B. FILLING THE ADVISOR APPROVAL FORM**
+
+*   Click on the ‘Instructor Service' menu.
+*   Click on the ‘Advisors Menu’.
+*   Select the relevant term from ‘Term Selection’ section.
+*   Click on the ‘Advisor Approval Form’.
+*   Enter the number of the student you are the advisor and about whose courses you will meet and press the ‘Submit’ button.
+*   The information of the student and her/his registered courses appear on the screen..
+At this stage, the advisor can express her opinion on changing the courses chosen by her/his student according to the current undergraduate regulation. However, s/he cannot place any restrictions on not taking the courses permitted by the regulation. To record your thoughts on this matter, write your opinion in the ‘Opinion’ section and press the ‘Submit’ button.
+
+*   Your views regarding the semester registration of the relevant student will be recorded in the system. This is reflected on the student page. Keep a copy of this form in your files by clicking on the ‘Print’ button.
+*   If you want, you can view the Advisor approval forms of the previous terms by selecting the term and student number.
+
+INSTRUCTOR SCHEDULE INFORMATION
+-------------------------------
+
+*    Click on the ‘Instructor Service' menu.
+*   You can also access your own schedule from the 'Detailed Schedule' and 'Schedule by Day' menus.

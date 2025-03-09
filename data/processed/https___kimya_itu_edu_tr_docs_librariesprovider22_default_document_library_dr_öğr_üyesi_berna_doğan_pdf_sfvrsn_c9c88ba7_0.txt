@@ -1,0 +1,17 @@
+**Title:** PowerPoint Presentation
+
+**Research Areas of Berna Doğan:**
+
+- **Drug Discovery and Design using Computational Modeling Methods:**
+  - Ligand-based: QSAR, pharmacophore modeling
+  - Structure-based: molecular docking, molecular dynamics (MD)
+  - Virtual screenings
+  - Drug repurposing
+
+- **Conformational Analysis of Protein Structures:**
+  - Protein-ligand and protein-protein interactions
+  - Construction and validation of homology models
+
+- **Development of Machine Learning Models:**
+  - Prediction of molecule selectivity using deep learning
+  - Integration of docking, MD, and machine learning – active learning

@@ -1,0 +1,35 @@
+**Title: Mal/Malzeme/Hizmet Alımları**
+
+BAP projeleri kapsamında mal ve hizmet alımları; Devlet Harcama Belgeleri Yönetmeliği'nde yer alan belgeler kullanılarak 5018 Sayılı Kamu Mali Kanunu, 2003/6554 Sayılı Bakanlar Kurulu Kararı ve diğer ilgili kanun ve yönetmelikler çerçevesinde yapılır. BAP proje harcama süreçleri İTÜ Bilimsel Araştırma Projeleri Otomasyon Sistemi (BAPSİS) üzerinden takip edilir ve aşağıdaki adımlar sırayla takip edilir.
+
+**1. Harcama Talebi Oluşturma:**
+- BAPSİS sistemi üzerinden harcama talebi oluşturulur.
+- Mal, malzeme veya hizmet alımı için "Genel Satınalma Talebi Oluştur" butonu, seyahat için "Seyahat Harcama Talebi Oluştur" butonu kullanılmalıdır.
+- Komisyon tarafından onaylanan bütçe kalemlerinden alımı talep edilenleri seçilmelidir.
+- Bütçe kalemleri seçilerek kaydedilen harcama talebi, sisteme taslak olarak kaydedilir.
+- "Başvuruya Dönüştür & Belge Oluştur" butonunu kullanarak talep birime ulaştırılır.
+
+**2. Harcama Talep Dilekçesinin Teslimi:**
+- Online Başvuru tamamlandıktan sonra sistem tarafından üretilen "Harcama Talep Dilekçesi"ni gecikmeksizin (1 hafta içerisinde) ıslak imzalı olarak Birime teslim edin veya e-posta ile BAP Birimindeki ilgili satın alma personeline eksiksiz olarak tek bir PDF halinde gönderin.
+
+**3. Harcama Talebinin Onaylanması:**
+- İmzalı talep dilekçesi ekleriyle birlikte (Teknik şartname, en az 3 fiyat teklifi) BAP Birimine teslim edildikten veya e-posta ile iletildikten sonra harcamanın onaylanması akabinde proje personeli tarafından BAPSİS’e girilir ve yürütücüye sistemden otomatik bilgilendirme e-postası gider.
+
+**4. Piyasa Fiyat Araştırma Tutanağı:**
+- Harcama talebi onaylandıktan sonra sistem üzerinde tarafınıza boş bir Piyasa Fiyat Araştırma Tutanağı gönderilir ve doldurulmanız istenir.
+- Tutanağa en az 3 fiyat teklifi eklendikten sonra verilen fiyatlar KDV Hariç ve Birim fiyat olacak şekilde girilir ve kaydedilir.
+- Kayıt işlemi tamamlandıktan sonra BAP Birimine Gönder butonuna basarak BAP Birimine iletilir ve sonrasında firmadan fatura istenir.
+
+**5. Fatura ve Belgelerin Teslimi:**
+- Alınan fatura ilgili BAP Personeline taratılıp proje personeline gönderilir. BAP Personeli fatura girişi yaptıktan sonra sistem üzerinden muayene raporu oluşturabilirsiniz.
+- Fatura, Muayene Raporu, Taşınır İşlem Fişi (Hizmet alımları hariç), Hizmet İşleri Hakediş Raporu (Hizmet alımları için), ilgili firmadan vergi borcu sorgu yazısı (son 7 gün içinde alınmış) belgelerini tarayarak e-posta ile BAP Birimindeki ilgili satın alma personeline iletebilirsiniz.
+
+**Dikkat Edilmesi Gerekenler:**
+- BAP Birimine teslim edilen veya mail ile iletilen en az 3 fiyat teklifi eklendikten sonra verilen fiyatlar KDV Hariç ve Birim fiyat olacak şekilde girilmelidir.
+- 6.900 TL ve üzeri hizmet alımlarında 117 No.lu KDV genel tebliği uyarınca KDV tevkifatı yapılması zorunludur. Hizmetin türüne göre tevkifat oranını değişiklik gösterdiğinden BAP Biriminden öğrenebilirsiniz.
+- BAP Birimi tarafından süreçleri başlatılmayan ve/veya Komisyonun onayladığı içeriğe uygun olmayan herhangi bir harcama için mevzuat gereğince ödeme yapılması mümkün değildir.
+- Birime iletilen harcama talepleri üzerinde Birimin değişiklik yapma imkanı bulunmamaktadır. Değişiklik yapma ihtiyacınız olması durumunda, Birimle irtibata geçerek harcama talebinizin iade edilmesini talep ediniz ve gerekli düzenlemeleri gerçekleştirip yeniden talep oluşturunuz.
+
+**Teknik Şartname:**
+- Harcama talebi oluşturulurken gerekli hallerde şartnamenin güncel halinin sisteme yüklenmesi mümkündür. Ancak bu işlemden önce BAP Birimi ile telefonla görüşerek mutabık kalınması gereklidir.
+- Şartnamenin de "Harcama Talep Dilekçesi" ile birlikte sayfaları imzalanmış olarak Birime teslim edilmeli veya PDF formatında e-posta ile iletilmelidir.

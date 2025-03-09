@@ -1,0 +1,28 @@
+**Title: Önemli Prosedürler**
+
+**Önemli Prosedürler:**
+- F.PR.01 Doküman Kontrol Prosedürü
+- DF.PR.02 Kayıt Kontrol Prosedürü
+- DF.PR.03 Yönetimin Gözden Geçirmesi Prosedürü
+- DF.PR.04 Arşiv Prosedürü
+- DF.PR.05 İç İletişim Prosedürü
+- DF.PR.06 Hizmet İçi Eğitim Prosedürü
+- DF.PR.07 Satın Alma Prosedürü
+- DF.PR.08 Bakım Onarım Prosedürü
+- DF.PR.09 Kütüphane Yönetim Prosedürü
+- DF.PR.10 İç Tetkik Prosedürü
+- DF.PR.11 Düzeltici ve Önleyici Faaliyet Prosedürü
+- DF.PR.12 Veri Toplama ve Değerlendirme Prosedürü
+- DF.PR.13 Kaynak Yönetim Prosedürü
+- DF.PR.14 Öğrenci Kabul ve Kayıt Prosedürü
+- DF.PR.15 Hedef/Çıktı ve Derslerin Değerlendirilmesi Prosedürü
+- DF.PR.16 Eğitim Programı Geliştirme Prosedürü
+- DF.PR.17 Uygulamalı Eğitim Prosedürü
+- DF.PR.18 Öğrenci Başarı Değerlendirme Prosedürü
+- DF.PR.19 Eğitim ve Belgelendirme İşlemleri Prosedürü
+- DF.PR.20 Simülatörler Merkezi Eğitim Prosedürü
+
+**İletişim Bilgileri:**
+- **Telefon:** +90 (0216) 395 45 01
+- **Belge Geçer:** +90 (216) 395 45 00
+- **Adres:** İTÜ Tuzla Yerleşkesi, 34940, Tuzla, İstanbul

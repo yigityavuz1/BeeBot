@@ -1,0 +1,46 @@
+**Title: Seçim Kriterleri**
+
+**KA171 Personel Hareketliliği (Ortak Ülkeler)**
+
+**Seçim Kriterleri:**
+
+1. **Erasmus+ KA107-KA171 Personel Hareketliliğinden faydalanma sayısı:**
+   - İlk defa faydalanıyor olmak: 50 puan
+   - Bir kez faydalanmış olmak: 40 puan
+   - İki kez katılım sağlamak: 30 puan
+   - Üç kez faydalanmış olmak: 20 puan
+   - Dört kez faydalanmış olmak: 10 puan
+   - Beş kez ve üzeri faydalanmış olmak: 0 puan
+
+2. **Yabancı Dil Puanı:**
+   - Minimum Yabancı Dil Seviyesi: B1
+   - Yabancı dil belgesi ibraz edilmemesi halinde:
+     - Prof. ve Doç. ünvanlı öğretim üyeleri: 70 puan
+     - İngilizce ders veren öğretim üyeleri: 80 puan (dersin CRN kodu ile)
+
+3. **Ek Puanlar:**
+   - İdari kadroda bulunmak: +20 puan
+   - Araştırma Görevlisi ve Öğretim Görevlisi kadrosunda bulunmak: +20 puan
+   - İdari görevlendirmesi bulunmak: +10 puan
+   - Erasmus Kurum/Bölüm/Program Koordinatörü veya Erasmus Ofisi Personeli olmak: +10 puan
+   - Gazi personel / Şehit veya gazi yakını olmak: +15 puan
+   - Engelli personel olmak: +10 puan
+   - AFAD’dan afetzede yardımı almak: +10 puan
+   - Hakkını kullanmamış ve mücbir sebep dışında iptal prosedürünü yerine getirmemiş: -10 puan
+   - İki hareketlilik türüne birden başvurmak: -10 puan
+   - Vatandaşı olunan ülkedeki kurumlara hareketlilik gerçekleştirmek: -10 puan
+
+**Puan Eşitliği Durumunda Önceliklendirme:**
+- Daha az yararlanmış olmak
+- Yabancı dil puanının daha yüksek olması
+- İdari kadroda olmak
+- Dijitalleşme veya Yapay Zekâ alanlarına yönelik faaliyetler içeren bir hareketlilik gerçekleştirmek
+- İTÜ hizmet süresinin daha uzun olması
+
+**İletişim:**
+- KA171 Öğrenci/Personel Hareketliliği Birimi: +90 (212) 285 71 84
+
+**Adres:**
+İTÜ Uluslararası İlişkiler Koordinatörlüğü,  
+Uluslararası Değişim Programları Ofisi - Erasmus+ Programı,  
+Ayazağa Kampüsü, Lisansüstü Eğitim Enstitüsü Binası, 3. Kat, 34469, Maslak, İstanbul

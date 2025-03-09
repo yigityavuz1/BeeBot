@@ -1,0 +1,23 @@
+**Title:** Doğrudan Temin Süreci
+
+**Content Summary:**
+- Mal ve hizmet alımları, proje sözleşmesindeki belirlemelere göre yapılır.
+- 150.000 Euro’ya kadar olan alımlar doğrudan temin ile, 150.000 Euro’dan fazla olanlar ihale ile gerçekleştirilir.
+- 4734 Sayılı Kamu İhale Kanunu’nun 3.maddesi (f) bendi gereğince ihale esasları uygulanır.
+- Alım süreci:
+  1. Harcama Yetkisi dilekçe ile bildirilir.
+  2. MYS üzerinden Harcama Onayı alınır.
+  3. Teknik Şartname düzenlenir.
+  4. Proforma fatura ile yaklaşık maliyet belirlenir.
+  5. Piyasa Fiyat Araştırma Tutanağı hazırlanır.
+  6. Tek Kaynak Formu düzenlenir, eğer tek adres varsa.
+  7. Uygun teklif için Onay Belgesi hazırlanır.
+  8. Muayene ve kabul komisyonları kurulur ve tutanak hazırlanır.
+  9. Hakediş Formu düzenlenir.
+  10. Ayniyat Tesellüm Makbuzu düzenlenir.
+  11. Avans Mahsup/Kesin Hesap Formu düzenlenir.
+  12. Faturalar iletilir.
+  13. 5000 TL ve üzeri alımlarda vergi borcu yazısı talep edilir.
+  14. Sözleşme yapılması gereken durumlar belirtilmiştir.
+  15. Ödeme Emri Belgesi onayı alınır ve muhasebeye gönderilir.
+  16. Ödeme işlemi Strateji Daire Başkanlığı tarafından gerçekleştirilir.

@@ -1,0 +1,28 @@
+### Bitirme Ödevleri
+
+#### Bitirme Tasarım Projesi Giriş (KON409/KON409E)
+
+1. BTP Giriş İstek Formu, 2 nüsha olarak bilgisayar ortamında doldurulduktan sonra Kontrol ve Otomasyon Mühendisliği bölüm sekreterliğine teslim edilmelidir.
+2. BTP Giriş Ara Rapor Teslim Formu, bitirme ara raporu ile birlikte 2 nüsha olarak bilgisayar ortamında doldurulduktan sonra Kontrol ve Otomasyon Mühendisliği bölüm sekreterliğine teslim edilmelidir.
+3. Bitirme Tasarım Projesi Ara Raporu, şablona uygun olacak biçimde hazırlanmalıdır.
+
+#### Kontrol ve Otomasyon Mühendisliği Tasarımı I (KON4901/KON4901E)
+
+1. KOM Tasarımı I İstek Formu, 2 nüsha olarak bilgisayar ortamında doldurulduktan sonra Kontrol ve Otomasyon Mühendisliği bölüm sekreterliğine teslim edilmelidir.
+2. KOM Tasarımı I Ara Rapor Teslim Formu, bitirme ara raporu ile birlikte 2 nüsha olarak bilgisayar ortamında doldurulduktan sonra Kontrol ve Otomasyon Mühendisliği bölüm sekreterliğine teslim edilmelidir.
+3. KOM Tasarımı I Ara Raporu, şablona uygun olacak biçimde hazırlanmalıdır.
+
+#### Bitirme Tasarım Projesi (KON492/KON492E)
+
+1. BTP İstek Formu, beraber çalışılacak öğretim görevlisi ile birlikte doldurulacaktır. Belge, 2 nüsha olarak bilgisayar ortamında doldurulduktan sonra Kontrol ve Otomasyon Mühendisliği bölüm sekreterliğine teslim edilmelidir.
+2. BTP Ara Rapor Teslim Formu, bitirme tasarım projesi tamamlandıktan sonra beraber çalışılan öğretim görevlisi ile birlikte 2 nüsha olarak bilgisayar ortamında doldurulduktan sonra Kontrol ve Otomasyon Mühendisliği bölüm sekreterliğine teslim edilecektir.
+3. Bitirme Tasarım Projesi Rapor Formatı, belirtilen formata uygun bir şekilde yazılmalıdır.
+4. Bitirme tasarım projeleri, danışmanın ödevi yeterli gördüğünü belirten yazısı ile birlikte, ödev içeriği (pdf dosyası) Ninova'da açılan gerekli sınıfa yüklenmelidir. Bitirme Tasarım Projesi sınavında jüri olarak görevli olan öğretim üyelerine teslim edilmek üzere 3 adet Bitirme Tasarım Projesi çıktısı formatında Kontrol ve Otomasyon Mühendisliği bölüm sekreterliğine teslim edilmelidir.
+
+#### Kontrol ve Otomasyon Mühendisliği Tasarımı II (KON4902/KON4902E)
+
+1. KOM Tasarımı II İstek Formu, beraber çalışılacak öğretim görevlisi ile birlikte doldurulacaktır. Belge, 2 nüsha olarak bilgisayar ortamında doldurulduktan sonra Kontrol ve Otomasyon Mühendisliği bölüm sekreterliğine teslim edilmelidir.
+2. KOM Tasarımı II Ara Rapor Teslim Formu, bitirme tasarım projesi tamamlandıktan sonra beraber çalışılan öğretim görevlisi ile birlikte 2 nüsha olarak bilgisayar ortamında doldurulduktan sonra Kontrol ve Otomasyon Mühendisliği bölüm sekreterliğine teslim edilecektir.
+3. Bitirme Tasarım Projesi Rapor Formatı, belirtilen formata uygun bir şekilde yazılmalıdır.
+4. Bitirme tasarım projeleri, danışmanın ödevi yeterli gördüğünü belirten yazısı ile birlikte, ödev içeriği (pdf dosyası) Ninova'da açılan gerekli sınıfa yüklenmelidir. Bitirme Tasarım Projesi sınavında jüri olarak görevli olan öğretim üyelerine teslim edilmek üzere 3 adet Bitirme Tasarım Projesi çıktısı formatında Kontrol ve Otomasyon Mühendisliği bölüm sekreterliğine teslim edilmelidir.
+5. Etik Kuralları Uyum Beyanı, bu formun doğru bir şekilde doldurulması gerekmektedir.

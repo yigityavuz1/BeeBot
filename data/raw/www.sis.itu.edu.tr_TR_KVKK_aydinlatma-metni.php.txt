@@ -1,0 +1,58 @@
+Title: İTÜ | ÖİDB
+
+URL Source: http://www.sis.itu.edu.tr/TR/KVKK/aydinlatma-metni.php
+
+Markdown Content:
+İTÜ Öğrenci İşleri Daire Başkanlığı Öğrenci Aydınlatma Metni
+------------------------------------------------------------
+
+Bu metnin amacı, Üniversitemiz tarafından yürütülen lisans ve lisansüstü eğitim faaliyetleri kapsamında kişisel verileri işlenen öğrencilere söz konusu veri işleme ile ilgili esasların açıklanmasıdır.
+
+**Veri Sorumlusu:** Kişisel verilerinizi veri sorumlusu sıfatıyla İTÜ Ayazağa Kampüsü 34469 Maslak/İstanbul adresinde mukim İstanbul Teknik Üniversitesi tarafından 6698 sayılı Kişisel Verilerin Korunması Hakkında Kanun uyarınca aşağıda açıklanan kapsamda işlenmektedir:
+
+İTÜ Öğrenci İşleri Daire Başkanlığı Tarafından Hangi Kişisel Verileriniz İşlenir?
+---------------------------------------------------------------------------------
+
+İsim, Soyisim, TC Kimlik No, Anne Adı, Baba Adı, Doğum Tarihi, Cinsiyet, Uyruk, Doğum Yeri, İletişim Bilgileri, YU Kimlik No, Pasaport No, Cinsiyet, E-posta, Adres, Cep Telefonu, Ev Telefonu, İş Telefonu, Banka Hesap No, IBAN No, Mezun Olduğu Okul, Yerleştirme Puanı, İmza, Fotoğraf, Kayıt olduğu Fakülte veya Enstitü İsmi, Öğrencinin Seviyesi, Öğrencinin Bölümü, Öğrencinin Sınıfı, Kayıt Onay Durumu, Öğrencinin Üniversiteye Kayıt Tarihi, Öğrencinin Aktif Akademik Dönemi, Alınan Derslerin Kodu, Adı, Kredisi ve ECTS kredisi, Ders Notu, Öğrencinin Mezuniyet Tarihi, Öğrencinin Mezuniyet Derecesi, Kabul Türü, Giriş Türü, Mezuniyet Türü, Ayrılma Türü, Ayrılma Tarihi, Geçerli İngilizce Yeterlilik Sınavı Belgesi, Ortaöğretim Sırasında Alınan Burs, Kredi ya da Yardım Bilgileri, Başvurmak İstenilen Burslar, Yükseköğrenim Sırasında Kredi ve Yurtlar Kurumu’na başvurusu Yapılan Burs, Öğrenim Kredisi, Harç Kredisi Başvurusu Bilgileri, Üniversite Tercih Sırası, İTÜ’de Öğrenci Olan Kardeş Bilgisi, Mezun Olduğu Lise, Mezun Olunan Lise Türü, Üniversite Giriş Sınavı Başarı Sıralaması, Diploma Alınan Program, Askerlik Durumu, Medeni Durumu, Engellilik Durumu, Öğretime Engel Olabilecek Sağlık Bilgileri, Diploma ve/veya Diploma Fotokopisi, Kimlik Fotokopisi, Vekaletname, Sınav sonuçları (SAT/ACT/GRE/GMAT vb. belgesi, İngilizce Dil Belgesi), Lise Not Çizelgesi, Üniversite not çizelgesi,(Transkript, ALES/GRE/GMAT belgesi, İngilizce Dil Belgesi), Ders Planı, Disiplin Cezası Alınıp Alınmadığına İlişkin Belge, YKS veya Eşdeğer Sınav Sonuç Belgesi, İkamet İzni, Mavi Kart
+
+Kişisel Verileriniz Hangi Yöntemle Toplanır?
+--------------------------------------------
+
+Kişisel verileriniz www.sis.itu.edu.tr üzerinden kayıt sırasında, eğitim sürecinde ve mezuniyet aşamasında oluşturulan çevrimiçi formlar yoluyla toplanır.
+
+Kişisel Verileriniz Hangi Amaçla Toplanır ve İşlenir?
+-----------------------------------------------------
+
+Toplanan kişisel verileriniz kayıt işlemlerinin yapılması, eğitim ve öğretimin yürütülmesi ve mezuniyet işlemlerinin yapılması amacıyla toplanır ve işlenir.
+
+Kişisel Verileriniz Kimlere Aktarılır?
+--------------------------------------
+
+Kişisel verileriniz, İTÜ tarafından yurtiçindeki yetkili kamu kurum ve kuruluşlarına ve bazı burs veren kuruluşlara aktarılabilir.
+
+Kişisel Verileriniz Hangi Hukuki Sebepler ile İşlenir?
+------------------------------------------------------
+
+Kişisel verileriniz, İTÜ tarafından; yukarıda sayılan amacın gerçekleştirilmesi doğrultusunda, KVKK’nın 5. maddesinde belirtilen; kanunlarda açıkça öngörülmesi, veri sorumlusunun hukuki yükümlülüğünü yerine getirebilmesi için zorunlu olması, Bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması, ilgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması hukuki sebeplerine dayanılarak toplanmakta ve işlenmektedir.
+
+Kişisel Verileriniz Ne Zamana Kadar Saklanacaktır?
+--------------------------------------------------
+
+Kişisel verileriniz YÖK ve ilgili mevzuatın gerektirdiği süre boyunca saklanır ve söz konusu sürenin dolması halinde silinir, anonimleştirilir yahut yok edilir.
+
+İlgili Kişi Olarak Haklarınız Nelerdir ve Kişisel Verileriniz ile İlgili Başvuru ve Şikayet Süreci Nasıldır?
+------------------------------------------------------------------------------------------------------------
+
+**Kişisel verilerinize ilişkin KVKK kapsamında aşağıdaki haklara sahipsiniz:**
+
+*   Kişisel verilerinizin işlenip işlenmediğini öğrenme,
+*   Kişisel verileriniz işlenmiş ise buna ilişkin bilgi talep etme,
+*   Kişisel verilerin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme,
+*   Yurt içinde veya yurt dışında kişisel verilerinizin aktarıldığı üçüncü kişileri bilme,
+*   Kişisel verilerinizin eksik veya yanlış işlenmiş olması halinde bunların düzeltilmesini isteme,
+*   KVKK mevzuatında öngörülen şartlar çerçevesinde kişisel verilerinizin silinmesini veya yok edilmesini isteme,
+*   Eksik veya yanlış verilerin düzeltilmesi ile kişisel verilerinizin silinmesi veya yok edilmesini talep ettiğinizde, bu durumun kişisel verilerinizi aktardığımız üçüncü kişilere bildirilmesini isteme,
+*   İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme, ve
+*   Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğramanız halinde bu zararın giderilmesini talep etme
+
+Yukarıda sıralanan haklarınıza yönelik başvurularınızı ve sorularınızı, kisiselveri@itu.edu.tr adresi üzerinden üniversitemize iletebilirsiniz. Talebinize en geç otuz gün içinde cevap verilecektir.

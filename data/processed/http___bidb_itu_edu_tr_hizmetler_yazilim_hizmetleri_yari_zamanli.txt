@@ -1,0 +1,16 @@
+**Yarı Zamanlı Öğrenci Otomasyonu**
+
+**Künye**
+- İlk yayın tarihi: 2008
+- Web Adresi: [yarizamanli.itu.edu.tr](https://yarizamanli.itu.edu.tr)
+
+**Açıklama**
+İTÜ Bilgi İşlem Daire Başkanlığı tarafından geliştirilmiş Yarı Zamanlı Öğrenci Otomasyonu, İTÜ bünyesinde çalışan yarı zamanlı öğrencilerin işe alım ve maaş yönetimi işlerinin yapılabilmesini sağlamak amacıyla yazılmıştır. Birimler, çalıştırmak istedikleri öğrenciler için işe alım duyuruları oluşturabilir, işe giriş, işten çıkış ve puantaj girişi işlemlerini yapabilirler. Sistem yetkilisi tarafından birim yönetimi, yetkilendirme, puantaj yönetimi ve raporlar gibi işlemler yapılabilmektedir.
+
+**İletişim**
+- İTÜ Ayazağa Kampüsü
+- Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- Telefon: 0212 285 3930
+
+**BİDB Yardım**
+İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz.

@@ -1,0 +1,26 @@
+**Title: Technical University Munich**
+
+### Course Equivalents
+
+| **Dersin Kodu** | **Dersin Adı** |
+|------------------|-----------------|
+| MW0832           | Flight System Dynamics |
+| MW0047           | Aircraft Design |
+| MW1420           | Advanced Control |
+| MW2237           | Flight Guidance |
+| LRG6300          | Autonomous Systems |
+| EI70140          | Optimal Control and Decision Making |
+| MW0063           | Aerospace Structures |
+| MW1410           | Heat Transfer |
+| MW0833           | Flight Dynamics, Stability and Control |
+| EI74191          | Machine Learning in Robotics |
+| LRG2700          | Aerospace Combustion |
+| MW0265           | CAD in Aircraft Design - CATIA V5 |
+| LRG6301          | Introduction to Robot Operating System |
+| MW2228           | Aeroelasticity |
+| MW2314           | Aircraft Systems |
+
+**Contact Information:**
+- **Phone:** +90 (212) 285 31 01
+- **Fax:** +90 (212) 285 31 39
+- **Address:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

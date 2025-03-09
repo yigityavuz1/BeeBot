@@ -1,0 +1,18 @@
+**Title:** İTÜ/Skype Hizmeti
+
+**Description:** İTÜ/Skype projesi, Microsoft Skype for Business altyapısı ile İTÜ Bilgi İşlem Daire Başkanlığı tarafından İTÜ mensuplarının kullanımına sunulan bir hizmettir. Bu hizmetle beraber Skype for Business uygulamasıyla bilgisayar, tablet ve akıllı telefonlarınızdan anlık mesajlaşma, görüntülü ve sesli görüşme gerçekleştirebilirsiniz.
+
+**Features:**
+- Çevirimiçi İTÜ mensupları ile anlık mesajlaşma
+- Sesli ve görüntülü görüşmeler
+- Sesli ve görüntülü konferans görüşmeleri
+- Karşılıklı masaüstü paylaşımları
+- Karşılıklı dosya gönderimi
+
+**Activation:** İTÜ/Skype hizmetinden yararlanmak için İTÜ Portal üzerinden hesabınızı aktifleştirmeniz gerekmektedir. Skype for Business uygulaması bilgisayarlar için Microsoft Office paketi ile birlikte gelmektedir. IOS ve Android işletim sistemine sahip telefonlar için Skype for Business uygulaması kullanılabilir.
+
+**Contact Information:**
+- **Location:** İTÜ Ayazağa Kampüsü, Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- **Phone:** 0212 285 3930
+
+**Additional Information:** İTÜ Bilgi İşlem Daire Başkanlığı ürünüdür. © 2023

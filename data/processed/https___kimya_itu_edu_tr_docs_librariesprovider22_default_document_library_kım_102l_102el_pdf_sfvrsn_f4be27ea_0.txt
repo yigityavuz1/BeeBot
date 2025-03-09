@@ -1,0 +1,60 @@
+**Course Name:** General Chemistry II Laboratory  
+**Code:** KIM 102 L-KIM 102EL  
+**Semester:** 2  
+**Local Credits:** 1  
+**ECTS Credits:** 1.5  
+**Course Implementation (Hours/Week):** 2  
+**Department/Program:** Petroleum and Natural Gas Engineering  
+**Course Type:** Compulsory  
+**Course Language:** Turkish and English  
+**Prerequisites:** KIM 101 MIN DD or KIM 101E MIN DD  
+
+**Course Description:**  
+- Acids, bases, and their salts  
+- Preparing buffers and buffer capacity  
+- Determination of a solubility product constant  
+- Synthesis and features of soap  
+- Analysis of cations in Group I or the chloride group, hydrogen sulfide group, ammonium sulfide group, Group IV cations, identification reactions of common anions and their salts  
+- Preparation of [Co(NH3)5ONO]Cl2 – linkage isomerism  
+
+**Course Objectives:**  
+1. Gain the ability to prepare the experimental setup.  
+2. Learn to use simple laboratory instruments.  
+3. Support knowledge learned in general chemistry lectures with laboratory experiments.  
+4. Teach techniques for writing scientific reports.  
+5. Develop the ability to interpret experimental results.  
+
+**Course Learning Outcomes:**  
+Students completing this course will be able to:  
+1. Prepare experimental setups.  
+2. Understand laboratory rules and safety.  
+3. Have knowledge about chemical equilibrium, acid-base, and solubility.  
+4. Synthesize a basic organic compound such as soap.  
+5. Learn cation analysis.  
+6. Gain knowledge about anions.  
+7. Understand general definitions of coordination compounds.  
+
+**Course Syllabus:**  
+- **Week 1:** Formation of experimental groups and teaching instrument usage  
+- **Week 2:** Explanation of laboratory rules  
+- **Week 3:** Security in General Chemistry II Laboratory  
+- **Week 4:** Acids, bases, and their salts  
+- **Week 5:** Preparing buffers and buffer capacity  
+- **Week 6:** Determination of a solubility product constant  
+- **Week 7:** Synthesis and features of soap  
+- **Week 8:** Analysis of cations in Group I or the chloride group  
+- **Week 9:** The hydrogen sulfide group  
+- **Week 10:** The ammonium sulfide group  
+- **Week 11:** Group IV cations  
+- **Week 12:** Identification reactions of common anions and their salts  
+- **Week 13:** Preparation of [Co(NH3)5ONO]Cl2 – linkage isomerism  
+- **Week 14:** Compensation experiment  
+
+**Assessment Criteria:**  
+- Midterm Exams: 40%  
+- Quizzes: 40%  
+- Laboratory Work: 20%  
+
+**Textbook:** General Chemistry II Laboratory Booklet  
+**Other References:** Other General Chemistry Laboratory Books  
+**Laboratory Work Duration:** 1 to 2 hours per experiment.

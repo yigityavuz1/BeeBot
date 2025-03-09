@@ -1,0 +1,39 @@
+**Title: Doktora**
+
+**Öğrenci Listesi:**
+
+| Öğrenci                     | E-posta         | Danışman                             | Eş Danışman                          |
+|-----------------------------|------------------|--------------------------------------|---------------------------------------|
+| Adem Yıldırım               | yildirimad21     | Prof. Dr. Atabey Kaygun             |                                       |
+| Ahmet Topal                 | atopal           | Doç. Dr. Burcu Tunga                |                                       |
+| Ahmet Umut Çoraplı         | corapli18        | Doç. Dr. Nurettin Cenk Turgay      | Doç. Dr. Burcu Bektaş Demirci        |
+| Ayça Ceylan                 | ceylanay         | Doç. Dr. Burcu Tunga                |                                       |
+| Çağatay Altuntaş           | caltuntas        | Doç. Dr. Ergün Yaraneri             | Dr. Öğr. Üyesi Haydar Göral           |
+| Duygum Asya Bahçekapılı     | bahcekapilid18   | Prof. Dr. Samet Yücel Kadıoğlu     |                                       |
+| Ece Hazal Korkmaz          | korkmazece       | Prof. Dr. Samet Yücel Kadıoğlu     | Prof. Dr. Ersin Özuğurlu             |
+| Eril Güray Çelik           | celik19          | Prof. Dr. Nalan Antar                |                                       |
+| Ertan Sönmez               | sonmeze20        | Prof. Dr. Atabey Kaygun             |                                       |
+| Esra Özge Asan             | asane23          | Prof. Dr. Murat Sarı                | Dr. Öğr. Üyesi Enes Seyfullah Kotil  |
+| Evren Tanrıöver            | tanriovere       | Prof. Dr. Ahmet Kırış               | Prof. Dr. Mehmet Alper Tunga         |
+| Furkan Kaya                | kayaf18          | Doç. Dr. Nurettin Cenk Turgay      |                                       |
+| Hayati Ünsal Özer          | ozerh            | Prof. Dr. Ahmet Duran               |                                       |
+| Haydar Can Kaya            | kayah17          | Prof. Dr. Atabey Kaygun             |                                       |
+| Hülya Acar                 | acarhul          | Prof. Dr. Atabey Kaygun             |                                       |
+| Melih Cem Çanak            | canakm           | Prof. Dr. Gülçin Mihriye Muslu      |                                       |
+| Melis Turgut               | turgutm18        | Prof. Dr. İlkay Bakırtaş Akar      |                                       |
+| Murat Can Aşkaroğulları    | askarogullari19  | Prof. Dr. Atabey Kaygun             |                                       |
+| Murat Özkaya               | ozkaya16         | Doç. Dr. Burhaneddin İzgi         |                                       |
+| Sedanur Mazı Gözen         | gozen17          | Dr. Öğr. Üyesi Mehmet Ali Karaca    |                                       |
+| Sena Kaçar                 | uralse           | Doç. Dr. Burcu Tunga                |                                       |
+| Sultan Durak               | durak17          | Doç. Dr. Ergün Yaraneri             | Prof. Dr. Ferruh Özbudak             |
+| Sümeyye Yılmaz             | yilmazsum23      | Prof. Dr. Murat Sarı                | Dr. Öğr. Üyesi Hüseyin Tunç          |
+| Şeyma Gönül                | gonul20          | Doç. Dr. Cihangir Özemir            |                                       |
+| Tuğçe Sezer                | sezert22         | Prof. Dr. Semra Ahmetolan           |                                       |
+| Uğur Yıldırım              | yildirimug       | Prof. Dr. Elmkhan Mahmudov          |                                       |
+| Yasemin Çalış              | calisy18         | Doç. Dr. Cihangir Özemir            |                                       |
+| Yasin Hasanoğlu            | hasanoglu18      | Doç. Dr. Cihangir Özemir            |                                       |
+
+**İletişim Bilgileri:**
+- Telefon: +90 (212) 285 32 53
+- Fax: +90 (212) 285 63 86
+- Adres: İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

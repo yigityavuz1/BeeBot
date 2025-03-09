@@ -1,0 +1,24 @@
+**İtalya Sannio Üniversitesi**
+
+**Ders Katalogu:**
+
+| İtalya Sannio Üniversitesi | İTÜ |
+|----------------------------|-----|
+| **Dersin Kodu**            | **Dersin Adı**               | **Dersin Kodu** | **Dersin Adı**               |
+|----------------------------|------------------------------|-----------------|------------------------------|
+|                            | Bacic Electirk Circuit Th veya Electic Circuits | ELE211          | Elektrik Devre Temelleri     |
+|                            | English III                  | ING 201         | Engineering III              |
+|                            | Thermodynamics/Heat Transfer | UZB232          | Isı Geçişi                  |
+|                            | Foundations of Materials Science and Eng. | MAL201          | Malzeme Bilimi               |
+|                            | Structural Analysis          | MUK 203        | Mukavemet I                  |
+|                            | Continuum Mechanics          | MUK 204        | Mukavemet II                 |
+|                            | System Programming           |                 | İnt. Sci & Eng. Comp.        |
+|                            | Basic of Probability Theory  |                 | Olasılık İstatistik          |
+|                            | Fundamentals of Measurements  | UZB341          | Ölçme Tekniği               |
+|                            | Engineering Thermodynamics (Civil Eng.) | UCK212          | Termodinamik                 |
+|                            | Engineering Thermodynamics (Energy Eng.) |                 | Yanma                        |
+
+**İletişim Bilgileri:**
+- **Telefon:** +90 (212) 285 31 01
+- **Faks:** +90 (212) 285 31 39
+- **Adres:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

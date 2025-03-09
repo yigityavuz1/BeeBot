@@ -1,0 +1,24 @@
+**University of Stutgart Course Equivalents**
+
+| ITU Course Code | ITU Course Name | Stutgart Course Code | Stutgart Course Name |
+|------------------|------------------|----------------------|-----------------------|
+| 21360            | Warmübertragung/Warmestrahlung - Heat Transfer/Heat Radiation | UZB317E | Heat Transfer (2021) |
+| 21340            | Fluid Dynamics II - Strömungslehre II | AKM215 | Akışkanlar Mekaniği II (2021) |
+| 44300            | Introduction to Helicopter Technology - Einführung in die Hubschraubertechnik | 5. yy. TM | Helicopter Theory (2021) |
+| 76820            | Applied Mechanics III (Dynamics) | DNK201 | Dinamik (2021) |
+| 61180            | Systems Engineering II - Systemtechnik Grundlagen II | UCK322E | Flight Mechanics (2021) |
+| 43970            | Aircraft Aerodynamics and Aircraft Design I | UCK351 | Aerodinamik (2021) |
+| 932930           | German Vocabulary Expansion Practice | ALM302 | Deutsch VI (2021) |
+| 68540            | Boundary Layer Flow | 5. yy. TM | Boundary Layer Theory |
+| 44450            | Flight Control Systems - Flugregelungssysteme | UCK441E | Flight Stability and Control (2021) |
+| 44730            | Lightweight Construction I - Leichtbau I | UZB331 | Hava Uzay Yapıları (2021) |
+| 36060            | Aviation Medicine for Engineers | 8.yy ITB | Aerospace Medicine (2021) |
+| 931050           | German Training for Foreign Students (C1) | ALM401 | Deutsch VII (2021) |
+| 933050           | English for Critical Incidents: Culture in Business | ING103ERS | Intercultural Citizenship in International Education (2021) |
+| 57170            | Intro to the Finite Element Methods | 5.yy TM | Finite Element Method (2021) |
+| 21350            | Fundamentals of Thermodynamics | UCK206 | Termodinamik II |
+
+**Contact Information:**
+- **Phone:** +90 (212) 285 31 01
+- **Fax:** +90 (212) 285 31 39
+- **Address:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

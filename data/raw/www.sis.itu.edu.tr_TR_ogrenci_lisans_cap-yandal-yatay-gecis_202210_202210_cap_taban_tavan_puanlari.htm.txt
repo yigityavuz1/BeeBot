@@ -1,0 +1,64 @@
+Title: 
+
+URL Source: https://www.sis.itu.edu.tr/TR/ogrenci/lisans/cap-yandal-yatay-gecis/202210/202210_cap_taban_tavan_puanlari.htm
+
+Markdown Content:
+| Bölüm | 3.YY | 5.YY |
+| Yerleşen | Tavan Not Ortalaması | Taban Not Ortalaması | Yerleşen | Tavan Not Ortalaması | Taban Not Ortalaması |
+| **İnşaat Fakültesi** |
+| İnşaat Mühendisliği | 11 | 3.65 | 3.4 | 5 | 3.5 | 3.38 |
+| Geomatik Mühendisliği | 5 | 3.68 | 3.31 | 3 | 3.62 | 3.55 |
+| Çevre Mühendisliği | 7 | 3.61 | 3.13 | 3 | 3.6 | 3.38 |
+| **Mimarlık Fakültesi** |
+| Mimarlık | 10 | 3.85 | 3.65 | 8 | 3.71 | 3.63 |
+| Şehir ve Bölge Planlaması | 2 | 3.57 | 3.41 | 3 | 3.8 | 3.37 |
+| Endüstriyel Tasarım | 4 | 3.87 | 3.59 | 2 | 3.84 | 3.68 |
+| İç Mimarlık | 2 | 3.78 | 3.77 | 1 | 3.84 | 3.84 |
+| Peyzaj Mimarlığı | 3 | 3.57 | 3.5 | 2 | 3.59 | 3.55 |
+| **Makina Fakültesi** |
+| Makina Mühendisliği | 11 | 3.7 | 3.52 | 3 | 3.67 | 3.59 |
+| **Elektrik - Elektronik Fakültesi** |
+| Elektronik ve Haberleşme Mühendisliği | 5 | 3.81 | 3.74 | 6 | 3.72 | 3.6 |
+| Elektrik Mühendisliği | 8 | 3.64 | 3.49 | 6 | 3.61 | 3.51 |
+| Kontrol ve Otomasyon Mühendisliği | 10 | 3.82 | 3.56 | 8 | 3.7 | 3.56 |
+| **Maden Fakültesi** |
+| Maden Mühendisliği | 0 | \-- | \-- | 4 | 3.37 | 3.15 |
+| Jeoloji Mühendisliği | 3 | 3.56 | 3.25 | 5 | 3.42 | 3.17 |
+| Jeofizik Mühendisliği | 1 | 3.38 | 3.38 | 2 | 3.34 | 3.22 |
+| Petrol ve Doğalgaz Mühendisliği | 1 | 3.35 | 3.35 | 4 | 3.46 | 3.32 |
+| Cevher Hazırlama Mühendisliği | 1 | 3.31 | 3.31 | 4 | 3.2 | 3.02 |
+| **Kimya - Metalurji Fakültesi** |
+| Kimya Mühendisliği | 5 | 3.79 | 3.55 | 2 | 3.65 | 3.61 |
+| Metalurji ve Malzeme Mühendisliği | 4 | 3.65 | 3.55 | 3 | 3.5 | 3.45 |
+| Gıda Mühendisliği | 4 | 3.5 | 3.41 | 0 | \-- | \-- |
+| **İşletme Fakültesi** |
+| İşletme Mühendisliği | 11 | 3.74 | 3.28 | 0 | \-- | \-- |
+| Endüstri Mühendisliği | 8 | 3.83 | 3.51 | 4 | 3.81 | 3.28 |
+| Ekonomi | 6 | 3.82 | 3.48 | 2 | 3.8 | 3.62 |
+| **Gemi İnşaatı ve Deniz Bilimleri Fakültesi** |
+| Gemi İnşaatı ve Gemi Makineleri Mühendisliği | 1 | 3.35 | 3.35 | 4 | 3.31 | 3.07 |
+| Gemi ve Deniz Teknolojisi Mühendisliği | 1 | 3.41 | 3.41 | 0 | \-- | \-- |
+| **Fen - Edebiyat Fakültesi** |
+| Matematik Mühendisliği | 3 | 3.98 | 3.7 | 1 | 3.8 | 3.8 |
+| Fizik Mühendisliği | 5 | 3.78 | 3.25 | 4 | 3.91 | 3.75 |
+| Kimya | 9 | 3.56 | 3.3 | 6 | 3.5 | 3.31 |
+| Moleküler Biyoloji ve Genetik | 4 | 3.62 | 3.47 | 0 | \-- | \-- |
+| **Uçak ve Uzay Bilimleri Fakültesi** |
+| Uçak Mühendisliği | 3 | 3.71 | 3.7 | 2 | 3.72 | 3.69 |
+| Uzay Mühendisliği | 3 | 3.74 | 3.66 | 1 | 3.65 | 3.65 |
+| Meteoroloji Mühendisliği | 1 | 3.41 | 3.41 | 2 | 3.38 | 3.1 |
+| **Türk Musikisi Devlet Konservatuvarı** |
+| Müzik Teorisi | 0 | \-- | \-- | 0 | \-- | \-- |
+| Ses Eğitimi | 1 | 3.72 | 3.72 | 1 | 3.8 | 3.8 |
+| Bestecilik | 0 | \-- | \-- | 0 | \-- | \-- |
+| Müzik Teknolojisi | 0 | \-- | \-- | 0 | \-- | \-- |
+| Müzikoloji | 0 | \-- | \-- | 0 | \-- | \-- |
+| **Denizcilik Fakültesi** |
+| **Tekstil Teknolojileri ve Tasarımı Fakültesi** |
+| Tekstil Mühendisliği | 3 | 3.54 | 3.27 | 3 | 3.49 | 3.22 |
+| **Bilgisayar ve Bilişim Fakültesi** |
+| Bilgisayar Mühendisliği | 6 | 3.98 | 3.8 | 2 | 3.83 | 3.81 |
+| **İTÜ Kuzey Kıbrıs** |
+| Gemi İnşaatı ve Gemi Makineleri Mühendisliği (KKTC) | 0 | \-- | \-- | 0 | \-- | \-- |
+| Gemi Makinaları İşletme Mühendisliği  (KKTC) | 0 | \-- | \-- | 0 | \-- | \-- |
+| Deniz Ulaştırma İşletme Mühendisliği  (KKTC) | 0 | \-- | \-- | 0 | \-- | \-- |

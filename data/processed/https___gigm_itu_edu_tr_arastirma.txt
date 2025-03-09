@@ -1,0 +1,50 @@
+**Title: Araştırma Alanları**
+
+**Araştırma Alanları:**
+
+1. **Gemi Hidrodinamiği**
+   - Gemi Stabilitesi
+   - Pervane Dizaynı
+   - Gemi Direnci
+   - Kavitasyon
+   - Akış Gürültüsü
+   - HAD Simülasyonları
+   - Hareket, Manevra ve Denizcilik
+
+2. **Gemi Yapısal Dizaynı**
+   - Gemi Mukavemeti
+   - Titreşim ve Gürültü
+   - Kural Geliştirme ve Standardizasyon
+   - Akışkan Yapı Etkileşimi
+
+3. **Gemi Makineleri**
+   - Ana Makine
+   - Yardımcı Makineler
+   - Sistem Dizaynı (Boru Donanımları, Havalandırma ve İklimlendirme, Soğutma ve Isıtma)
+   - Makine Dairesi Dizaynı
+   - Kumanda Kontrol Sistemleri
+   - Emisyon Kontrolü ve Yanma
+   - Şaft ve Makine Titreşimleri
+   - Arızaların Araştırılması ve Önlenmesi
+   - Yangın Modellemesi ve Emniyeti
+   - Kızılötesi İz (IR) Kontrolü ve Modellemesi
+
+4. **Gemi İnşaatı**
+   - Gemi Dizaynı
+   - Üretim Optimizasyonu
+   - Tersane Organizasyonu ve Yönetimi
+   - Gemi Üretim Teknikleri
+   - Tersanelerde İş Kazaları ve İş Güvenliği
+   - Kural Geliştirme ve Standardizasyon
+
+5. **Diğer Konular**
+   - Gemi İşletmeciliği
+   - Gemi Elektrik Donanımları ve Sistemleri
+   - Yat ve Küçük Tekneler
+   - Askeri Gemiler
+   - Gemilerin Hurdaya Ayrılması ve Sökümü
+
+**İletişim Bilgileri:**
+- Telefon: +90 (212) 285 64 40
+- Fax: +90 (212) 285 64 54
+- Adres: İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

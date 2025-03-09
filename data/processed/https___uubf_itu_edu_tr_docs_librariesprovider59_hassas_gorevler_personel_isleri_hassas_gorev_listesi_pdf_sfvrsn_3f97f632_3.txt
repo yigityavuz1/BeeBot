@@ -1,0 +1,27 @@
+**Hassas Görev Listesi**
+
+**Birim:** Uçak ve Uzay Bilimleri Fakültesi  
+**Alt Birim:** Personel İşleri  
+
+| Sıra No | Hizmetin / Görevin Adı | Riskler | Risk Düzeyi | Alınması Gereken Önlemler veya Kontroller | Görevi Yürütecek Personelde Aranacak Kriterler |
+|---------|------------------------|---------|--------------|------------------------------------------|-----------------------------------------------|
+| 1       | Özlük dosyaları hazırlamak ve dosya içerisinde olan gizli bilgileri görülmesinin ve okumasının önlenmesi | İtibar kaybı, hak kaybı ve güven kaybı | Yüksek | 2547 sayılı Yükseköğretim Kanunu, 2914 sayılı Yükseköğretim Personel Kanunu ve 657 sayılı Devlet Memurları Kanunları ile ilgili hizmetiçi eğitim | Mevzuata hakim olması ve iş takip becerisi |
+| 2       | Akademik ve idari kadrolar ile ilgili ilan çalışmaları | İtibar kaybı, hak kaybı ve güven kaybı | Yüksek | Takip işlemlerinin yasal süre içerisinde yapmak | Mevzuata hakim olması ve iş takip becerisi |
+| 3       | Öğretim elemanlarının görev süresi uzatımı işlemleri | Hak kaybı | Yüksek | Takip işlemlerinin yasal süre içerisinde yapmak | Mevzuata hakim olması ve iş takip becerisi |
+| 4       | Akademik ve idari personel ayırma/ilişik kesme işlemleri | Hak kaybı, itibar kaybı, zaman kaybı | Yüksek | Takip işlemlerinin yasal süre içerisinde yapmak | Mevzuata hakim olması ve iş takip becerisi |
+| 5       | 1416 sayılı Kanun uyarınca yapılan işlemler | Hak kaybı | Orta | Takip işlemlerinin yasal süre içerisinde yapmak | Mevzuata hakim olması ve iş takip becerisi |
+| 6       | Askerlik Yazışmaları | Hak kaybı | Orta | Takip işlemlerinin yasal süre içerisinde yapmak | Mevzuata hakim olması ve iş takip becerisi |
+| 7       | Fakülte Personeli SGK Tescil İşlemleri | Hak kaybı, kişi mağduriyeti | Yüksek | Takip işlemlerinin yasal süre içerisinde yapmak | Mevzuata hakim olması ve iş takip becerisi |
+| 8       | Büroya gelen evrakların genel takibini yapmak | Görevin aksaması, hak kaybı, kamu zararı | Orta | Takip işlemlerinin yasal süre içerisinde yapmak | Mevzuata hakim olması ve iş takip becerisi |
+| 9       | Personel İzin İşlemleri | Hak kaybı, kişi mağduriyeti, kamu zararı | Düşük | Kanun, Yönetmelik ve mevzuata uygun işlem yapmak | Mevzuata hakim olması ve iş takip becerisi |
+| 10      | Süreli yazıları takip etmek | İşlerin aksaması ve evrakların kaybolması | Yüksek | Süreli yazılara zamanında cevap verilmesi | Mevzuata hakim olması ve iş takip becerisi |
+| 11      | Akademik ve İdari Personel Yurtiçi ve Yurtdışı görevlendirme işlemleri | Hak kaybı | Düşük | Takip işlemlerinin yasal süre içerisinde yapmak | Mevzuata hakim olması ve iş takip becerisi |
+| 12      | Mal Bildirim Formları | Cezai yaptırım, mevzuatın gerekliliklerinin yerine getirilmesi, soruşturma | Düşük | Takip işlemlerinin yasal süre içerisinde yapmak, Tüm personelin mal bildirim formlarının takip edilmesi | Mevzuata hakim olması ve iş takip becerisi |
+| 13      | Akademik ve idari personelin atama, terfi, intibak işlemleri | Hak kaybı, kişi mağduriyeti | Yüksek | Takip işlemlerinin yasal süre içerisinde yapmak | Mevzuata hakim olması ve iş takip becerisi |
+| 14      | İdari Personel Emeklilik İşlemleri | Hak kaybı, Kişi mağduriyeti | Yüksek | Takip işlemlerinin yasal süre içerisinde yapmak | Mevzuata hakim olması ve iş takip becerisi |
+| 15      | Elektronik yazışma takibi | Evrak kaybı, görevlerin aksaması, kurumsallığın itibar kaybı | Yüksek | EBYS yazışmaları ile ilgili her türlü bilginin, ayrılan personel tarafından, çalışan personele aktarılması, izinli personele de paraf açılarak bilgi akışının sürekliliğinin sağlanması | Mevzuata hakim olması ve iş takip becerisi |
+| 16      | Yıl sonunda büro içerisinde gerekli düzenlemeyi sağlamak | Çalışma veriminin düşmesi | Yüksek | Düzenli ve sistematik çalışmanın sağlanması | Gelişime açık olmak |
+
+**Hazırlayan:** İlgili Alt Birim Amiri  
+**Onaylayan:** Prof. Dr. Metin Orhan KAYA, Dekan  
+**Gülay BİRSEN, Fakülte Sekreteri**

@@ -1,0 +1,70 @@
+İSTANBUL TEKNİK ÜNİVERSİTESİ  
+BİLGİ İŞLEM DAİRE BAŞKANLIĞI  
+ALAN ADI VE WEB BARINDIRMA HİZMETİ BAŞVURU FORMU  
+
+Belirtilen birim için aşağıda istenilen alan adı ve web barındırma hizmetlerin sağlanması için gereğinin yapılmasını talep ederim.
+
+**Birim Sorumlusu**  
+Ad Soyad:  
+İmza:  
+
+**Birim Adı / Organizasyon Adı / Etkinlik Adı / Kulüp Adı:**  
+Talep Edilen Kullanıcı Adı:  
+Talep Edilen Alan Adı:  
+
+**Web Sorumlusu Olacak Kişinin:**  
+Adı Soyadı:  
+Telefon Numarası:  
+E-Posta: @itu.edu.tr  
+
+*Birim Sorumlusu: Kulüpler için Kulüpler Birliği Başkanlığı, seminer vb bilimsel etkinlikler için koordinatör, bölüm/fakülte için dekanlıklar, Uygulama Merkezi ve Enstitüler için Müdür.
+
+**Mozaik İçerik Yönetim Sistemi**  
+İstiyorum  
+İstemiyorum  
+
+**İstenen / Kullanılacak Web Teknolojisi:**  
+Veritabanı: HTML, PHP  
+Microsoft .NET  
+
+**Web Sorumlusu**  
+İmza:  
+
+Talep edilen kullanıcı adı 20 karakter ile sınırlıdır. Talep edilen alan adı alanadi.itu.edu.tr şeklinde olmalıdır.
+
+---
+
+**ALAN ADI TAHSİS SÖZLEŞMESİ**
+
+**Tanımlamalar:**  
+İstekli: Alan adı talebinde bulunan özel ya da tüzel kişi  
+İTÜ/BİDB: İstanbul Teknik Üniversitesi Bilgi İşlem Daire Başkanlığı  
+Rektörlük: İstanbul Teknik Üniversitesi Rektörlüğü  
+
+**Alan Adı Tahsis Kuralları:**  
+1. Talep edilen alan adının .itu.edu.tr alan adının birinci seviyeden alt alan adı olması durumunda:  
+   a. abcxyz.itu.edu.tr ve ya www.abcxyz.itu.edu.tr şeklindeki alan adları .itu.edu.tr alan adının birinci seviyesinden alt alan adları olarak dikkate alınır.  
+   b. Talep edilen alan adının kullanım amacını uygun biçimde ifade etmesi ve çok kısa olmaması gerekir.  
+   c. Talep edilen alan adı aynı anda birden fazla istekli tarafından istenmesi durumunda isteklerin geliş sırası sıralamayı belirler.  
+   d. Talep edilen alan adı kullanımda olmaması ya da İTÜ/BİDB tarafından kullanımı planlanıyor olmaması durumunda istekliye tahsis edilir.  
+   e. itu.edu.tr alan adı Rektörlüğün yönetiminde olup buradaki kurallar dışında gerekli hallerde istisnai durumlar uygulayabilir ya da alan adını geri alabilir.  
+   f. Talep edilen alan adında, kullanım amacını ifade eden bir takı bulunması zorunludur (ör. projesi, ofisi, takımı vb.). Formda uygun bir takı belirtilmediği takdirde İTÜ/BİDB, alan adına uygun bir takı ekleyecektir.  
+
+2. Talep edilen alan adının .itu.edu.tr alan adının ikinci seviyeden alt alan adı olması durumunda:  
+   a. abcxyz.fff.itu.edu.tr ve ya www.abcxyz.fff.itu.edu.tr şeklindeki alan adları .itu.edu.tr alan adının ikinci seviyesinden alt alan adları olarak dikkate alınır.  
+   b. Talep edilen alan adı alt alan adının sorumlusu, birim amirinden (Fakülte Dekanı, Enstitü/Araştırma Merkezi Müdürü, Kültür Sanat Birliği Başkanı, İdari Birim Amirleri) onay alarak talepte bulunmalıdır.  
+   c. Talep edilen alan adı alt alan adının sorumlusu alan adı üstünde değişiklik talebinde bulunabilir.  
+   d. İTÜ/BİDB gerekli teknik zorunluluklarda alan adının yönlendirmesinde değişiklik yapabilir.  
+
+YUKARIDAKİ SÖZLEŞMEYİ OKUDUM, TAHSİS KURALLARINI KABUL EDİYORUM.  
+
+**Birim Sorumlusu:**  
+İstanbul Teknik Üniversitesi Ayazağa Kampüsü  
+Bilgi İşlem Daire Başkanlığı Maslak-Sarıyer / İstanbul  
+0 212 285 39 30  
+
+**Web Sorumlusu:**  
+Unvanı, Adı, Soyadı:  
+İmza:  
+Adı, Soyadı:  
+İmza:  

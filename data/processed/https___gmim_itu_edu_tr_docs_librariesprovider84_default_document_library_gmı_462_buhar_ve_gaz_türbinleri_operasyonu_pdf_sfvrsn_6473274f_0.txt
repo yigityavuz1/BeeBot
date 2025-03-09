@@ -1,0 +1,55 @@
+**Title:** GMI 462 Buhar ve Gaz Türbinleri Operasyonu
+
+**Published Time:** 2022-05-14
+
+**Course Name:** Operation of Steam and Gas Turbines  
+**Course Code:** GMI 462  
+**Semester:** 8  
+**Local Credits:** 2  
+**ECTS Credits:** 5  
+**Course Implementation:** 2 hours/week  
+**Course Type:** Compulsory  
+**Course Language:** Turkish  
+**Course Prerequisites:** GMI 393E  
+
+**Course Description:**  
+- The cycles of steam turbines, power, efficiency, and losses.  
+- Working principles of steam turbines.  
+- Types of turbines and their components.  
+- Operation, maintenance, and performance of steam turbines.  
+- Troubleshooting for steam turbines.  
+- The cycle of gas turbines, power, efficiency, and losses.  
+- Working principles of gas turbines.  
+- Operation, maintenance, and performance of gas turbines.  
+- Troubleshooting for gas turbines.
+
+**Course Objectives:**  
+1. To teach working principles of steam and gas turbines.  
+2. To teach types of steam and gas turbines and their components.  
+3. To teach operation and maintenance of steam and gas turbines.
+
+**Course Learning Outcomes:**  
+Students who pass the course will be able to:  
+I. Learn about the cycles of steam turbines.  
+II. Learn about types, constructions, and working principles of steam turbines.  
+III. Learn about the cycles of gas turbines.  
+IV. Learn about types, constructions, and working principles of gas turbines.
+
+**Course Plan:**  
+1. The cycles of steam turbines, power, efficiency, and losses  
+2. h-S diagram applications  
+3. Working principles of axial and radial turbines and their components  
+4. Axial flow, radial flow, and compound turbines and their components  
+5. Lubricating oil and rotor shaft sealing system, reduction gear equipment  
+6. Preparation of steam turbines for cruising, maneuvering, and watchkeeping  
+7. Operation, maintenance, and performances of steam turbines  
+8. The cycle of gas turbines, power, efficiency, and losses  
+9. Brayton cycle application; working principles of open, semi-open, and closed gas turbines and components  
+10. Operation, maintenance, and performances of gas turbines  
+
+**Textbook:**  
+Fahrettin Küçükşahin, Buhar ve Gaz Türbinleri, Birsen Yayınevi, İstanbul 2016.
+
+**Assessment Criteria:**  
+- Midterm Exams: 60%  
+- Final Exam: 40%  

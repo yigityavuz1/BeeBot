@@ -1,0 +1,39 @@
+**İTÜ Kullanıcı Hesabı Politikaları**
+
+İstanbul Teknik Üniversitesi mensuplarına sağlanan İTÜ Kullanıcı Hesabı ve ilgili hizmet ve işlem politikaları aşağıda belirtilmiştir.
+
+### Tanımlar
+- **İTÜ BİDB:** İstanbul Teknik Üniversitesi Bilgi İşlem Daire Başkanlığı.
+- **İTÜ Kullanıcı Adı:** Kullanıcı Yönetim Sistemi tarafından üretilen ve atanan kullanıcı adı.
+- **İTÜ Şifresi:** İTÜ Kullanıcı Adı ile ilişkilendirilen şifre.
+- **İTÜ Kullanıcı Hesabı:** İTÜ Kullanıcı Adı ve İTÜ Şifresi çifti ile ilişkilendirilen diğer kullanıcı bilgileri.
+- **Birincil İTÜ E-posta Adresi:** İTÜ_Kullanıcı_Adı@itu.edu.tr biçiminde e-posta adresi.
+- **İkincil İTÜ E-posta Adresi:** isim.soyisim@itu.edu.tr biçiminde e-posta adresi.
+- **İTÜ Kimlik Kartı:** İTÜ mensuplarına verilen kimlik kartı.
+
+### İTÜ Kullanıcı Hesap Tipleri
+1. **Öğrenci:** Önlisans, Lisans, Yüksek Lisans veya Doktora programlarında okuyan öğrencilere.
+2. **İdari:** İdari birimlerde çalışan personele.
+3. **Akademik:** Öğretim üyelerine.
+4. **Öğrenci Semineri/Kulübü:** Öğrenci etkinlikleri için.
+5. **Personel Semineri/Kulübü:** Personel etkinlikleri için.
+6. **Kursiyer:** Bilgi Teknolojileri Eğitimleri'ne katılanlara.
+7. **Geçici Öğrenci:** Belirli bir süre öğrenim görecek öğrencilere.
+8. **Geçici Akademik:** Geçici öğretim üyelerine.
+9. **Geçici İdari:** Geçici idari görevde bulunan personele.
+
+### İTÜ Kullanıcı Hesabının Açılışı
+- Hesap açılış işlemi İTÜ BİDB veya bağlı fakülte bilgisayar laboratuvar sorumluları tarafından gerçekleştirilir.
+- Hesap açılışı için İTÜ Kimlik Kartı gereklidir.
+
+### İTÜ Kullanıcı Hesap Bilgilerinin Güncellenmesi
+- Kullanıcı bilgileri (şifre hariç) güncellenebilir. Değişiklikler Kart İşlem Merkezi’nde yapılmalıdır.
+
+### İTÜ Kullanıcı Adı Değişikliği
+- Kullanıcı adı, belirli durumlar dışında değiştirilemez. Değişiklik talebi İTÜ BİDB’ye dilekçe ile yapılmalıdır.
+
+### İTÜ Şifresi İşlemleri
+- Şifre, güvenlik gerekliliklerine uygun olmalıdır. Yenileme işlemleri İTÜ Kimlik Kartı ile yapılır.
+
+### İTÜ Kullanıcı Hesabının Kapatılması veya Silinmesi
+- Hesaplar, mezuniyet veya görev sona ermesi durumunda silinebilir. Kullanıcı hesapları, belirtilen politikalara uymayan durumlarda pasif duruma getirilebilir veya silinebilir.

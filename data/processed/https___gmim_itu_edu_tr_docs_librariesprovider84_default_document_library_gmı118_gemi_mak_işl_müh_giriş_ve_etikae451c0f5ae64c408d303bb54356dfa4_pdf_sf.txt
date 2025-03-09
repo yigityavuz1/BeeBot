@@ -1,0 +1,70 @@
+**Title:** GMI118 Gemi Mak. İşl. Müh. Giriş ve Etik
+
+**Published Time:** 2022-05-14
+
+**Course Name:** Introduction to Marine Engineering and Ethics
+
+**Course Code:** GMI118
+
+**Semester:** 1
+
+**Local Credits:** 2.5
+
+**ECTS Credits:** 3.5
+
+**Course Implementation:** 2 hours/week (Theoretical)
+
+**Department/Program:** Marine Engineering
+
+**Course Type:** Compulsory
+
+**Course Language:** Turkish
+
+**Course Prerequisites:** None
+
+**Course Description:** 
+- Overview of the engineering profession and the role of marine engineering.
+- Structure of the maritime industry and key stakeholders.
+- Classification and characteristics of merchant ships.
+- Classification of marine engines and their main functions.
+- Competencies required for marine engineers.
+- Duties, authorities, and responsibilities of marine engineers.
+- Principles of engineering ethics and their relevance to marine engineering.
+
+**Course Objectives:**
+1. Teach the importance of marine engineering in engineering disciplines.
+2. Introduce ships, marine engines, and systems.
+3. Define the duties, authorities, and responsibilities of marine engineers.
+4. Teach the principles of engineering ethics and their importance.
+
+**Course Learning Outcomes:**
+- Understand the role and importance of marine engineering.
+- Identify ships, marine engines, and systems.
+- Know the duties and responsibilities of marine engineers.
+- Recognize professional and ethical responsibilities in engineering.
+
+**Course Plan:**
+1. The engineering profession and marine engineering.
+2. Structure of the maritime industry and stakeholders.
+3. Classification and characteristics of merchant ships.
+4. Classification of marine engines and functions.
+5. Competencies required for marine engineers.
+6. Duties and responsibilities of marine engineers.
+7. Principles of engineering ethics.
+8. Analysis of engineering ethics in marine engineering.
+9. Importance of engineering ethics in team management.
+
+**Textbook:**
+1. Fahrettin Küçükşahin, Gemi Makineleri, Güven Kitapevi, İstanbul 2011.
+2. Kemal Demirel, Gemi Yardımcı Makineleri ve Sistemleri I -II, Birsen Yayınevi, İstanbul, 2014.
+3. J. Babicz, Ship Systems and Machinery: Introduction to Marine Engineering, 2015.
+4. D. A. Taylor, Introduction to Marine Engineering, Butterworth Heinemann, 2005.
+5. U. Tansel, Mühendislikte Meslek Ahlakı, 2014.
+
+**Other References:**
+1. S. U. Onbaşıoğlu, Mühendislik Etiği, Doğa Yayıncılık, İstanbul, 2003.
+2. R. Schinzinger, M. W. Martin, Introduction to Engineering Ethics, McGraw Hill, Boston 2000.
+
+**Assessment Criteria:**
+- Midterm Exams: 40%
+- Final Exam: 60%

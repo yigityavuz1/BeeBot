@@ -1,0 +1,33 @@
+**Title: Hakkında**
+
+**Matematik Mühendisliği Lisans Programı**
+
+- Programda toplam 129 kredilik (240 AKTS) ders, sekiz yarıyılda okutulmaktadır.
+- 108 kredilik ders zorunlu, 21 kredilik ders seçmelidir.
+- Ders planı: %43 temel bilim, %26 temel mühendislik, %19 meslek tasarımı, %12 insan ve toplum bilimleri.
+- En az %30'u İngilizce işlenen derslerden sağlanmalıdır.
+- Bölüm mezunları Matematik Mühendisi unvanını alırlar.
+
+**ÖSYM Verileri: Matematik Müh. Lisans Programı - Yerleşen Öğrenci Verileri**
+
+| Giriş Yılı | Taban Puan | Tavan Puan | Son Yerleşen | İlk Yerleşen |
+|------------|------------|------------|--------------|--------------|
+| 2024       | 517,55503  | 537,29711  | 4910         | 1231         |
+| 2023       | 522,96778  | 534,14694  | 6666         | 2886         |
+| 2022       | 511,66215  | 530,47637  | 10646        | 2996         |
+| 2021       | 436,66205  | 457,35910  | 18238        | 9250         |
+| 2020       | 490,9719   | 505,42383  | 21751        | 12475        |
+| 2019       | 457,61793  | 483,48147  | 25797        | 12841        |
+| 2018       | 442,29293  | 478,12516  | 28082        | 12522        |
+
+**2024 Güz Dönemi Öğrenci Dağılımı**
+
+| Sınıf      | Hazırlık | 1. Sınıf | 2. Sınıf | 3. Sınıf | 4. Sınıf |
+|------------|----------|----------|----------|----------|----------|
+| Öğrenci Sayısı | 58       | 89       | 118      | 113      | 129      |
+
+**İletişim Bilgileri:**
+
+- Telefon: +90 (212) 285 32 53
+- Fax: +90 (212) 285 63 86
+- Adres: İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

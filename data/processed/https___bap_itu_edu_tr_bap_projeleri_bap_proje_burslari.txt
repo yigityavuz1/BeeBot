@@ -1,0 +1,33 @@
+**Title: BAP Proje Bursları**
+
+### **Doktora Tez Projelerinde Burs Desteği Şartları:**
+
+- Yalnızca İTÜ'de doktorasına devam eden öğrencilere burs verilir.
+- 1 kişiye en fazla 9.000 TL/ay burs verilebilir.
+- Burs, normal öğrenim süresi içindeki öğrencilere verilir.
+- Bursiyerin Türkiye'de ikamet etmesi gerekir.
+- Bursiyer 40 yaşından gün almamış olmalıdır.
+- Bursiyerin bir kurum veya iş yerinde çalışmıyor olması gerekir.
+- Doktora Tez Projesiyle eş zamanlı olarak TÜBİTAK yurtiçi lisansüstü burs programı bursiyeri olmamalıdır.
+- Doktora Tez Proje bütçesine ek olarak 80.000 TL bursiyer ücreti yazılabilir.
+- Bursiyer sadece kendi Doktora Tez Projesinden burs desteği alabilir.
+
+### **Yüksek Lisans Tez Projelerinde Burs Desteği Şartları:**
+
+- Yalnızca İTÜ'de yüksek lisansına devam eden öğrencilere burs verilir.
+- 1 kişiye en fazla 6.000 TL/ay burs verilebilir.
+- Burs, normal öğrenim süresi içindeki öğrencilere verilir.
+- Bursiyerin Türkiye'de ikamet etmesi gerekir.
+- Bursiyer 40 yaşından gün almamış olmalıdır.
+- Bursiyerin bir kurum veya iş yerinde çalışmıyor olması gerekir.
+- Doktora Tez Projesiyle eş zamanlı olarak TÜBİTAK yurtiçi lisansüstü burs programı bursiyeri olmamalıdır.
+- Yüksek Lisans Tez Proje bütçesine ek olarak 50.000 TL bursiyer ücreti yazılabilir.
+- Bursiyer sadece kendi Yüksek Lisans Tez Projesinden burs desteği alabilir.
+
+### **Süreçler:**
+
+- Proje onaylandıktan sonra proje sözleşmesi ve SGK Bursiyer Bilgi Formu BAP birimine teslim edilir. SGK Bursiyer Bilgi Formunun ekinde kimlik fotokopisi ve müstehaklık belgesi olması gerekir.
+- BAP Birimi tarafından bursiyerin SGK girişi yapılarak bursiyerliği başlatılır. Burs ödemesi yapılırken SGK girişi tarihi esas alınır.
+- Her ay proje yürütücüsü tarafından burs ödemesine dair harcama talebi oluşturulur ve bu talebin sonunda dilekçenin çıktısı alınarak yürütücü tarafından imzalanır. Oluşan Dilekçenin ekine Tez Projeleri Bursiyer Bilgi Formu eklenerek her ayın 15 ile 25 arasında BAP birimine teslim edilir.
+- İlk burs ödemesinde Tez Projeleri Bursiyer Bilgi Formunun ekine öğrenci belgesi ve kimlik fotokopisi, diğer aylarda ise sadece Provizyon (Müstehaklık) belgesi eklenir. Provizyon belgesi ve öğrenci belgesi E-Devletten alınabilinir.
+- Zamanında teslim edilen burs bilgi formlarının ödemeleri burs ödemesi yapılacak ayı takip eden ayın ilk 7 günü içinde öğrencinin hesabına yatırılır.

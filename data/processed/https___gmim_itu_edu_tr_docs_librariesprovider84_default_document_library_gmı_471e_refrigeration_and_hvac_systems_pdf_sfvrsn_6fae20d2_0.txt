@@ -1,0 +1,46 @@
+**Course Name:** Refrigeration and HVAC Systems  
+**Course Code:** GMI 471E  
+**Semester:** 7-8  
+**Local Credits:** 2  
+**ECTS Credits:** 4  
+**Course Language:** English  
+**Course Type:** Elective  
+**Course Prerequisites:** None  
+
+**Course Description:**  
+Introduction to refrigeration and refrigeration cycles, refrigerants, vapor compression refrigeration units, marine refrigeration systems and their design calculations, multi-evaporator systems, psychrometric diagram and calculations, HVAC systems, and troubleshooting of refrigeration systems.
+
+**Course Objectives:**  
+1. To teach marine refrigeration systems.  
+2. To teach HVAC systems.  
+3. To teach calculations of refrigeration and HVAC systems design.
+
+**Course Learning Outcomes:**  
+Students who pass the course will be able to:  
+I. Learn about refrigeration and refrigeration cycles.  
+II. Learn about refrigerants and their properties.  
+III. Learn about refrigeration system components.  
+IV. Learn about HVAC systems.  
+V. Learn about psychrometric diagram and calculations.
+
+**Course Plan:**  
+1. Introduction to refrigeration and basics  
+2. Refrigerants  
+3. Refrigeration cycles  
+4. Vapor compression refrigeration cycle  
+5. Vapor compression refrigeration cycle: Performance aspects  
+6. Vapor compression refrigeration cycle design calculations  
+7. Multi-stage vapor compression refrigeration cycle  
+8. Multi-stage vapor compression refrigeration cycle design calculations  
+9. Multi-evaporator vapor compression refrigeration cycle  
+10. Multi-evaporator vapor compression refrigeration cycle design calculations  
+11. Psychrometric diagram and calculations  
+12. Heating and ventilation (HVAC) systems  
+13. Troubleshooting of refrigeration systems  
+
+**Textbook:**  
+Fahrettin Küçükşahin, *Soğutma ve İklimlendirme*, Birsen Yayınevi, 2011.
+
+**Assessment Criteria:**  
+- Midterm Exams: 40%  
+- Final Exam: 60%  

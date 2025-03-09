@@ -1,0 +1,18 @@
+**Title: MAC OS X Cihazlar İçin Sponsor Bağlantı Yönergeleri**
+
+**Mac OS X Cihazlar İçin ITU/NET Sponsor Bağlantı Yönergesi** 
+
+1. Masaüstünde sağ üst köşedeki kablosuz internet bağlantısı simgesine tıklanır. Burada kablosuz ağlar görülür. Var olan ağlardan "**ITU/NET Sponsor**" seçilir. 
+
+2. Bu işlemden sonra otomatik olarak varsayılan tarayıcı ile portal asistanı üzerinden yeni bir sayfa açılacaktır. Bu sayfada **ITU/NET Sponsor** için portal üzerinden açılan **Sponsor Hesabın** "Kullanıcı Adı" ve "Şifre" bilgileri girilir. Ardından "Giriş Yap" düğmesine tıklanır. 
+
+3. Giriş başarılı olduktan sonra gelen "**ITU/NET Kullanım Sözleşmesi**" ekranında sözleşme okunur. Sözleşme tamamen okunmadan "**Kabul Et**" düğmesi aktifleşmeyecektir. Tamamen okuduktan sonra "**Kabul Et**" düğmesine tıklanır. Eğer kullanım sözleşmesi reddedilirse internet bağlantısı başarılı olmayacaktır. 
+
+4. Sözleşmenin kabul edilmesinin ardından "**Oturum Açma Başarılı**" sayfası gelecektir. Sonrasında da otomatik olarak **itu.edu.tr** sayfasına yönlendirme yapılacak ve internet bağlantısı sağlanacaktır. Mac OS X işletim sistemleriyle alakalı var olan bir bug'dan kaynaklı olarak kimlik doğrulanma tamamlandıktan sonra "**Bitti**" düğmesi çıkmamaktadır. Oturum Açma Başarılı yazısı görüldükten sonra portal asistanı kapatılabilir ve internet bağlantısı kullanılmaya başlanabilir. 
+
+**İletişim:**
+- **İTÜ Ayazağa Kampüsü**
+- Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- Telefon: 0212 285 3930
+
+**Not:** İTÜ Bilgi İşlem Daire Başkanlığı ürünüdür. © 2023

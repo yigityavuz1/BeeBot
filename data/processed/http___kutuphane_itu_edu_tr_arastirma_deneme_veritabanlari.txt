@@ -1,0 +1,27 @@
+**Title:** Deneme Veritabanları
+
+**Contact Information:**
+- **Phone:** (0212) 285 35 96
+- **Fax:** (212) 285 33 02
+- **Address:** İstanbul Teknik Üniversitesi, Ayazağa Kampüsü, Maslak Sarıyer, İstanbul
+
+**Relevant Links:**
+- [Deneme Veritabanları](http://kutuphane.itu.edu.tr/arastirma/deneme-veritabanlari)
+- [İTÜ Kütüphane](http://kutuphane.itu.edu.tr/)
+- [Araştırma](http://kutuphane.itu.edu.tr/arastirma)
+
+**Available Databases:**
+1. [AIP Publishing](https://publishing.aip.org/publications/journals/covid-19/)
+2. [EBSCO eBook Super Collection](https://search.ebscohost.com/login.aspx?authtype=ip,uid&groupid=main&profile=ehost&defaultdb=nlebk)
+3. [Elsevier COVID-19 Resource Center](https://www.elsevier.com/connect/coronavirus-information-center)
+4. [Emerald Social Sciences eBook Series - Education](https://www.emerald.com/insight/products/SSCS/view#searchResults)
+5. [Emerald Social Sciences eBook Series - Sociology](https://www.emerald.com/insight/products/SSCS/view#searchResults)
+6. [IOPScience Journals](https://iopscience.iop.org/)
+7. [İdealonline](http://www.idealonline.com.tr/IdealOnline)
+8. [MEVBANK Mevzuat ve İçtihat Veritabanı](https://mevbank.lebibyalkin.com.tr/mevzuat/kurumsal-abone/istanbul-teknik-uni)
+9. [Project Muse Covid-19](https://about.muse.jhu.edu/resources/freeresourcescovid19/)
+10. [ProQuest Coronavirus Research Database](https://search.proquest.com/coronavirus)
+11. [ProQuest Publicly Available Content](https://www.proquest.com/publiccontent/index)
+12. [Taylor & Francis](https://taylorandfrancis.com/coronavirus/) 
+
+This cleaned version retains only the essential information and relevant links related to the Deneme Veritabanları.

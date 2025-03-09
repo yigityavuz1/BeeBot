@@ -1,0 +1,33 @@
+**Title: Mozaik**
+
+Mozaik, web tabanlı bir içerik yönetim sistemidir (Mozaik İYS). Bu sistem, kullanıcıların sayfa içeriklerini güncelleyebilmesine ve yetkilendirilmiş kullanıcılar tarafından İnternet erişimi olan her noktadan yönetilmesine olanak tanır.
+
+**Kurumsal Hedefler:**
+- Kurumsal bilgilerin web sayfaları aracılığıyla duyurulması
+- Bilgilerin güncellenebilmesi
+- Ürün tanıtımı, kurumsal tanıtım ve iletişim bilgileri paylaşımı
+
+**Kurumsal İhtiyaçlar:**
+- Bilgileri sık ve hızlı güncelleyebilme
+- Web üzerinden duyuru yapabilme
+- Kurumsal belgeleri paylaşabilme
+- Her yerden erişim ve güncelleme yetkisi
+- Çalışanları sayfa işlemleri üzerinde yetkilendirme
+- Grup bazlı erişim izni tanımlama
+- Kurumsal ilkeleri yansıtan bir web sayfası
+- Çok dilli web sitesi sunma
+
+**Temel Özellikleri ve Yararları:**
+- Dinamik içerik yönetimi
+- İki seviyeli menü oluşturma
+- Duyuru yayınlama
+- Sıkça sorulan sorular oluşturma
+- Online soru alıp cevaplama
+- Site içinde arama imkanı
+- Üçüncü seviyeye kadar site haritası oluşturma
+- Görevler doğrultusunda yetki tanımlama
+- Şablona dayanan web sayfası oluşturma
+- Her bir birim için ayrı web siteleri oluşturma
+- Birden fazla dilde web sitesi hazırlama
+
+**Mozaik İçerik Yönetim Sistemi - Web Sitesi Akış Süreci**

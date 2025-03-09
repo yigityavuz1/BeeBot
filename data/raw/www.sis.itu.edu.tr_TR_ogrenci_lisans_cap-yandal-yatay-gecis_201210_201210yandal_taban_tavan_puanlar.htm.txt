@@ -1,0 +1,39 @@
+Title: 
+
+URL Source: https://www.sis.itu.edu.tr/TR/ogrenci/lisans/cap-yandal-yatay-gecis/201210/201210yandal_taban_tavan_puanlar.htm
+
+Markdown Content:
+| **Program** | **3.YY** | **5.YY** |
+| Yandal Hakkı Kazanan | Tavan Not Ortalaması | Taban Not Ortalaması | Yandal Hakkı Kazanan | Tavan Not Ortalaması | Taban Not Ortalaması |
+| **Mimarlık Fakültesi**  |
+| Şehir ve Bölge Planlama | 4 | 3.15 | 2.87 | 1 | 3.74 | 3.74 |
+| Endüstri Ürünleri Tasarımı | 1 | 3.56 | 3.56 | 1 | 3.71 | 3.71 |
+| **Makina Fakültesi**  |
+| Makina Mühendisliği  | 20 | 3.32 | 2.88 | 0 | \-- | \-- |
+| İmalat Mühendisliği  | 5 | 3.5 | 3.16 | 0 | \-- | \-- |
+| Mekatronik | 20 | 3.6 | 2.56 | 0 | \-- | \-- |
+| **Elektrik - Elektronik Fakültesi**  |
+| Mekatronik | 17 | 3.94 | 2.98 | 13 | 3.5 | 2.85 |
+| **Maden Fakültesi**  |
+| Maden Mühendisliği  | 3 | 3.06 | 2.69 | 2 | 2.99 | 2.88 |
+| Jeoloji Mühendisliği  | 4 | 2.77 | 2.59 | 2 | 2.97 | 2.96 |
+| Jeofizik Mühendisliği  | 0 | \-- | \-- | 2 | 2.8 | 2.74 |
+| Petrol ve Doğalgaz Mühendisliği  | 2 | 2.99 | 2.94 | 1 | 2.94 | 2.94 |
+| **Kimya - Metalurji Fakültesi**  |
+| Kimya Mühendisliği  | 7 | 3.58 | 3.09 | 3 | 3.58 | 3.2 |
+| Gıda Mühendisliği  | 2 | 3.41 | 3.36 | 1 | 3.18 | 3.18 |
+| **Gemi İnşaatı ve Deniz Bilimleri Fakültesi**  |
+| Gemi İnşaatı ve Gemi Makineleri Mühendisliği  | 3 | 3.01 | 2.95 | 3 | 3.15 | 3.11 |
+| **Fen - Edebiyat Fakültesi**  |
+| Matematik Mühendisliği  | 1 | 3.26 | 3.26 | 0 | \-- | \-- |
+| Fizik Mühendisliği  | 6 | 3.16 | 2.84 | 6 | 3.56 | 2.99 |
+| Kimya | 5 | 3.41 | 3 | 5 | 3.5 | 3.03 |
+| Moleküler Biyoloji ve Genetik | 4 | 3.68 | 3.21 | 0 | \-- | \-- |
+| Teorik Matematik | 1 | 3.36 | 3.36 | 0 | \-- | \-- |
+| Uygulamalı Matematik | 1 | 3.31 | 3.31 | 0 | \-- | \-- |
+| **Uçak ve Uzay Bilimleri Fakültesi**  |
+| Uçak Mühendisliği  | 2 | 3.43 | 3.32 | 2 | 3.39 | 3.35 |
+| Uzay Mühendisliği  | 1 | 3.29 | 3.29 | 2 | 3.1 | 3.07 |
+| Meteoroloji Mühendisliği  | 5 | 3.05 | 2.62 | 3 | 3.18 | 3.05 |
+| **Tekstil Teknolojileri ve Tasarımı Fakültesi**  |
+| Tekstil Mühendisliği  | 3 | 3.15 | 2.7 | 0 | \-- | \-- |

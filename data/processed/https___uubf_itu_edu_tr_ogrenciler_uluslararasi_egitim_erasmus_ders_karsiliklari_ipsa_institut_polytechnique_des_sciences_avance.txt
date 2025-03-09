@@ -1,0 +1,64 @@
+**Title:** IPSA Institut Polytechnique Des Sciences Avance
+
+**Courses Offered:**
+
+- SH42: Sciences Humaines
+- SH43B: Sociologie des Entreprises
+- SH44: Facteurs Humaines et Interface
+- ME42B: Calcul par la Methode Element Finis
+- EN41: Conception des Turbomachines
+- SH52: Enjeux Societaux
+- SH53: Ethique de I'Ingenieur
+- SH55: Droit du Travail
+- MI43: Economie: Gestion Financiere
+- MI44: Qualite- Teglemantation- Normes
+- MI45: Management des Grands Projets
+- MI46: Principes de Strategie d'Entreprise
+- AE57: Conception des Lanceurs
+- EN51: Propulsion Fusée
+- TEL53: Optique Spatiale
+- TEL52: Systémes des Télécommunications Spatiales
+- AE56: Conception des Satellites
+- EN42A: Conceptions des Moteurs a Combustion Interne 1
+- EN42B: Conceptions des Moteurs a Combustion Interne 2
+- SH42A: Sciences Humaines A
+- SH42B: Sciences Humaines B
+- SH43B: Sociologie des Énterprises
+- ME42A: Calcul par la Methode Element Finis
+- MI54: Final Project
+- EN31: Transfert Thermiques
+- ME44: Technologie des Systémes Mécaniques
+- SH22: Culture Generale
+- MI33: Marketing
+- EN33: Introduction aux Turbomachines
+- EN41A: Conceptions des Turbomachines 1
+- EN41B: Conceptions des Turbomachines 2
+- In11: Algorithmie
+- In34 SP: Initiation a la Programmation C
+- SP551: Design of Satellites
+- SP552: Design of Launchers
+- SH501: Social Issues
+- SH321: Seminaires Culturelles
+- SH502: Ethics
+- Me515: Computational Aerodynamics (CFD)
+- Ae501: Introduction to Hypersonic Aerodynamics
+- FLE: French
+- ME412: Calculation of Structures by MEF
+- ME411: Composite and Metal Materials
+- EN415: Rocket Propulsion
+- TEL511: Space Mechanics
+- Ln411: Complex Information Systems Modelling
+- MA31C: Calcul Differantial
+- ME31TC: Mechanique Generale
+- AE30: Mechanigue du Vol
+- LA31-1: Anglais Generale
+- MA32A: Resolution Numerigue de Systems Lineaires et Non-Lineaires
+- AU34 SP: Programmation des Microcontrolleurs
+- EL31A SP: Electronique Numerique
+- LA31-2: Anglais Generale 2
+
+**Contact Information:**
+
+- **Phone:** +90 (212) 285 31 01
+- **Fax:** +90 (212) 285 31 39
+- **Address:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

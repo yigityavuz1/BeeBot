@@ -1,0 +1,49 @@
+**Title:** GMI 485E Environment Management in Ship Operations
+
+**Course Name:** Environment Management in Ship Operations
+
+**Course Code:** GMI 485 E
+
+**Semester:** 7-8
+
+**Credits:** Local Credits: 2, ECTS Credits: 4
+
+**Department/Program:** Marine Engineering
+
+**Course Type:** Elective
+
+**Course Language:** English
+
+**Course Prerequisites:** None
+
+**Course Description:** 
+- Identification of the rules under MARPOL Convention.
+- Integration models of ISO 14001 Environmental Management Standard into ship management.
+- Identification of environmental risks on board.
+- Investigation of Port State and Flag State environmental assessment models for various types of ships.
+
+**Course Objectives:**
+1. To introduce international mandatory regulations (MARPOL) related to reducing sea pollution from ships.
+2. To teach the requirements of ISO 14001.
+3. To introduce Port State and Flag State rules for environmental protection.
+
+**Course Learning Outcomes:**
+Students who pass the course will be able to:
+I. Understand the international legal framework for environmentally sensitive ship operations.
+II. Apply environmental risk assessment methods.
+III. Recognize additional environmental requirements of classification societies and insurance companies.
+IV. Understand Port State and Flag State environmental assessment models for various types of ships.
+
+**Course Plan:**
+- Week 1-2: Identification of the rules under MARPOL Convention
+- Week 3-4: ISO 14001 Environmental Management Standard
+- Week 5: Integration of ISO 14001 requirements into ship management
+- Week 6-8: Identification of risks
+- Week 9-10: Rules of Classification Societies and insurance companies
+- Week 11-14: Investigation of Port State and Flag State environmental assessment models for various types of ships
+
+**Textbook:** MARPOL Consolidated Edition, IMO Publication, 2011.
+
+**Assessment Criteria:**
+- Midterm Exams: 50%
+- Final Exam: 50%

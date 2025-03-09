@@ -1,0 +1,41 @@
+**Title: ABET- Ders Dosyası İçeriği**
+
+Lütfen ders dosyalarınızı hazırlarken dokümanların aşağıdaki sırada olmasına özen gösteriniz. 
+
+**A) Kapak Sayfası**  
+Dersin adı, kodu, dönem, CRN, öğretim üyesi ve tarih yazılı kapak sayfası (dersi veren öğretim üyesi tarafından imzalanmalıdır).
+
+**B) Dersle İlgili Bilgi**  
+Dersin kısa tanıtımı, öğretim üyesi (e-posta, oda no, görüşme saatleri), asistan (e-posta, oda no, görüşme saatleri), ders saati ve yeri, ders kitabı, referans kaynaklar, ön koşullar, not sistemi, ödevler, sınıf içi uygulamalar, ders öğrenme çıktıları, ödev problemleri için kurallar, ödev değerlendirme sistemi, grup çalışması ve beklentileri.
+
+**C) Değerlendirme Raporu**  
+Öğretim Üyesinin dersi değerlendirmesi ve ilerisi için dersin iyileştirilmesine yönelik önerileri sunması gerekmektedir. Bu dokümanı hazırlarken dersin adının, kodunun, döneminin ve CRN bilgisinin olmasına özen gösteriniz.
+
+**D) Not Dağılımı (Çarşaf Liste)**  
+Öğrencilerin aldığı tüm notların 100 üzerinden listesi, harf olarak öğrenci notu, ders başarı değerlendirme formu.
+
+**E) Ders Başarı Bilgi Formu**  
+Derse ilişkin başarı bilgi formu doldurulabilir. Excel dosyasındaki Input sekmesini doldurduktan sonra Form sekmesinin pdf olarak kaydedip, üretilen sayfanın bir çıktısını alarak ABET ders dosyasına ekleyebilirsiniz.
+
+**F) Anketler**  
+Dersle ilgili anket sonuçlarına “değerlendirme raporunda” atıfta bulunulacak.
+
+**G) Ön Test (Pre Test)**  
+Problemler ve çözümleri, öğrencilerin çözüm kağıtları (en iyi, ortalama, en kötü).
+
+**H) Son Test (Post Test)**  
+Problemler ve çözümleri, öğrencilerin çözüm kağıtları (en iyi, ortalama, en kötü).
+
+**I) Ödevler**  
+Problemler ve çözümleri, öğrencilerin çözüm kağıtları (en iyi, ortalama, en kötü).
+
+**J) Dönem Projesi**  
+Dönem proje dokümanı, proje değerlendirme kriterleri, grupların kurulması için öğrencilerin doldurduğu formlar ve oluşan grupların listesi, dönem proje raporları (en iyi, ortalama, en kötü).
+
+**K) Sınıf İçi Uygulamalar (Kısa Sınavlar için)**  
+Problemler ve çözümleri, öğrencilerin çözüm kağıtları (en iyi, ortalama, en kötü).
+
+**L) Sınavlar (Vizeler ve Final için)**  
+Problemler ve çözümleri, öğrencilerin çözüm kağıtları (en iyi, ortalama, en kötü).
+
+**M) Diğerleri**

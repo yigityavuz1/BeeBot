@@ -1,0 +1,65 @@
+### Erasmus Departmental Coordinators
+
+#### Faculty of Computer and Informatics Engineering
+- **Computer Engineering**: Doç. Feza Buzluca - [blg-erasmus@itu.edu.tr](mailto:blg-erasmus@itu.edu.tr)
+- **Artificial Intelligence and Data Engineering**: Doç. Dr. Nazım Kemal Üre - [yzve-erasmus@itu.edu.tr](mailto:yzve-erasmus@itu.edu.tr)
+
+#### Faculty of Maritime
+- **Maritime Transportation and Management Engineering**: Doç. Dr. Tanzer Satır - [dui-erasmus@itu.edu.tr](mailto:dui-erasmus@itu.edu.tr)
+- **Marine Engineering**: Dr. Öğr. Ü. Gazi Koçak, Dr. Öğr. Ü. Kadir Çiçek - [gmi-erasmus@itu.edu.tr](mailto:gmi-erasmus@itu.edu.tr)
+- **Basic Sciences**: Doç. Dr. Pelin Bolat - [tb-erasmus@itu.edu.tr](mailto:tb-erasmus@itu.edu.tr)
+
+#### Faculty of Electrical and Electronics Engineering
+- **Electrical Engineering**: Dr. Öğr. Ü. Duygu Bayram Kara, Doç. Dr. Ramazan Çağlar - [elk-erasmus@itu.edu.tr](mailto:elk-erasmus@itu.edu.tr)
+- **Electronics and Communication Engineering**: Dr. Öğr. Ü. Semih Tedik Başaran, Dr. Öğr. Ü. Ertuğrul Güvenkaya - [ehb-erasmus@itu.edu.tr](mailto:ehb-erasmus@itu.edu.tr)
+- **Control and Automation Engineering**: Doç. Dr. Tufan Kumbasar, Doç. Dr. Volkan Sezer - [kom-erasmus@itu.edu.tr](mailto:kom-erasmus@itu.edu.tr)
+
+#### Faculty of Science and Letters
+- **Physics Engineering**: Prof. Dr. Mehmet Kerim Ramazanoğlu, Doç. Dr. Cem Özgür Servantie - [fiz-erasmus@itu.edu.tr](mailto:fiz-erasmus@itu.edu.tr)
+- **Chemistry**: Doç. Dr. Barış Yücel, Dr. Öğr. Ü. Onur Alptürk - [kim-erasmus@itu.edu.tr](mailto:kim-erasmus@itu.edu.tr)
+- **Mathematics Engineering**: Prof. Dr. Seher Melike Aydoğan - [mat-erasmus@itu.edu.tr](mailto:mat-erasmus@itu.edu.tr)
+- **Molecular Biology and Genetics**: Doç. Dr. Aslı Kumbasar, Prof. Dr. Arzu Karabay Korkmaz - [biom-erasmus@itu.edu.tr](mailto:biom-erasmus@itu.edu.tr)
+
+#### Faculty of Naval Architecture and Ocean Engineering
+- **Shipbuilding and Ocean Engineering**: Dr. Öğr. Ü. Deniz Bayraktar Bural - [den-erasmus@itu.edu.tr](mailto:den-erasmus@itu.edu.tr)
+- **Naval Architecture and Marine Engineering**: Dr. Öğr. Ü. Mustafa Erden Yıldızdağ - [gem-erasmus@itu.edu.tr](mailto:gem-erasmus@itu.edu.tr)
+
+#### Faculty of Civil Engineering
+- **Environmental Engineering**: Dr. Öğr. Ü. Habibullah Uzun, Dr. Öğr. Ü. Bahar Yavuztürk Gül, Araş. Gör. Seda Nur Türköz - [cev-erasmus@itu.edu.tr](mailto:cev-erasmus@itu.edu.tr)
+- **Geomatics Engineering**: Prof. Dr. Hande Demirel, Doç. Dr. Mahmut Oğuz Selbesoğlu, Doç. Dr. Ahmet Özgür Doğru - [geo-erasmus@itu.edu.tr](mailto:geo-erasmus@itu.edu.tr)
+- **Civil Engineering**: Doç. Dr. Osman Bulut - [ins-erasmus@itu.edu.tr](mailto:ins-erasmus@itu.edu.tr)
+
+#### Faculty of Management
+- **Economics**: Dr. Öğr. Ü. Shourjo Chakravorty - [ecne-erasmus@itu.edu.tr](mailto:ecne-erasmus@itu.edu.tr)
+- **Industrial Engineering**: Dr. Öğr. Ü. Mehmet Yasin Ulukuş - [end-erasmus@itu.edu.tr](mailto:end-erasmus@itu.edu.tr)
+- **Management Engineering**: Öğr. Gör. Dr. İdil Vedia Evcimen, Dr. Öğr. Üyesi Saeed Tasouji Hassanpour, Ar. Gör. Aziz Kemal Konyalıoğlu - [isl-erasmus@itu.edu.tr](mailto:isl-erasmus@itu.edu.tr)
+
+#### Faculty of Chemical - Metallurgical Engineering
+- **Food Engineering**: Dr. Öğr. Ü. Kadriye Nur Kasapoğlu, Prof. Dr. Pervin Başaran Akocak - [gid-erasmus@itu.edu.tr](mailto:gid-erasmus@itu.edu.tr)
+- **Chemical Engineering**: Prof. Dr. Devrim Barış Kaymak, Dr. Öğr. Ü. Elif Öztürk Er - [kmm-erasmus@itu.edu.tr](mailto:kmm-erasmus@itu.edu.tr)
+- **Metallurgical and Materials Engineering**: Dr. Öğr. Ü. Faiz Muhaffel - [met-erasmus@itu.edu.tr](mailto:met-erasmus@itu.edu.tr)
+
+#### Faculty of Mines
+- **Mineral Processing Engineering**: Prof. Dr. Orhan ÖZDEMİR - [chz-erasmus@itu.edu.tr](mailto:chz-erasmus@itu.edu.tr)
+- **Geophysical Engineering**: Dr. Öğr. Ü. Caner İmren - [jef-erasmus@itu.edu.tr](mailto:jef-erasmus@itu.edu.tr)
+- **Geological Engineering**: Prof. Dr. Nurgül Çelik Balcı, Prof. Dr. Emin ÇİFTÇİ, Dr. Öğr. Gör. Ş. Özge GÖĞÜŞ - [jeo-erasmus@itu.edu.tr](mailto:jeo-erasmus@itu.edu.tr)
+- **Mining Engineering**: Doç. Dr. Cüneyt Atilla Öztürk - [mad-erasmus@itu.edu.tr](mailto:mad-erasmus@itu.edu.tr)
+- **Petroleum and Natural Gas Engineering**: Prof. Dr. Gürşat Altun - [pet-erasmus@itu.edu.tr](mailto:pet-erasmus@itu.edu.tr)
+
+#### Faculty of Mechanical Engineering
+- **Mechanical Engineering**: Prof. Dr. Emin Sünbüloğlu - [mak-erasmus@itu.edu.tr](mailto:mak-erasmus@itu.edu.tr)
+
+#### Faculty of Architecture
+- **Industrial Design**: Dr. Öğr. Ü. Cem Alppay - [ente-erasmus@itu.edu.tr](mailto:icm-erasmus@itu.edu.tr)
+- **Interior Architecture**: Doç. Dr. Banu Garip - [icm-erasmus@itu.edu.tr](mailto:icm-erasmus@itu.edu.tr)
+- **Architecture**: Doç. Dr. Sema Alaçam, Doç. Dr. Gülten Manioğlu, Dr. Öğr. Ü. Umut Almaç - [mim-erasmus@itu.edu.tr](mailto:mim-erasmus@itu.edu.tr)
+- **Landscape Architecture**: Doç. Dr. Nilay Özlü Karaca, Dr. Öğr. Ü. Ikhwan Kim, Araş. Gör. Lal Dalay - [pem-erasmus@itu.edu.tr](mailto:pem-erasmus@itu.edu.tr)
+- **Urban and Regional Planning**: Doç. Dr. Zeynep Günay, Doç. Dr. Eda Yücesoy, Doç. Dr. Gülden Demet Oruç - [sbp-erasmus@itu.edu.tr](mailto:sbp-erasmus@itu.edu.tr)
+
+#### Faculty of Textile Technologies and Design
+- **Textile Engineering**: Doç. Dr. İkilem Göcek - [tek-erasmus@itu.edu.tr](mailto:tek-erasmus@itu.edu.tr)
+
+#### Faculty of Aeronautics and Astronautics
+- **Meteorological Engineering**: Prof. Dr. Zerefşan Kaymaz - [mto-erasmus@itu.edu.tr](mailto:mto-erasmus@itu.edu.tr)
+- **Aeronautical Engineering**: Dr. Öğr. Ü. Oğuzcan İnal - [uck-erasmus@itu.edu.tr](mailto:uck-erasmus@itu.edu.tr)
+- **Astronautical Engineering**: Doç. Dr. Seher Eken - [uzb-erasmus@itu.edu.tr](mailto:uzb-erasmus@itu.edu.tr)

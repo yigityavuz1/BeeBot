@@ -1,0 +1,17 @@
+**Title: Taşınmazlar Yönetim Sistemi**
+
+**KÜNYE**
+- İlk yayın tarihi: Haziran 2014
+- Aktif kullanıcı sayısı: 10
+- Web Adresi: [https://tasinmazlar.itu.edu.tr/](https://tasinmazlar.itu.edu.tr/)
+
+**Açıklama:**
+İTÜ’ye ait taşınmazların kantin, fotokopi, restoran vb. amaçlarla kiralanması ve bu kiralamalara ait borç ve ödeme bilgilerinin takip edilmesi İTÜ Taşınmaz Otomasyonu üzerinden yapılmaktadır. İdari Mali İşler tarafından gerçekleştirilen sözleşmeler sisteme kaydedilir ve Strateji Geliştirme Daire Başkanlığı tarafından bu sözleşmelere ait ödemeler takip edilir.
+
+**İletişim:**
+- Bilgi İşlem Daire Başkanlığı, 
+- İTÜ Ayazağa Kampüsü, Maslak-Sarıyer / İstanbul
+- Telefon: 0212 285 3930
+
+**BİDB YARDIM:**
+İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz.

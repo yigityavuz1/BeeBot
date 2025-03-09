@@ -1,0 +1,49 @@
+**Kampüs Dışı Erişim**
+
+**Kurumsal Kimlik Doğrulaması (TÜBİTAK-ULAKBİM YETKİM) İle Kampüs Dışı Erişim Servisi**
+
+Türkiye’nin yüksek eğitim ve araştırma kurumları için **YETKİM** adı ile bir kimlik federasyonu kurulmuştur. Kullanıcılar YETKİM’e tanımlı veritabanlarına internete bağlı herhangi bir bilgisayar aracılığı ile bağlanabilirler.
+
+**Önemli Hatırlatma:**
+1. Kurumsal kullanıcı adı girişi İTÜ Eposta hesabınızdaki kullanıcı adı ve şifresiyle yapılmaktadır. Kullanıcı adı “@itu.edu.tr” uzantısı olmadan yazılmalıdır.
+2. İTÜ’nün YETKİM’de tanımlı kurumsal isimleri Türkçe, İstanbul Teknik Üniversitesi, İngilizce İstanbul Technical University veya Technical University of Istanbul şeklindedir.
+
+**Kurumsal Kimlik Doğrulaması ile Erişim Sağlanan Veritabanları Listesi**
+- ACM DIGITAL LIBRARY
+- AMERICAN INSTITUTE of PHYSICS (AIP)
+- AMERICAN CHEMICAL SOCIETY (ACS)
+- ANNUAL REVIEWS
+- ASME (The American Society of Mechanical Engineers) Digital Collection
+- CAMBRIDGE CORE JOURNALS
+- EBSCOhost
+- EMERALD INSIGHTS JOURNALS
+- IEEEXPLORE
+- JSTOR ARCHIVE JOURNAL CONTENT
+- NATURE
+- OXFORD JOURNALS
+- PROQUEST
+- REAXYS
+- SAGE Journals
+- SCIENCEDIRECT JOURNALS & BOOKS
+- SCOPUS
+- SPRINGER
+- TAYLOR & FRANCIS JOURNALS
+- WILEY ONLINE LIBRARY JOURNALS
+
+**Bilgisayarınızda Proxy Ayarlaması Yaparak**
+Bilgisayarınızda yapacağınız ayarlama ile kampüs dışından erişimi gerçekleştirebilirsiniz. Bu ayarlamayı yaptıktan sonra, öğrenci/sicil numaranız ve İTÜ Kütüphane üyeliğinize ait PIN numaranızla kullanıcı girişi yaparak, kampüs içinden bağlanıyor gibi kütüphane elektronik kaynaklarına erişebilirsiniz.
+
+**Windows için Proxy Ayarının Yapılması**
+1. Denetim masasını açın, Ağ ve İnternet bölümüne girin.
+2. İnternet Seçeneklerine tıklayın.
+3. "Bağlantılar" ve "Yerel Ağ Ayarları"na tıklayın.
+4. "Otomatik yapılandırma komut dosyası kullan" kutusunu işaretleyin ve Adres kutusuna **http://service.library.itu.edu.tr/proxy/proxy.pac** adresini tanımlayın.
+5. Tamam'a tıklayarak pencereyi kapatın.
+
+**MacOS İşletim Sistemi İçin Proxy Ayarları**
+1. Sistem tercihlerinden Ağ'ı tıklayın.
+2. Listede kullandığınız ağ servisini seçin; örneğin Ethernet veya Wi-Fi.
+3. İleri Düzey’i, sonra Proxy’i tıklayın.
+4. Otomatik Proxy Konfigürasyonu'nu seçin ve PAC dosyasının adresi olan **http://service.library.itu.edu.tr/proxy/proxy.pac** adresini URL alanına girin.
+
+Bağlantı ayarlarınızı tamamladıktan sonra, bir elektronik kaynağa erişmek istediğinizde; kullanıcı adı ve parola soran kutucuğa; **kullanıcı adı olarak İTÜ Giriş kullanıcı adınızı veya öğrenci numaranızı**, **parola olarak da kütüphane PIN numaranızı** yazın ve giriş yapın.

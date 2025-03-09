@@ -1,0 +1,32 @@
+**Kütüphane Üyeliği**
+
+İTÜ hesabınızı kullanarak kütüphane üyelik başvurusunda bulunabilirsiniz. Halihazırda kütüphane üyesiyseniz bu işlemi yapmanız gerekmemektedir. 
+
+Aşağıda yer alan **"İTÜ Hesabıyla Kayıt"** butonuna tıklayın. Açılan İTÜ Giriş sayfasında İTÜ kullanıcı adınız ve parolanız ile giriş yaptığınızda kütüphane kayıt sayfasına yönlendirileceksiniz. Bu sayfada yer alan formdaki eksik kısımları doldurup ve kaydet butonuna tıklayarak kayıt başvurunuzu tamamlayabileceksiniz. 
+
+**Kütüphane üyeliğiyle ilgili sorun yaşamanız durumunda library-it@itu.edu.tr adresinden Kütüphane Bilgi İşlem Birimi ile irtibata geçebilirsiniz.**
+
+### Üyelik Adımları
+
+1. “İTÜ Hesabıyla Kayıt“ butonuna tıkladıktan sonra İTÜ Giriş sayfasına yönlendirileceksiniz.
+2. İTÜ Giriş sayfasında İTÜ kullanıcı adınız ve parolanız ile giriş yaptığınızda kütüphane kayıt sayfasına yönlendirileceksiniz.
+3. Karşınıza çıkan formdaki eksik bilgi girişi alanlarını tamamlayıp, kaydet butonuna tıklayarak kayıt başvurunuzu tamamlamış olacaksınız.
+4. Üyelik başvurunuz 3 iş günü içinde değerlendirilerek kütüphane üyeliğiniz başlatılacaktır.
+5. Üyeliğiniz onaylandığında İTÜ e-posta adresinize bir bilgilendirme e-postası ulaşacaktır.
+6. Kütüphane üyeliğiniz başladığında, belirli bir adrese girerek yeni PIN oluşturabileceksiniz.
+
+### PIN İşlemleri
+
+- İlk defa PIN alacaksanız, üye giriş formunda PIN alanını boş bırakarak Soyad, Ad ve Öğrenci Numarası kısımlarını doldurup Gönder butonuna tıklayın. Ardından PIN oluşturma sayfasına yönlendirileceksiniz.
+- PIN numaranız en az 6 karakter olmalı ve harf/sayı içermelidir (Büyük harf kullanmayınız).
+- PIN'i unuttuysanız, ilgili adrese tıklayarak işlem yapabilirsiniz.
+
+**İTÜ Dışından Misafir Üyelik** 
+
+İTÜ mensubu olmayanlar için kütüphane misafir üyeliği hakkında bilgi almak için lütfen ilgili sayfayı ziyaret edin.
+
+**İletişim Bilgileri:**
+- **Telefon:** (0212) 285 35 96 
+- **Santral:** (0212) 285 30 13
+- **Fax:** (212) 285 33 02
+- **Adres:** İstanbul Teknik Üniversitesi, Ayazağa Kampüsü, Maslak Sarıyer, İstanbul

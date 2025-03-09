@@ -1,0 +1,23 @@
+**İTÜ Kovan Hizmeti**
+
+İTÜ/KOVAN projesi, İTÜ Bilgi İşlem Daire Başkanlığı tarafından geliştirilmiş ve entegrasyonu yapılmış, açık kaynaklı ownCloud projesini kullanan, bulut tabanlı dosya barındırma ve paylaşma hizmetidir. Bu hizmetle beraber web tarayıcısı, masaüstü, tablet ve akıllı telefon uygulamalarıyla istediğiniz zaman, istediğiniz yerden dosyalarınıza erişebileceksiniz.
+
+**İTÜ/KOVAN aracılığıyla:**
+- Verilerinize mobil cihazlarınızdan, bilgisayarlarınızdan ve web tarayıcısı üzerinden erişebilirsiniz.
+- Verilerinizi tüm cihazlarınız üzerinde senkron tutabilirsiniz.
+- Verilerinizi diğer İTÜ kullanıcılarıyla veya mail adresi üzerinden başka kişilerle paylaşabilirsiniz.
+- Paylaştığınız veriler üzerinde kullanıcılara değişiklik yapma yetkisi verebilirsiniz.
+
+**Hizmetten yararlanmak için:**
+İTÜ Portal üzerinden hesabınızı aktifleştirmeniz gerekmektedir. Ardından kovan.itu.edu.tr adresinden İTÜ/KOVAN'ı kullanmaya başlayabilirsiniz.
+
+**İTÜ/KOVAN dokümantasyonu için:** [tıklayınız.](http://bidb.itu.edu.tr/bilgi-bankasi/itu-kovan-hizmeti)
+
+**İletişim:**
+İTÜ Ayazağa Kampüsü  
+Bilgi İşlem Daire Başkanlığı  
+Maslak-Sarıyer / İstanbul  
+0212 285 3930
+
+**BİDB YARDIM:**  
+İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz.

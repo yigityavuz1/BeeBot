@@ -1,0 +1,20 @@
+**Bölüm Birincileri**
+
+| Yıl  | Birinci                       | Ortalama |
+|------|-------------------------------|----------|
+| 2024 | Yasemen ERKAN                 | 3,73     |
+| 2023 | Fevzi KAYA                   | 3,52     |
+| 2022 | Mert TAŞDEMİR                | 3,82     |
+| 2021 | Tuğçe SEZER KILINÇ           | 3,91     |
+| 2020 | Melih Cem ÇANAK              | 3,76     |
+| 2019 | Anda SKEJA                   | 3,78     |
+| 2018 | Büşra UYSAL                  | 3,81     |
+| 2017 | Fatma ATAŞ                   | 3,70     |
+| 2016 | Buse YALÇINKAYA              | 3,90     |
+| 2015 | Fatma YEĞİN                  | 3,81     |
+| 2014 | Berkay Furkan ÖNDER          | 3,91     |
+| 2013 | Büşra ÇELİKKARAOĞLU         | 3,62     |
+| 2012 | Dilek ARIKAN                 | 3,54     |
+| 2011 | Burak GÜRLEK                 | 3,91     |
+| 2010 | Burcu BEKTAŞ                 | 3,78     |
+| 2009 | İzzet GÖKSEL                 | 3,75     |

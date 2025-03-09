@@ -1,0 +1,110 @@
+**Title:** ABET | Çıktılar ve Performans Kriterleri (2018 Öncesi)
+
+### Performans Kriterleri
+
+| **a** | **Matematik, fen ve mühendislik bilgisini bilgisayar mühendisliği alanına uygulama becerisi** |
+|-------|------------------------------------------------------------------------------------------------|
+| **a1** | **Matematik, fen ve mühendislik bilgilerini edinme** |
+| | PC.a1: matematik ile ilgili soruları cevaplar |
+| | PC.a2: fen ve mühendislik ile ilgili soruları cevaplar |
+| **a2** | **Matematik bilgisini uygulama** |
+| | PC.a3: bilgisayar mühendisliği problemlerine analitik ve sayısal çözümler bulmak için matematik ilkelerini kullanır |
+| | PC.a4: verilen bir problem için uygun matematiksel metodları/yaklaşımları seçer |
+| **a3** | **Fen ve mühendislik bilgisini uygulama** |
+| | PC.a5: bilgisayar mühendisliği problemlerini modellemek ve çözmek için fen ve mühendislik ilkelerini uygular |
+
+| **b** | **Deneyleri tasarlama ve yürütmenin yanı sıra deney verilerini yorumlama becerisi** |
+|-------|------------------------------------------------------------------------------------------------|
+| **b1** | **Deneyleri tasarlama** |
+| | PC.b1: değişkenleri, uygun ekipmanları, test aparatlarını, modeli vb. seçer |
+| | PC.b2: çıktının veya alternatifin değerlendirileceği etkin ölçüm yöntemini seçer |
+| **b2** | **Deneyleri yürütme** |
+| | PC.b3: veri toplamak için uygun ölçüm tekniklerini seçer |
+| | PC.b4: deneyin tekrar edilmesi ihtimalinden dolayı deney prosedürlerini belgelendirir. |
+| **b3** | **Veriyi analiz etme** |
+| | PC.b5: veriyi analiz etmek için uygun araçları (istatistiksel veya grafiksel gibi) seçer ve kullanır. |
+| **b4** | **Veriyi yorumlama** |
+| | PC.b6: sonuçları başlangıç hipotezine göre yorumlar. |
+
+| **c** | **Gerçekçi kısıtlar içinde sistem, bileşen veya süreç tasarlama becerisi** |
+|-------|------------------------------------------------------------------------------------------------|
+| **c1** | **Gereksinimleri tanımlama** |
+| | PC.c1: problemin kapsamını tanımlar ve ihtiyaçlara göre gereklilikleri belirler |
+| | PC.c2: kısıtları ve gereksinimleri karşılayan uygun yöntemleri seçer |
+| **c2** | **Tasarım geliştirme** |
+| | PC.c3: uygun tasarım yöntemlerini uygular |
+| | PC.c4: yazılım sistemi, bileşeni veya süreci tasarlar |
+| | PC.c5: donanım sistemi, bileşeni veya süreci tasarlar |
+| | PC.c6: tüm tasarımı uygun araçlarla gösterir |
+| **c3** | **Tasarımın uygulanması** |
+| | PC.c7: tasarıma dayanan bir çözüm/prototip geliştirir |
+| **c4** | **Geliştirilen çözümün test edilmesi ve onaylanması** |
+| | PC.c8: test senaryolarını ve stratejileri tanımlar |
+| | PC.c9: hataları ayıklar ve tespit edilen hataları düzeltir |
+
+| **d** | **Mevcut bir yapı veya sistemi eleştirel bir tavırla gözlemleyebilme yeteneği** |
+|-------|------------------------------------------------------------------------------------------------|
+| | PC.d1: işlevselliğini analiz etmek için mevcut bir donanım/yazılım sistemini gözlemler |
+| | PC.d2: farklı olası durumları kapsayan iyi seçilmiş girdilerin verildiği durumlarda çıktıyı analiz eder |
+| | PC.d3: sistemin kusurlarını bulur ve düzeltir |
+| | PC.d4: sistemi gereksinimler doğrultusunda geliştirir |
+
+| **e** | **Çok disiplinli takımlarda çalışabilme yeteneği** |
+|-------|------------------------------------------------------------------------------------------------|
+| | PC.e1: uzun vadeli bir grup veya çok disiplinli proje takımında etkin bir şekilde yer alır. |
+| | PC.e2: takım içinde sorumluluklar alır ve bu sorumlulukları yerine getirir. |
+| | PC.e3: fikirlerin geliştirilmesine katkıda bulunur |
+| | PC.e4: başkalarından gelen gözden geçirme veya geliştirme geri bildirimlerini dikkate alır |
+
+| **f** | **Mühendislik problemlerini tanımlama, formüle etme ve çözme becerisi** |
+|-------|------------------------------------------------------------------------------------------------|
+| | PC.f1: bir bilgisayar mühendisliği problemini tanımlar |
+| | PC.f2: bir bilgisayar mühendisliği probleminin bileşenlerini biçimsel olarak tanımlar |
+| | PC.f3: bir bilgisayar mühendisliği problemi için çözüm geliştirir |
+
+| **g** | **Mesleki ve etik sorumluluk anlayışı** |
+|-------|------------------------------------------------------------------------------------------------|
+| | PC.g1: mesleki mühendislik pratiğine rehberlik eden etik kurallarının farkındadır |
+| | PC.g2: bir kararla ilgili etik konuları belirler ve tanımlar |
+| | PC.g3: uygulamadaki bir durumu mesleki etik kurallarını ve gerçekleri kullanarak değerlendirir |
+
+| **h** | **Etkili iletişim kurabilme becerisi** |
+|-------|------------------------------------------------------------------------------------------------|
+| **h1** | **Yazılı iletişim** |
+| | PC.h1: uygun bir format ve dilbilgisi kullanarak belge hazırlar |
+| **h2** | **Sözlü iletişim** |
+| | PC.h2: iyi organize edilmiş mantıklı bir sözlü sunumu planlar, hazırlar ve sunar |
+| **h3** | **Grafik iletişim** |
+| | PC.h3: yazılı ve sözlü sunumlarda profesyonel grafikler kullanır |
+
+| **i** | **Mühendislik çözümlerinin etkisini kavrayabilmek için geniş kapsamlı eğitim** |
+|-------|------------------------------------------------------------------------------------------------|
+| | PC.i1: bir mühendislik çözümünün sahip olabileceği çeşitli etkileri listeler |
+| | PC.i2: toplumsal bir bağlamın anlaşılması ile ilgili anahtar terimleri tanımlar |
+| | PC.i3: küresel bir problemin mühendislik yönlerini tanır |
+
+| **j** | **Yaşam boyunca öğrenmeye olan ihtiyacın farkında olabilme** |
+|-------|------------------------------------------------------------------------------------------------|
+| **j1** | **Öğrenilmesi gerekilenler konusunda farkındalık** |
+| | PC.j1: gerçek bir projede neyin öğrenilmesi gerektiğini belirler |
+| **j2** | **Yaşam boyunca öğrenmeye bağlı kalabilme yeteneği** |
+| | PC.j2: öğrenme planını gerçek bir araştırma projesine uygular |
+| | PC.j3: seminerlere ve eğitim faaliyetlerine katılır |
+
+| **k** | **Güncel konular hakkında bilgi sahibi olma** |
+|-------|------------------------------------------------------------------------------------------------|
+| | PC.k1: mühendislik problemlerini potansiyel çevresel etki sorunları ile tanımlar |
+| | PC.k2: başlıca sosyo-ekonomik konuları listeler ve tanımlar |
+| | PC.k3: ulusal veya uluslararası düzeydeki başlıca politik konuları listeler ve tanımlar |
+
+| **l** | **Mühendislik uygulamaları için gerekli olan teknikleri kullanabilme becerisi** |
+|-------|------------------------------------------------------------------------------------------------|
+| | PC.l1: bir mühendislik sisteminin performansını izlemek için mühendislik tekniklerini kullanır |
+| | PC.l2: karar vermek için gerekli olan bilgileri edinebilmek için mühendislik tekniklerini kullanır |
+| | PC.l3: belirli bir mühendislik görevi için uygun teknikleri ve araçları seçer |
+
+| **m** | **Değişen koşullara uyum sağlama yeteneği** |
+|-------|------------------------------------------------------------------------------------------------|
+| | PC.m1: yeni araçlara ve yaklaşımlara uyum sağlar |
+| | PC.m2: bir çalışma grubunda farklı roller üstlenir |
+| | PC.m3: gelişmekte olan alanların farkında olur ve onlara uyum sağlar |

@@ -1,0 +1,503 @@
+Title: İTÜ | ÖİDB
+
+URL Source: https://www.sis.itu.edu.tr/TR/mevzuat/yatay-cap-yandal-yonerge.php
+
+Markdown Content:
+| İSTANBUL TEKNİK ÜNİVERSİTESİ  
+LİSANS PROGRAMLARI YATAY GEÇİŞ, ÇİFT ANADAL PROGRAMI (ÇAP) VE YANDAL PROGRAMI YÖNERGESİ
+
+BİRİNCİ BÖLÜM
+
+(Amaç, Kapsam, Dayanak ve Tanımlar)
+
+**Amaç**
+
+**MADDE 1–** (1) Bu yönergenin amacı, İstanbul Teknik Üniversitesi lisans programlarında yürütülen yatay geçiş, çift anadal ve yandal programlarına ilişkin esas ve usulleri düzenlemektir.
+
+**Kapsam**
+
+**MADDE 2 –** (1) Bu yönerge, İstanbul Teknik Üniversitesi lisans programlarında yürütülen yatay geçiş, çift anadal ve yandal programlarına öğrenci kabul ve kayıt işlemleri ile uygulamalarına ilişkin hükümleri kapsar.
+
+**Dayanak**
+
+**MADDE 3 –** (1) Bu yönerge, 2547 sayılı Yükseköğretim Kanununun 7. Maddesinin birinci fıkrasının (e) bendine ve 44. Maddesinin (c) fıkrasına, Yükseköğretim Kurumlarında Ön lisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yandal İle Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine, İstanbul Teknik Üniversitesi Lisans Eğitim ve Öğretim Yönetmeliği hükümlerine dayanılarak hazırlanmıştır.
+
+**Tanımlar**
+
+**MADDE 4 –** (1) Bu Yönergede geçen;
+
+a)    Üniversite/İTÜ: İstanbul Teknik Üniversitesini,
+
+b)    Rektör: İstanbul Teknik Üniversitesi Rektörünü,
+
+c)    Senato: İstanbul Teknik Üniversitesi Senatosunu,
+
+d)    Üniversite Yönetim Kurulu: İstanbul Teknik Üniversitesi Yönetim Kurulunu,
+
+e)    İlgili yönetim kurulu: İstanbul Teknik Üniversitesi Fakülte/Konservatuar yönetim kurulunu,
+
+f)    Kurum içi yatay geçiş: Bir öğrencinin kayıtlı olduğu bir diploma programından Üniversite içinde aynı düzeydeki diğer diploma programına geçişini,
+
+g)    Kurumlar arası yatay geçiş: Başka bir yükseköğretim kurumundan üniversitenin aynı düzeydeki diploma programına geçişi,
+
+h)    Eşdeğer diploma programı: İsimleri aynı olan veya ilgili yönetim kurulları tarafından içeriklerinin en az %80’inin aynı olduğu tespit edilen diploma programını,
+
+i)    Çift Anadal Programı (ÇAP): Üniversitenin bir diploma programına kayıtlı öğrencinin başarı şartını ve diğer koşulları sağlayarak Üniversitenin iki farklı diploma programından eş zamanlı olarak ders alarak, iki ayrı diploma alabilmesini sağlayan programını,
+
+j)    Çift Anadal (İkinci Anadal): Öğrencinin başvurduğu ve kabul edildiği ikinci lisans programını,
+
+k)    Anadal: Öğrencinin Çift Anadal programına başvuru tarihinde kayıtlı olduğu lisans programını,
+
+l)    Yandal programı: Üniversitenin bir diploma programına kayıtlı öğrencinin öngörülen şartları taşıması koşuluyla, Üniversitenin içinde belirli bir konuya yönelik sınırlı sayıda dersi almak suretiyle, diploma yerine geçmeyen bir belge (yandal sertifikası) alabilmesini sağlayan programı,
+
+m)    Kontenjan: Önceden belirlenip ilan edilen öğrenci sayısını,
+
+n)    Ağırlıklı Genel Not Ortalaması (AGNO): Öğrencinin almış olduğu ve ortalamaya katılan tüm derslere ait kredilerin başarı notları ile çarpımından oluşan toplam değerin kredi toplamına bölümünü,
+
+o)    Taban puan: Bir yükseköğretim kurumunun diploma programına T.C. Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) tarafından merkezi sınavla yerleştirilen en düşük puanlı öğrencinin giriş puanını,
+
+p)    Öğrenim Belgesi (Transkript): Öğrencinin Üniversitede aldığı derslere ait bütün notları ve işaretleri gösteren belgeyi,
+
+q)    Öğrenci Bilgi Sistemi: Üniversitenin Öğrenci İşleri Daire Başkanlığı’na ait elektronik bilgi yönetim sistemini,
+
+r)    Üniversitenin Resmi İnternet Adresi: Üniversitenin öğrenci işleri resmi internet adresini (www.sis.itu.edu.tr),
+
+s)    Akademik takvim: Eğitim-öğretim yılının başlama ve bitiş tarihleri ile kayıt ve sınav tarihleri gibi önemli tarihleri içeren takvimi ifade eder.
+
+İKİNCİ BÖLÜM
+
+LİSANS PROGRAMLARI ARASI YATAY GEÇİŞLER
+
+(Kurum İçi, Kurumlar Arası ve Yurt Dışı Yükseköğretim Kurumlarından Yatay Geçiş Kontenjanı ve Başvuru Koşulları, Başvuru ve Değerlendirme , Sonuçların İlanı)
+
+ **Kurum İçi Yatay Geçiş Kontenjanı**
+
+**MADDE 5-** (1) İzlemiş olduğu program ile başvurduğu program eşdeğer düzeyde olan başarılı öğrenciler için ilgili yönetim kurulu tarafından belirlenen kontenjandır.
+
+(2) Kurum içi programlar arası yatay geçişlerde, lisans diploma programlarının hazırlık sınıfına, ilk iki yarıyılına ve son iki yarıyılına kontenjan açılmaz.
+
+(3) Kurum içi programlar arası yatay geçişlerde ilan edilen kontenjan ÖSYM kılavuzunda her yıl için belirtilen programın genel kontenjanının yüzde on beşini geçemez.
+
+**Kurumlar Arası Yatay Geçiş Kontenjanı**
+
+**MADDE 6-** (1) Eşdeğer diploma programına başvuran öğrenciler için Yükseköğretim Kurulu Başkanlığı tarafından yayınlanan kontenjandır.
+
+(2) Kurumlar arası yatay geçiş kontenjanında, lisans diploma programlarının hazırlık sınıfına, ilk iki yarıyılına ve son iki yarıyılına kontenjan açılmaz.
+
+ **Yurt Dışı Yükseköğretim Kurumlarından Yatay Geçiş Kontenjanı**
+
+**MADDE 7-** (1) Denkliği Yükseköğretim Kurulunca tanınan ve eşdeğerliği başvurulan programın bulunduğu Üniversite tarafından kabul edilen programda öğrenimlerini sürdüren başarılı lisans öğrencileri için Senato tarafından belirlenen kontenjandır.
+
+(2) Yurt dışı Yükseköğretim Kurumlarından yatay geçişlerde, lisans diploma programlarının hazırlık sınıfına, ilk iki yarıyılına ve son iki yarıyılına kontenjan açılmaz.
+
+(3) Yurt dışı yükseköğretim kurumlarından yatay geçiş kontenjanı, kurumlar arası yatay geçiş kontenjanın yarısını geçemez.
+
+(4) Yatay geçiş kontenjanlarında ilan tarihinden sonra değişiklik veya kontenjanlar arasında aktarma yapılamaz.
+
+**Kurum İçi Yatay Geçiş Başvuru Koşulları**
+
+**MADDE 8 –** (1) Öğrencinin başvuru yapabilmesi için aşağıda belirtilen koşulları sağlaması gerekir:
+
+ a) Üniversitenin Fakülte ve Bölümleri arasında yapılan yatay geçişlerde İngilizce Yeterlik şartı aranmaz.
+
+b)  Öğrencinin başvuru sırasında Üniversitedeki bir lisans programına kayıtlı olması ve o dönem sonunda hangi nedenle olursa olsun, Üniversite ile ilişiğinin kesilmemiş olması zorunludur.
+
+c)  Aynı düzeyde öğrenci kabul eden diploma programları arasında yatay geçiş başvurusu yapılabilmesi için, öğrencinin merkezi sınava girdiği yıl itibarıyla geçmek istediği diploma programı için geçerli olan puan türünde aldığı merkezi yerleştirme puanının, geçmek istediği diploma programına eşdeğer yurt içindeki diğer üniversitelerin diploma programlarının en düşük taban puanından az olmaması gerekir.
+
+d)  Öğrencinin lisans programında (İngilizce Hazırlık Sınıfı dışında) en az iki yarıyılı tamamlamış olması zorunludur.
+
+e)  Lisans programında hazırlık hariç iki yarıyıl öğrenim görmüş olan öğrencilerden (irregular öğrencilerde üç yarıyıl), başardığı genel kredi 30-59.99 (2. sınıf) arasında olanlar 3.Yarıyıla, lisans programında hazırlık hariç dört yarıyıl öğrenim görmüş olan öğrencilerden (irregular öğrencilerde beş yarıyıl) başardığı genel kredi 60-94.99 (3.sınıf) arasında olanlar ise 5.Yarıyıla başvuru yapabilir. Belirtilen kredi aralıkları dışında kredi başaran öğrencilerin başvuruları değerlendirilmez.
+
+f)  Fakülteler arası ve kayıtlı olunan Fakültenin bölümleri arasında 3. Yarıyıl için yapılacak yatay geçiş başvurularında ; öğrencinin ayrılacağı programın 1. ve 2. yarıyıla ait ders planındaki bütün dersleri almış ve başarmış olması, ek olarak üst yarıyıllardan almış olduğu derslere ait notların da ağırlıklı ortalamaya katılması, bu şekilde hesaplanacak ağırlıklı genel not ortalamasının en az 2.50 olması gereklidir.
+
+g) Kayıtlı olunan Fakültenin bölümleri arasında eşdeğer diploma programı olması durumunda 5. Yarıyıl için yapılacak yatay geçiş başvurularında; öğrencinin ayrılacağı programın 1. ve 2. yarıyıla ait ders planındaki derslerin tamamı ile öğretim planından en az (60) altmış kredilik dersi almış ve başarmış olması ve ağırlıklı genel not ortalamasının en az 2.60 olması gereklidir.
+
+h)  Öğrencinin bulunduğu programda yatay geçiş yapacağı yarıyıla kayıtlı olması ve o yarıyılı okumamış olması zorunludur.
+
+i)  Öğrencinin kayıtlı olduğu Anadal programında almış olduğu tüm dersleri dönem kaybı olmaksızın başarmış olması zorunludur.
+
+j)  Yatay geçiş yapan öğrencinin daha önceki yükseköğretim programlarında geçirdiği süre öğrencinin başvuracağı yarıyıl hesabına katılır. **(Değişik:Üniversite Senatosu - 17/08/2023 - 841)**Merkezi Yerleştirme Puanı (Ek Madde 1) ile Üniversitemize yatay geçiş yapan ve Dikey Geçiş Sınavı (DGS) ile bir lisans programına kayıt yaptırmış olan öğrencilerden, daha önceki programından hiç ders saydırmamış ve ders intibakı yapılmamış öğrenciler, daha önceki yükseköğretim programlarında geçirdiği süreye bakılmaksızın Yatay Geçiş başvurusu yapabilir.
+
+k) %30 İngilizce programı öğrencisi sadece 3.yarıyılda %100 İngilizce programına yatay geçiş başvurusunda bulunulabilir.
+
+l)  %30 İngilizce programı öğrencisi %100 İngilizce programına 5. yarıyıl için yatay geçiş yapamaz.
+
+m)  İTÜ Uluslararası Ortak Lisans Programı (UOLP) öğrencisi, Üniversitenin diğer lisans programlarına, diploma programının eşdeğer olması ve en az 3.00 ortalamanın sağlanması koşulları ile 5. yarıyıla yatay geçiş başvurusunda bulunabilir.
+
+n)  İTÜ KKTC programlarında kayıtlı lisans öğrencisi, Üniversitenin diğer lisans programlarına bu madde de yer alan diğer şartları sağlaması durumunda; 3. Yarıyıla, ayrıca eşdeğer diploma programı olması durumunda 5. yarıyıla yatay geçiş başvurusunda bulunabilir.
+
+o)  Öğrencinin başvuru sırasında bu yönergenin 28. Maddesinde geçiş yapmak istediği programa ilişkin istenen koşulları sağlaması gerekmektedir.
+
+**Kurumlar Arası Yatay Geçiş Başvuru Koşulları**
+
+**MADDE 9 –** (1) Öğrencinin başvuru yapabilmesi için aşağıda belirtilen koşulları sağlaması gerekir:
+
+a) İngilizce yeterliliğini gösteren ve Üniversitenin resmi internet adresinde ilan edilen belgelerden birisini başvuru esnasında (Türk Musikisi Devlet Konservatuarı Türkçe programlarına başvurular hariç) sunmaları gerekmektedir.
+
+b)  Öğrencinin başvuru sırasında eşdeğer bir yükseköğretim kurumunda eşdeğer diploma programına kayıtlı veya izinli olması ve öğrencilik haklarından yararlanıyor olması zorunludur.
+
+c)  Öğrencinin programında (İngilizce Hazırlık Sınıfı dışında) en az iki yarıyılı tamamlamış olması zorunludur.
+
+d) Öğrencinin kayıtlı bulunduğu programda, bitirmiş olduğu dönemlere ait öğretim planlarında belirtilen tüm dersleri dönem kaybı olmaksızın almış ve başarmış olması (kredili derslerde en az CC, kredisiz derslerde BL) zorunludur.
+
+e) (Değişik: Üniversite Senatosu 26/01/2023 - 841) Kayıtlı olduğu dönemlerde, öğretim planında yer alan tüm dersleri almamış olan ya da herhangi bir dersten notu 4'lük not sistemine göre (2.00)'den daha düşük olan öğrencinin başvurusu değerlendirmeye alınmaz.
+
+f)  Öğrencinin ağırlıklı genel not ortalamasının en az 2.50/ 4.00 (yüzlük sistemi kullanan programlar için en az 60/100) olması zorunludur.
+
+g)  Öğrencinin geçiş yapmak istediği programın, varsa diğer başvuru koşullarını (mülakat, portfolyo vb.) yerine getirmiş olması zorunludur.
+
+h)  Öğrencinin kayıtlı bulunduğu programda yatay geçiş yapacağı yarıyıla kayıt olup, o yarıyılı okumamış olması zorunludur.
+
+i)  Yatay geçiş ile gelen öğrencinin daha önceki yükseköğretim kurumlarında geçirdiği süreler de öğrencinin başvuracağı yarıyıl hesabına katılır.
+
+j)  Merkezi yerleştirme ile öğrenci alan diploma programlarından özel yetenek sınavı ile öğrenci alınan diploma programına geçişlerde, diğer şartların yanı sıra yetenek sınavında da başarılı olma şartı aranır. Özel yetenek sınavı ile öğrenci alınan diploma programlarından, merkezi yerleştirme ile öğrenci alan diploma programlarına yatay geçiş yapılamaz.
+
+k)  Türkçe veya %30 İngilizce programlarından 5.yarıyıl için %100 İngilizce programlarına yatay geçiş yapılamaz.
+
+l)  Öğrencinin başvuru sırasında bu yönergenin 28. Maddesinde geçiş yapmak istediği programa ilişkin istenen koşulları sağlaması gerekmektedir.
+
+**Yurt Dışı Yükseköğretim Kurumlarından Yatay Geçiş Başvuru Koşulları**
+
+**MADDE 10 –** (1) Öğrencinin başvuru yapabilmesi için aşağıda belirtilen koşulları sağlaması gerekir:
+
+a)  İngilizce yeterliliğini gösteren ve Üniversitenin resmi internet adresinde ilan edilen belgelerden birisini başvuru esnasında (Türk Musikisi Devlet Konservatuarı Türkçe programlarına başvurular hariç) sunmaları gerekmektedir.
+
+b)  Öğrencinin başvuru sırasında eşdeğer bir yükseköğretim kurumunda eşdeğer diploma programına kayıtlı veya izinli (öğrenci statüsünde) olması zorunludur.
+
+c)  Öğrencinin programında (İngilizce Hazırlık Sınıfı dışında) en az iki yarıyılı tamamlamış olması zorunludur.
+
+d)  Öğrencinin kayıtlı bulunduğu programda, bitirmiş olduğu dönemlere ait öğretim planlarında belirtilen tüm dersleri dönem kaybı olmaksızın almış ve başarmış olması (kredili derslerde en az CC, kredisiz derslerde BL) zorunludur.
+
+e) Kayıtlı olduğu dönemlerde, öğretim planında yer alan tüm dersleri almamış olan ya da herhangi bir dersten notu DC ve altındaki notlarla başvuran öğrencinin başvurusu değerlendirmeye alınmaz.
+
+f)  Öğrencinin Ağırlıklı Genel Not Ortalamasının en az 2.50/ 4.00 veya eşdeğeri olması zorunludur.
+
+g)  Öğrencinin geçiş yapmak istediği programın, varsa diğer başvuru koşullarını (mülakat, portfolyo vb.) yerine getirmiş olması zorunludur.
+
+h)  Öğrencinin kayıtlı bulunduğu programda yatay geçiş yapacağı yarıyıla kayıtlı ve o yarıyılı okumamış olması zorunludur. Yatay geçiş ile gelen öğrencinin daha önceki yükseköğretim kurumlarında geçirdiği süreler öğrencinin başvuracağı yarıyıl hesabına katılır.
+
+i)  Öğrencinin başvuru sırasında bu yönergenin 28. Maddesinde geçiş yapmak istediği programa ilişkin istenen koşulları sağlaması gerekmektedir.
+
+ **Muafiyet ve İntibak İşlemleri**
+
+**MADDE 11 –** (1)Yatay geçiş ile kabul edilen ve kesin kaydı yapılan öğrencinin muafiyet ve intibak işlemleri “İstanbul Teknik Üniversitesi Muafiyet ve İntibak İşlemleri Yönergesi” hükümlerine göre yapılır.
+
+**Azami Süre**
+
+**MADDE 12 –** (1) Yatay geçiş ile Kurum/Bölüm değiştiren öğrencinin önceki kurumlarında/programlarında geçen süresi öğrenim süresi hesabına katılır. Toplam süre, 2547 sayılı Yükseköğretim Kanununda belirtilen azami sürelerini aşamaz.
+
+(2) “Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik”in Ek 1. Maddesi kapsamında eğitim gördüğü programdan farklı bir programa yatay geçiş yapan öğrencilerin azami süreleri, programın azami süresinden kabul edildiği sınıf çıkartılarak hesaplanır.
+
+ÜÇÜNCÜ BÖLÜM
+
+ÇİFT ANADAL PROGRAMI
+
+(Programın Açılması, Kontenjan, Başvuru, Kabul ve Kayıt Koşulları, Danışmanlık, Anadal ve Çift Anadal Programı İlişkileri, Başarı ve Mezuniyet Koşulları Geçici veya Sürekli Ayrılma, İlişik kesme)
+
+**Programın Açılması**
+
+**MADDE 13 –** (1) ÇAP programı, ilgili programları yürüten bölümlerin önerisi, İkinci Anadal programının bulunduğu Fakültenin Kurul kararı ve Senatonun onayı ile açılarak izleyen yarıyılda uygulanır.
+
+(2) Üniversitenin herhangi iki bölümü arasında ÇAP yapılabilir.
+
+(3) Bir ÇAP programı en az 36 kredi, en çok 70 kredi olacak şekilde düzenlenir. Ancak program gereklilikleri sağlanması için kredi üst sınırı artırılabilir.
+
+**Çift Anadal Programı Kontenjanı**
+
+**MADDE 14 –** (1) Her eğitim-öğretim yılının Bahar yarıyılı içerisinde, bölümlerin önerdiği ve Fakülte Kurulunda karara bağlanan kontenjanlar Senato’ya sunulur. Senatonun kararı ve onayı ile kontenjanlar açılır.
+
+(2) ÇAP kontenjanı, ilgili programın o yıla ait birinci sınıf, birinci dönem Anadal öğrenci sayısının %5'inden az, %20'sinden fazla olamaz.
+
+**Başvuru, Kabul ve Kayıt Koşulları**
+
+**MADDE 15 –** ÇAP'a başvuru, kabul ve kayıt koşulları şunlardır:
+
+(a) Öğrenci ilan edilen ÇAP'a, Anadal lisans programının en erken 3. ve en geç 5. dönemi başında başvurabilir.
+
+(b) Yatay geçiş ile gelen öğrencilerin daha önceki yükseköğretim kurumlarında geçirdikleri süreler, öğrencinin başvuracağı yarıyıl hesabına katılır. **(Değişik: Üniversite Senatosu 27/07/2022 - 808)** Merkezi Yerleştirme Puanı (Ek Madde 1) ile Üniversitemize yatay geçiş yapan, daha önceki programından hiç ders saydırmamış ve ders intibakı yapılmamış öğrenciler, daha önceki yükseköğretim kurumlarında geçirdikleri süreye bakılmaksızın Çift Anadal Programı (ÇAP) başvurusu yapabilir.
+
+(c) Lisans programında hazırlık hariç iki yarıyıl öğrenim görmüş olan öğrencilerden (irregular öğrencilerde üç yarıyıl), başardığı genel kredi 30-59.99 (2. sınıf) arasında olanlar 3.Yarıyıla, lisans programında hazırlık hariç dört yarıyıl öğrenim görmüş olan öğrencilerden (irregular öğrencilerde beş yarıyıl) başardığı genel kredi 60-94.99 (3.sınıf) arasında olanlar ise 5.Yarıyıla başvuru yapabilir. Belirtilen kredi aralıkları dışında kredi başaran öğrencilerin başvuruları değerlendirilmez. Anadal lisans programında almış olduğu dersleri başarmış olması, başvuru sırasında ağırlıklı genel not ortalamasının 4.00 üzerinden en az 3.00 olması ve Anadal programının başarı sıralaması itibarı ile en üst % 20'de bulunması gerekir. Başarı sıralaması şartı aranan programlarda çift anadal yapmak isteyen öğrencinin, bu yönergede belirlenen diğer şartların yanı sıra kayıt olduğu yıldaki ilgili programın Yükseköğretim Kurulu tarafından belirlenen başarı sıralaması şartını sağlamış olması gerekir. **(Değişik: Üniversite Senatosu - 17/08/2023 - 841)**Yurt dışından öğrenci kabul kontenjanları kapsamında kayıt olan öğrenciler ile yurt dışından yatay geçiş ile gelen,Dikey Geçiş Sınavı (DGS) ile bir lisans programına kayıt yaptırmış olan ve YKS başarı sırasını sağlamayan öğrenciler başvuramaz.
+
+ (d) Adı aynı olan programlar arasında ÇAP yapılamaz. Bu programlar arasında sadece yatay geçiş yapılabilir.
+
+(e) ÇAP’a kayıtlı olan öğrencinin, kurum içi veya EK MADDE-1 gereğince, I.anadalını değiştirmesi durumunda ÇAP’taki kaydı düşürülür.
+
+(f) ÇAP öğrencisi kayıt dönemi içerisinde her iki anadala birlikte ders kaydı yaptırır.
+
+(g) ÇAP için ek sınıf açılmaz. ÇAP öğrencileri anadal programı öğrencileri ile birlikte derslere devam ederler.
+
+**Danışmanlık**
+
+**MADDE 16 –** (1) Çift Anadal Programları, ilgili bölümün önerisi ve Fakülte Kurulu kararı ile 3 yıl için seçilecek ÇAP danışmanlarınca izlenir. Fakülte kurulu, fakülte bünyesinde bulunan her program için en az bir ÇAP danışmanı seçer ve seçilen danışmanlar Fakülte ÇAP komisyonunu oluşturur. Komisyon her yıl Temmuz ayında hazırlayacağı değerlendirme raporunu Senato’ya iletilmek üzere Fakülte Dekanlığına sunar.
+
+(2) ÇAP öğrencisine ikinci Anadal programı ÇAP danışmanları içerisinden bir kişi danışman olarak atanır.
+
+   **Anadal ve Çift Anadal Programı İlişkileri**
+
+**MADDE 17 –** (1) Öğrencinin kendi bölümünün lisans programı ile Çift Anadal Programı'nın ayrılığı esastır. ÇAP nedeniyle, öğrencinin anadal programındaki başarısı ve mezuniyeti hiç bir biçimde etkilenmez.
+
+(2) ÇAP öğrencisine her iki anadalda aldığı dersleri birlikte gösteren tek bir öğrenim belgesi verilir. Birinci anadal programında alınan dersler birinci anadal ortalamasına, ikinci anadal programından alınan fark dersleri ikinci anadal ortalamasına, tüm dersler ise üniversite genel not ortalamasına sayılır ve gösterilir. İkinci anadal programının mezuniyete bağlı olarak yapılan 1.2.ve 3. Tespitinde, Lisansüstü (Y.Lisans, Doktora) başvuruları ile iş başvurularında Üniversite geneli not ortalaması dikkate alınır.
+
+(3) İkinci anadala 3. yarıyılda başlayan öğrenci her yarıyıl en az 6, 5. yarıyılda başlayan öğrenci ise her yarıyıl en az 9 kredilik ders almak zorundadır. İkinci anadaldan alınması gereken yarıyıl kredisi ikinci anadalın bulunduğu Fakülte Yönetim Kurulu Kararı ile yarıya düşürülebilir.
+
+(4) ÇAP öğrencileri devam ettikleri her iki programda da İTÜ Lisans Eğitim ve Öğretim Yönetmeliğinin hükümlerinden sorumludurlar.
+
+(5) ÇAP öğrencisinin hem anadal hem de ikinci anadala ait uygulamalar, proje ve stüdyolar, laboratuvar ve atölye çalışmaları, pratik çalışmalar, stajlar, eskizler, arazi üzerinde uygulamalar, seminerler, bitirme tasarım projesi/bitirme ödevi ve benzeri çalışmaları yapması zorunludur. Bu çalışmaların eşdeğerliğine ve ikinci anadalda hangilerinin yapılması gerektiğine ÇAP komisyonu karar verir. Çift Anadal programında yer alan dersler için II. Anadal programında iki ayrı kademede verilmekte olan ancak I. Anadal ders planında tek ders olarak verilmekte olan ders, Çift Anadal programının ders planında yer alan derslerden birincisine sayılacaktır.
+
+(6) Lisans öğrenimi görülen Anadal ve İkinci Anadal programlarında kredi ve içerik olarak eşdeğer olan dersler için Anadal programındaki derslerin başarılmış olması gerekir.
+
+,(7) Eşdeğerliliği Senato tarafından kabul edilen, herhangi bir anadaldan alınmış ve başarılmış derslerin tekrar alınmasına gerek yoktur.
+
+(8) İki Anadalda da ortak olan derslerin kredisi ve başarı notunun 1. ve 2. Anadal programlarının ortalamasına katılmasında aşağıdaki hususlar göz önünde bulundurulur.
+
+a) Ortak kodlu ders 1. Anadalda zorunlu ders ise kredisi 1. Anadal başarılan kredisine sayılır ve 1. Anadal ortalamasına katılır, 2. Anadalda bu dersten muaf olunur fakat dersin kredisi 2. Anadal ortalamasına ve başarılan kredisine eklenmez.
+
+b) Ortak kodlu ders 1. Anadalda seçmeli ders ise, öğrenci ÇAP ders kayıt formunda aksini belirtmediği sürece, kredisi 1. Anadala sayılır ve 1. Anadal ortalamasına katılır. Ders 2. Anadal için alınıyorsa, dersin kredisi 2. Anadala sayılacağından ve 2. Anadal ortalamasına katılacağından, öğrenci 1. Anadal için başka bir seçmeli ders alarak 1. Anadal eksik ders ve kredisini tamamlamak zorundadır.
+
+**Başarı ve Mezuniyet Koşulları**
+
+**MADDE 18 –** (1) ÇAP'da başarı ve mezuniyet koşulları şunlardır:
+
+a)  Anadal programında mezuniyet hakkını elde eden ve ikinci anadal programını başarıyla tamamlayan öğrenciye ayrıca ikinci anadal yaptığı fakülte/bölümün lisans diploması verilir. İkinci anadal programından mezuniyet hakkı elde eden öğrenciye, anadal programından mezuniyet hakkı elde etmeden ikinci anadal programının lisans diploması verilmez.
+
+b) ÇAP öğrencileri arasında başarı sıralaması yapılmaz.
+
+c) ÇAP öğrenimi sırasında birinci anadaldan mezun olan öğrencinin devam eden ikinci anadal öğrencilik işlemleri, ikinci anadala ait fakülte tarafından yürütülür.
+
+d) Lisans programlarının ÇAP’ı tektir. İkinci anadal programlarında alınan derslerin kredisi için İngilizce yüzdesi mezuniyet koşulu olarak aranmaz. %100 İngilizce programa kayıtlı olan ve ikinci anadala (ÇAP) başvurusu kabul edilen öğrencilere ikinci anadal programlarını tamamladıklarında, mezun olunan programın %30 İngilizce programında verilen lisans diploması verilir.
+
+**Geçici veya Sürekli Ayrılma, İlişik kesme**
+
+**MADDE 19 –** (1)ÇAP'dan geçici veya sürekli ayrılma ve ilişik kesme halleri şunlardır:
+
+a) Öğrenci ÇAP'ı kendi isteği, danışman görüşü ve ikinci anadal Fakülte Yönetim Kurulu kararı ile istediği zaman bırakabilir.
+
+b) ÇAP'dan ayrılan bir öğrenci, programdan ayrıldığı döneme kadar almış olduğu dersler ile, çift anadal verilen bölüm tarafından yandal programının olması ve başvurması halinde, yandal programının tüm gereklerini yerine getirmek koşuluyla, ilgili yandal programına ait sertifikayı almaya hak kazanır. Öğrenci başvuru yaptığı ilgili yandal programının tüm gereklerini yerine getirememişse, yandal programının azami süresini geçirmemek koşulu ve eksik derslerini tamamlayabilme amacıyla, kendisine ilgili yandal programına kayıt hakkı tanınır.
+
+c) ÇAP'a kayıtlı öğrenciler başvuru koşullarını sağlamak koşulu ile başka çift anadal programlarına başvurabilirler ve kabul alması durumunda önceki programından kaydı silinir.
+
+d) ÇAP'taki öğrenci, birinci anadalı olan programdan yatay geçiş yapamaz.
+
+e) Anadal programında izinli sayılan öğrenci, talep aranmaksızın ikinci anadal programında da izinli sayılır.
+
+f) ÇAP'da dersin açılmaması veya ders çakışması gibi nedenlerle ders alamayacak olan öğrencilere ÇAP programını yürüten bölümün önerisi ve ikinci Anadal programının bağlı olduğu Fakülte Yönetim Kurulu kararı ile dönem izni verilebilir.
+
+g) ÇAP’da izinsiz üst üste iki yarıyıl ders almayan öğrencinin ikinci Anadal programından kaydı silinir.
+
+h) Öğrenci ÇAP’dan ayrıldığında, başarısız olduğu çift anadal programı derslerini tekrarlamak zorunda değildir.
+
+i) İkinci anadal programından ayrılan veya kaydı silinen öğrencinin aldığı ve başardığı dersler, anadal programının yürütüldüğü bölüm intibak komisyonu önerisi üzerine ilgili yönetim kurulu kararıyla anadal programındaki zorunlu veya seçmeli derslerin yerine sayılabilir.
+
+j) ÇAP'dan ayrılan öğrenci aynı ÇAP'a veya başka bir ÇAP'a tekrar başvuramaz
+
+k) Öğrencinin ikinci anadal programından mezun olabilmesi için üniversite genel not ortalamasının en az 2,5; ikinci anadal not ortalamasının ise en az 2,00 olması gerekir. Tüm çift anadal öğrenimi süresince öğrencinin üniversite genel not ortalaması bir defaya mahsus olmak üzere 4 üzerinden 2.5 altına düşebilir. Ağırlıklı genel not ortalaması ikinci kez 4 üzerinden 2.5’in altına düşen öğrencinin ikinci anadal diploma programından kaydı silinir.
+
+l) Anadal programından mezuniyet hakkını elde eden ancak çift anadal programını bitiremeyen öğrencilerin öğrenim süresi çift anadal diploma programına kayıt yaptırdığı eğitim öğretim yılından itibaren 2547 sayılı Kanunun 44üncü maddesinin (c) fıkrasında belirtilen azami süredir. Bu süre içinde ikinci anadal programından mezun olamayan öğrencinin programla ilişiği kesilir.
+
+DÖRDÜNCÜ BÖLÜM
+
+YANDAL PROGRAMI
+
+**(Yandal Programı Açılması, Kontenjan, Başvuru, Kabul ve Kayıt Koşulları, Danışmanlık, Önkoşul ve İngilizce Dersleri, Anadal ve Yandal Programı İlişkileri, Başarı ve Programı Tamamlama Koşulları, Geçici veya Sürekli Ayrılma, İlişik Kesilme)**
+
+**Yandal Programı Açılması**
+
+**MADDE 20 –** Yandal programları, ilgili bölüm ve fakülte kurullarının önerisi ve Üniversite Senatosu'nun onayı ile;
+
+(1) Üniversite’nin her bölümü, her programında açılabilir.
+
+(2) Üniversite’nin programları arasında disiplinlerarası yandal programları da açılabilir.
+
+**YANDAL Programı Kontenjanı**
+
+**MADDE 21 –** (1) Her eğitim-öğretim yılının Bahar yarıyılı içerisinde, bölümlerin önerdiği ve Fakülte Kurulunda karara bağlanan kontenjanlar Senato’ya sunulur. Senatonun kararı ve onayı ile kontenjanlar açılır.
+
+**Yandal Programına Başvuru, Kabul ve Kayıt Koşulları Koşulları**
+
+**MADDE 22–** Yandal’a başvuru, kabul ve kayıt koşulları şunlardır:
+
+a) Öğrencinin Yandal programına başvurabilmesi için başvuru sırasındaki Ağırlıklı Genel Not Ortalamasının en az 2.50 olması gerekir.
+
+b)  Lisans programında hazırlık hariç iki yarıyıl öğrenim görmüş olan öğrencilerden (irregular öğrencilerde üç yarıyıl), başardığı genel kredi 30-59.99 (2. sınıf) arasında olanlar 3.Yarıyıla, lisans programında hazırlık hariç dört yarıyıl öğrenim görmüş olan öğrencilerden (irregular öğrencilerde beş yarıyıl) başardığı genel kredi 60-94.99 (3.sınıf) arasında olanlar ise 5.Yarıyıla başvuru yapabilir. Belirtilen kredi aralıkları dışında kredi başaran öğrencilerin başvuruları değerlendirilmez. Öğrenci ilan edilen Yandal programına, Anadal lisans programının en erken 3. ve en geç 5. dönemi başında başvurabilir.
+
+c)  Yatay Geçiş ile gelen öğrencilerin daha önceki yükseköğretim kurumlarında geçirdikleri süreler de öğrencinin başvuracağı dönem hesabına katılır. **(Değişik: Üniversite Senatosu - 17/08/2023 - 841)**Merkezi Yerleştirme Puanı (Ek Madde 1) ile Üniversitemize yatay geçiş yapan ve Dikey Geçiş Sınavı (DGS) ile bir lisans programına kayıt yaptırmış olan öğrencilerden, daha önceki programından hiç ders saydırmamış ve ders intibakı yapılmamış öğrenciler, daha önceki yükseköğretim kurumlarında geçirdikleri süreye bakılmaksızın Yandal başvurusu yapabilir.
+
+d)  Yandal’dan ayrılan öğrenci aynı Yandal’a veya başka bir Yandal’a tekrar başvuramaz.
+
+e)  Üniversitenin tüm lisans programlarından Türk Musikisi Devlet Konservatuarına Yandal başvurusu yapılabilir. Konservatuarın programlarında Yandal yapabilmek için "Konservatuar Lisans Kayıt Kabul Esasları ve Giriş Sınavı Kriterleri " doğrultusunda uygulanan eleme ve kesin kabul sınavlarından, eleme sınavının kriterlerinin başarılması gereklidir.
+
+f)  Adı aynı olan programlar arasında Yandal yapılamaz.
+
+**Danışmanlık** ı
+
+**MADDE 23–** (1) Yandal Programları, ilgili bölümün önerisi ve Fakülte Kurulu kararı ile 3 yıl için seçilecek Yandal danışmanlarınca izlenir. Fakülte kurulu, fakülte bünyesinde bulunan her program için en az bir Yandal danışmanı seçer ve seçilen danışmanlar Fakülte Yandal komisyonunu oluşturur. Komisyon her yıl Temmuz ayında hazırlayacağı değerlendirme raporunu Senato’ya iletilmek üzere Fakülte Dekanlığına sunar.
+
+(2) Yandal öğrencisine, Yandal programı danışmanları içerisinden bir kişi danışman olarak atanır.
+
+**Önkoşul ve İngilizce Dersleri**
+
+**MADDE 24-** (1) Yandal programını izleyen öğrenciler programda yer alan ders veya derslerin önşartı olması durumunda talepte bulunmaları halinde önşart olan dersi alabilir. Önşart olan dersin alınması halinde bu dersin başarı notu ve kredisi Yandal ve Üniversite geneli ortalamasına katılır ve öğrenim belgesinde yer alır.
+
+**Anadal ve Yandal Programı İlişkileri**
+
+**MADDE 25–** (1) Öğrencinin kendi bölümünün lisans programı ile Yandal Programı'nın ayrılığı esastır. Yandal nedeniyle, öğrencinin Anadal programındaki başarısı ve mezuniyeti hiç bir biçimde etkilenmez.
+
+(2) Yandal öğrencisine her iki programda aldığı dersleri birlikte gösteren tek bir öğrenim belgesi verilir. Anadal programında alınan dersler Anadal ortalamasına, Yandal programından alınan dersler Yandal ortalamasına, tüm dersler ise Üniversite Genel Not Ortalamasına sayılır ve gösterilir.
+
+(3) Anadal ve Yandal programında ortak olan derslerin kredisi ve başarı notunun Anadal ve Yandal programlarının ortalamasına katılmasında aşağıdaki hususlar göz önünde bulundurulur.
+
+a) Ortak kodlu ders Anadalda zorunlu bir ders ise dersin kredisi Anadalın başarılan kredisi ve ortalamasına katılır, ders Yandal için de zorunlu ise Yandal programında yer alan “Anadalda benzer ders olması durumunda alınabilecek tamamlama dersleri “ grubundan farklı bir ders alınarak Yandal programı tamamlanmalıdır. Yandal planında tamamlama derslerinin bulunmaması halinde, Yandal programının bulunduğu bölümün belirleyeceği başka bir zorunlu ders alınarak Yandal programı tamamlanacaktır.
+
+b) Ortak kodlu ders Anadalda seçmeli, Yandalda zorunlu bir ders ise, Anadal programı için başka bir seçmeli ders alınmalıdır. Bu seçmeli ders Yandala başlamadan önce Anadal için alınmış ise, Yandal programında yer alan “Anadalda benzer ders olması durumunda alınabilecek tamamlama dersleri “ grubundan farklı bir ders alınarak Yandal programı tamamlanmalıdır. Yandal planında tamamlama derslerinin bulunmaması halinde, Yandal programının bulunduğu bölümün belirleyeceği başka bir zorunlu ders alınarak Yandal programı tamamlanacaktır.
+
+c) Öğrenciler dönem başında her iki programda da bulunan ortak dersler için “YANDAL Kayıt Formu ”nu doldurarak Öğrenci İşleri Daire Başkanlığına bildirir.
+
+(4) Yandal öğrencileri devam ettikleri her iki programda da İTÜ Lisans Eğitim ve Öğretim Yönetmeliğinin hükümlerinden sorumludurlar.
+
+(5) Yandal programları en az 18 en çok 24 krediden oluşacak şekilde düzenlenir.
+
+ **Başarı ve Programı Tamamlama Koşulları**
+
+**MADDE 26–** (1)Yandal’da başarı ve programı tamamlama koşulları şunlardır:
+
+a) Anadal programından mezuniyet hakkını elde eden ve Yandal programını en az 2.00 ortalamayla tamamlayan öğrenciye Yandal sertifikası verilir.
+
+b) Yandal programına kayıtlı öğrenciler için sınıf içinde başarı sıralaması yapılmaz.
+
+c) Yandal programını tamamlayan öğrenci, Yandal alanında lisans ve önlisans diplomasıyla verilen hak ve yetkilerden yararlanamaz.
+
+d) Yandal öğrenimi sırasında Anadalından mezun olan öğrencinin öğrencilik işlemleri Yandal programının bağlı olduğu Fakülte tarafından yürütülür.
+
+e) Yandal programında %30 veya %100 İngilizce ders koşulu aranmaz .
+
+ **Yandal Programından Geçici veya Sürekli Ayrılma, İlişik Kesilme**
+
+**MADDE 27–** (1)Yandal’dan geçici veya sürekli ayrılma ve ilişik kesme halleri şunlardır:
+
+a) Öğrenci yandal programını kendi isteği ile bırakabilir.
+
+b) Yandal Programından kaydı silinen öğrenci, aynı Yandal programına tekrar kayıt yaptıramaz.
+
+c) Anadal programında Ağırlıklı Genel Not Ortalaması 2.00'nin altına düşen öğrencinin yandal programından kaydı silinir.
+
+d) Öğrencinin başarılı olduğu ve Anadal programına sayılmayan dersler, Ağırlıklı Genel Not Ortalamasına dahil edilmeksizin öğrenim belgesinde yer alır.
+
+e) Yandal programına kayıtlı öğrenciler başvuru koşullarını sağlamak kaydı ile başka Yandal veya Çift Anadal Programlarına başvurabilir ve kabul alması durumunda önceki programından kaydı silinir.
+
+f) Anadal programında izinli sayılan bir öğrenci, talep aranmaksızın, Yandal programında da izinli sayılır.
+
+g) Yandal programından izinsiz iki yarıyıl üst üste ders almayan öğrencinin Yandal programından kaydı silinir.
+
+h) Yandal programında dersin açılmaması veya ders çakışması gibi nedenlerle ders alamayacak olan öğrencilere Yandal programının yürütüldüğü bölümün önerisi ve Yandal programının bağlı olduğu Fakülte Yönetim Kurulu kararı ile Yandal programından dönem izni verilebilir.
+
+i) Anadal programından mezuniyet hakkını elde eden ve henüz Yandal programını bitiremeyen öğrencilere ilgili yönetim kurulu kararı ile en fazla iki yarıyıl ek süre tanınır. Bu süre sonunda Yandal programının derslerini başarı ile tamamlayamayan öğrencilerin programla ilişiği kesilir.
+
+j) Yandal programından ayrılan veya kaydı silinen öğrencinin aldığı ve başardığı dersler, Anadal programının yürütüldüğü bölüm intibak komisyonu önerisi üzerine ilgili yönetim kurulu kararıyla Anadal programındaki zorunlu veya seçmeli derslerin yerine sayılabilir.
+
+BEŞİNCİ BÖLÜM
+
+LİSANS PROGRAMLARI ARASI YATAY GEÇİŞLER, ÇİFT ANADAL ve YANDAL PROGRAMLARI
+
+**(Kurumlar Arası, Yurt Dışı Yükseköğretim Kurumları ve Kurum İçi Yatay Geçişler İle ÇAP ve YANDAL Programları Eşdeğer Puanlar, Başvuru Tarihleri, Değerlendirme ve Sonuçların İlanı)**
+
+**ÖSS/LYS ve Eşdeğeri Puanlara İlişkin Koşullar**
+
+**MADDE 28-** (1) Uyruklarından biri TC veya KKTC olan adaylar kurumlar arası ve kurum içi yatay geçiş kontenjanlarına ÖSS/LYS puanı ile başvurmak zorundadır.
+
+(2) Kurumlar arası yatay geçişte göz önüne alınacak ÖSS/LYS puan türü, başvurulan programın yerleştirme puan türüdür. Değerlendirmede öğrencinin üniversiteye girdiği yıl almış olduğu ÖSS/LYS puanları arasından, öğrencinin yatay geçiş yapmak istediği program için geçerli olan türdeki puanı göz önüne alınır.
+
+(3) Yurt dışındaki veya yurt içindeki bir yükseköğretim kurumundan başvuran yabancı uyruklu öğrenci kayıtlı olduğu programa kabul edilmesini sağlayan “Lisans Programlarına Yurt Dışından Öğrenci Kabulüne İlişkin Başvuru ve Kayıt-Kabul Yönergesi”nde belirtilen başvuru şartlarını sağlamak zorundadır.
+
+(4) **(Mülga:Üniversite Senatosu - 17/08/2023 - 841)**
+
+(5) Yurtiçi yükseköğretim kurumunda lisans düzeyinde öğretime devam eden ve programı gereği ÖSS/LYS puanı bulunmayan öğrenci başvurusu sırasında “Lisans Programlarına Yurt Dışından Öğrenci Kabulüne İlişkin Başvuru ve Kayıt-Kabul Yönergesi”nde belirtilen ve ÖSS-LYS eşdeğeri bir sınav sonuç belgesini sunmak zorundadır.
+
+**Başvuru Tarihi ve İşlemleri**
+
+**MADDE 29 –** (1) Kurumlar arası yatay geçiş başvuru tarihleri, ilgili yönetmelik kapsamında Yükseköğretim Kurulu Başkanlığı ve Üniversite resmi internet sitelerinde ilan edilir.
+
+(2) Başvurunun değerlendirmeye alınabilmesi için yurtiçi (kurumlar arası) ve yurtdışı yatay geçiş için yapılmış olan duyuruda belirtilen belgelerin, akademik takvimde belirtilen son başvuru tarihine kadar Üniversitenin resmi internet sitesi adresinden yüklenmesi gerekir.
+
+(3) Kurum içi yatay geçiş, ÇAP ve YANDAL programlarının kontenjanları ve ilgili diploma programlarının son dört yıla ait taban puanları, Üniversitenin resmi internet sitesinde akademik takvimde belirtilen tarihte ilan edilir.
+
+(4) Kurum içinden yapılacak yatay geçiş başvuruları ile ÇAP ve YANDAL programları için yapılacak başvurular için herhangi bir belge sunulmasına gerek yoktur, Başvurular Öğrenci Bilgi Sistemi üzerinden yapılır.
+
+**Başvuru Değerlendirme**
+
+**MADDE 30 –**  (1) Başvurular ilan edilen koşullar çerçevesinde Öğrenci İşleri Daire Başkanlığı’nca, başvuru koşulları açısından değerlendirilir. Koşulları sağlamayan adayların başvuruları reddedilir.
+
+(2) Başvuru koşullarını sağlayan adaya ilişkin ön değerlendirme, “Yüksek Öğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Ana Dal, Yan Dal ile, Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik” ve bu yönergede belirtilen ilkeler esas alınarak, ilgili yönetim kurullarının belirlediği yatay geçiş komisyonları tarafından yapılır.
+
+(3) Kurumlar arası ve yurtdışı yükseköğretim kurumlarından yapılan yatay geçiş başvurularının değerlendirmesinde, aşağıdaki kriterler uygulanır:
+
+\- ÖSYS/YKS (veya eşdeğeri) puanı etkisi: (%49) (Bu maddenin 6. bendine göre hesap edilen puanın %49’u)
+
+\- Ağırlıklı genel not ortalaması etkisi: (%31)
+
+\- Temel bilim dersleri etkisi: (%20)
+
+(4) Kurum içi yatay geçiş başvurularının değerlendirmesinde öğrencinin ÖSYS/YKS puanının 100’lük sistemdeki karşılığını gösteren Senato tarafından kabul edilen formüle göre hesaplanan puan karşılığının %40’ı, ağırlıklı genel not ortalamasının % 60’ı alınır. Yapılan başvuru sayısının kontenjanı aşması halinde, öncelikle değerlendirme puanına, değerlendirme puanının eşit olması halinde Ağırlıklı Genel Not Ortalamasına, ortalamanın eşitliği halinde öğrencinin tamamlamış olduğu toplam kredisine bakılır. Fazla kredi tamamlamış olan öğrencilere öncelik verilir. Toplam kredi sayısının da eşit olması halinde, yükseköğretim kurumuna girdiği yıldaki ÖSYM sıralaması dikkate alınarak seçim yapılır.
+
+(5) Yurt dışından öğrenci kabul kontenjanları kapsamında kayıt olan öğrencilerin yatay geçiş başvurularının değerlendirilmesinde öğrencinin programa kayıt olduğu yıldaki programın ÖSYS/YKS minimum puanının YKS Puanı olarak kabul edilecektir.
+
+(6) ÖSYS/YKS puanı etkisinin hesaplanma şekli:
+
+a) Kurumlar arası ve yurtdışı yükseköğretim kurumlarından yapılan yatay geçiş başvurularının değerlendirmesinde, aşağıdaki formül uygulanır.
+
+![Image 13](blob:https://www.sis.itu.edu.tr/0f26ed51ed52d85f46a665abdffd9727)
+
+b) Kurumlar arası ve yurtdışı yükseköğretim kurumlarının konservatuar programlarından yapılan yatay geçiş başvurularının değerlendirmesinde, aşağıdaki formül uygulanır.
+
+![Image 14](blob:https://www.sis.itu.edu.tr/82c83be7fe49ec548e881ea2204bc00b)
+
+c) Kurumiçinden yapılan yatay geçiş başvurularının değerlendirmesinde, aşağıdaki formül uygulanır:
+
+![Image 15](blob:https://www.sis.itu.edu.tr/75457040ed11a3a8326e5f451584189e)
+
+d) Kurumiçinden yapılan konservatuar programlarına yatay geçiş başvurularının değerlendirmesinde, aşağıdaki formül uygulanır:
+
+![Image 16](blob:https://www.sis.itu.edu.tr/adf2479f7364c39e899474c794a42551)
+
+e) Değerlendirme puanı virgülden sonra beş haneli olarak uygulanır.
+
+(7) ÇAP başvurularının değerlendirilmesinde %20 başarı sırası hesaplanırken, aynı sınıftaki ve program adı aynı olan %30 ve %100 İngilizce programlarında kayıtlı öğrencilerin değerlendirmesi birlikte yapılır.
+
+(8) ÇAP ve Yandal başvurularının değerlendirilmesinde öncelikle Ağırlıklı Genel Not Ortalamasına, ortalamanın eşitliği halinde öğrencinin tamamlamış olduğu toplam kredisine bakılır. Fazla kredi tamamlamış olan öğrencilere öncelik verilir. Toplam kredi sayısının da eşit olması halinde, yükseköğretim kurumuna girdiği yıldaki ÖSYM sıralaması dikkate alınarak seçim yapılır.
+
+(9) Öğrenci aynı anda, birden fazla yatay geçiş, ÇAP veya yandal programına yerleştirilemez. Öğrencinin tercih sırası göz önünde bulundurularak yerleştirme yapılır.
+
+**Sonuçların İlanı ve Kayıt**
+
+**MADDE 31 –** (1) Kurumlararası/Kurum içi yatay geçiş, ÇAP ve Yandal yapmaya hak kazanan öğrenciler asil ve yedekleri ile birlikte Üniversitenin resmi internet sayfasında ilan edilen akademik takvimde belirtilen tarihte duyurulur.
+
+(2) Kurumlararası, kurum içi yatay geçiş, ÇAP veya Yandal programlarına ilgili Fakülte Yönetim Kurulu kararı ile kabul edilen öğrencilerin, kesin kayıt işlemleri akademik takvimde belirtilen tarihlerde Öğrenci İşleri Daire Başkanlığı tarafından yürütülür.
+
+(3) Kurum içi yatay geçiş, ÇAP ve Yandal’a hak kazanan öğrenci, kesin kayıt işlemlerini Akademik takvimde ilan edilen süre içerisinde Öğrenci Bilgi Sisteminden yapar.
+
+(4) Kurumlararası yatay geçiş hakkı kazanan öğrenci, kesin kayıt işlemlerini Akademik takvimde ilan edilen süre içerisinde duyuruda belirtildiği şekilde yapar.
+
+(5) Kurum içi yatay geçiş, ÇAP ve Yandal başvuru değerlendirme sonuçlarına göre her öğrenci 1 kez asil ve 1 kez de yedek listesinde yer alabilir
+
+(6) Asil olarak kayıt hakkı kazanan öğrencilerden kesin kayıt yaptırmayan olması durumunda, bir defaya mahsus kayıt hakkı kazanan yedek öğrencilerin listesi Üniversitenin resmi internet sitesinde ilan edilir. Yedek listede bulunan öğrenci, kesin kayıt işlemlerini Akademik takvimde ilan edilen süre içerisinde yapar.
+
+ALTINCI BÖLÜM
+
+(Hüküm Bulunmayan Haller, Yürürlükten Kaldırılan Yönerge ve Senato Esasları, Yürürlük, Yürütme)
+
+**Hüküm Bulunmayan Haller**
+
+**MADDE 32 -** (1)  Bu yönergede hüküm bulunmayan hallerde ilgili mevzuat hükümleri, ilgili mevzuat hükümlerinin de bulunmaması halinde, Yükseköğretim Kurulu, Senato, Üniversite ve ilgili yönetim kurulu kararları uygulanır.
+
+ **Yürürlükten Kaldırılan Yönerge**
+
+**MADDE 33 –**  (1) Üniversite Senatosu'nun 26.05.2017 gün ve 653 sayılı toplantısında kabul edilen " İstanbul Teknik Üniversitesi Önlisans Ve Lisans Programları Yatay Geçiş, Çift Anadal Programı (ÇAP) Ve Yandal Programı Yönergesi” yürürlükten kaldırılmıştır.
+
+**Yürürlük**
+
+**MADDE 34 –**  (1) İş bu yönerge, Üniversite Senatosu'nun 20.06.2023 tarihli 837 sayılı kararı ile kabul edilmiş ve 2023-2024 Eğitim-Öğretim yılı Güz Yarıyılından itibaren uygulanmak üzere yürürlüğe girmiştir.
+
+**Yürütme**
+
+**MADDE 35 –**  (1) İş bu yönergeyi İstanbul Teknik Üniversitesi Rektörü yürütür.
+
+ |

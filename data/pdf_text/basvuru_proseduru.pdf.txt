@@ -1,0 +1,33 @@
+**İTÜ Tekstil Geliştirme ve Pazarlama (UOLP) Başvuruları**
+
+**1. ADIM: Aday No ve Şifre Al**
+- Başvuru tarihlerinde aktif olacaktır.
+- Başvuru için T.C. kimlik no, doğum tarihi, adı, orta adı, soyadı ve geçerli e-mail adresi gereklidir.
+- Gönder butonuna tıklayarak Aday No, Şifre ve Başvuru Formu Linki e-mail adresinize gönderilecektir.
+
+**2. ADIM: Başvuru Formu**
+- Başvuru tarihlerinde aktif olacaktır.
+- E-mail adresinize gönderilen link ile Başvuru Formu sayfasını açınız.
+- Aday No ve Şifre bilgilerini girip "Gönder" butonuna tıklayınız.
+
+**Ön Kayıt İşlemleri:**
+1. Aday bilgi ve tercih formunu doldurunuz, vesikalık fotoğraf yükleyiniz.
+2. Duyuruda istenilen belgeleri yükleyiniz.
+3. "Başvuruyu Tamamla" işlemini yapınız.
+
+**Aday Bilgi ve Tercih Formu:**
+- Vesikalık fotoğraf yükleyiniz (jpg formatında, en fazla 400 KB).
+- Kişisel, mezuniyet ve iletişim bilgilerinizi giriniz. Zorunlu alanlar * ile belirtilmiştir.
+- Henüz mezun değilseniz, Lise Mezuniyet Tarihi alanına "Mezun Değil" yazınız.
+- Tercih etmek istediğiniz programı seçiniz.
+- "Kaydet" butonuna tıklayınız. Bilgiler eksiksizse “Bilgiler Kayıt Edildi.” mesajı yazılacaktır.
+
+**Gerekli Belgeleri Yükle:**
+- Duyuruda belirtildiği gibi belgeleri yükleyiniz. "Başvuruyu Tamamla" aşamasına geçiniz.
+
+**Başvuruyu Tamamla:**
+- Bilgilerinizi ve belgelerinizi kontrol ediniz.
+- TYT Puanınızı ve Ortaöğretim Başarı Puanınızı (OBP) yazıp "Başvuruyu Tamamla" butonuna tıklayınız.
+- Başvuru başarıyla gönderildiğinde "Başvuru Talebiniz Alınmıştır." mesajı yazılır.
+- "Formu Yazdırmak İçin Tıklayınız" linki ile başvuru formunun çıktısını alıp imzalayınız.
+- Başvuru duyurusunda istenilen belgeler ile birlikte ilan edilen tarihlerde sınavlara katılmanız gerekmektedir.

@@ -1,0 +1,56 @@
+**Course Name:** Shipping Finance  
+**Course Code:** GMI 486E  
+**Semester:** 7-8  
+**Local Credits:** 2  
+**ECTS Credits:** 4  
+**Course Implementation:** 2 hours/week (Theoretical)  
+**Department/Program:** Marine Engineering  
+**Course Type:** Elective  
+**Course Language:** English  
+**Course Prerequisites:** None  
+
+**Course Description:**  
+- Finance function and financial statements  
+- Financial analysis  
+- Cash flows  
+- Cash management  
+- Financial planning  
+- Risk and return  
+- Cost of capital  
+- Inventory and credit management  
+- Shipping finance and return  
+- Voyage performance analysis  
+
+**Course Objectives:**  
+1. To teach about ship finance management  
+2. To teach about solving the problems in shipping management  
+
+**Course Learning Outcomes:**  
+Students who pass the course will be able to:  
+I. Learn about financial analysis  
+II. Learn about cash flows  
+III. Learn about risk and return  
+IV. Learn about voyage performance analysis  
+
+**Course Plan:**  
+- Week 1: Understanding of financial statements  
+- Week 2: Finance function  
+- Week 3: Financial statements  
+- Week 4: Financial analysis  
+- Week 5: Cash flows  
+- Week 6: Financial planning  
+- Week 7: Cash management  
+- Week 8: Inventory management  
+- Week 9: Credit management  
+- Week 10: Risk and return  
+- Week 11: Cost of capital  
+- Week 12: Shipping finance  
+- Week 13: Voyage performance analysis  
+- Week 14: Voyage performance analysis  
+
+**Textbook:**  
+- Stephenson Harwood, Shipping Finance, Euromoney Books, 2006  
+
+**Assessment Criteria:**  
+- Midterm Exams: 40%  
+- Final Exam: 60%  

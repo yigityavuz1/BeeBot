@@ -1,0 +1,11 @@
+**Laboratuvarlar:**
+
+1. Robotik Laboratuvarı
+2. Yapay Zeka ve Akıllı Sistemler Laboratuvarı
+3. Bio-Robotik Laboratuvarı
+4. Akıllı ve Otonom Sistemler Laboratuvarı
+5. Endüstri 4.0 ve Uygulamaları Laboratuvarı
+6. Güç, Hareket ve Proses Kontrol (Rockwell Automation) Laboratuvarı
+7. Raylı Sistemler Kontrol ve Otomasyon Laboratuvarı
+8. Endüstriyel Otomasyon Laboratuvarı
+9. Ölçme, Enstrümantasyon ve Kontrol Laboratuvarı

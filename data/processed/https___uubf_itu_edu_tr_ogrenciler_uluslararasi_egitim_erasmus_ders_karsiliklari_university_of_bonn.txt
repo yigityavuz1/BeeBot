@@ -1,0 +1,23 @@
+**University of Bonn**
+
+**Courses:**
+
+| Dersin Kodu | Dersin Adı                                      |
+|-------------|-------------------------------------------------|
+| MET521      | Thermodynamick der Atmosphare                   |
+| EDV         | Für Meteorologen                                 |
+| MET320      | Theoretische Meteorologie 1                      |
+| MET520      | Theoretische Meteorologie 2                      |
+| 7943        | Einfuhrung in die Synoptik / Wetterbesprechung  |
+| 7941        | Arbeits-und Prasentationstechnik zur Klimatologie |
+| MET311      | Klimatologie                                     |
+| 7946        | Urban Meteorology and Climatology                |
+| 7872        | Dynamik der Atmosphare                           |
+| 7941        | Arbeits und Prasentationstechnik zur Fernerkundung |
+| BA-INF150   | Einführung in die Data Science + Übung zur Einführung in die Data Science |
+
+**Contact Information:**
+
+- **Phone:** +90 (212) 285 31 01
+- **Fax:** +90 (212) 285 31 39
+- **Address:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

@@ -1,0 +1,27 @@
+**Title:** UUBF Hassas Görevler
+
+**Content:**
+
+**Uçak ve Uzay Bilimleri Fakültesi**
+
+| Sıra No | Hassas Görevler | Sorumlu Birim | Sonuç |
+|---------|------------------|----------------|-------|
+| 1       | Özlük dosyaları hazırlamak ve gizli bilgilerin korunması | Personel İşleri | İtibar kaybı, hak kaybı, güven kaybı |
+| 2       | Akademik ve idari kadrolar ile ilgili ilan çalışmaları | Personel İşleri | İtibar kaybı, hak kaybı, güven kaybı |
+| 3       | Öğretim elemanlarının görev süresi uzatımı işlemleri | Personel İşleri | Hak kaybı |
+| 4       | Akademik ve idari personel ayırma/ilişik kesme işlemleri | Personel İşleri | Hak kaybı, itibar kaybı, zaman kaybı |
+| 5       | 1416 sayılı Kanun uyarınca yapılan işlemler | Personel İşleri | Hak kaybı |
+| 6       | Askerlik Yazışmaları | Personel İşleri | Hak kaybı |
+| 7       | Fakülte Personeli SGK Tescil İşlemleri | Personel İşleri | Hak kaybı, kişi mağduriyeti |
+| 8       | Büroya gelen evrakların genel takibi | Personel İşleri | Görevin aksaması, hak kaybı, kamu zararı |
+| 9       | Personel İzin İşlemleri | Personel İşleri | Hak kaybı, kişi mağduriyeti, kamu zararı |
+| 10      | Süreli yazıları takip etmek | Personel İşleri | İşlerin aksaması, evrakların kaybolması |
+| 11      | Akademik ve İdari Personel Yurtiçi ve Yurtdışı görevlendirme işlemleri | Personel İşleri | Hak kaybı |
+| 12      | Mal Bildirim Formları | Personel İşleri | Cezai yaptırım, mevzuatın gerekliliklerinin yerine getirilmesi, soruşturma |
+| 13      | Akademik ve idari personelin atama, terfi, intibak işlemleri | Personel İşleri | Hak kaybı, kişi mağduriyeti |
+| 14      | İdari Personel Emeklilik İşlemleri | Personel İşleri | Hak kaybı, kişi mağduriyeti |
+| 15      | Elektronik yazışma takibi | Personel İşleri | Evrak kaybı, görevlerin aksaması, kurumsallığın itibar kaybı |
+| 16      | Yıl sonunda büro içerisinde gerekli düzenlemeyi sağlamak | Personel İşleri | Çalışma veriminin düşmesi |
+
+**Hazırlayan:** İlgili Alt Birim Amiri  
+**Onaylayan:** Birim Amiri

@@ -1,0 +1,34 @@
+**İTÜ MAT Havuz Dersleri**
+
+### Yaz Öğretiminde Başka Üniversiteden Ders Alma
+
+**Temel Esaslar:**
+
+- İlgili mevzuat için İTÜ Yaz Öğretimi Yönetmeliği incelenmelidir.
+- Başka üniversiteden ders alabilmek için söz konusu dersin o yaz İTÜ'de açılmamış ya da kontenjanı kalmamış olması gereklidir.
+- Öğrenci başka üniversiteden ders alabilmek için öncelikle kendi Fakültesine yazılı olarak başvurmalıdır.
+- Öğrenci başvuru dilekçesine başka üniversitenin yaz öğretiminde açılacak dersin kredi, saat, dil ve haftalık konu bilgilerini içeren resmi ders izlencesini eklemelidir.
+- MAT ve MTH kodlu dersler için sorumlu birimden uygundur yazısı alınmalıdır.
+
+**Ders İçeriği Uygunluğunu İnceleyecek Birimler ve İletişim Bilgileri:**
+
+- **MAT 103/E, 104/E**: Matematik Bölümü (mat@itu.edu.tr)
+- **MAT 201/E, 202/E, 210/E, 261/E, 271/E, 281/E**: İlgili Yarı Havuz Koordinatörlükleri
+- **MTH 1xx kodlu dersler**: Matematik Bölümü (mat@itu.edu.tr)
+- **MTH 2xx, 3xx kodlu dersler**: Dersi açan Bölüm
+- **Matematik Mühendisliği bölüm dersleri**: Matematik Bölümü (mat@itu.edu.tr)
+
+**2024 Yaz öğretiminde Matematik Mühendisliği öğrencilerinin ders alabileceği üniversiteler:**
+
+1. Koç Üniversitesi (İstanbul)
+2. İhsan Doğramacı Bilkent Üniversitesi (Ankara)
+3. Boğaziçi Üniversitesi (İstanbul)
+4. Orta Doğu Teknik Üniversitesi (Ankara)
+
+**2023 Yaz öğretimi için uygun bulunan dersler:**
+
+- **MAT 103E**: Yeditepe Üniversitesi ... MATH 131
+- **MAT 210**: Marmara Üniversitesi ... MATH 2055 ve MATH 1087 (Bu 2 ders birlikte alınmalıdır.)
+- **MTH 108**: Orta Doğu Teknik Üniversitesi ... MATH 118
+
+**Not:** Üniversite uygunluğuna öğrencinin Fakültesi karar verecektir. İçerik uygunluğu dersin alınabileceği anlamına gelmemektedir.

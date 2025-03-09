@@ -1,0 +1,16 @@
+**Title:** Z39.50 Kütüphaneleri
+
+**Description:** Z39.50, uzak bir veri tabanından arama ve bilgi erişimini sağlayan bir protokol olup kütüphane ve bilgi iletimi ile ilgili sistemler için geliştirilmiş uluslararası bir standardır. Birden fazla veri tabanında aynı anda tarama yapabilmeyi sağlayan basit bir tarama arayüzü kullanılır.
+
+**Contact Information:**
+- **Phone:** (0212) 285 35 96
+- **Fax:** (0212) 285 33 02
+- **Address:** İstanbul Teknik Üniversitesi, Ayazağa Kampüsü, Maslak Sarıyer, İstanbul
+
+**Libraries using Z39.50 Protocol:**
+- Anadolu Üniversitesi
+- Koç Üniversitesi
+- Bilgi Üniversitesi
+- Orta Doğu Teknik Üniversitesi
+- Ege Üniversitesi
+- İstanbul Teknik Üniversitesi (İTÜ)

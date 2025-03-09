@@ -1,0 +1,47 @@
+**Course Name:** Marine Engineering Design II  
+**Course Code:** GMI 4902  
+**Semester:** 8  
+**Local Credits:** 4  
+**ECTS Credits:** 8  
+**Course Implementation (Hours/Week):** 1  
+**Course Type:** Compulsory  
+**Course Language:** Turkish  
+**Course Prerequisites:** GMI 4901 MIN BB or GMI 4901E MIN BB  
+
+**Course Description:**  
+GMI 4901 and 4902 design courses allow students to gain design project skills from selection to completion using the knowledge acquired during their undergraduate education. The design of marine engines, systems, or processes is considered through open-ended projects under realistic constraints and ethical considerations. Basic and alternative solutions are worked on by teams of students. The GMI 4902 course includes the production (or solution implementation) and subsequent phases of the design process.
+
+**Course Objectives:**  
+1. To provide skills to use knowledge of basic science and engineering.  
+2. To teach all phases of a design project and provide design experience.  
+3. To provide teamwork awareness while improving professional and ethical responsibility.  
+4. To teach oral and written presentation skills.
+
+**Course Learning Outcomes:**  
+Students who pass the course can:  
+I. Carry out an engineering design study in a team environment and within ethical rules.  
+II. Perform iterative analysis and synthesis of available information within constraints.  
+III. Reach a scientific solution as a result of synthesis and specify the positive and negative sides of this solution.  
+IV. Report the project results in scientific format and defend them effectively in front of a jury.
+
+**Course Plan:**  
+- **Week 1-2:** Research  
+- **Week 3-6:** Actual design  
+- **Week 7-10:** Design analysis and synthesis  
+- **Week 11-14:** Analysis and synthesis of results and report preparation  
+
+**Relationship of the Course to Marine Engineering Student Outcomes:**  
+1. Ability to identify, formulate, and solve complex engineering problems.  
+2. Ability to apply engineering design to produce solutions that meet specified needs.  
+3. Ability to communicate effectively with a range of audiences.  
+4. Ability to recognize ethical and professional responsibilities in engineering situations.  
+5. Ability to function effectively on a team.  
+6. Ability to develop and conduct appropriate experimentation and analyze data.  
+7. Ability to acquire and apply new knowledge as needed.  
+8. Ability to effectively and safely operate and maintain marine engines and systems.
+
+**Course Materials and Assessment Criteria:**  
+- **Textbook:** None  
+- **Other References:** All kinds of professional and scientific publications  
+- **Assessment Criteria:**  
+  - Projects: 100%  

@@ -1,0 +1,16 @@
+**E-Sınav Sistemi**
+
+**Künye**
+- İlk yayın tarihi: Ocak 2016
+- Web Adresi: [https://esinav.itu.edu.tr](https://esinav.itu.edu.tr)
+
+**Açıklama**
+İTÜ Bilgi İşlem Daire Başkanlığı tarafından geliştirilmiş E-Sınav sistemi ile online sınavlar hazırlanabilir ve istenilen İTÜ mensuplarının bu sınavlara girerek belirlenen başarı kriterlerini sağlayıp sağlamadığı kontrol edilebilir. Şu anda “Temel İş Güvenliği Sınavı” ve “Temel İş Sağlığı” sınavları e-sınav sistemi üzerinden organize edilmektedir. Yabancı Diller Yüksekokulu sınavları ve Ninova uygulaması entegrasyon süreci devam etmektedir.
+
+**İletişim**
+- İTÜ Ayazağa Kampüsü
+- Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- Telefon: 0212 285 3930
+
+**Yardım**
+İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz.

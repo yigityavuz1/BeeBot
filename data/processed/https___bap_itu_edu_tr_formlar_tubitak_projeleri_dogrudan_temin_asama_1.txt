@@ -1,0 +1,11 @@
+**Title: 1. Aşama (Onay İçin Gerekli Belgeler)**
+
+**Required Documents:**
+
+* **Piyasa Fiyat Araştırması Tutanağı:** Mal ve Hizmet alımlarının ihalesi yapılmadan önce idarece her türlü fiyat araştırması yapılarak KDV hariç olmak üzere yaklaşık maliyet belirlenir. Bu yaklaşık maliyet ihale sonuçlanıncaya kadar gizliliği korunur.
+
+* **Teknik Şartname:** Alınması düşünülen mal ve hizmetin teknik özelliklerinin belirtildiği ve teknik şartnameyi hazırlayan kişi tarafından imzalanan onay belgesi ile sunulması zorunludur. Ayrıca alınacak cihaz için garanti koşulları belirtilmelidir.
+
+* **Onay Belgesi:** Sadece hizmet alımında doldurulması gerekli olan matbu formdur. Onay belgesi doldurulur ve yürütücü tarafından imzalanır.
+
+**Additional Requirements:** Alımı yapabilmek için aşağıdaki belgelere ek olarak; makina-teçhizat alımlarında teknik şartname, sarf malzemesi alımlarında malzeme listesi, hizmet alımlarında hizmet gerekçesi ve en az üç firmanın fiyat teklifi ile 2 nüsha halinde getirilmesi gerekmektedir.

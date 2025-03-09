@@ -1,0 +1,42 @@
+**Brno University Of Technology**
+
+**Courses Offered:**
+
+| ITU Course Code | ITU Course Name                          | Partner Course Code | Partner Course Name                     |
+|------------------|------------------------------------------|---------------------|-----------------------------------------|
+| FSI-OA1-A        | Aerodynamics I                           | UCK351E             | Aerodynamics (2021)                    |
+| OLR-A            | Aircraft Materials and Technology        | UCK215E             | Aerospace Materials (2021)             |
+| OPP-A-           | Comp. Aided Des. And man                | 7. YY. TM (2021)    |                                         |
+| OPK-A-           | Aircraft Structure                       | UZB331E             | Aerospace Structures (2021)            |
+| 6TT-A            | Thermomechanics                          | UCK205E             | Thermodynamics I (2021)                |
+| 6TT-A            | Thermomechanics                          | UCK206E             | Thermodynamics II (2022)               |
+| 5DT-A            | Dynamics                                 | DNK201E             | Dynamics (2019)                        |
+| 5HY-A            | Hydromechanics                           | AKM219E             | Fluid Mechanics (2022)                 |
+| 2NU-A            | Numerical Methods                        | MAT 202E            | Numerical Methods (2022)               |
+| OAE-A            | Aeroelasticity                           | 7. YY. TM (2019)    |                                         |
+| VCP-A            | Algorithms and Programming Techniques    | 8. YY TM (2022)     |                                         |
+| FSI-3M-A         | Mathematics III                          | MAT 201E            | Differential Equations                  |
+| VCP-A            | C and C++ Programming Languages          | BIL 110E            | Intr to Sci&Eng Comp (C) (2018)       |
+| BYCI             | The Czech Language for Foreigners       | ITB                 | 6. YY. ITB (2019)                      |
+| FSI-6TT-A        | Thermomechanics                          | UCK212E             | Thermodynamics (2019)                  |
+| FSI-3ST-A        | Statics                                  | STA 201E            | Statics (2019)                         |
+| 4M-A             | Mathematics IV                           | TB                  | 5.YY TB (2022)                         |
+| MPA-MLF          | Machine Learning Fundamentals             | TM                  | 7. YY TM (2022)                        |
+| MVP-A            | Computational Fluid Dynamics             | 7. YY. MT (2021)    |                                         |
+| FSI-RKD-A        | Kinematics and Dynamics of Machatronic Systems | MT              | 8. YY. MT (2019)                       |
+| FSI-OPP-A        | Computer Aided Design and Manufacturing  | MT                  | 8. YY. MT (2019)                       |
+| FSI-OA2-A       | Aerodynamics II                          | UZB362E             | Compressible Aerodynamics (2022)       |
+| FSI-OPO-A        | Aircraft Maintenance                      | MT                  | 7. YY MT (2020)                        |
+| VAU-A            | Electrical and Pneumatic Automation Systems | MT                | 6. YY MT (2021)                        |
+| CEL1             | Electrical Engineering I                 | ELK221E             | Fundamentals of Electric. Eng.          |
+| FSI-VA1-A        | Control Theory I                         | UCK360E             | Automatic Control I (2019)             |
+| FSI-OLE-A        | Aircraft Propulsion                      | UCK421E             | Jet Propulsion Principles (2019)       |
+| IPT-A            | Heat and Mass Transfer                   | UZB314E             | Heat Transfer (2022)                   |
+| OFC-A            | CFD for Aerospace                        | MT                  | 6. YY MT (2022)                        |
+| OT1-A            | Aircraft Manufacture                     | TM                  | 7. YY TM (2022)                        |
+| 6TT-A            | Thermodynamics                           | UCK207E             | Thermodynamics (2022)                  |
+
+**Contact Information:**
+- **Phone:** +90 (212) 285 31 01
+- **Fax:** +90 (212) 285 31 39
+- **Address:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

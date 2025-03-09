@@ -1,0 +1,57 @@
+Title: İTÜ | Registrar's Office
+
+URL Source: http://www.sis.itu.edu.tr/EN/KVKK/clarification-text.php
+
+Markdown Content:
+İTÜ Registrar’s Office Student Clarification Text
+-------------------------------------------------
+
+The purpose of this text is to explain the principles of data processing to students whose personal data are processed within the scope of undergraduate and graduate education activities carried out by our University.
+
+**Data Supervisor:** Your personal data are processed by Istanbul Technical University as a data controller, residing at ITU Ayazağa Campus 34469 Maslak / Istanbul, in accordance with the Law on the Protection of Personal Data No.6698, within the scope described below:
+
+Which Personal Data is Processed by İTÜ Registrar’s Office?
+-----------------------------------------------------------
+
+Name, Surname, TR Identity Number, Mother's Name, Father's Name, Date of Birth, Gender, Nationality, Place of Birth, Contact Information, Foreign Nationals Identity Number, Passport Number, Gender, E-mail, Address, Mobile Phone, Home Phone, Office Phone , Bank Account Number, IBAN Number, School of Graduation, Placement Score, Signature, Photograph, Name of Faculty or Institute of Registration, Level of the Student, Department of the Student, Class of the Student, Registration Confirmation Status, Date of Registration to the University, Active Academic Period of the Student, Code of Courses Taken, Name, Credit and ECTS credit, Course Grade, Graduation Date of the Student, Graduation Degree of the Student, Type of Admission, Entry Type, Graduation Type, Leave Type, Date of Leaving, Valid English Proficiency Exam Certificate, Scholarship, Credit or Aid Information Received During Secondary Education, Scholarships to Apply, Scholarships for which an application is made to the Institution of Scholarships and Dormitories during Higher Education, Tuition Loan, Tuition Loan Application Information, University Preference Order, Information about Sibling Students at ITU, High School Graduated, Type of High School Graduated, University Entrance Exam Success Ranking, Diploma Obtained Program, Military Status, Marital Status, Disability Status, Health Information That May Prevent Education, Diploma and / or Diploma Photocopy, Identity Card Photocopy, Power of Attorney, Exam results (SAT / ACT / GRE / GMAT etc. certificate, English Language Certificate), High School Transcript, University Transcript, (Transcript, ALES / GRE / GMAT Certificate, English Language Certificate), Lesson Plan, Discipline Document Regarding the Penalty or Not Having any Penalty, YKS or Equivalent Exam Result, Residence Permit, Blue Card
+
+By Which Method Is Your Personal Data Collected?
+------------------------------------------------
+
+Your personal data is collected on www.sis.itu.edu.tr through online forms created during registration, education and graduation.
+
+For What Purposes Is Your Personal Data Collected and Processed?
+----------------------------------------------------------------
+
+Your personal data is collected and processed for the purpose of registration, education and training, and graduation procedures.
+
+Who Is Your Personal Data Transferred To?
+-----------------------------------------
+
+Your personal data can be transferred by İTÜ to authorized public institutions and organizations in Turkey and some scholarship granting institutions.
+
+For Which Legal Reasons Your Personal Data Is Processed?
+--------------------------------------------------------
+
+Your personal data is collected and processed by İTÜ, in line with the realization of the purposes listed above, as mentioned in personal data protection law Article No: 5, by depending upon the legal reasons as processing of personal data being expressly provided by the laws, being necessary for compliance with a legal obligation to which the data controller is subject, data processing being necessary for the establishment, exercise or protection of any right, being necessary for the legitimate interests pursued by the data controller, provided that this processing shall not violate the fundamental rights and freedoms of the data subject.
+
+Until When Will Your Personal Data Be Retained?
+-----------------------------------------------
+
+Your personal data is stored for the period required by the Board of Higher Education and the relevant legislation and is deleted, anonymized or destroyed if the said period expires.
+
+What Are Your Rights As the Data Subject And What Is The Application And Complaint Process About Your Personal Data?
+--------------------------------------------------------------------------------------------------------------------
+
+**You have the following rights regarding your personal data within the scope of Personal Data Protection Law:**
+
+*   to learn whether his/her personal data are processed or not,
+*   to demand for information as to if his/her personal data have been processed,
+\- to learn the purpose of the processing of his/her personal data and whether these personal data are used in compliance with the purpose,*   to know the third parties to whom his personal data are transferred in country or abroad,
+*   to request the rectification of the incomplete or inaccurate data, if any,
+*   to request the erasure or destruction of his/her personal data under the conditions referred to in Personal Data Protection Law Regulations.
+*   to request reporting to third parties to whom his/her personal data have been transferred when the correction of missing or incorrect data and the deletion or destruction of personal data is requested.
+*   to object to the occurrence of a result against the person himself/herself by analyzing the data processed solely through automated systems, and,
+*   to claim compensation for the damage arising from the unlawful processing of his/her personal data.
+
+You can send your applications and questions regarding your rights listed above to our university via kisiselveri@itu.edu.tr. Your request will be answered within thirty days at the latest.

@@ -1,0 +1,23 @@
+**Alan Adı**
+
+itu.edu.tr bölgesi İTU/BİDB tarafından yönetilmekte olup alt alan adlarına ilişkin talepler Bilgi İşlem Daire Başkanlığı'na yazılı olarak yapılmalıdır.
+
+**Bölge Nedir?**  
+DNS terminolojisinde bölge kavramı, kendisi ve alt alan adlarına ait bilgileri tutan en az bir isim sunucusu barındıran alanlara verilen addır. Örneğin itu.edu.tr ve www.itu.edu.tr birer alan adı olmasına karşın itu.edu.tr aynı zamanda bir bölgedir ve www.itu.edu.tr onun bir alt alan adıdır. itu.edu.tr alan adına ait kayıtları tüm dünyaya sunmakla sorumlu isim sunucuları İTÜ/BİDB tarafından yönetilmektedir.
+
+**Talep Koşulları**  
+İTÜ/BİDB, itu.edu.tr alan adına ait sorumluluklarından ötürü alt alan olarak bölge talepleri almamakta sadece alan adı taleplerini değerlendirmektedir.
+
+Sadece aşağıda belirtilenler için alan adı başvurusu kabul edilmektedir:
+* **İdari Birimler**
+* **Akademik Birimler**
+* **Kulüpler**
+* **Akademik Projeler**
+* **Konferans, Çalıştay vb. Akademik Toplantılar**
+
+**Alan adı talebinizi yaparken şu noktalara lütfen dikkat edin:**
+* Alan adınızın kullanım amacını doğru temsil etmesine dikkat edin.
+* Alan adınızın gereksiz kısa olmamasına ve 3 karakterden daha uzun olmasına dikkat edin.
+* Eğer kurumunuz için açılmış olan bir alan adının alt alan adı olarak kayıt talebiniz varsa yukarıdaki kuralları dikkate almayabilirsiniz. Örneğin library.itu.edu.tr şeklinde bir alan adınız varsa bunun altında talep edeceğiniz pc.library.itu.edu.tr şeklinde kayıtlarınız olabilir.
+* Alan adı başvurusunda yönlendirme olarak URL adresi talep etmeyiniz. Alan adı yönlendirmesi sadece bir IP adresi veya başka bir alan adı olabilir.
+* Eğer İTÜ/BİDB tarafından sağlanan bir web hizmeti de alacaksanız alan adı talebi için ayrıca yazılı başvuru yapmayıp web hizmeti başvuru yazınızda belirtmeniz yeterlidir.

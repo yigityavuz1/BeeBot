@@ -1,0 +1,29 @@
+**ITU/NET Sponsor Bağlantısı**
+
+ITU/NET Sponsor Bağlantısı, İTÜ/NET Misafir Bağlantısının yerini alan, bir web portal üzerinden kullanıcı kimlik denetimi yapılan kablosuz bağlantıdır. Bu bağlantıdan İTÜ mensubu yakınları, firma temsilcileri vb. ziyaretçiler faydalanabilir. Ağa bağlanabilmek için bir hesaba (kullanıcı adı ve şifre) ihtiyaç vardır. Bu hesaba **Sponsor Hesap** denilmektedir. 
+
+Sponsor bağlantısından faydalanmak isteyen kullanıcılara, misafiri oldukları İTÜ mensupları, İTÜ Portal üzerinden geçici süreli hesaplar (Sponsor Hesap) açabilirler. Hesabın açılabilmesi için İTÜ Portal sayfasındaki form eksiksiz bir şekilde doldurulmalıdır. Yasal zorunluluktan dolayı yalnızca T.C. vatandaşlarına sponsor hesabı açılabilir.
+
+Sponsor Hesabı tüm İTÜ Personeli açabilir. Akademik ve İdari personel maksimum yedi güne kadar geçerli hesap açabilirken, Öğrenciler için bu sınır bir gündür. Toplamda açılabilecek hesap sayısı ile ilgili bir sınır bulunmamakla birlikte, Öğrenciler için aynı anda en fazla beş adet kullanıcıya izin verilmektedir. Akademik ve İdari personel için sınır yoktur.
+
+Sponsor Hesap kullanımının asıl işlevi İTÜ ziyaretçilerinin ağ erişim ihtiyacını karşılamaktır. Bu hesap üzerinden sağlanan İTÜ/NET bağlantısı sınırlı hız ve kısıtlı erişime sahiptir. Bu nedenle, sponsor hesap ile İTÜ içerisinde birçok hizmetten (e-posta hizmeti, cloud hizmeti, vpn hizmeti, yazılım sunucusuna erişim, vb.) yararlanılamaz.
+
+ITU/NET Sponsor bağlantısından Grafik Arayüzü olan herhangi bir işletim sistemli cihaz ile bağlanılabilir. Herhangi ekstra bir ayar yapılmasına gerek yoktur. Bağlantı yönergeleri işletim sistemine göre değişiklik göstermektedir.
+
+**Bağlantı Yönergeleri:**
+- Android Cihazlar
+- iOS Cihazlar
+- Windows 7
+- Windows 8 - 8.1
+- Windows 10
+- MAC OS X
+- Ubuntu
+
+**İletişim:**
+İTÜ Ayazağa Kampüsü  
+Bilgi İşlem Daire Başkanlığı  
+Maslak-Sarıyer / İstanbul  
+0212 285 3930  
+
+**BİDB Yardım:**  
+İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz.

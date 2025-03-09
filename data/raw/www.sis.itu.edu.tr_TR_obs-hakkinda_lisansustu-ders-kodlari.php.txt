@@ -1,0 +1,212 @@
+Title: İTÜ | ÖİDB
+
+URL Source: https://www.sis.itu.edu.tr/TR/obs-hakkinda/lisansustu-ders-kodlari.php
+
+Markdown Content:
+ÖBS Giriş İTÜ AnasayfaNinova Program Bilgi Paketi / TYYÇ Öğrenci Dekanlığı Yardım İletişim ENGLISH 
+Hakkımızda
+ÖBS Hakkında
+Öğrenci
+Kayıt Süreçleri
+Mevzuat
+Başvuru ve Kabul
+SSS
+ÖBS GİRİŞ
+Anasayfa
+Lisansüstü Ders Kodları
+Lisansüstü Ders Kodları
+Lisansüstü Eğitim Enstitüsü
+Ders Kodu	Program Adı
+ABT	Akıllı Bina ve Tesis Yönetimi (2.Öğretim)(Tezsiz)
+ADM	Açık Deniz Mühen.(Tezli/Tezsiz)
+AFY	Afet Yönetimi (Tezli/Tezsiz)
+ANT	Jeoantropoloji
+BBL	Bilgisayar Bilimleri
+BGK	Bilgi Güven.Müh.ve Kriptografi
+BLG	Bilgisayar Müh
+BLU	Bilgi ve Haberleşme Mühendis.
+BPL	Bölge Planlama
+BTE	Bilgi Teknolojileri (2.Öğretim)(Tezsiz)
+BTT	Bilim,Teknoloji ve Toplum
+BVT	Bilim ve Teknoloji Tarihi
+BYM	Biyomedikal Müh.
+CBM	Çevre Bilimleri,Müh.&Yönetimi
+CHZ	Cevher Hazırlama Mühendisliği
+CKY	Çevre Kontrolü ve Yapı Teknol.
+CSP	Çalgı-Ses (Tezli/Tezsiz)
+CTT	Cephe Tasarımı ve Teknolojisi (2.Öğretim)(Tezsiz)
+DCZ	Denizcilik Çalışmaları (Tezsiz)
+DEP	Deprem Mühendisliği
+DTM	Gemi ve Deniz Teknolo.Müh.
+DUM	Deniz Ulaştırma Müh.
+DUY	Deniz Ulaştırma Yönetimi (2.Öğretim)(Tezsiz)
+DZC	Denizcilik Çalışmaları
+EBT	Enerji Bilimi ve Teknolojileri
+ELE	Elektronik Mühendisliği
+ELK	Elektrik Müh
+ENB	Çevre Biyoteknolojisi
+END	Endüstri Müh
+EUT	Endüstri Ürünleri Tasarımı
+FIZ	Fizik Müh
+GAM	Oyun ve Etkileşim Teknolojiler
+GDP	Geleneksel Danslar
+GEM	Gemi İnşaatı&Gemi Makina.Müh.
+GEO	Geomatik Mühendisliği
+GGP	Gayrimenkul Geliştirme
+GID	Gıda Müh
+GIT	Coğrafi Bilgi Teknolojileri
+GYY	Girişimcilik&Yenilik Yönetimi (2.Öğretim)(Tezsiz)
+HBM	Hesaplamalı Bilim ve Mühendis.
+HGP	Hazır Giyim Per.&Moda Yönetimi (2.Öğretim)(Tezsiz)
+HSK	Hidrolik ve Su Kaynakları Müh.
+HTY	Hava Taşımacılığı Yönetimi (2.Öğretim)(Tezsiz)
+HYM	Hava Aracı Yapıları&Malzemeler (2.Öğretim)(Tezsiz)
+IKE	İktisat (İngilizce)
+IMT	İç Mimari Tasarım Uluslararası
+IPY	İnşaat Projeleri Yönetimi (2.Öğretim)(Tezsiz)
+ISG	İş Sağlığı ve Güvenliği (2.Öğretim)(Tezsiz)
+ISL	İşletme Müh
+ISS	İşletme (Tezli/Tezsiz)
+ITY	İşletme ve Teknoloji Yönetimi (2.Öğretim)(Tezsiz)
+IYB	İnşaat Yönetiminde Bilişim (2.Öğretim)(Tezsiz)
+JDM	Jeodinamik
+JEO	Jeoloji Müh
+JFM	Jeofizik Mühendisliği
+KBM	Kıyı Bilimleri ve Mühendisliği
+KET	Kentsel Tasarım
+KIM	Kimya
+KMM	Kimya Müh
+KOM	Kontrol&Otomasyon Müh.
+MAD	Maden Müh
+MAK	Makina Müh
+MAM	Malzeme Müh.
+MAT	Matematik Müh
+MBA	Yöneticiler için İşletme (2.Öğretim)(Tezsiz)
+MBG	Moleküler Biy.-Genetik&Biyotek
+MBL	Mimari Tasarımda Bilişim
+MBM	Malzeme Bilimi ve Müh.
+MDK	Sistem Dinamiği ve Kontrol
+MDP	Müzik
+MET	Metalurji & Malzeme Müh
+MHN	Mühendislik Yönetimi (2.Öğretim)(Tezsiz)
+MHY	Mühendislik Yönetimi
+MIA	Isı Akışkan
+MIT	Mimarlık Tarihi
+MJT	Müzikoloji ve Müzik Teorisi
+MKC	Katı Cisimlerin Mekaniği
+MKM	Mekatronik Mühendisliği
+MKS	Konstrüksiyon
+MMI	Malzeme ve İmalat
+MOT	Otomotiv
+MTA	Makina Dinamiği,Titre.&Akustik
+MTO	Atmosfer Bilimleri
+MTS	Mimari Tasarım
+MTZ	Mimarlık (Tezsiz)
+MYE	Müzik (İngilizce)
+MYL	Müzik (2.Öğretim)(Tezsiz)
+MZJ	Müzikoloji
+NSE	Nano Science&Nano Engineering
+PEM	Peyzaj Mimarlığı
+PET	Petrol ve Doğal Gaz Müh.
+PST	Polimer Bilim ve Teknolojisi
+PYY	Proje ve Yapım Yönetimi
+RBT	Radyasyon Bilim ve Teknoloji
+ROT	Rotorlu Hava Araçları Teknolo.(2.Öğretim)(Tezsiz)
+RSM	Raylı Sistemler Mühendisliği
+RST	Restorasyon
+RTZ	Restorasyon(Tezsiz)
+SBP	Şehir & Bölge Planlama
+SPL	Şehir  Planlama
+SRM	Seramik Müh.
+SSY	Sağlık Sistemleri Yönetimi (2.Öğretim)(Tezsiz)
+STD	Siyasal&Toplumsal Düşünceler
+STP	Savunma Teknolojileri Programı
+STR	Sanat Tarihi
+SYC	Siyaset Çalışmaları
+TEK	Tekstil Müh
+TEL	Telekomünikasyon Mühendisliği
+TKY	Müzik Teorisi ve Kompozisyon
+TMP	Türk Müziği
+UAH	Uydu Haber.&Uzaktan Algılama
+ULS	Ulaştırma Mühendisliği
+UMT	Üretim Metalurjisi ve Teknoloji Müh.
+UUM	Uçak ve Uzay Mühendisliği
+VIA	Büyük Veri ve İş Analitiği (2.Öğretim)(Tezsiz)
+YAB	Yapı Bilimleri
+YAP	Yapı Mühendisliği
+YIP	Yapı İşletmesi Programı
+YSB	Yer Sistemi Bilimi
+YTT	Yenilikçi Teknik Tekstiller
+ZMG	Zemin Mekaniği&Geoteknik Müh.
+
+Akademik Takvim
+Lisans Akademik Takvimi
+Lisans Yatay Geçiş, ÇAP, Yandal Takvimi
+Önkayıt Takvimi
+Lisansüstü Akademik Takvimi
+II.Öğretim Lisansüstü Akademik Takvimi
+İngilizce Hazırlık Akademik Takvimi
+Ders Bilgileri
+Ders Planları
+Ders Denklikleri
+Önşartlar
+Ders Bilgileri
+Ders Programları
+Bina Kodları
+Lisans Program Kodları
+İşlemler
+Başvuru ve Kabul
+Çap, Yandal ve Yatay Geçiş İşlemleri
+Mezuniyet ve Diploma İşlemleri
+Enstitüler
+Lisansüstü Eğitim Enstitüsü
+Afet Yönetimi Enstitüsü
+Avrasya Yer Bilimleri Enstitüsü
+Bilişim Enstitüsü
+Enerji Enstitüsü
+Havacılık Enstitüsü
+Fakülteler
+Yabancı Diller Yüksekokulu
+Türk Musikisi Devlet Konservatuvarı
+Siber Güvenlik Meslek Yüksekokulu
+Diğer İşlemler
+Mevzuat
+Erasmus Değişim Programları
+Mevlana Değişim Programı
+Katkı Payı / Öğrenim Ücreti
+Yetkin Mühendislik Sınavı
+Denklik İşlemleri
+Webmail
+İTÜ PORTAL
+Ninova Öğrenim Merkezi
+İTÜ Kariyer ve Staj Merkezi
+Uluslararası İlişkiler Ofisi
+Yurtlar ve Burslar Koordinatörlüğü
+Engelli Öğrenci Birimi
+Beden Eğitimi Bölümü
+Telefon
+
++90 212 365 78 00-99 (100 hat)
+
+Faks
+
++90 212 285 29 09
+
+İTÜ Ayazağa Kampüsü
+
+Öğrenci İşleri Daire Başkanlığı
+34469 Maslak - İstanbul
+
+Öğrenci İşleri Daire Başkanlığı
+
+Yardım Bileti Oluştur
+
+Öğrenci İşleri Daire Başkanlığı
+
+Aydınlatma Metni
+
+Öğrenci İşleri Daire Başkanlığı
+
+ogrenciisleri@itu.edu.tr
+
+İTÜ Bilgi İşlem Daire Başkanlığı © 2021

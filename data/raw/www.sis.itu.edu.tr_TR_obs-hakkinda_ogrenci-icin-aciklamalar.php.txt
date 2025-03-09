@@ -1,0 +1,74 @@
+Title: İTÜ | ÖİDB
+
+URL Source: https://www.sis.itu.edu.tr/TR/obs-hakkinda/ogrenci-icin-aciklamalar.php
+
+Markdown Content:
+Öğrenciler İçin Açıklamalar
+---------------------------
+
+SİSTEM'E KULLANICI GİRİŞİ
+-------------------------
+
+*   [www.sis.itu.edu.tr](http://www.sis.itu.edu.tr/) web sitesi ana sayfasında yer alan "Sisteme Giriş" linkini tıklayınız.
+*   WEB istemciniz yeni gelecek sayfada İTÜ GİRİŞ sunucu ve sayfasına yönlenecektir. Bu sayfada yer alan “kullanıcı adı ve şifresi” bölümlerine İTÜ giriş bilgilerini giriniz.
+*   Öğrenci Bilgi Otomasyon Sistemine sadece İTÜ GİRİŞ kullanıcı girişi ardından erişilebilecektir. Bu giriş ardından istemciniz kapatılana kadar İTÜ GİRİŞ hakları ile kullanımınız devam edecektir.
+*   İTÜ GİRİŞ kaydınız doğrulandığında, WEB istemciniz Öğrenci Bilgi Sistemi “Banner” girişine gelecektir. Öğrenci Bilgi Sistemine Giriş yapacağınız kullanıcı numaranızın şifresini PIN alanına girip, Login butonuna basarak sistem girişini tamamlayabilirsiniz.
+*   İstanbul Teknik Üniversitesi – Öğrenci Bilgi Sistemleri Ana Menü başlıklı sayfaya gireceksiniz. Bu sayfa, sistemin giriş sayfasıdır.
+*   Kullanıcı numaranızı ve / veya şifrenizi üst üste 5 defa yanlış girmeniz durumunda hesabınız kilitlenecektir. Sisteme tekrar girebilmeniz için [yardım bileti oluşturma ekranında](http://yardim.itu.edu.tr/biletolustur.aspx?birim=2&kid=0&akid=0) kategori seçiminden "PIN İşlemleri" Alt kategori seçiminden ise "PIN Bloke işlemleri" seçip yardım bileti gönderdiğiniz taktirde tarafınıza yeni şifreniz gönderilecektir .
+
+ŞİFRE DEĞİŞTİRME
+----------------
+
+Öğrenci Bilgi Sistemleri otomasyonu tarafından verilmiş olan ilk şifreniz ile sisteme bağlanır bağlanmaz hemen şifrenizi sizin hatırınızda kalabilecek bir şifre ile değiştirmenizi tavsiye ederiz. Şifre değiştirme sayısında bir sınır yoktur. Şifrenizi istediğiniz an istediğiniz kadar değiştirebilirsiniz.
+
+*   Sisteme girip İstanbul Teknik Üniversitesi Öğrenci Bilgi Sistemleri Ana Menü'süne ulaştıktan sonra 'Kişisel Bilgiler' menü öğesini tıklayınız.
+*   Kişisel Bilgiler Menüsü altında bulunan 'PIN Değiştir' menü öğesini tıklayınız.
+*   Eski şifrenizi 'Enter Old PIN' alanına girdikten sonra yeni şifrenizi sırasıyla önce 'Enter new PIN' alanına sonra da tekrar 'Re-enter New PIN' alanına girdikten sonra 'Change PIN' butonuna basınız.
+*   Şifre değişikliğinin başarılı olması için yeni şifrenizin eski şifrenizden farklı olması ve altı sayısal karakterden oluşması gerekmektedir.
+*   Şifre değişikliği işleminizin başarılı olması durumunda sistem sizi 'Kişisel Bilgiler Menüsü'ne gönderecek ve sayfasının ilk satırında 'Your Changes were saved successfully' mesajı verecektir. Bu andan itibaren sisteme girişleriniz ancak ve ancak yeni şifreniz ile olacaktır.
+
+ADRES, TELEFON VE E-POSTA BİLGİLERİNİ GÖRME / GÜNCELLEME
+--------------------------------------------------------
+
+İstanbul Teknik Üniversitesi adres tipinde gördüğünüz adres sizlere Bilgi İşlem Merkezi tarafından verilen adrestir. Bu adres resmi iletişim kanalı olarak kullanılacağından bu adreste lütfen herhangi bir değişiklik yapmayınız.
+
+*   Sisteme girip 'İstanbul Teknik Üniversitesi Ana Menü'süne ulaştıktan sonra 'Kişisel Bilgiler' menü öğesini tıklayınız.
+*   Kişisel Bilgiler Menüsü altında adres, telefon ve e-posta bilgilerinizi görme ve güncelleme için dört menü öğesi ile karşılaşacaksınız.
+*   Sistemde kayıtlı olan adres ve telefon bilgilerinizi görmek için 'Adres ve Telefon Bilgilerini Görme' menü öğesini tıklayınız.
+*   Güncelleme için ise 'Adres ve Telefon Bilgilerini Güncelle' menü öğesine tıklayınız. Adres tipini seçerek 'Update Adress and Phones'a basınız ve yeni adresinizi giriniz.
+*   Sistemde kayıtlı olan e-posta bilgilerinizi görmek için 'E-posta Adreslerini Görme' menü öğesini tıklayınız.
+*   Güncelleme için ise 'E-mail Adresi Güncelle' menü öğesinden adres tipini seçerek 'Update E-Mail Addresses'a basınız. Kullanmayı tercih ettiğiniz E-posta adresi için 'Preferred' seçeneğini işaretleyiniz.
+
+DERSLERE KAYIT
+--------------
+
+Eğitim Öğretim yılı Dönem kayıtları web üzerinden olacaktır. Kayıt tarihleri arasında üniversitemizde Fakülte Laboratuarları da kullanıma açık olacaktır.
+
+*   [www.sis.itu.edu.tr](http://www.sis.itu.edu.tr/) adresinden 'Ders Programları' bağlantısına girerek üniversite tarafından kendi bölümünüz için açılan dersleri inceleyiniz. Hangi derslere yazılmak istediğinizi belirleyip bu derslerin CRN’lerini not edebilirsiniz.Yazılmak istediğiniz dersleri belirlerken zaman çakışması olmamasına, sizin bölümünüz için açılmış olmasına ve varsa dersin ön koşulunun sağlanmış olmasına dikkat ediniz. İTÜ Lisans Eğitim Öğretim Yönetmeliğine göre bir dönemde toplam en fazla alabileceğiniz krediler belirlenmiştir, seçiminizi yönetmeliğe uygun olarak yapmaya dikkat ediniz.
+*   Sisteme girip 'İstanbul Teknik Üniversitesi Ana Menü'süne ulaştıktan sonra 'Öğrenci Servisi' menü öğesini tıklayınız.
+*   'Öğrenci Servisi Menüsü'nde yer alan 'Kayıt Menüsü' menü öğesini tıklayınız.
+*   Term seçeneğinden kayıt olunacak dönem seçilir. Submit butonuna basılır. Ders Ekle/Çıkar menüsüne tıklanır.
+*   Kayıt olunacak CRN ler ‘Add Classes Worksheet’ de CRN kutucuklarına arada boş kutucuk bırakmayacak şekilde sıra ile yazılır.
+*   ‘Submit changes’ butonuna basılır.
+*   Kaydı gerçekleşmiş olan CRN ler ‘Current Schedule’ altında ‘Web kaydı oldu’ olarak görünür.
+*   “Registration Add Errors” kısmında ise kayıt olamayan CRN ler ve hata sebepleri yazar.
+*   Kayıt olunan bir dersi kayıttan çıkarmak için Action kutusunda ‘Ders Değiştirme-Web’seçilip ‘Submit Changes’ butonuna basılır. Çıkarılan ders ‘Current Schedule’ altında artık görünmeyecektir.
+*   ‘Gün ve Zamana göre Öğrenci Çizelgesi”nden haftalık ders planınızı görebilirsiniz.
+*   ‘Kayıt Durumu’ menü öğesini tiklerseniz sınıf, program ve ders kaydı için durumlarınızı görebilirsiniz.
+
+KAYIT ENGELLERİNİ GÖRME
+-----------------------
+
+Sisteme girip 'İstanbul Teknik Üniversitesi Ana Menü'süne ulaştıktan sonra 'Öğrenci Servisi' menü öğesini tıklayınız. 'Öğrenci Bilgileri' menü öğesini tıklayınız. Eğer herhangi bir kayıt engeliniz varsa ve kayıt olamıyorsanız 'Kayıt Engellerini Görme' menü öğesini tıklayarak, kayıt engel(ler)inizi görebilirsiniz.
+
+DÖNEM BAŞARI NOTLARINI GÖRME
+----------------------------
+
+*   “Öğrenci Servisi” menüsünde yer alan “Öğrenci Bilgileri” menüsüne giriniz.
+*   “Dönem notları” linkine tıklayınız .
+*   Notlarını görmek istediğiniz dönemi seçip submit butonuna basınız.
+
+TRANSKRİPT GÖRME
+----------------
+
+Öğrenci Bilgileri Menüsünden Not dökümü kısmını seçerek Transkriptinizi görebilirsiniz.

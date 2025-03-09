@@ -1,0 +1,65 @@
+**Course Name:** General Chemistry I  
+**Course Code:** KIM 204 -204E  
+**Semester:** 2, 3, 4  
+**Local Credits:** 3  
+**ECTS Credits:** 5  
+**Course Implementation (Hours/Week):** Theoretical: 3, Tutorial: 0, Laboratory: 0  
+**Department/Program:** Common Pool  
+**Course Type:** Elective  
+**Course Language:** Turkish/English  
+**Prerequisites:** KIM 101 MIN DD or KIM 101E MIN DD  
+
+**Course Description:**  
+- Chemical kinetics  
+- Chemical equilibrium  
+- Acids and Bases I  
+- Acids and Bases II  
+- Solubility and Complex-Ion Equilibria  
+- Spontaneous Change - Entropy and Free Energy  
+- Electrochemistry  
+- Transition Elements  
+- Complex Ions and Coordination Chemistry  
+- Nuclear Chemistry  
+- Organic Chemistry  
+
+**Course Objectives:**  
+1. To provide a general overview and evaluation of chemical compounds and their structures.  
+2. To introduce the importance and application areas of chemical compounds in industry.  
+
+**Learning Outcomes:**  
+Students who pass the course will be able to:  
+1. Evaluate natural events by considering reaction mechanisms, thermodynamic rules, and basic reactions in chemistry.  
+2. Learn the properties of transition elements and their industrial applications.  
+3. Understand the fundamentals of electrochemistry and its applications in industry.  
+4. Determine the applications of nuclear reactions.  
+5. Characterize organic and coordination compounds and identify their industrial uses.  
+
+**Course Plan:**  
+1. Kinetics and problems  
+2. Chemical equilibrium and problems  
+3. Strong acids and bases  
+4. Weak acids, bases, and salts  
+5. Amphoteric substances - buffer solutions  
+6. Solubility and precipitation  
+7. Entropy  
+8. Electrochemistry and problems  
+9. Batteries  
+10. Nonmetals  
+11. Transition metals  
+12. Coordination compounds  
+13. Nuclear chemistry  
+14. Organic chemistry  
+
+**Textbook:**  
+Ralph H. Petrucci, William S. Harwood, F. Geoffrey Herring, 2014, General Chemistry II, Prentice Hall, ISBN: 0-13-014329-X.  
+
+**Other References:**  
+Raymond Chang, 2000, Chemistry, McGraw-Hill, ISBN: 0-07-115221-X.  
+
+**Assessment Criteria:**  
+- Midterm Exams: 2 (40%)  
+- Final Exam: 1 (60%)  
+- Quizzes: 6  
+
+**Date:** 05.03.2019  
+**Departmental Approval:** Yes  

@@ -1,0 +1,72 @@
+**Title:** GMI 407E Occupational Health and Safety
+
+**Published Time:** 2022-05-15
+
+**Course Name:** Occupational Health and Safety
+
+**Course Code:** GMI 407 E
+
+**Semester:** 5-7-8
+
+**Local Credits:** 2
+
+**ECTS Credits:** 2
+
+**Course Implementation:** 2 hours/week
+
+**Department/Program:** Marine Engineering
+
+**Course Type:** Elective
+
+**Course Language:** English
+
+**Course Prerequisites:** None
+
+**Course Description:** 
+- Requirements of occupational health and safety.
+- Requirements of OHSAS 18001.
+- Occupational Health and Safety Management System: Procedures, instructions, emergency response plans, workflow charts.
+- Regulations on workplace and mandatory applications.
+- OHSAS 18001 applications in the maritime sector and risk assessment.
+
+**Course Objectives:**
+1. To teach OHSAS 18001 and Occupational Health and Safety Management System.
+2. To teach applications of Occupational Health and Safety Management System in the Maritime Sector.
+
+**Course Learning Outcomes:**
+Students who pass the course will be able to:
+I. Understand the requirements of occupational health and safety.
+II. Understand the requirements of OHSAS 18001.
+III. Understand Occupational Health and Safety Management System and their applications.
+IV. Understand the audits of Occupational Health and Safety Management System.
+V. Understand the relations of ISO 9001 and ISO 14001.
+
+**Course Plan:**
+1. Occupational health and safety
+2. Requirements of OHSAS 18001
+3. Requirements of OHSAS 18001
+4. Procedures, instructions, emergency response plans, workflow charts
+5. Procedures, instructions, emergency response plans, workflow charts
+6. Procedures, instructions, emergency response plans, workflow charts
+7. Procedures, instructions, emergency response plans, workflow charts
+8. Regulations on workplace and mandatory applications
+9. OHSAS 18001 applications in the maritime sector
+10. OHSAS 18001 applications in the maritime sector
+11. Audits of Occupational Health and Safety Management System
+12. Audits of Occupational Health and Safety Management System
+13. OHSAS 18001 and ISO 14001
+14. OHSAS 18001 and ISO 9001
+
+**Textbook:** 
+- Norm Keith, Cathy Chandler, *A Practical Guide to Occupational Health and Safety Compliance in Ontario*, Fourth Edition, 2014.
+
+**Other References:**
+1. Paul A. Erickson, *Practical Guide to Occupational Health and Safety*, Elsevier Science, USA 1996.
+2. TSE OHSAS 18001 standard, 2008.
+3. TSE ISO 14001 standard, 2004.
+
+**Assessment Criteria:**
+- Midterm Exams: 25%
+- Homework: 15%
+- Other Activities: 10%
+- Final Exam: 50%

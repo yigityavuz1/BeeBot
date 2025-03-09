@@ -1,0 +1,60 @@
+**Title: Ders Katalogları**
+
+| Ders Kodu | Dersin adı (Türkçe) | Dersin adı (İngilizce) |
+| --- | --- | --- |
+| GID111E | Gıda Mühendisliğine Giriş ve Etik | Introduction to Food Engineering and Ethics |
+| GID113E | Gıda Mühendisliğine Giriş ve Etik | Introduction to Food Engineering and Ethics |
+| GID204E | Momentum Aktarımı | Momentum Transfer |
+| GID211E | Kütle ve Enerji Denklikleri | Mass and Energy Balances |
+| GID212 | Termodinamik | Thermodynamics |
+| GID214 | Termodinamik | Thermodynamics |
+| GID216E | Kütle ve Enerji Denklikleri | Mass and Energy Balances |
+| GID221E | Gıda Kimyası | Food Chemistry |
+| GID222 | Mikrobiyoloji | Microbiology |
+| GID223E | Gıda Kimyası | Food Chemistry |
+| GID224 | Gıda Toksikolojisi, Kontaminantlar & Katkılar | Food Toxicology, Contaminants & Additives |
+| GID226E | Mikrobiyoloji | Microbiology |
+| GID306E | Gıda Fabrika Tasarımı ve Ekonomisi | Food Plant Design and Economics |
+| GID311 | Gıda Mikrobiyolojisi I | Food Microbiology I |
+| GID312E | Gıda Mikrobiyolojisi II | Food Microbiology II |
+| GID314 | Duyusal Analiz | Sensory Analysis |
+| GID316 | Gıda Ambalajlama | Food Packaging |
+| GID318 | Gıda Bileşenlerinin Fonksiyonel Özellikleri | Functional Properties of Food Components |
+| GID322 | Gıda Mühendisliği Temel İşlemler II | Food Engineering Unit Operations II |
+| GID323 | Gıda Mikrobiyolojisi Laboratuarı | Food Microbiology Laboratory |
+| GID324E | Gıda Güvenliği, Sanitasyon & Muhafaza | Food Safety, Sanitation and Preservation |
+| GID331E | Gıda Mühendisliği Temel İşlemler I | Food Engineering Unit Operations I |
+| GID332 | Gıda Mühendisliği Laboratuarı | Food Engineering Laboratory |
+| GID337E | Yağ Kimyası ve Teknolojisi | Lipid Chemistry and Technology |
+| GID338E | Gıda Maddelerinin Fiziksel ve İşlevsel Özellikleri | Physical and Functional Properties of Food Materials |
+| GID339E | Gıda Bileşenlerinin Üretimi | Production of Food Ingredients |
+| GID341 | Isı Aktarımı | Heat Transfer |
+| GID351 | Kütle Aktarımı | Mass Transfer |
+| GID408E | İstatiksel Metotlar | Statistical Methods |
+| GID409 | Proses Kontrol | Process Control |
+| GID413 | Biyoteknoloji | Biotechnology |
+| GID415 | Soğukta Saklama Teknolojisi | Cold Preservation Technology |
+| GID416E | Gıdaların Raf Ömrü | Shelf Life of Foods |
+| GID417 | Hububat Teknolojisi | Cereal Technology |
+| GID418E | Gıda İşleme Sırasında Biyokimyasal Değişimler | Biochemical Changes During Food Processing and Storage |
+| GID419E | Gıda Üretiminde Enzimler | Enzymes in Food Production |
+| GID421E | Gıda Teknolojisi | Food Technology |
+| GID424 | Gıda Kalite Kontrol | Food Quality Control |
+| GID433 | Gıda Kalite Kontrol Laboratuvarı | Food Quality Control Laboratory |
+| GID438 | Coğrafi İşaretlerin Korunması | The Protection of Geographical Indications |
+| GID441 | Proses Kontrol | Process Control |
+| GID442E | Sürdürülebilir Gıda Üretimi | Sustainable Food Production |
+| GID443 | Biyosistemlerde Teknogirişimcilik | Technoentrepreneurship in Biosystems |
+| GID450 | Gıda Mühendisliğinde Özel Konular | Special Topics in Food Engineering |
+| GID456 | Duyusal Analiz | Sensory Analysis |
+| GID457 | Gıda Ambalajlama | Food Packaging |
+| GID458 | Gıda Bileşenlerinin Fonksiyonel Özellikleri | Functional Properties of Food Components |
+| GID459 | Biyoteknoloji | Biotechnology |
+| GID460E | Soğukta Saklama Teknolojisi | Cold Preservation Technology |
+| GID461E | Gıdaların Raf Ömrü | Shelf Life of Foods |
+| GID462 | Hububat Teknolojisi | Cereal Technology |
+| GID463E | Gıda İşleme Sırasında Biyokimyasal Değişimler | Biochemical Changes During Food Processing and Storage |
+| GID464E | Gıda Üretiminde Enzimler | Enzymes in Food Production |
+| GID465 | Coğrafi İşaretlerin Korunması | The Protection of Geographical Indications |
+| GID4901E | Gıda Mühendisliği Tasarım I | Food Engineering Design I |
+| GID4902 | Gıda Mühendisliği Tasarımı II | Food Engineering Design II |

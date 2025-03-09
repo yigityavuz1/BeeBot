@@ -1,0 +1,32 @@
+**Title: BİDB Hakkında**
+
+İstanbul Teknik Üniversitesi, bilişim ve iletişim teknolojilerinin güncel olarak izlenmesi doğrultusunda tüm öğrencilerine ve akademik birimlerine, yaratıcı ve ortak çalışmalarda kullanılabilecek optimum bilişim altyapısını sağlamayı ve idari personellerin yürüttükleri çalışmalarda bilgi teknolojilerinin kullanılmasının en üst düzeye çıkartılmasını amaçlamaktadır.
+
+Bilgi Teknolojileri altyapısı yazılım ve donanım olarak yeterli ve güncel olmakla beraber, altyapı üzerindeki geliştirme çalışmaları devam etmektedir. Öğrencilerin ve akademik ile idari personelin bu altyapının doğru ve etkin biçimde kullanabilmesi için gerekli bilişim kültürüne ve bilgi birikimine sahip olması önemlidir. Tüm bu çalışmalar, geleceğin esnek ve dinamik bilişim profesyonellerini yetiştirme ve bilgilerini güncelleyebilen bir düşünce yapısı ile donatma idealini taşımaktadır.
+
+İTÜ, Ulusal Akademik Ağ (ULAKNET) üzerinden 4 Gbps yurt dışı-yurt içi internet bağlantısına sahiptir. Kampüs genelinde IEEE'nin Cat-5e, Cat-6 ve Cat7 standartlarına uygun data kablolaması yapılmıştır. İTÜNET genelinde yaklaşık 25.000 anlık aktif uç bulunmaktadır. İstanbul'da beş farklı yerleşkede ve İTÜ KKTC'nin farklı alanlarında 900'den fazla erişim noktası ile kablosuz internet hizmeti sunulmaktadır.
+
+İTÜ, etkinlik ya da çalışma gruplarına e-posta hizmeti sunarak toplamda 80.000'den fazla hesaba hizmet vermektedir. KOVAN isimli bulut depolama hizmeti ile kullanıcıların verilerine her yerden erişim sağlanmaktadır. Merkezi sisteme bağlı öğrenci laboratuvarlarında VDI teknolojisi ile çalışan 1200’den fazla PC hizmet vermektedir. İTÜ mensupları kişisel web sayfalarını yayınlayabilmektedir. Uzaktan eğitimle ders anlatmak isteyen öğretim üyeleri için TELEDERS isimli hizmet sunulmaktadır.
+
+2018 yılında “ISO 27001:2013 Bilgi Güvenliği Yönetim Sistemi” sertifikası alınmıştır. İTÜ bilgi sistemleri bir intranet olarak geliştirilmektedir ve 365 gün 24 saat destek sunmaktadır.
+
+**Varlık Amacımız:** Teknolojiyi tüm İTÜ personelinin ve öğrencilerinin hayatlarını kolaylaştırmak için kullanmak.
+
+**Gelecek Hedefimiz:**
+- Üniversitedeki tüm yazılım sistemlerinin entegre çalışabilmesini sağlamak
+- Kurumsal bilgi sistemini ve kurumsal belleği tesis etmek
+- Veri ile yönetim için uygun altyapıyı kurmak
+- Kullanıcılara daha yüksek kapasitelerde ve daha zengin hizmet yelpazesi sunmak
+- Yerleşkelerde yüksek bantgenişliğinde kablosuz internet erişimi sunmak
+- Kullanıcılara geniş kapsamlı tam destek verebilmek
+
+**Değerlerimiz:**
+- Kişisel bilgilerin mahremiyetine önem vermek
+- İnsana değer vermek
+- Teknolojiyi yakından izlemek ve uygulamak
+- Kesintisiz hizmet vermek
+- Katma değer oluşturmak
+
+**Görev Tanımı:** Bilgi İşlem Daire Başkanlığı, İstanbul Teknik Üniversitesi bünyesinde bilgi ve iletişim teknolojilerinin kullanımını sağlamak, düzenlemek ve yaygınlaştırmak görevlerini yerine getirmektedir. Temel görevleri arasında üniversitenin bilgi teknolojileri ihtiyaçlarının tespit edilmesi, kullanıcıların doğru kullanımı için dokümantasyon ve eğitimlerin hazırlanması, destek hizmetlerinin yürütülmesi, bilgi güvenliğinin sağlanması ve yazılım çözümlerinin geliştirilmesi bulunmaktadır. 
+
+İTÜ, bilgi teknolojilerinden öğretim ve araştırmalarda en fazla yararlanmayı kendine ilke olarak seçmiştir. Bu ilkenin gereği olarak tüm gelişmeler izlenmekte ve öğrenci ile öğretim üyelerinin en yeni teknolojilerden yararlanmaları sağlanmaktadır.

@@ -1,0 +1,53 @@
+**Title:** GMI 456E Ship Electrical Systems
+
+**Published Time:** 2022-05-15
+
+**Course Name:** Ship Electrical Systems  
+**Course Code:** GMI 456E  
+**Semester:** 5-7-8  
+**Local Credits:** 2  
+**ECTS Credits:** 2  
+**Course Language:** English  
+**Course Type:** Elective  
+**Course Prerequisites:** None  
+
+**Course Description:**  
+This course covers ship electrical generation, distribution, monitoring and control system architecture, network, diagrams, and components (e.g., automated voltage regulator, synchronization). It includes normal and emergency electrical system operations in the engine and control rooms, problem identification and troubleshooting in electrical generation and distribution systems, power systems, electrical consumers, and energy efficiency.
+
+**Course Objectives:**  
+1. To establish understanding and reading capability in ship electrical system diagrams.  
+2. To teach electrical systems operations and emergency procedures.  
+3. To provide skills in problem identification and troubleshooting in electrical systems and components.  
+4. To impart knowledge on energy efficiency in ship electrical systems.
+
+**Course Learning Outcomes:**  
+Students who pass the course will be able to:  
+I. Learn ship electrical generation, distribution, monitoring and control system architecture, network, diagrams, and components.  
+II. Gain capability in operation of the ship electrical system.  
+III. Learn problem identification and troubleshooting methods in ship electrical systems and components.  
+IV. Gain knowledge in the energy efficiency of electrical systems and consumers.
+
+**Course Plan:**  
+1. Ship electrical system network and theory  
+2. Ship electrical generation, distribution and system relation with electrical consumers  
+3. Control of generators depending on electrical power requests  
+4. Ship electrical distribution and monitoring systems, diagrams, and components  
+5. Engine control room electrical monitoring and control systems  
+6. Synchronization, load control, voltage regulation  
+7. Engine room electrical systems operations  
+8. Ship electrical consumers and energy efficiency  
+9. Example ship data and project study: Electrical power requirements with consumers regarding the ship’s navigation status  
+10. Shore power supply  
+11. Ship electrical system problems and emergency operation  
+
+**Textbook:**  
+1. Patel, R. “Shipboard Electrical Power Systems,” 2018.
+
+**Other References:**  
+2. Borstlap, H.K.R, “Ships Electrical Systems,” 2011.  
+3. Hall, Dennis T. “Practical Marine Electrical Knowledge,” 1999.
+
+**Assessment Criteria:**  
+- Midterm Exams: 30%  
+- Projects: 30%  
+- Final Exam: 40%

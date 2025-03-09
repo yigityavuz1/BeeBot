@@ -1,0 +1,44 @@
+**Course Name:** Ship Electrical Systems  
+**Course Code:** GMI 475E  
+**Semester:** 7-8  
+**Local Credits:** 2  
+**ECTS Credits:** 4  
+**Course Language:** English  
+**Course Type:** Elective  
+**Course Prerequisites:** None  
+
+**Course Description:**  
+This course covers ship electrical generation, distribution, monitoring, and control system architecture, including network diagrams and components. It addresses normal and emergency operations of electrical systems in the engine room and control room, troubleshooting methods, power systems, electrical consumers, and energy efficiency.
+
+**Course Objectives:**  
+1. To establish understanding and reading capability in ship electrical system diagrams.  
+2. To teach electrical systems operations and emergency procedures.  
+3. To provide skills in problem identification and troubleshooting in electrical systems and components.  
+4. To impart knowledge on energy efficiency in ship power systems.
+
+**Course Learning Outcomes:**  
+Students who pass the course will be able to:  
+I. Learn ship electrical generation, distribution, monitoring, and control system architecture, network diagrams, and components.  
+II. Gain capability in the operation of the ship electrical system.  
+III. Learn problem identification and troubleshooting methods in ship electrical systems and components.  
+IV. Gain knowledge in the energy efficiency of electrical systems and consumers.
+
+**Course Plan:**  
+1. Ship electrical system network and theory  
+2. Ship electrical generation and distribution with electrical consumers  
+3. Ship electrical generation system control based on power requirements  
+4. Ship electrical distribution and monitoring systems, diagrams, and components  
+5. Engine control room electrical monitoring and control systems  
+6. Synchronization, load control, voltage regulation  
+7. Ship electrical consumers and energy efficiency  
+8. Example ship data and project study on electrical power requirements  
+9. Shore power supply  
+10. Ship electrical system problems and emergency operations  
+
+**Textbook:**  
+Patel, R. “Shipboard Electrical Power Systems,” 2018.  
+
+**Assessment Criteria:**  
+- Midterm Exams: 30%  
+- Projects: 30%  
+- Final Exam: 40%  

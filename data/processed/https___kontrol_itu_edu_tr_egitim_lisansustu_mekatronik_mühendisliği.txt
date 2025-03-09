@@ -1,0 +1,33 @@
+**Mekatronik Mühendisliği**
+
+Mekatronik Mühendisliği, Mekatronik Mühendisliği Ana Bilim Dalı altında bir lisansüstü programı olup, yüksek lisans ve doktora düzeyinde eğitim vermektedir.
+
+### Araştırma Konuları
+- İnsansız Kara Taşıtları Projesi
+- Hibrit Araçları Projesi
+- İnsansız Hava Araçları Projesi (Helikopter, Uçak ve Zeplin)
+- Elektrikli Minibüs Projesi
+- Otomotiv Mekatroniği
+- İnsansı Robot Projesi
+- Futbol Oynayan Robot Projesi
+- Görüntü İşleme
+- Hareket Denetimi ve Uygulamaları
+- Hızlı Kontrolcü Prototiplendirme
+- Donanım İçeren Simülasyonlar ve Simülatörler
+- Mikro ve Nano Boyutta Manipülasyon ve Kontrol, Ufak Ölçekli Robotik
+- Sensör & Eyleyici Tasarımı
+- MEMS
+- Triboloji
+- Titreşim
+- Yapay Sinir Ağı—Bulanık Mantık Öğrenme Algoritmaları Çalışmaları
+
+### Misyon
+Mekatronik alanında en güncel gelişmeleri izleyebilecek, geliştirebilecek, çeşitli alanlarda uygulayabilecek, uluslararası düzeyde yeni çözümler üretmeye yetecek teorik bilgi ve disiplinler arası uygulama deneyimini kazandırmak.
+
+### Vizyon
+İstanbul Teknik Üniversitesi'nin vizyonu, çağdaş bir araştırma üniversitesi olarak ulusal ve uluslararası düzeyde bilim, teknoloji ve sanatta önder çalışmaların odağı olmaktır. Mekatronik Mühendisliği Programı ise bu vizyon doğrultusunda çok disiplinli mühendislik alanı olan Mekatronik'te bilim ve teknoloji çalışmalarında önder olmaktır.
+
+### İletişim Bilgileri
+- **Telefon:** +90 212 285 35 75
+- **Fax:** +90 212 285 29 20
+- **Adres:** İTÜ Ayazağa Kampüsü, PK: 34469, Maslak / İstanbul, Türkiye

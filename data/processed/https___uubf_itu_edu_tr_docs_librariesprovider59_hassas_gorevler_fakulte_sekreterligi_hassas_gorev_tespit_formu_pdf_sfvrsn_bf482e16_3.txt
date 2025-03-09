@@ -1,0 +1,20 @@
+**Hassas Görev Tespit Formu**
+
+**Birim:** Uçak ve Uzay Bilimleri Fakültesi  
+**Alt Birim:** Fakülte Sekreterliği  
+
+| Sıra No | Hassas Görevler | Hassas Görevi Olan Personel | Risk Düzeyi | Görevin Yerine Getirilmeme Sonucu | Alınması Gereken Önlemler veya Kontroller |
+|---------|------------------|-----------------------------|--------------|-----------------------------------|------------------------------------------|
+| 1       | Fakülte Kurulu, Fakülte Yönetim Kurulu ve Disiplin Kurulu kararlarının yazılması | Fakülte Sekreteri | Orta | Eğitim, Ar-Ge ve idari işlerin aksaması, Zaman ve İtibar kaybı | Zamanında görevi yerine getirmek |
+| 2       | Kanun, yönetmelik diğer mevzuatın takibi ve uygulanması | Fakülte Sekreteri | Yüksek | Hatalı işlem, hak kaybı, kamu zararı ve itibar kaybı | Yapılan değişiklikleri takip etmek |
+| 3       | İzne ayrılan personelin ve görevden ayrılan personelin yerine görevlendirme yapılması | Fakülte Sekreteri | Orta | İşlerin aksaması, hak kaybı, itibar kaybı | Personel planlaması ile yıllık izin planlamasının zamanında yapılması |
+| 4       | Akademik ve İdari Personel Soruşturmalarının takibi | Fakülte Sekreteri | Yüksek | Mevzuata uygunsuzluk, hak kaybı, itibar kaybı, kamu zararı | Soruşturma komisyonları ile koordineli olarak soruşturmaların mevzuata uygun yapılması |
+| 5       | Gizli yazıların hazırlanması | Fakülte Sekreteri | Yüksek | KVKK'ya uygun hareket etmeme, kişilerin mağduriyeti, İtibar ve güven kaybı | Resmi yazışma kurallarına uyulması |
+| 6       | Kadro talep ve çalışmaları | Fakülte Sekreteri | Yüksek | Eğitim, Ar-Ge ve idari işlerin aksaması, zaman, iş ve hak kaybı | Planlı ve programlı bir şekilde takip etmek |
+| 7       | Temizlik Hizmetleri ile çevre düzenlemelerinin kontrolünü sağlamak | Fakülte Sekreteri | Düşük | Çalışma veriminin ve kalitesinin düşmesi, hijyenin sağlanamaması | Günlük rutin kontrollerin yapılmasını denetlemek |
+| 8       | Bütçenin hazırlanması ve yönetimi | Fakülte Sekreteri | Yüksek | Bütçe açığı ve hak kaybı | Hazırlayan kişinin bilinçli olması |
+| 9       | Kaynakların verimli ve ekonomik kullanılmasını sağlamak | Fakülte Sekreteri | Orta | Kamu zararı, itibar kaybı | İlgili mevzuat hükümlerine uymak |
+| 10      | Yıl sonunda boro içerisinde gerekli düzenlemeyi sağlamak | Fakülte Sekreteri | Yüksek | Çalışma veriminin düşmesi | Düzenli ve sistematik çalışmanın sağlanması |
+
+**Hazırlayan:** İlgili Alt Birim Amiri  
+**Onaylayan:** Prof. Dr. Metin Orhan KAYA, Dekan

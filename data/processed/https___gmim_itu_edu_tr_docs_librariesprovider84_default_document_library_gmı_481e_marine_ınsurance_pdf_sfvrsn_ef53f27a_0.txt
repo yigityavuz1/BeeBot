@@ -1,0 +1,47 @@
+**Title:** GMI 481E Marine Insurance
+
+**Course Name:** Marine Insurance  
+**Course Code:** GMI 481E  
+**Semester:** 7-8  
+**Local Credits:** 2  
+**ECTS Credits:** 4  
+**Course Language:** English  
+**Course Type:** Elective  
+**Course Prerequisites:** None  
+
+**Course Description:**  
+The course covers the concept of insurance, insurance law, definitions, and terminology. It includes Marine Insurance Law, Hull Insurance, Marine Cargo Insurance, Protection and Indemnity (P&I), and the relationship between technical ship management rules and insurance rules. It also addresses documentation for evidence, conflicts in Marine Insurance, and analysis of court decisions.
+
+**Course Objectives:**  
+1. To teach the types and scopes of marine insurances and their application in ship management.  
+2. To help students understand the relationship between insurance rules and ship management.
+
+**Course Learning Outcomes:**  
+Students who pass the course will be able to:  
+I. Understand insurance terminology and the responsibilities of the parties.  
+II. Comprehend maritime risks covered by insurances.  
+III. Learn about different types of maritime insurance.  
+IV. Understand the relationship between insurance rules and technical ship management rules, and learn how to document insurance losses.
+
+**Course Plan:**  
+1. Insurance concept, insurance law, definitions, legal sources of insurance  
+2. Insurance terminology, abbreviations  
+3. Marine Insurance Law; definitions, terminology, history, legal sources  
+4. Marine Insurance Law; types, contracts, principles  
+5. Hull Insurance; types, hull underwriting  
+6. Hull Insurance; institute hull clauses  
+7. Marine Cargo Insurance; incoterms, exclusions  
+8. Marine Cargo Insurance; institute cargo clauses  
+9. Protection and Indemnity (P&I); P&I Clubs, history, system, coverage  
+10. P&I Clubs; typical rules, claims  
+11. FDND (Freight, Demurrage and Defense Insurance) and other insurances  
+12. Relationship between insurance rules and ship management  
+13. Documentation for objective evidence  
+14. Marine Insurance conflicts and court decisions  
+
+**Textbook:**  
+Barrie Jervis, Reed’s Marine Insurance, London 2006.
+
+**Assessment Criteria:**  
+- Midterm Exams: 40%  
+- Final Exam: 60%  

@@ -1,0 +1,63 @@
+Title: İTÜ | ÖİDB
+
+URL Source: https://www.sis.itu.edu.tr/TR/hakkimizda/faaliyetlerimiz.php
+
+Markdown Content:
+*   [Anasayfa](https://www.sis.itu.edu.tr/)
+*   [Faaliyetlerimiz](https://www.sis.itu.edu.tr/TR/hakkimizda/faaliyetlerimiz.php#)
+
+Faaliyetlerimiz
+---------------
+
+*   İTÜ’nün Eğitim-Öğretim ile ilgili iş ve işlemleri ve işlerin tarihlerini gösteren Akademik Takvimini hazırlamak ve Üniversite Senatosuna sunmak, Kabul edilen Takvimi ilan etmek,
+*   Fakülteler ile Enstitüler de açılması uygun bulunan bölüm, anabilim dalı ve program açılması ve kapatılmasına ilişkin Üniversite Senatosunun almış olduğu kararları Yüksek Öğretim Kurulu Başkanlığına bildirmek,
+*   Tüm seviyelerde ilgili birimler tarafından oluşturulan ve Senato tarafından kabul edilen ders planlarının Öğrenci Bilgi Sistemine işlemek ve yapılan güncellemeleri takip ederek gerekli düzeltmeleri sistemde yapmak.
+*   LYS sınav sonuçlarına göre Üniversitemiz Lisans ve Özel yetenek programlarına yerleştirilecek öğrencilerin kontenjanlarını Üniversite Senatosuna sunmak ve Üniversite Senatosunda kabul edilen kontenjanları Öğrenci seçme ve Yerleştirme Merkezine bildirilmek,
+*   Lisans programlarına yurtdışından alınacak öğrencilerin kontenjanları ve koşullarını ilgili Fakültelerden almak ve Üniversite Senatosuna sunmak, kabul edilen öğrenci kontenjanlarını Yükseköğretim Kurulu Başkanlığına bildirmek.
+*   Moda Tasarımı, Tekstil Geliştirme ve Pazarlama SUNY programları ile Türk Musikisi Devlet Konservatuarı programlarına Özel Yetenek Sınav sonuçlarına göre alınacak öğrencilerin ön kayıtlarının WEB üzerinden alınmasını sağlamak,
+*   Kurum içi, kurumlararası ve yurtdışı yatay geçiş, ÇAP ve YANDAL kontenjanlarını Fakülte/Enstitü/Konservatuar Müdürlüklerinden istemek ve Üniversite Yönetim Kuruluna sunmak, kabul edilen kontenjanların WEB’ten ilan edilmesini sağlamak,
+*   Her Eğitim-öğretim yılının Güz ve Bahar yarıyılında açılacak Yüksek Lisans ve Doktora kontenjanları ile programa ait giriş koşullarının ilgili Enstitü Müdürlüklerinden alınarak Üniversite Senatosuna sunmak ve kabul edilen kontenjan bilgilerinin WEB’te ilanını yapmak.
+*   Lisans ve Lisansüstü programlarda öğrenim görecek Türk ve Yabancı uyruklu öğrencilerin ön kayıt ve kesin kayıt işlemlerini yapmak,
+*   Kesin kayıtları yapılan öğrencilerin kimlik kartlarının hazırlanarak teslimini sağlamak,
+*   İETT Genel Müdürlüğü tarafından hazırlanmış olan İndirimli seyahat kartlarının öğrencilere dağıtılmasını sağlamak.
+*   İngilizce Hazırlık sınıflarında ya da Fakülte/Enstitü/Konservatuar programlarında öğretime başlayacak öğrencilerin belirlenebilmesi için yapılan yabancı dil sınav sonuçlarını Öğrenci Bilgi Sistemine işlemek,
+*   Her eğitim-öğretim yılının güz, bahar ve yaz öğretimi ders programlarını, fakültelerin ve Enstitülerin önerileri doğrultusunda Öğrenci Bilgi sistemine işlemek ve WEB’te ilanını yapmak ,
+*   Öğrencilerden her eğitim-öğretim yılı güz-bahar yarıyılları ile yaz öğretimi başında yapılan kayıt yenilemeleri sırasında yürürlükteki mevzuat hükümleri gereğince öğrenci katkı payları/öğrenim ücretlerine ilişkin işlemleri yürütmek.
+*   Her eğitim-öğretim yılının güz, bahar ve yaz öğretimi dönemlerinin başında öğrencilerin WEB üzerinden ders seçimlerini yapmalarını sağlamak,
+*   Her eğitim-öğretim yılının güz, bahar ve yaz öğretimi dönemlerinin sonunda yapılacak olan final sınav programlarını hazırlamak ve WEB de ilan etmek,
+*   Her yarıyıl sonunda yapılan final sınav sonuçlarının öğretim üyeleri tarafından WEB üzerinden Öğrenci Bilgi Sistemine işlenmesini sağlamak
+*   Her Eğitim-Öğretim yılı başında Kurumlar arası, Merkezi puanla ve mücbir sebeplerden dolayı yatay geçiş yapmak isteyen aday öğrencilerin ön başvurularını almak, ilgili birimlere internet ortamında iletmek, değerlendirme sonuçlarına göre İTÜ’ye yerleşme hakkı kazanan öğrencilerin listesini ilan etmek ve kabul edilen öğrencilerin kayıtlarının yapılmasını sağlamak,
+*   Fakültelerdeki staj komisyonlarının öğrencilere ait staj bilgilerini WEB üzerinden Öğrenci Bilgi Sistemine işlemesini sağlamak .
+*   Her Eğitim-Öğretim yılı başında İTÜ öğrencilerinin Kurum içi yatay geçiş, ÇAP ve YANDAL başvurularını internet ortamında almak ve ilgili mevzuatlar çerçevesinde değerlendirerek yerleştirme işlemlerini tamamlayarak kazanan öğrencilerin listesini ilan etmek, kabul edilen öğrencilerin yerleştikleri programlara kesin kayıtları ile ders intibaklarının yapılmasını sağlamak
+*   Yatay/Dikey geçiş yolu ile gelen ve kesin kayıtları yapılan öğrencilerin, daha önce öğrenim gördükleri yükseköğretim kurumlarında alarak başarılı oldukları derslerin muafiyet ve intibaklarının yapılmasına sağlamak
+*   Mühendislik Tamamlama programına yerleştirilen öğrencilerin, öğrenciliğine ve mezuniyetine ilişkin süreçleri yürütmek
+*   Lisans Tamamlama ve Özel Öğrenci başvuru, kayıt ve diğer öğrencilik işlemlerinin yapılmasını sağlamak
+*   ÖSYM sınavı ile Üniversitemizi kazanmış ancak daha önce başka bir Yükseköğretim Kurumunda öğrenim görmüş öğrencilerin muafiyet işlemlerinin yapılmasını sağlamak
+*   İTÜ’deki öğretimi boyunca öğrencinin başarı durumunu ve gelişimini izlemek üzere Fakülte/Meslek Yüksekokulu/Enstitü ve Konservatuar tarafından atanmış olan Danışmanları sisteme işlemek.
+*   ÖSYM sınavı ile Üniversitemizi kazanmış ancak daha önce başka bir Yükseköğretim Kurumunda öğrenim görmüş öğrencilerin muafiyet işlemlerinin yapılmasını sağlamak,
+*   Tüm seviyedeki mezun verilerinin YÖKSİS veri tabanına aktarılmasını sağlamak
+*   İTÜ’deki öğretimi boyunca öğrencinin başarı durumunu ve gelişimini izlemek üzere Fakülte/Meslek Yüksekokulu/Enstitü ve Konservatuar tarafından atanmış olan Danışmanları sisteme işlemek,
+*   Lisans programlarına kesin kayıtları yapılan erkek öğrenciler ile mezun olan erkek öğrencilerin askerlik işlemlerine ilişkin bilgilerinin bağlı bulundukları askerlik şubelerine bildirmek üzere verilerinin YÖKSİS’e aktarılmasını sağlamak.
+*   Türkiye burslusu ve diğer yabancı uyruklu öğrencilerin eğitim-öğretim ile ilgili işlemlerini yapmak, öğrenim ve mezuniyet durumlarına ilişkin bilgilerini ilgili kurumlara bildirmek.
+*   İzinli öğrencilerin kayıt dondurma işlemlerine ilişkin Fakülte Yönetim Kurulu kararlarını Öğrenci Bilgi sistemine işlemek, öğrencilerin kayıt dondurma işlemlerine ilişkin Fakülte Yönetim Kurulu kararlarını İlglili kurum ve kuruluşlara bildirmek
+*   Üniversitemiz programlarında öğrenim görürken disiplin cezası alan öğrencilerin cezalarını Öğrenci Bilgi Sistemine İşlemek ve ilgili kurumlara ve dersine kayıtlı olduğu öğretim üyesine bildirmek,
+*   Burslu öğrencilerin başarı durumlarının burs aldığı kurumlara bildirmek
+*   Sosyal Güvenlik Kurumlarından maaş alan öğrencilerin başarı durumlarının ilgili kurumlara bildirmek,
+*   Çıkan Af Kanunları ile Üniversitemiz programlarına yeniden gelen öğrencilerin başvurularını kabul etmek ve ilgili kanun doğrultusunda çıkan Senato Esasları gereğince intibaklarının yapılmasını sağlamak,
+*   2547 Sayılı Kanunun 44/c maddesi doğrultusunda azami öğrenim süresi dolan öğrencilerin öğrencilik durumlarının değerlendirilerek Kanun gereği yararlanacakları hakların belirlenmesi (Ek süre, Ek sınav ve Sınırsız Sınav Hakkı)
+*   Üniversitemiz Öğrenci Temsilcisi seçimlerine yönelik işlemleri yapmak
+*   Üniversitemiz Öğrenci Temsilcisi seçimlerine yönelik işlemleri yapmak .
+*   Güz,bahar ,yaz öğretimi sonunda sistemde mezuniyet çalışmaları yaparak Lisans mezuniyet kriterlerini sağlayan öğrencileri belirlemek ve ilgili Fakültelere bildirmek . Fakülte Yönetim Kurulu Kararı ile mezun edilen öğrencilerin , diploma eki ve öğrenim belgesini (transcript) düzenlemek .
+*   Bahar dönemi sonunda yapılan Lisans Mezuniyet töreninden sonra, mezunlara verilmek üzere diploma, diploma eki, öğrenim belgesi(transcript) ve Derece belgelerini hazırlayarak fakültelere/Konservatuara dağıtımını yapmak, Diplomalarını ilgili birimlerden almayan öğrencilerin diplomalarını daha sonra teslim etmek üzere geri almak .
+*   Minimum sürede mezun olan ve dereceye giren mezunları tespit etmek ve derece belgelerini hazırlamak ayrıca aynı anda iki anadalından mezun olan ÇAP öğrencilerine belge hazırlamak
+*   Lisansüstü (Tezli-Tezsiz Yüksek Lisans, Doktora) programlarından mezun olan öğrencilerin Enstitü kararlarını Öğrenci Bilgi Sistemine işlemek, mezuniyet prosedürlerini tamamlamak ve diplomalarını düzenlemek.
+*   Tüm seviyedeki mezun verilerinin YÖKSİS veri tabanına aktarılmasını sağlamak.
+*   Üniversitemiz Ön Lisans , Lisans , Yüksek Lisans , Sanatta Yeterlilik ve Doktora programlarındaki öğrenimleri sonunda mezun olanlar adına düzenlenen diplomaların ilgili Fakültelerde Dekan ve Rektöre , Enstitülerde Müdür ve Rektöre imzalatarak bir fotokopisinin arşivlenmesi ve diplomaların mezunlara verilmesi,
+*   Mezunun orijinal diplomasını herhangi bir şekilde kaybetmesi halinde Üniversite Yönetim Kurulu kararı gereğince diploma yerine verilen 2.nüsha(DUPLICAT)diploma düzenlemek ve ilgili kişiye teslim etmek.
+*   Nüfus cüzdanında mezuniyetten sonra yapılan değişikliklerin diplomanın arkasına şerh olarak işlemek , hatalı olan diplomaların yeniden düzenlemek
+*   Öğrenim ve başarı durumlarına ilişkin belgelerin (Öğrenci Belgesi, Transkript, sıralama vb) hazırlanmasını sağlamak ve öğrencilerin talepleri doğrultusunda fiziksel ve elektronik ortamda teslim etmek.
+*   Yatay geçiş yolu ile gelen öğrencilerin öğrenciliğine ilişkin dosyalarının ilgili Yükseköğretim Kurumlarından istemek.
+*   Yatay geçiş yolu ile diğer Yükseköğretim Kurumlarına giden öğrencilerin dosyalarını ilgili Yükseköğretim Kurumuna göndermek.
+*   Tüm seviyelerde kayıtlı öğrencilerin güncel öğrenci durumlarının YÖKSİS’e aktarılmasını sağlamak.
+
+[➤](https://www.sis.itu.edu.tr/TR/hakkimizda/faaliyetlerimiz.php# "Yukarı")

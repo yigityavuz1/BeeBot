@@ -1,0 +1,17 @@
+**Ağ Planlama Desteği**
+
+İTÜ dahilindeki binalara İnternet bağlantısı sağlamak amacıyla gereken kablolama için İTÜ-BİDB bünyesinde bulunan Ağ Hizmetleri Planlama ve Destek Grubu'ndan danışmanlık hizmeti alınabilir. 
+
+Ağ Hizmetleri Planlama ve Destek Grubu, data kablolaması yapmamaktadır; ancak kablolama için gereken saha keşfini yaparak gerekli şartnameyi hazırlar, ihale aşamasında teknik danışmanlık üstlenir ve uygulama aşamasında gereken kontrolleri yapar.
+
+Ağ Hizmetleri Planlama ve Destek Grubu, var olan alt yapıyı ve ileride çıkması planlanan teknolojileri göz önüne alarak gereken kablolama projelerini yapar. İTÜ/NET'in sağlıklı gelişimi için her tür kablolamadan önce mutlaka İTÜ-BİDB'ye başvurulması gerekmektedir. Bu sayede var olan alt yapıya uygun olmayan standart dışı kablolamanın önüne geçilmiş olur. Gereken danışmanlığın sağlanması için İTÜ Rektörlüğü'ne dilekçe ile başvurulması yeterlidir.
+
+**İletişim Bilgileri:**
+
+İTÜ Ayazağa Kampüsü  
+Bilgi İşlem Daire Başkanlığı  
+Maslak-Sarıyer / İstanbul  
+0212 285 3930  
+
+**BİDB Yardım**  
+İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz.

@@ -1,0 +1,46 @@
+**Course Name:** Marine Diesel Engines III  
+**Course Code:** GMI 473  
+**Semester:** 7  
+**Local Credits:** 1.5  
+**ECTS Credits:** 4  
+**Course Implementation:** 1 hour/week  
+**Course Type:** Compulsory  
+**Course Language:** Turkish  
+**Prerequisites:** GMI 392E  
+
+**Course Description:**  
+The course covers theoretical and actual cycles, heat calculations, combustion and combustion efficiency, mean pressure, indicated power, brake power, mechanical losses, efficiencies (theoretical, thermal, charge, volumetric), fuel consumption, and engine performance diagrams.
+
+**Course Objectives:**  
+1. To teach the design principles of marine diesel engines.  
+2. To teach efficient operation of marine diesel engines.
+
+**Course Learning Outcomes:**  
+Students who pass the course will be able to:  
+I. Perform theoretical calculations of marine diesel engines.  
+II. Perform calculations of realistic marine diesel engine cycles.  
+III. Design realistic dimensions of marine diesel engines.  
+IV. Perform the design calculation of marine diesel engines.
+
+**Course Plan:**  
+- Week 1: Theoretical cycles  
+- Week 2: Theoretical cycles  
+- Week 3: Real cycles  
+- Week 4: Real cycles: Computation of cycle parameters  
+- Week 5: Real cycles: Combustion and combustion products  
+- Week 6: Real cycles: Mean effective pressures and power calculations  
+- Week 7: Design calculations: Main dimensions and performance diagrams  
+- Week 8: Design calculations: Main dimensions and performance diagrams  
+- Week 9: Design calculations: Types of efficiencies and calculations  
+- Week 10: Design calculations: Types of efficiencies and calculations  
+- Week 11: Design calculations: Fuel consumption calculations  
+- Week 12: Design calculations: Fuel consumption calculations  
+- Week 13: Design calculations: Heat balance calculations  
+- Week 14: Design calculations: Heat balance calculations  
+
+**Textbook:**  
+Fahrettin Küçükşahin, Dizel Motorlarının Teorisi, Birsen Yayınevi, İstanbul 2008.
+
+**Assessment Criteria:**  
+- Midterm Exams: 1 (60%)  
+- Final Exam: 1 (40%)

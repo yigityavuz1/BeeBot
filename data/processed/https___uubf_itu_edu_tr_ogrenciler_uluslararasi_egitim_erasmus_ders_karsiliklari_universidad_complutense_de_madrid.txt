@@ -1,0 +1,25 @@
+**Title:** Universidad Complutense de Madrid
+
+**Course Equivalents:**
+
+| Universidad Complutense de Madrid | İTÜ |
+|------------------------------------|-----|
+| **Dersin Kodu**                    | **Dersin Adı**                     | **Dersin Kodu** | **Dersin Adı**                     |
+| 800555                             | Termodinamica de la atmosfera      | MTO214         | Atmosfer Termodinamiği             |
+| 800507                             | Astrofisica                        |                | 5. YY. Seçime Bağlı MT             |
+| 800523                             | Historia de la fisica             | FIZ449         | Günlük yaşamımızda fizik           |
+| 801301                             | Etica-1                            | ETK101         | Mühendislik Etiği                  |
+| 804347                             | Hidraulica                         | MTO455         | Hidrometri                         |
+| 800554                             | Meteorologia dinamica              | MTO337         | Atmospheric Dynamics I             |
+| 800521                             | Estatistica y analisis datos       | MTO311E        | Data Analysis                      |
+| 800558                             | Geofisica y meteorologia aplicadas |                | 6. YY. Seçime Bağlı MT             |
+| 800549                             | Energia y medio ambiante           | MT             | 7. YY. Seçime Bağlı MT (2022)     |
+| 800511                             | Fisica de la atmosfera             | MT             | 8. YY. Seçime Bağlı MT (2022)     |
+| 803650                             | Teoria de la Comunication          | ITB            | 5. YY. Seçime Bağlı ITB (2022)    |
+| 800550                             | Fundamentos de Meteorologia        | MTO344         | Weather Analysis and Prediction I (2022) |
+| 800510                             | Material Physics                   | TM             | 7. YY. Seçime Bağlı TM (2022)     |
+
+**Contact Information:**
+- **Phone:** +90 (212) 285 31 01
+- **Fax:** +90 (212) 285 31 39
+- **Address:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

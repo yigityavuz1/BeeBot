@@ -1,0 +1,19 @@
+**Title: Tarihçe**
+
+**TARİHÇE**
+
+- **08 Ocak 2013**: İTÜ Net 2 Gbps internet erişim hızı artırıldı. Cisco Nexus 7000 serisi cihazlar entegre edildi.
+  
+- **02 Şubat 2011**: İTÜ Net 1 Gbps internet erişim hızı artırıldı.
+
+- **08 Nisan 2004**: İstanbul Teknik Üniversitesi'ne özgün yönetim çözümü ile 1000 adet kişisel bilgisayar yenilendi ve öğrencilere sunuldu.
+
+- **11 Şubat 2002**: İTÜ/NET, ULAKNET'e 100Mbps erişim hızı ile bağlandı. İTÜ-BİDB, 2002 yılı "CNAP Uygulamasını En Hızlı Yayan Bölgesel Akademi" ödülünü aldı. Merkezi öğrenci laboratuvarları kuruldu.
+
+- **08 Mart 2001**: İTÜ Cisco CNAP programı Bölgesel Akademi'ye dönüştü. Öğrencilerin kampüste çeşitli fakültelerde bulunan bilgisayar laboratuvarlarına tek kullanıcı ismi ve şifre ile bağlanabilmesi sağlandı.
+
+**İletişim Bilgileri:**
+- **Adres**: İTÜ Ayazağa Kampüsü, Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- **Telefon**: 0212 285 3930
+
+**BİDB Yardım**: İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz.

@@ -1,0 +1,16 @@
+**Title: Online Fatura Talep Dokümantasyonu**
+
+1. Portal uygulamasına giriş yaptıktan sonra sol menüden “Finans” > “Döner Sermaye” altındaki “İşler” tıklanır.
+2. “İşler“ sayfasında ilgili iş seçilerek “Detay” butonuna tıklanır ve “İş Detay” sayfası açılır.
+3. “İş Detay” sayfasında “Fatura Talepleri” sekmesine gelinir ve “Fatura Talebi Oluştur“ butonuna tıklanır.
+4. “Fatura Talep” sayfasındaki tüm alanların doldurulması ve talebe fatura kalemi eklenmesi gerekmektedir. Müşteri alanlarına yazılacak bilgiler bilinmiyorsa “Müşteri Ara” butonuna tıklayarak ilgili kişi aranabilir.
+5. “Müşteri Ara” ekranındaki alanlardan en az biri doldurulmalıdır. “Ara” butonuna tıkladıktan sonra çıkan sonuçlardan ilgili kişi seçilerek faturaya eklenebilir.
+6. Faturaya kalem eklemek için “Faturadaki Kalem Listesi” panelinin sağ üst köşesindeki “Ekle” butonuna tıklanır.
+7. Gelen penceredeki tüm alanlar doldurulur ve “Ekle” butonuna tıklanır.
+8. Eğer talep parası yatmış bir fatura için oluşturulacaksa ilgili alan değiştirilir.
+9. Faturaya para eklemek için “Faturadaki Para Listesi” panelinin sağ üst köşesindeki “Ekle” butonuna tıklanır.
+10. Gelen ekranda projedeki ilgili para seçilir. “Gelir Tipi” ve “Miktar” alanları da doldurulduktan sonra “Ekle“ butonuna tıklanır.
+11. Eğer para listede bulunamadıysa “Para Eşleştirme Talebi” gönderilmesi gerekmektedir. Bunun için “Faturadaki Para Listesi” panelinin sağ üst köşesindeki “Para Ara” butonuna tıklanır.
+12. Gelen ekrandaki tüm alanlar doldurulur ve “Eşleşme İsteği Gönder” butonuna tıklanarak talep Döner Sermaye’ye iletilir.
+13. Yukarıdaki adımlar takip edildikten sonra “Kaydet” butonuna tıklanarak talep Döner Sermaye’ye iletilir.
+14. Fatura talebi kaydedildikten sonra durumu “İş Detay” sayfasından takip edilebilir.

@@ -1,0 +1,54 @@
+**Title:** GMI 484E Engine Room Simulator (ERS) II
+
+**Published Time:** 2022-05-14
+
+**Course Name:** Engine Room Simulator (ERS) II  
+**Code:** GMI 484E  
+**Semester:** 8  
+**Local Credits:** 2  
+**ECTS Credits:** 5  
+**Course Implementation (Hours/Week):** 1 - 2  
+**Department/Program:** Marine Engineering  
+**Course Type:** Compulsory  
+**Course Language:** English  
+**Course Prerequisites:** GMI 39 3E min DD  
+
+**Course Description:**  
+Simulator applications related to the troubles and remedies of main engines, diesel and turbo generators, marine boilers, auxiliary machinery, and systems. Troubles and remedies during maneuvering and watchkeeping. Efficient operation. Forming an engine crew and team management. Management of engine crew in case of emergencies.
+
+**Course Objectives:**  
+1. To teach detection and remedy of troubles in the engine room.  
+2. To teach efficient operation.  
+3. To teach about management of engine crew in case of emergencies.
+
+**Course Learning Outcomes:**  
+Students who pass the course will be able to:  
+I. Troubleshoot generator and main engine preparation problems.  
+II. Troubleshoot problems during maneuvering and cruising.  
+III. Efficiently operate marine main engines and auxiliaries.  
+IV. Acquire skills in correct communication and management in emergencies.
+
+**Course Plan:**  
+1. Preparations of D/G, boiler, main engine, and related systems  
+2. Preparations of all systems, maneuvering, and watchkeeping  
+3. Creating malfunctions using the simulator  
+4. Troubleshooting during generator and main engine preparation  
+5. Troubleshooting during maneuvers and cruising  
+6. Efficient operation  
+7. Leadership and managerial skills  
+8. Emergency response  
+
+**Relationship of the Course to Marine Engineering Student Outcomes:**  
+1. Ability to identify, formulate, and solve complex engineering problems.  
+2. Ability to apply engineering design to produce solutions considering public health, safety, and welfare.  
+3. Ability to communicate effectively with a range of audiences.  
+4. Ability to recognize ethical and professional responsibilities in engineering situations.  
+5. Ability to function effectively on a team providing leadership and creating a collaborative environment.  
+6. Ability to develop and conduct appropriate experimentation and analyze data.  
+7. Ability to acquire and apply new knowledge as needed.  
+8. Ability to effectively and safely operate and maintain marine engines and systems.
+
+**Assessment Criteria:**  
+- Midterm Exams: 1 (40%)  
+- Laboratory Work: 1 (20%)  
+- Final Exam: 1 (40%)

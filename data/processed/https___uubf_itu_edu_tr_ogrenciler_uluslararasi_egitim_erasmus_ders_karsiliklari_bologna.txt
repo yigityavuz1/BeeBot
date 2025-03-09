@@ -1,0 +1,23 @@
+**Bologna Üniversitesi**
+
+**Ders Katalogu:**
+
+| Bologna Üniversitesi Ders Kodu | Bologna Üniversitesi Ders Adı | İTÜ Ders Kodu | İTÜ Ders Adı |
+|-------------------------------|-------------------------------|----------------|----------------|
+| 30261                         | Chimica Dell'atmosfera       | MTO323         | Atmosfer Kimyası |
+| 58268                         | Planetary Boundary Layer and Diffusion Processes | MTO411E | Micrometeorology |
+| 55342                         | Complements of Earth Physics  | MT             |                |
+| 49474                         | Lab based Course on Atmospheric Measurement | MT |                |
+| 21995                         | Physical Chemistry of the Stratosphere | MT |                |
+| 49473                         | Physics of the Atmosphere     | MT             |                |
+| 18474                         | Meteorology and Oceanography   | DEN314        | Oseonografi    |
+| 18474                         | Ocenografi Meteorologia       | DEN314         | Oşinografi     |
+| 40500                         | Physical of Clouds            | MTO342E       | Physics of Clouds and Precipitation |
+| 21995                         | Physical Chemistry of the Stratosphere | MT | Seçmeli ders   |
+| 37983                         | Environmental Microbiology and Biotechnology | MTO489 | Çevre Biyofiziği |
+
+**İletişim Bilgileri:**
+
+- **Telefon:** +90 (212) 285 31 01
+- **Faks:** +90 (212) 285 31 39
+- **Adres:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

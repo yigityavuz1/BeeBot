@@ -1,0 +1,22 @@
+**Title: Pin İşlemleri**
+
+**Pin İşlemleri**
+
+İlk defa PIN alacaksanız üye giriş formunda PIN alanını boş bırakarak Soyad, Ad ve Öğrenci Numarası kısımlarını doldurup Gönder butonuna tıklayın. Ardından PIN oluşturma sayfasına yönlendirileceksiniz. Bu sayfadaki formda bir PIN tanımlayabilirsiniz.
+
+- İlk defa PIN almak için öncelikle kütüphaneye kayıt olmalısınız. İTÜ Hesabıyla Kayıt olmak için lütfen ilgili bağlantıya tıklayın.
+- PIN numaranız en az 6 karakter olmalı ve harf/sayı içermelidir (Büyük harf kullanmayınız).
+
+PIN'i unuttuysanız ilgili bağlantıya tıklayınız.
+
+Not: Okuyucularımızın güvenliği nedeniyle PIN işlemleri telefon veya e-posta ile yapılmamaktadır.
+
+**İletişim Bilgileri:**
+- **Telefon:** (0212) 285 35 96
+- **Santral:** (0212) 285 30 13
+- **Fax:** (212) 285 33 02
+- **Adres:** İstanbul Teknik Üniversitesi, Ayazağa Kampüsü, Maslak Sarıyer, İstanbul
+
+**İstanbul Teknik Üniversitesi**  
+İTÜ Ayazağa Kampüsü, Maslak, Sarıyer, İstanbul  
+**Telefon:** +90 212 285 35 96

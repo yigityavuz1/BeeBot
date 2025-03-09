@@ -1,0 +1,29 @@
+### Kontrol ve Otomasyon Mühendisliği Yüksek Lisans Programı
+
+Kontrol ve Otomasyon Mühendisliği Ana Bilim Dalı altında bir lisansüstü programı olup, yüksek lisans ve doktora düzeyinde eğitim vermektedir.
+
+### Araştırma Alanları
+
+* Kontrol ve Sistem Teorisi
+* Modelleme, Simülasyon ve Sistem Belirleme
+* Endüstriyel Otomasyon
+* Robotik
+* Proses Kontrol, Ölçme ve Enstrümantasyon
+* Hareket ve Güç Kontrol Sistemleri
+* Sürücü Sistemler
+* Akıllı Kontrol Sistemleri
+* Bilgisayar Tabanlı Gerçek Zaman Kontrol Sistemleri
+
+### Başarı Değerlendirmesi
+
+Yüksek Lisans Programı’nda öğrenciler 12 kredisi zorunlu olmak üzere 24 kredilik dersten başarılı olduktan sonra, Yüksek Lisans derecesini almak için Seminer Dersi ve Yüksek Lisans Tezi’nden başarılı olmak zorundadırlar. Yüksek Lisans Tezinde öğrencinin bir kontrol ve otomasyon alanında herhangi bir konu hakkında uzmanlaşması ve bir yöntemi öğrenmesi beklenir.
+
+Doktora öğrencileri ise çalışma alanlarına yönelik seçime bağlı 21 kredilik dersi başarı ile tamamlamalıdır. Yeterlik Sınavı ve Doktora Tezini başarı ile tamamlamaları durumunda doktora derecesine sahip olurlar. Doktora tezinde öğrencinin kontrol ve otomasyon alanında özel bir konuda uzmanlaşması, o konuda yenilikler ortaya koyması ve SCI da taranan dergilerden birinde kabul edilmiş veya basılı en az bir uluslararası bilimsel çalışma yapması beklenir.
+
+### Misyon
+
+Kontrol bilimi ve otomasyon teknolojileri, fen bilimleri ve mühendislik alanlarının tümünden, ekonomik sistemlere ve sosyal bilimlere kadar yaygın uygulama ve araştırma alanına sahip, hızla gelişen önemli bilim ve mühendislik alanıdır. Kontrol ve otomasyon lisansüstü programı, yukarıda belirtilen hedefleri gerçekleştirmek için kontrol kuramına ilişkin ileri konuları, kontrol teknikleri ve çağdaş otomasyon teknolojilerinin tümünü kapsayan bir içeriğe sahiptir. Bu programın görevi, ulusal boyutta endüstrimizin problemlerini çözecek ve konuya uluslararası düzeyde katkıda bulunacak, ulusal ve uluslararası projelerde görev alacak insan gücünü yetiştirmektir.
+
+### Vizyon
+
+Kontrol ve Otomasyon Mühendisliği Lisansüstü Programı, kontrol ve sistem kuramını iyi bilen, geliştirebilen, konuya uluslararası düzeyde katkıda bulunabilen insan gücü yetiştirmeyi amaçlar. Bunun yanı sıra, bu eğitim programı, yetiştirdiği mühendislerin kuramsal çalışmaları uygulamaya dönüştürebilme, çağdaş otomasyon teknolojilerini geliştirebilme yeteneklerine sahip olmasını hedeflemektedir.

@@ -1,0 +1,68 @@
+Title: 
+
+URL Source: https://www.sis.itu.edu.tr/TR/ogrenci/lisans/cap-yandal-yatay-gecis/201210/201210yatay_taban_tavan_puanlar.htm
+
+Markdown Content:
+| Program | 3.YY | 5.YY |
+| Yatay Geçiş Hakkı Kazanan | Tavan Not Ortalaması | Taban Not Ortalaması | Yatay Geçiş Hakkı Kazanan | Tavan Not Ortalaması | Taban Not Ortalaması |
+| **İnşaat Fakültesi** |
+| İnşaat Mühendisliği  (% 30 İngilizce) | 12 | 3.66 | 3.41 | 0 | \-- | \-- |
+| İnşaat Mühendisliği  (% 100 İngilizce) | 3 | 3.56 | 3.42 | 0 | \-- | \-- |
+| Geomatik Mühendisliği  (% 30 İngilizce) | 5 | 3.33 | 2.85 | 0 | \-- | \-- |
+| Geomatik Mühendisliği (% 100 İngilizce) | 2 | 2.8 | 2.73 | 0 | \-- | \-- |
+| Çevre Mühendisliği  (% 30 İngilizce) | 3 | 3.01 | 2.75 | 0 | \-- | \-- |
+| Çevre Mühendisliği  (% 100 İngilizce) | 2 | 2.96 | 2.93 | 0 | \-- | \-- |
+| **Mimarlık Fakültesi** |
+| Mimarlık (% 30 İngilizce) | 8 | 3.75 | 3.69 | 4 | 3.41 | 3.16 |
+| Mimarlık (% 100 İngilizce) | 4 | 3.8 | 3.77 | 0 | \-- | \-- |
+| Şehir ve Bölge Planlama (% 30 İngilizce) | 2 | 3.47 | 2.94 | 0 | \-- | \-- |
+| Şehir ve Bölge Planlama (% 100 İngilizce) | 1 | 3.03 | 3.03 | 0 | \-- | \-- |
+| Endüstri Ürünleri Tasarımyı (% 100 İngilizce) | 1 | 3.32 | 3.32 | 0 | \-- | \-- |
+| İç Mimarlık (% 30 İngilizce) | 2 | 3.68 | 3.67 | 0 | \-- | \-- |
+| Peyzaj Mimarlığı (% 100 İngilizce) | 2 | 3.36 | 3.29 | 0 | \-- | \-- |
+| **Makina Fakültesi** |
+| Makina Mühendisliği  (% 30 İngilizce) | 15 | 3.93 | 3.54 | 1 | 3.31 | 3.31 |
+| Makina Mühendisliği  (% 100 İngilizce) | 2 | 3.64 | 3.59 | 0 | \-- | \-- |
+| İmalat Mühendisliği  (% 30 İngilizce) | 5 | 3.34 | 3.19 | 0 | \-- | \-- |
+| İmalat Mühendisliği  (% 100 İngilizce) | 2 | 3.46 | 3.43 | 0 | \-- | \-- |
+| **Elektrik - Elektronik Fakültesi** |
+| Elektronik ve Haberleşme Mühendisliği  (% 30 İngilizce) | 5 | 3.96 | 3.75 | 0 | \-- | \-- |
+| Elektronik ve Haberleşme Mühendisliği (% 100 İngilizce) | 2 | 3.86 | 3.76 | 0 | \-- | \-- |
+| Elektrik Mühendisliği  (% 30 İngilizce) | 6 | 3.58 | 3.33 | 0 | \-- | \-- |
+| Elektrik Mühendisliği (% 100 İngilizce) | 1 | 3.35 | 3.35 | 0 | \-- | \-- |
+| Kontrol Mühendisliği  (% 30 İngilizce) | 3 | 3.64 | 3.63 | 2 | 2.99 | 2.66 |
+| Kontrol Mühendisliği (% 100 İngilizce) | 1 | 3.53 | 3.53 | 0 | \-- | \-- |
+| **Maden Fakültesi** |
+| Petrol ve Doğalgaz Mühendisliği  (% 30 İngilizce) | 4 | 3.36 | 3.02 | 0 | \-- | \-- |
+| Petrol ve Doğalgaz Mühendisliği (% 100 İngilizce) | 3 | 3.07 | 2.74 | 0 | \-- | \-- |
+| **Kimya - Metalurji Fakültesi** |
+| Kimya Mühendisliği  (% 30 İngilizce) | 1 | 3.51 | 3.51 | 0 | \-- | \-- |
+| Kimya Mühendisliği (% 100 İngilizce) | 1 | 3.69 | 3.69 | 0 | \-- | \-- |
+| Metalurji ve Malzeme Mühendisliği  (% 30 İngilizce) | 5 | 3.39 | 3.14 | 0 | \-- | \-- |
+| Gıda Mühendisliği (% 100 İngilizce) | 4 | 3.46 | 3.14 | 0 | \-- | \-- |
+| **İşletme Fakültesi** |
+| İşletme Mühendisliği  (% 30 İngilizce) | 10 | 3.8 | 3.69 | 0 | \-- | \-- |
+| Endüstri Mühendisliği  (% 30 İngilizce) | 5 | 3.94 | 3.78 | 0 | \-- | \-- |
+| Endüstri Mühendisliği (% 100 İngilizce) | 3 | 3.93 | 3.83 | 0 | \-- | \-- |
+| **Gemi İnşaatı ve Deniz Bilimleri Fakültesi** |
+| Gemi İnşaatı ve Gemi Makineleri Mühendisliği  (% 30 İngilizce) | 1 | 3.61 | 3.61 | 1 | 3.12 | 3.12 |
+| Gemi ve Deniz Teknolojisi Mühendisliği  (% 30 İngilizce) | 1 | 3.18 | 3.18 | 0 | \-- | \-- |
+| **Fen - Edebiyat Fakültesi** |
+| Matematik Mühendisliği  (% 30 İngilizce) | 3 | 3.6 | 3.43 | 0 | \-- | \-- |
+| Matematik Mühendisliği (% 100 İngilizce) | 3 | 3.25 | 3.1 | 0 | \-- | \-- |
+| Fizik Mühendisliği  (% 30 İngilizce) | 1 | 2.61 | 2.61 | 0 | \-- | \-- |
+| Fizik Mühendisliği (% 100 İngilizce) | 2 | 2.96 | 2.78 | 0 | \-- | \-- |
+| Moleküler Biyoloji ve Genetik (% 30 İngilizce) | 1 | 3.39 | 3.39 | 1 | 3.34 | 3.34 |
+| Moleküler Biyoloji ve Genetik (% 100 İngilizce) | 1 | 3.84 | 3.84 | 0 | \-- | \-- |
+| **Uçak ve Uzay Bilimleri Fakültesi** |
+| Uçak Mühendisliği  (% 30 İngilizce) | 1 | 3.73 | 3.73 | 1 | 3.4 | 3.4 |
+| Uçak Mühendisliği (% 100 İngilizce) | 1 | 3.75 | 3.75 | 0 | \-- | \-- |
+| Uzay Mühendisliği  (% 100 İngilizce) | 5 | 3.47 | 2.98 | 0 | \-- | \-- |
+| Meteoroloji Mühendisliği (% 100 İngilizce) | 1 | 2.88 | 2.88 | 0 | \-- | \-- |
+| **Denizcilik Fakültesi** |
+| Gemi Makinaları İşletme Mühendisliği  (% 30 İngilizce) | 2 | 3.3 | 2.8 | 0 | \-- | \-- |
+| **Tekstil Teknolojileri ve Tasarımı Fakültesi** |
+| Tekstil Mühendisliği  (% 100 İngilizce) | 2 | 3.11 | 2.92 | 0 | \-- | \-- |
+| **Bilgisayar ve Bilişim Fakültesi** |
+| Bilgisayar Mühendisliği  (% 30 İngilizce) | 2 | 3.88 | 3.67 | 0 | \-- | \-- |
+| Bilgisayar Mühendisliği (% 100 İngilizce) | 2 | 3.73 | 3.65 | 0 | \-- | \-- |

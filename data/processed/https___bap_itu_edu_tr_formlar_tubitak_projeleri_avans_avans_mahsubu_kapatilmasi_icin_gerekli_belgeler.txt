@@ -1,0 +1,12 @@
+**Title:** Avans Mahsubu (kapatılması) İçin Gerekli Belgeler
+
+**Gerekli Belgeler:**
+1. **Mahsup Kesin Hesap Formu:** Tüm harcamalar için tek form düzenlenir.
+2. **Fatura:** Proje numarası belirtilerek kurum adına düzenlenmelidir. Faturada "SARIYER VERGİ DAİRESİ" ve vergi numarası "481 054 9377" yazılmalıdır.
+3. **Muayene Raporu:** Her türlü makine-teçhizat, sarf malzeme ve hizmet alımlarında her fatura için ayrı düzenlenmelidir.
+4. **Taşınır İşlem Fişi:** Makine-teçhizat alımlarında; fatura, muayene raporu ve avans onay belgesi ile fakültenin Taşınır Kontrol Kayıt Yetkilisine başvurulmalıdır.
+5. **İade Dekontu:** Proje hesabına EFT, havale veya banka şubesinden yapılabilir. Proje IBAN numarasına PTS sistemi üzerinden erişilebilir.
+
+**Notlar:**
+- Kasa fişleri avans mahsubunda kullanılamaz.
+- Tüm alımlarda faturanın fakülte/enstitü ayniyat saymanına gösterilmesi zorunludur.

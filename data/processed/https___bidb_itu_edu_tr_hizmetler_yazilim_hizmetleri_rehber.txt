@@ -1,0 +1,21 @@
+**Title:** Rehber
+
+**KÜNYE**
+- İlk yayın tarihi: 2007
+- Web Adresi: http://rehber.itu.edu.tr
+
+**İTÜ Rehber Projesi:**
+İTÜ Rehber, İTÜ’ye bağlı birimler arası ve mensuplar arası iletişimi sağlamak amacıyla geliştirilmiştir. İletişim bilgileri arasında akademik bürolar ve idari büroların telefon, faks, e-posta, yazışma adresi gibi bilgiler bulunmaktadır. İTÜ mensupları, İTÜ Portal üzerinden çeşitli gizlilik seviyelerinde bilgilerini ekleyebilirler.
+
+**Hizmetler Hakkında:**
+- **Akademi:** İTÜ mensubu öğretim üyeleri ve araştırma görevlileri için akademik bilgilerin paylaşılabileceği portal.
+- **Veti:** Veri Toplama ve İstatistik Sistemi, web tabanlı bir form uygulaması.
+- **Ninova:** Elektronik öğrenme platformu.
+- **Portal:** İTÜ ve mezunları arasındaki ilişkileri etkin kılmak için yapılandırılmıştır.
+
+**İletişim:**
+- **Adres:** İTÜ Ayazağa Kampüsü, Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- **Telefon:** 0212 285 3930
+
+**BİDB YARDIM:**
+İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz.

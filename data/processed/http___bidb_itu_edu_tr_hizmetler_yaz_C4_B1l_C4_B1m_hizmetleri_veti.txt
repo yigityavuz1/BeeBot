@@ -1,0 +1,32 @@
+**Title:** Veti
+
+**KÜNYE:**
+- İlk yayın tarihi: 2010
+- Anket cevaplayan kişi sayısı: 67.000
+- Açılan ders sayısı: 1.000
+- Web Adresi: [http://veti.itu.edu.tr](http://veti.itu.edu.tr)
+
+**Açıklama:**
+Veri Toplama ve İstatistik Sistemi, İTÜ Bilgi İşlem Daire Başkanlığı tarafından geliştirilmiş web tabanlı bir form uygulamasıdır. VETİ ile form oluşturabilir, yetkili kullanıcılar tanımlayabilir, hedef kitlenizi seçebilir ve sonuçları raporlayabilirsiniz.
+
+**Formlarla veri toplama:**
+Formlarınızı dört aşamada hızlı ve kolay bir şekilde oluşturabilir, yayınladığınız formlarla İTÜ içi veya dışındaki kullanıcılardan veri alabilirsiniz.
+
+**Form paylaşımı:**
+Formlarınızı diğer kullanıcılarla paylaşabilir, yetkilendirdiğiniz kullanıcıların formu geliştirmede rol almasını ve form sonuçlarını görmesini sağlayabilirsiniz.
+
+**İstatistikler:**
+Formlarınıza verilen cevaplarla oluşturulan görsel istatistik sonuçlarına ulaşabilir, verilen cevapları toplu olarak veya tek tek inceleyebilirsiniz.
+
+**Hizmetler Hakkında:**
+- **Akademi:** İTÜ mensubu öğretim üyelerinin ve araştırma görevlilerinin yayınlarını, akademik bilgilerini, çalışmalarını, dosyalarını ve duyurularını paylaşabileceği akademi portalıdır.
+- **Ninova:** Geniş ölçekli, web tabanlı bir elektronik öğrenme platformudur.
+- **Portal:** İTÜ ve İTÜ mezunları arasındaki ilişkileri daha etkin kılmak için yapılandırılmıştır.
+- **Mezun Bilgi Sistemi:** İTÜ ve İTÜ mezunları arasındaki ilişkileri daha etkin kılmak için yapılandırılmıştır.
+
+**İletişim:**
+- **Adres:** İTÜ Ayazağa Kampüsü, Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- **Telefon:** 0212 285 3930
+
+**Yardım:**
+İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz.

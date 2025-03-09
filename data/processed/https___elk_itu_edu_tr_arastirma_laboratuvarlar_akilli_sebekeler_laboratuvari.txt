@@ -1,0 +1,17 @@
+**Title:** Akıllı Şebekeler Laboratuvarı
+
+**Description:** İTÜ Akıllı Şebekeler Laboratuvarı 2016 yılında İstanbul Teknik Üniversitesi Elektrik Mühendisliği Bölümünde kurulmuş olup, Prof. Dr. V. M. İstemihan Genç tarafından yönetilmektedir. Bu laboratuvarda, akıllı şebeke ortamında elektrik güç sistemlerinin güvenli, güvenilir ve verimli çalışmasını kolaylaştırmak için gelişmiş hesaplama zekâsı, sistemler ve kontrol teorisi ve sinyal işleme teknikleri aracılığıyla fikir ve yöntemler geliştirmeye odaklanıyoruz.
+
+**Research Areas:**
+- Güç Sistemlerinin Modellenmesi ve Simülasyonu
+- Güç Sistemlerinin Dinamiği, Kararlılığı ve Kontrolü
+- Güç Sistemlerinde Makine Öğrenmesi Uygulamaları
+- Güç Sistemlerinin Planlanması ve Optimizasyonu
+- Mikro ve Aktif Dağıtım Şebekeleri
+
+**Contact Information:**
+- **Phone:** +90 (212) 285 6745
+- **Fax:** +90 (212) 285 6700
+- **Address:** İTÜ Ayazağa Kampüsü, Elektrik Elektronik Fakültesi, 34469, Maslak, İstanbul
+
+**Laboratory Website:** [smartgrid.itu.edu.tr](https://smartgrid.itu.edu.tr/)

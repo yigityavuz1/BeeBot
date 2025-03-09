@@ -1,0 +1,13 @@
+**Title:** Güç Elektroniği Laboratuvarı
+
+**Description:**
+Güç Elektroniği Laboratuvarı, 1972 yılında kurulmuş olup, 1995 yılında Elektrik Mühendisliği Anabilim Dalının Ayazağa Kampüsündeki binasına taşınarak ayrı bir hacim olarak hizmet vermeye başlamıştır. Laboratuvar, Türkiye'deki en kapsamlı güç elektroniği laboratuvarlarından biridir ve elektrik mühendisliği lisans öğrencilerinin teorik bilgilerini pekiştirmeleri için kullanılmaktadır. Ayrıca, yüksek lisans ve doktora tez çalışmalarının uygulamalı ve deneysel bölümlerinin yürütülmesinde de yararlanılmaktadır.
+
+Laboratuvar, çeşitli tür ve seviyeden gerilimlerin kullanılabileceği 16 adet çok amaçlı deney masası ve eğitim amaçlı 3 adet kapsamlı deney seti içermektedir. Lisans öğrencileri için, yarı iletken anahtar elemanların incelenmesi, kontrolsüz ve kontrollü doğrultucular, alternatif akım kesiciler, eviriciler ve doğru akım kesiciler gibi temel güç elektroniği devrelerine yönelik deneyler yapılmaktadır. 
+
+**Contact Information:**
+- **Phone:** +90 (212) 285 6745
+- **Fax:** +90 (212) 285 6700
+- **Address:** İTÜ Ayazağa Kampüsü, Elektrik Elektronik Fakültesi, 34469, Maslak, İstanbul
+
+**Website:** [Güç Elektroniği Laboratuvarı](http://www.gucelektronigi.itu.edu.tr/)

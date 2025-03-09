@@ -1,0 +1,59 @@
+Title: 
+
+URL Source: https://www.sis.itu.edu.tr/TR/ogrenci/lisans/cap-yandal-yatay-gecis/201610/201610_yandal_taban_tavan_puanlari.htm
+
+Markdown Content:
+| Bölüm | 3.YY | 5.YY |
+| Yerleşen | Tavan Not Ortalaması | Taban Not Ortalaması | Yerleşen | Tavan Not Ortalaması | Taban Not Ortalaması |
+| **Mimarlık Fakültesi** |
+| Şehir ve Bölge Planlaması | 6 | 3.6 | 3.03 | 2 | 3.31 | 3.28 |
+| Endüstri Ürünleri Tasarımı | 2 | 3.49 | 3.49 | 0 | \-- | \-- |
+| **Makina Fakültesi** |
+| Makina Mühendisliği | 8 | 3.42 | 2.78 | 0 | \-- | \-- |
+| İmalat Mühendisliği | 3 | 3.28 | 2.99 | 0 | \-- | \-- |
+| Mekatronik Yandal Programı | 5 | 2.93 | 2.57 | 0 | \-- | \-- |
+| **Elektrik - Elektronik Fakültesi** |
+| Mekatronik Yandal Programı | 10 | 3.48 | 2.69 | 10 | 3.25 | 3.05 |
+| **Maden Fakültesi** |
+| Maden Mühendisliği | 2 | 2.96 | 2.87 | 2 | 3.07 | 2.76 |
+| Jeoloji Mühendisliği | 0 | \-- | \-- | 2 | 3.16 | 3.12 |
+| Jeofizik Mühendisliği | 0 | \-- | \-- | 3 | 3.34 | 2.73 |
+| Petrol ve Doğalgaz Mühendisliği | 2 | 2.94 | 2.83 | 1 | 3.02 | 3.02 |
+| Cevher Hazırlama Mühendisliği | 1 | 2.69 | 2.69 | 2 | 3 | 2.81 |
+| **Kimya - Metalurji Fakültesi** |
+| Kimya Mühendisliği | 5 | 3.1 | 2.82 | 2 | 3.43 | 3.38 |
+| Gıda Mühendisliği | 0 | \-- | \-- | 3 | 3.18 | 3.08 |
+| **İşletme Fakültesi** |
+| Ekonomi | 5 | 3.73 | 3.45 | 0 | \-- | \-- |
+| **Gemi İnşaatı ve Deniz Bilimleri Fakültesi** |
+| Gemi İnşaatı ve Gemi Makineleri Mühendisliği | 2 | 3.09 | 2.98 | 2 | 3.43 | 3.06 |
+| **Fen - Edebiyat Fakültesi** |
+| Fizik Mühendisliği | 5 | 3.25 | 3.03 | 5 | 3.21 | 3.1 |
+| Kimya | 5 | 2.99 | 2.72 | 5 | 3.43 | 2.87 |
+| Moleküler Biyoloji ve Genetik | 4 | 3.38 | 2.94 | 0 | \-- | \-- |
+| Uygulamalı Matematik | 1 | 3.92 | 3.92 | 1 | 3.74 | 3.74 |
+| **Uçak ve Uzay Bilimleri Fakültesi** |
+| Uçak Mühendisliği | 2 | 3.46 | 3.37 | 2 | 3.5 | 3.42 |
+| Uzay Mühendisliği | 2 | 3.1 | 3.06 | 1 | 3.31 | 3.31 |
+| Meteoroloji Mühendisliği | 0 | \-- | \-- | 1 | 3.22 | 3.22 |
+| **Türk Musikisi Devlet Konservatuarı** |
+| Ses Eğitimi TSM | 0 | \-- | \-- | 0 | \-- | \-- |
+| Ses Eğitimi THM | 1 | 3.74 | 3.74 | 0 | \-- | \-- |
+| Bağlama Yandal Prg. | 0 | \-- | \-- | 0 | \-- | \-- |
+| Gitar Yandal Programı | 0 | \-- | \-- | 0 | \-- | \-- |
+| Kanun Yandal Programı | 0 | \-- | \-- | 0 | \-- | \-- |
+| Ud Yandal Programı | 0 | \-- | \-- | 0 | \-- | \-- |
+| Flüt Yandal Programı | 0 | \-- | \-- | 0 | \-- | \-- |
+| Çalgı Yandal Prg (TMDK Hariç) | 0 | \-- | \-- | 0 | \-- | \-- |
+| Çalgı Yandal Prg (TMDK için) | 0 | \-- | \-- | 0 | \-- | \-- |
+| Kompozisyon için Çalgı Yandal | 0 | \-- | \-- | 0 | \-- | \-- |
+| Etnomüzikoloji | 0 | \-- | \-- | 0 | \-- | \-- |
+| Azeri Dansı Yandal Prg | 0 | \-- | \-- | 0 | \-- | \-- |
+| Halay Yandal Programı | 0 | \-- | \-- | 0 | \-- | \-- |
+| Karşılaştırmalı Hora | 0 | \-- | \-- | 0 | \-- | \-- |
+| Horon Yandal Programı | 0 | \-- | \-- | 0 | \-- | \-- |
+| Bar Yandal Programı | 0 | \-- | \-- | 0 | \-- | \-- |
+| Türk Halk Oyunları Yandal Prg | 0 | \-- | \-- | 0 | \-- | \-- |
+| Zeybek Yandal Programı | 0 | \-- | \-- | 0 | \-- | \-- |
+| **Tekstil Teknolojileri ve Tasarımı Fakültesi** |
+| Tekstil Mühendisliği | 3 | 3.11 | 2.82 | 0 | \-- | \-- |

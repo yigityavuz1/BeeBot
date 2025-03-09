@@ -1,0 +1,22 @@
+**Title:** Harita
+
+**KÜNYE:**
+- İlk yayın tarihi: Ocak 2015
+- Aktif kullanıcı sayısı: 5.000
+- Web Adresi: [http://harita.itu.edu.tr](http://harita.itu.edu.tr)
+
+**Açıklama:**
+İTÜ yerleşkelerinde bulunan bina ve birimlerin harita üzerinde gösterilerek kampüslerin yerleşim düzenleri hakkında bilgi vermek için hazırlanmıştır. İTÜ içerisinde tanımlanmış olan tur güzergahları hareketli olarak ziyaretçilerin tur için izlemesi gereken yol bilgisi harita üzerinde gösterilir. Kampüs içi mekik servislerinin anlık konumları harita üzerinde gösterilerek kampüs içi ulaşıma yardımcı olur.
+
+**Hizmetler Hakkında:**
+- **Akademi:** İTÜ mensubu öğretim üyelerinin ve araştırma görevlilerinin yayınlarını, akademik bilgilerini, çalışmalarını, dosyalarını ve duyurularını paylaşabileceği akademi portalıdır.
+- **Veti:** Veri Toplama ve İstatistik Sistemi, İTÜ Bilgi İşlem Daire Başkanlığı tarafından geliştirilmiş web tabanlı bir form uygulamasıdır.
+- **Ninova:** Geniş ölçekli, web tabanlı bir elektronik öğrenme platformudur. Eğitimci ve öğrencilere elektronik ortamda öğretme ve öğrenme imkanı sunar.
+- **Portal:** İTÜ ve İTÜ mezunları arasındaki ilişkileri daha etkin kılmak, İTÜ bünyesindeki etkinlik ve projeleri mezunlarımıza ulaştırmak için yapılandırılmıştır.
+
+**İletişim:**
+- **Adres:** İTÜ Ayazağa Kampüsü, Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- **Telefon:** 0212 285 3930
+
+**BİDB YARDIM:**
+İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz.

@@ -1,0 +1,27 @@
+**Title:** Ubuntu Cihazlar İçin Sponsor Bağlantı Yönergeleri
+
+**Ubuntu Cihazlar İçin ITU/NET Sponsor Bağlantı Yönergesi** 
+
+1. Masaüstünde sağ üst köşedeki kablosuz internet bağlantısı simgesine tıklanır. Burada kablosuz ağlar görülür. Var olan ağlardan "**ITU/NET Sponsor**" seçilir. 
+
+2. Bu işlemden sonra otomatik olarak varsayılan tarayıcı ile portal asistanı üzerinden yeni bir sayfa açılacaktır. Bu sayfada **ITU/NET Sponsor** için portal üzerinden açılan **Sponsor Hesabın** "Kullanıcı Adı" ve "Şifre" bilgileri girilir. Ardından "Giriş Yap" düğmesine tıklanır. 
+
+3. Giriş başarılı olduktan sonra gelen "**ITU/NET Kullanım Sözleşmesi**" ekranında sözleşme okunur. Sözleşme tamamen okunmadan "**Kabul Et**" düğmesi aktifleşmeyecektir. Tamamen okuduktan sonra "**Kabul Et**" düğmesine tıklanır. Eğer kullanım sözleşmesi reddedilirse Internet bağlantısı başarılı olmayacaktır. 
+
+4. Sözleşmenin kabul edilmesinin ardından "**Oturum Açma Başarılı**" sayfası gelecektir. Sonrasında da otomatik olarak **itu.edu.tr** sayfasına yönlendirme yapılacak ve Internet bağlantısı sağlanacaktır. 
+
+**Hizmetler Hakkında:**
+
+- **E-posta:** E-posta hizmetinizi aktif etmek ya da ilk kez kullanmak için Bilgi İşlem Daire Başkanlığı'na İTÜ Kimlik Kartınız ile müracaat etmeniz yeterlidir.
+
+- **Listeci:** Listeci hizmeti İTÜ/BİDB tarafından sunulan e-posta liste hizmetidir. E-posta listeleri, tek bir e-postanın aynı anda birden çok kişiye, kişilerin istedikleri şekilde dağıtılmasını sağlar.
+
+**İletişim:**
+
+İTÜ Ayazağa Kampüsü  
+Bilgi İşlem Daire Başkanlığı,  
+Maslak-Sarıyer / İstanbul  
+0212 285 3930  
+
+**BİDB YARDIM:**  
+İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz.

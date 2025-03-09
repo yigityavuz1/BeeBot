@@ -1,0 +1,22 @@
+**Web Hizmetleri**
+
+**Web Sitesi Barındırma**
+- İTÜ bünyesinde Linux (PHP + MySQL) veya Windows (.NET + MSSQL) site barındırma hizmeti verilmektedir.
+
+**Alan Adı**
+- Alan adı başvurusunu idari ve akademik birimler, kulüpler ve akademik amaçlı proje ve sempozyumlar talep edebilir.
+
+**Mozaik**
+- Site barındırma hizmetine ek olarak Mozaik isimli projemiz ile sıfırdan bir web sitesi hazırlamak hızlı ve güvenli.
+
+**Hizmetler Hakkında**
+- **İnternet:** İTÜ-BİDB, İTÜ/NET'e bağlanan kullanıcıların sorunsuz bir şekilde İnternet ve yerel ağda bulunan kaynaklara erişebilmesi amacıyla verilen hizmetlerin tamamını içerir.
+- **Kablosuz:** İTU/NET Kablosuz ağına "EDUROAM" ve "İTU/NET Misafir" şeklinde iki farklı SSID ile erişilmektedir.
+- **İTÜ/NET Hizmetleri:** İTÜ/NET, İTÜ'ye ait tüm yerleşkelerde, "Bilişim Teknolojileri hizmetlerini almak ya da vermek" üzere koşullanmış bilişim olanaklarının oluşturduğu yapıya verilen addır.
+
+**İletişim**
+- **Adres:** İTÜ Ayazağa Kampüsü, Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- **Telefon:** 0212 285 3930
+
+**BİDB Yardım**
+- İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz.

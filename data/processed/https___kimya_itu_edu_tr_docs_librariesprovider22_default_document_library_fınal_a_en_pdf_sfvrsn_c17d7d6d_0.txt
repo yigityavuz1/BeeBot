@@ -1,0 +1,100 @@
+**Title:** Booklet A KIM101E FINAL
+
+**Content:**
+- Group Number: 
+- Surname: 
+- Signature List Number: 
+- Name: 
+- Student Number: 
+- e-mail: 
+
+**Constants:**
+- c = 2.998×10^8 m/s
+- g = 9.8 m/s²
+- h = 6.626×10^-34 J·s
+- R = 0.08206 L·atm·mol^-1·K^-1
+- 1 cal = 4.184 J
+- 1 atm = 760 mmHg = 101325 Pa
+
+**Questions:**
+1. Silver isotopes relative abundances: 
+   - A) 34.4% - 65.6%
+   - B) 64.7% - 35.2%
+   - C) 51.8% - 48.2%
+   - D) 65.6% - 34.4%
+   - E) 48.2% - 51.8%
+
+2. Energy of one mole of photons with a wavelength of 474 nm: 
+   - A) 4.00 × 10^-19 J
+   - B) 4.19 × 10^-19 J
+   - C) 2.09 × 10^-19 J
+   - D) 2.53 × 10^5 J
+   - E) 4.19 × 10^5 J
+
+3. pH of a 0.800 M aqueous solution of CH₃CO₂Na: 
+   - A) 2.42
+   - B) 4.68
+   - C) 9.32
+   - D) 11.38
+   - E) 13.64
+
+4. Electron affinity for fluorine atom from KF data: 
+   - A) -847 kJ/mol
+   - B) -288 kJ/mol
+   - C) -408 kJ/mol
+   - D) -328 kJ/mol
+   - E) -926 kJ/mol
+
+5. Partial pressure of ammonia at equilibrium: 
+   - A) 2.2 × 10^-7 bar
+   - B) 4.7 × 10^-4 bar
+   - C) 1.0 × 10^-5 bar
+   - D) 4.4 × 10^6 bar
+   - E) 3.1 × 10^-3 bar
+
+6. Smallest atomic radius in groups: 
+   - A) Ba, As
+   - B) Ba, Bi
+   - C) At, As
+   - D) At, Bi
+   - E) Hf, As
+
+7. Heat released from gas mixture reaction: 
+   - A) 96.5 kJ
+   - B) 169.5 kJ
+   - C) 56.5 kJ
+   - D) 84.7 kJ
+   - E) 113.3 kJ
+
+8. Order of increasing boiling point: 
+   - A) pentane < methyl butane < neopentane
+   - B) neopentane < methyl butane < pentane
+   - C) neopentane < pentane < methyl butane
+   - D) pentane < neopentane < methyl butane
+   - E) methyl butane < pentane < neopentane
+
+9. Molecular formula of unknown compound: 
+   - A) C₃H₃O
+   - B) C₉H₉O₃
+   - C) C₁₅H₁₅O₅
+   - D) C₁₄H₁₀O₅
+   - E) C₇H₅O₃
+
+10. Electron group geometry of AsCl₄⁻: 
+    - A) square planar
+    - B) seesaw
+    - C) square pyramidal
+    - D) trigonal bipyramidal
+    - E) tetrahedral
+
+**Answer Key:**
+1) C
+2) D
+3) C
+4) D
+5) B
+6) C
+7) E
+8) B
+9) C
+10) D

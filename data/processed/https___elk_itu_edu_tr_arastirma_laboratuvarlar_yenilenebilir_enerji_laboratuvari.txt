@@ -1,0 +1,26 @@
+**Yenilenebilir Enerji Laboratuvarı**
+
+Yenilenebilir Enerji Laboratuvarı, lisans ve lisansüstü çalışmaları için öğrencilere ve araştırmacılara bir alan oluşturmaktadır. Laboratuvar, güneş enerjisi ve rüzgâr enerjisi gibi temiz ve sürdürülebilir iki yenilenebilir enerji kaynağı ile toplam 29 deney gerçekleştirebilmektedir. Bu deneyler, analitik çalışmalarla desteklenmektedir.
+
+**Rüzgâr Enerjisi Deneyleri:**
+- Anemometre ile rüzgâr hızının ölçümü
+- Rüzgâr kaynağı ve rüzgâr arasındaki ilişkinin ölçümü
+- Rüzgâr çıkış gücü ile yatay eksendeki rüzgâr gücü arasındaki ilişki
+- Çıkış gücü ile yatay eksendeki rüzgâr sayısı arasındaki ilişki
+- Çıkış gücü ile yatay eksendeki eğim açıları arasındaki ilişki
+- Yatay eksenli rüzgâr generatörünün I-V karakteristiği
+- Farklı rüzgâr hızlarında yatay eksende çıkış gücü ölçümü
+- Dikey eksenli rüzgâr generatörünün I-V karakteristiği
+- Küçük bir rüzgâr enerji santrali oluşturma
+
+**Güneş Enerjisi Deneyleri:**
+- Çeşitli ışık kaynaklarının ışıma (radyasyon) ölçümü
+- Güneş pillerinin enerji dönüşümü
+- Güneş pillerinin diyot karakteristiği
+- Işıma açısı ve güneş pilinin kısa devre akımı arasındaki ilişki
+- Seri ve paralel bağlı güneş pillerinin açık devre gerilimi ve kısa devre akımı
+
+**İletişim Bilgileri:**
+- Telefon: +90 (212) 285 6745
+- Fax: +90 (212) 285 6700
+- Adres: İTÜ Ayazağa Kampüsü, Elektrik Elektronik Fakültesi, 34469, Maslak, İstanbul

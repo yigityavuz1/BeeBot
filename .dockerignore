@@ -1,0 +1,27 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Git files
+.git
+.github
+.gitignore
+
+# Data files (will be mounted as volumes)
+weaviate-data/
+weaviate-data-backup/
+data/
+
+# Editor files
+.idea/
+.vscode/
+*.swp
+*.swo

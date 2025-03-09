@@ -1,0 +1,65 @@
+**Title:** GMI 488E Surveying Procedures
+
+**Course Name:** Surveying Procedures  
+**Course Code:** GMI 488 E  
+**Semester:** 7-8  
+**Local Credits:** 2  
+**ECTS Credits:** 4  
+**Course Language:** English  
+**Course Type:** Elective  
+**Course Prerequisites:** None  
+
+**Course Description:**  
+- Ship classification and its scope.  
+- Classification societies and responsibilities.  
+- Assignment and withdrawal of class procedures.  
+- Classification surveys and ship surveying types.  
+- Details of classification survey requirements.  
+- Planning of ship docking process.  
+- Ship sea trial monitoring and guarantee claims.  
+- Ship system/equipment test requirements.  
+- Condition assessment program.  
+- Recording of ship operations.  
+- Ship statutory certificates.  
+- Port state control inspections.  
+- Independent ship surveying mechanism.  
+- Surveyor qualifications.  
+
+**Course Objectives:**  
+1. To teach classification societies and survey procedures.  
+2. To teach ship’s certificates.  
+3. To teach about inspections by port state control authorities.  
+
+**Course Learning Outcomes:**  
+Students who pass the course will be able to:  
+I. Learn about the role of classification societies and relevant surveying implementations.  
+II. Learn ship sea trial controls.  
+III. Learn about the recording and monitoring of ship operations.  
+IV. Learn ship statutory certificates.  
+V. Learn about the port state control system and relevant authorities’ inspections.  
+
+**Course Plan:**  
+1. Ship classification and its scope  
+2. Classification societies and responsibilities  
+3. Assignment and withdrawal of class procedures  
+4. Classification surveys and ship surveying types  
+5. Details of classification survey requirements  
+6. Planning of ship docking process  
+7. Ship sea trial monitoring and guarantee claims  
+8. Ship system/equipment test requirements  
+9. System condition assessment program  
+10. Recording of ship operations  
+11. Ship statutory certificates  
+12. Port state control inspections  
+13. Independent ship surveying mechanism  
+14. Surveyor qualifications  
+
+**Course Materials:**  
+1. H. Karanassos, *Commercial Ship Surveying*, 1st Edition, Butterworth-Heinemann, 2016.  
+2. SOLAS, *Consolidated Edition*, IMO Publishing, UK, 2014.  
+3. American Bureau of Shipping (ABS), *Steel Vessel 2010*.  
+4. W. Vervloesem, *Ship Survey and Audit Companion: A Practical Guide*, London, Nautical Institute, 2000.  
+
+**Assessment Criteria:**  
+- Midterm Exams: 40%  
+- Final Exam: 60%  

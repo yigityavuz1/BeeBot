@@ -1,0 +1,17 @@
+**Windows 10 Cihazlar İçin Sponsor Bağlantı Yönergeleri**
+
+**ITU/NET Sponsor Bağlantı Yönergesi** 
+
+1. Masaüstünde sağ alt köşedeki kablosuz internet bağlantı simgesine tıklanır. 
+2. Var olan ağlardan "**ITU/NET Sponsor**" seçilir ve "Bağlan" düğmesine tıklanır. 
+3. Bağlan düğmesine basıldıktan sonra varsayılan tarayıcı otomatik olarak açılacak ve ilgili sayfaya yönlendirileceksiniz. Bu sayfada **ITU/NET Sponsor** için portal üzerinden açılan **Sponsor Hesabın** "Kullanıcı Adı" ve "Şifre" bilgileri girilir. Ardından "**Giriş Yap**" düğmesine tıklanır. 
+4. Giriş başarılı olduktan sonra gelen "**ITU/NET Kullanım Sözleşmesi**" ekranında sözleşme okunur. Sözleşme tamamen okunmadan "**Kabul Et**" düğmesi aktifleşmeyecektir. Tamamen okuduktan sonra "**Kabul Et**" düğmesine tıklanır. Eğer kullanım sözleşmesi reddedilirse internet bağlantısı başarılı olmayacaktır. 
+5. Sözleşmenin kabul edilmesinin ardından "**Oturum Açma Başarılı**" sayfası gelecektir. Sonrasında otomatik olarak **itu.edu.tr** sayfasına yönlendirme yapılacak ve internet bağlantısı sağlanacaktır. 
+
+**İletişim Bilgileri:**
+- **İTÜ Ayazağa Kampüsü**
+- Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- Telefon: 0212 285 3930
+
+**BİDB YARDIM**
+- İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz.

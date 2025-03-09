@@ -1,0 +1,23 @@
+**Title:** Aydınlatma ve İç Tesisat Laboratuvarı
+
+**Laboratory Overview:**
+Aydınlatma ve İç Tesisat Laboratuvarı is designed to conduct experiments with the capacity to perform 10 different experiments simultaneously. It consists of two sections: a space with experiment tables and a dark room for photometric measurements. The laboratory provides services to the industry as one of the leading laboratories in the country for obtaining photometric data.
+
+**Laboratory Facilities:**
+The laboratory primarily supports student experiments and partially meets industrial demands. It has two sections:
+1. **Interior Installation Section:** Students learn about interior installation materials, their operation, and related assembly work. There are 10 experiment tables for basic lighting techniques and interior installation experiments.
+2. **Photometric Measurement Section:** This section measures various light sources and lighting devices, including light flux, light intensity, illumination level, and glare values. It also determines the electrical and photometric characteristics of circuit elements and inspects and tests interior installation materials.
+
+**Laboratory Equipment:**
+- Integral Photometer (Ulbricht Sphere)
+- Special Cube Integral Photometer for large sources
+- 4-meter photometer bench
+- Various lux meters, glare meters, UV light meters, temperature and humidity meters, multimeters, wattmeters, and ammeters.
+
+**Laboratory Responsibilities:**
+The laboratory conducts experiments for electrical engineering undergraduate education, graduation projects on Lighting Technology and Interior Installation, master's and doctoral courses and thesis projects, national and international projects, and industry-oriented studies.
+
+**Contact Information:**
+- **Phone:** +90 (212) 285 6745
+- **Fax:** +90 (212) 285 6700
+- **Address:** İTÜ Ayazağa Kampüsü, Elektrik Elektronik Fakültesi, 34469, Maslak, İstanbul

@@ -1,0 +1,19 @@
+**Title: İnternet Erişimi**
+
+### Bilgisayar kullanımı ve kablosuz (wireless) internet erişimi
+
+1. Kullanıcılar, kütüphane içindeki bilgisayarlara, İTÜ kullanıcı hesapları (İTÜ e-posta adresi ve şifresi) ile giriş yapabilirler.
+2. Kütüphane içindeki bilgisayarlar sadece katalog taraması ve kütüphanenin sahip olduğu elektronik yayınlardan araştırma yapmak için kullanılır.
+3. Bilgisayar yazılım ve donanımına zarar veren kullanıcılar hakkında yasal işlem yapılır.
+4. Kablosuz ağ üzerinden kullanıcılar kendi bilgisayarları ile de internete bağlanabilirler. Kablosuz ağın adı İTÜ'lüler ve eduroam kullanıcıları için "eduroam", misafir kullanıcılar için "ITU-NET Misafir"dir. ITU-Net Misafir ağına bağlanabilmek için kullanıcı giriş formunun altında yer alan "Hesabınız yok mu?" bağlantısına tıklayıp yönergeleri takip ederek hesap oluşturulabilir.
+5. Kablosuz ağa bağlanarak kütüphaneye lisanslı içeriği yasal olmayan biçimde indiren kullanıcılar tespit edilmekte ve haklarında idari ve gerekirse yasal işlem yapılmaktadır.
+6. Eduroam bağlantısı için İTÜ Bilgi İşlem Daire Başkanlığının Bilgi Bankası menüsünde bulunan Kablosuz Erişim Hizmetleri sayfasında belirtilen ayarlar yapılır. İTÜ-Net misafir bağlantısı için herhangi bir ayar yapılmasına gerek yoktur.
+
+**İletişim Bilgileri:**
+- **Telefon:** (0212) 285 35 96 
+- **Santral:** (0212) 285 30 13
+- **Fax:** (212) 285 33 02
+- **Adres:** İstanbul Teknik Üniversitesi, Ayazağa Kampüsü, Maslak Sarıyer, İstanbul
+
+### İstanbul Teknik Üniversitesi
+- **Telefon:** +90 212 285 35 96

@@ -1,0 +1,17 @@
+**Title:** Güvenlik Yönetim Sistemi
+
+**KÜNYE:**
+- İlk yayın tarihi: Ocak 2015
+- Aktif kullanıcı sayısı: 50
+- Web Adresi: http://guvenlikmerkezi.itu.edu.tr
+
+**Açıklama:**
+İstanbul Teknik Üniversitesi güvenlik birimi için hazırlanmış sistemdir. Ziyaretçi takibi, İTÜ içerisinde uygulanmış trafik cezaları takibi ve İTÜ Mobil uygulaması panik buton servisi ile oluşturulan yardım isteklerinin güvenlik birimlerine konum ve kişi bilgileri ile ulaştırılmasını sağlar.
+
+**İletişim:**
+- Bilgi İşlem Daire Başkanlığı, 
+- İTÜ Ayazağa Kampüsü, Maslak-Sarıyer / İstanbul
+- Telefon: 0212 285 3930
+
+**BİDB YARDIM:**
+İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz.

@@ -1,0 +1,120 @@
+**Title: Lisans Ders Formları**
+
+**1. Yarıyıl/1. Semester**
+- GEO101E: Intro. to Info. Technologies
+- GEO102/E: Intro. to Geomatic Engineering
+- GEO103/E: Fundamentals of Surveying
+- GEO105/E: Intro. to Geomat. Engineering
+- GEO107/E: Analy. Geom. and Vect. Algeb.
+- GEO109/E: Analy. Geom. and Vect. Algeb.
+- GEO111/E: Introduction to Geomatic Engineering and Ethics
+
+**2. Yarıyıl/2. Semester**
+- GEO104/E: Terr. Surv. Equip. and Soft.
+- GEO106E: Fundamentals of Programming
+- GEO182/E: Geomatics Project I
+- GEO114/E: Terrestrial Surveying Equipment and Software
+- GEO108E: Fundamentals of Programming
+
+**3. Yarıyıl/3. Semester**
+- GEO201/E: Cartography I
+- GEO205/E: Engineering Ethics
+- GEO207/E: Labor Law, Occupati. Health & Saf.
+- GEO209/E: Real Estate's Law
+- GEO211E: Num. Meth. for Geomatics Eng.
+- GEO213/E: Positioning Method and Systems
+- GEO215E: Prob. and Stat. for Geom. Eng.
+- GEO225E: Prob. and Stat. for Geom. Eng.
+- GEO221E: Num. Meth. for Geomatics Eng.
+- GEO227/E: Labor Law, Occupati. Health & Saf.
+- GEO220/E: Mathematics for Geomatics Engineers
+
+**4. Yarıyıl/4. Semester**
+- GEO202/E: Engineering Surveying
+- GEO204/E: Th. of Err. And Ad. C.
+- GEO206/E: Computer Aided Map Design
+- GEO208/E: Remote Sensing I
+- GEO210/E: Fundamentals of Levelling
+- GEO282/E: Geomatics Project II
+- GEO305E: Databases in Engineering
+- GEO317/E: Terrain Modelling
+- GEO212/E: Engineering Surveying
+- GEO327/E: Terrain Modelling
+- GEO216/E: Computer Aided Map Design
+- GEO325E: Databases in Engineering
+- GEO292/E: Geomatics Project 10
+
+**5. Yarıyıl/5. Semester**
+- GEO203/E: Coordinate Sys. and Geodesy I
+- GEO301/E: Special Surveying Applications
+- GEO321/E: Special Surveying Applications
+- GEO303/E: Cadastre
+- GEO307/E: Cartography II
+- GEO309/E: Photogrammetry I
+- GEO311/E: Geodetic Infrast. and Network
+- GEO313E: Digital Image Processing
+- GEO315E: Fund. of Geographic Inf. Sys.
+
+**6. Yarıyıl/6. Semester**
+- GEO302/E: Land Management
+- GEO322/E: Land Management
+- GEO304/E: Geodesy II and Projections
+- GEO314/E: Geodesy II and Projections
+- GEO306/E: Photogrammetry II
+- GEO308/E: Real Estate Valuation
+- GEO310/E: Remote Sensing II
+- GEO312E: Spatial Analy. and Alg. in GIS
+- GEO382/E: Geomatics Project III
+- GEO392/E: Geomatics Project 20
+
+**7. Yarıyıl/7. Semester**
+- GEO401/E: Physical Geodesy
+- GEO403/E: GIS Projects
+- GEO4901/E: Geomatics Eng. Design I
+
+**8. Yarıyıl/8. Semester**
+- GEO4902/E: Geomatics Eng. Design II
+
+**Seçmeli/Selective (MT)**
+- GEO411/E: Spatial Abstr. and General.
+- GEO415/E: Geodetic Satellite
+- GEO419E: Photog. Tech. for Gene. DTM
+- GEO421/E: Urban Land Readjustment
+- GEO423/E: Land Consolidation
+- GEO427/E: Photog. and Laser Data Integ.
+- GEO429E: Close Range Photogrammetry
+- GEO433/E: Urban Information Systems
+- GEO435/E: Urban Regeneration
+- GEO440/E: Robotic App. in Geom. Eng.
+- GEO442/E: Sectoral Appl. in Geomatics
+- GEO448E: Structure of Surveying Inst.
+- GEO450/E: Cartographic General. Apl.
+- GEO452/E: 3D Mod. with Rem. Sens. Data
+- GEO454/E: Rem.Sens. for Nat. Res. Man.
+- GEO462E: Advance. Progr. in Geom. Eng.
+- GEO464E: Eng. Spatial Sys. Design
+- GEO466/E: Deformation Measurements
+- GEO468/E: Spec. Topics in Remote Sens.
+- GEO470/E: Special Tech. In Height Meas.
+- GEO472/E: Advanced Remote Sensing
+- GEO474/E: Hydrographic Surveying
+- GEO476/E: Prj. Pl. And Mn. In Geo. Eng.
+- GEO478/E: Expropriation Technique
+- GEO480E: Building Information Model in Geomatics Engineering
+- GEO484E: Geomatics Engineering Applications in Disaster Management and Urban Resilience
+
+**Seçmeli/Selective (TM)**
+- GEO456/E: Irrigation and Drainage
+- GEO458/E: City Planning
+- GEO460/E: Road Design and Construction
+
+**Seçmeli/Selective (TB)**
+- GEO413/E: Navigation Sys. and Methods
+- GEO417/E: Geodetic Astronomy
+- GEO425E: Digital Image Processing II
+- GEO444/E: Computational Geometry
+
+**Contact Information:**
+- Phone: +90 (212) 285 34 14
+- Fax: +90 (212) 285 65 87
+- Address: İTÜ İnşaat Fakültesi, 34469, Maslak, İstanbul

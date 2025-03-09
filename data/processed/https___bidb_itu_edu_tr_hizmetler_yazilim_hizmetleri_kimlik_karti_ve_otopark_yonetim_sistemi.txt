@@ -1,0 +1,15 @@
+**Title:** Kimlik Kartı ve Otopark Yönetim Sistemi
+
+**Description:** Kimlik Kartı ve Otopark Yönetim Sistemi, İTÜ mensuplarına verilen kimlik kartlarının basım, yenileme operasyonlarının ve kampüs, bina, turnike giriş-çıkış izinlerinin düzenlendiği; kampüs içi otopark aboneliklerinin yönetildiği idari bir yazılımdır. Yazılım, Kart İşlem Merkezi tarafından aktif olarak kullanılmaktadır ve tüm İTÜ mensuplarına destek vermek amacıyla ihtiyaçlar doğrultusunda Bilgi İşlem Daire Başkanlığı Yazılım Geliştirme Grubu tarafından geliştirilmeye devam edilmektedir.
+
+**First Published:** Mart 2013
+
+**Web Address:** [http://kartyonetim.itu.edu.tr](http://kartyonetim.itu.edu.tr)
+
+**Contact Information:**
+- **Location:** İTÜ Ayazağa Kampüsü, Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- **Phone:** 0212 285 3930
+
+**Support System:** İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz. [BİDB Yardım Al](http://yardim.itu.edu.tr/birim.aspx?birim=1&bilgi+islem+daire+baskanligi)
+
+**Note:** This system is a product of İTÜ Bilgi İşlem Daire Başkanlığı. © 2023
