@@ -1,0 +1,252 @@
+Title: İTÜ | Registrar's Office
+
+URL Source: https://www.sis.itu.edu.tr/EN/about-sis/undergraduate-program-codes.php
+
+Markdown Content:
+SIS Login İTÜ Homepage Ninova Program Information Dean of Students Help Contact TÜRKÇE 
+About Us
+About SIS
+Students
+Registration Processes
+Regulations
+Application and Admission
+FAQ
+SIS Login
+Homepage
+Undergraduate Program Codes
+Undergraduate Program Codes
+IN-Faculty of Civil Engineering
+AIN	Civil Engineering (International Joint Degree Programmes) - Azerbaijan
+INS	Civil Engineering
+INSE	Civil Engineering (% 100 English)
+GEO	Geomatics Engineering
+GEOE	Geomatics Engineering (% 100 English)
+HTA	Geomatics Engineering
+HTAE	Geomatics Engineering (% 100 English)
+CEV	Environmental Engineering
+CEVE	Environmental Engineering (% 100 English)
+SIN	Civil Engineering (International Joint Degree Programmes)
+JDF	Geodesy and Photogrammetry Engineering
+SCE	Environmental Science and Management (International Joint Degree Programmes)
+MM-Faculty of Architecture
+MIM	Architecture
+MIME	Architecture(% 100 English)
+SAS	Architecture (International Joint Degree Programmes) - Sarajevo
+SBP	Urban and Regional Planning
+SBPE	Urban and Regional Planning (% 100 English)
+SBPM	Urban and Regional Planning(Minor)
+EUT	Industrial Product Design
+EUTE	Industrial Product Design (% 100 English)
+ENTE	Industrial Design (%100 English)
+EUTM	Industrial Product Design (Minor)
+ICM	Interior Architecture
+PEM	Landscape Architecture
+PEME	Landscape Architecture (% 100 English)
+MK-Faculty of Mechanical Engineering
+MSS	Mechanical Engineering (International Joint Degree Programmes) - Sarajevo
+MAK	Mechanical Engineering
+MAKE	Mechanical Engineering (% 100 English)
+MAKM	Mechanical Engineering (Minor)
+IML	Manufacturing Engineering
+IMLE	Manufacturing Engineering (% 100 English)
+IMLM	Manufacturing Engineering (Minor)
+MKN	Mechatronics (Minor)
+EE-Faculty of Electrical and Electronics Engineering
+EHB	Electronics and Communication Engineering
+EHBE	Electronics and Communication Engineering (% 100 English)
+EHS	Electronics and Communication Engineering (International Joint Degree Programmes) - Sarajevo
+ELK	Electrical Engineering
+ELKE	Electrical Engineering (% 100 English)
+ELE	Electronics Engineering
+KOM	Control and Automation Engineering
+KOME	Control and Automation Engineering (% 100 English)
+ROS	Robotics and Autonomous Systems Engineering
+ROSE	Robotics and Autonomous Systems Engineering (%100 English)
+TEHB	Electronics and Communication Engineering - Turkish
+TEL	Telecommunication Engineering
+MD-Faculty of Mines
+MAD	Mining Engineering
+MADE	Mining Engineering (% 100 English)
+MADM	Mining Engineering (Minor)
+JEO	Geological Engineering
+JEOE	Geological Engineering (% 100 English)
+JEOM	Geological Engineering (Minor)
+JEF	Geophysical Engineering
+JEFE	Geophysical Engineering (% 100 English)
+JEFM	Geophysical Engineering (Minor)
+PET	Petroleum and Natural Gas Engineering
+PETE	Petroleum and Natural Gas Engineering (% 100 English)
+PETM	Petroleum and Natural Gas Engineering (Minor)
+CHZ	Mineral Processing Engineering
+CHZE	Mineral Processing Engineering (% 100 English)
+KM-Faculty of Chemical and Metallurgical Engineering
+KMM	Chemical Engineering
+KMME	Chemical Engineering (% 100 English)
+KMMM	Chemical Engineering (Minor)
+MET	Metallurgical and Materials Engineering
+METE	Metallurgical and Materials Engineering (% 100 English)
+GID	Food Engineering
+GIDE	Food Engineering (% 100 English)
+GIDM	Food Engineering (Minor)
+MBI	Bioengineering (International Joint Degree Programmes)
+IS-Faculty of Management
+ISL	Management Engineering
+ISLE	Management Engineering (% 100 English)
+TISL	Management Engineering - Turkish
+END	Industrial Engineering
+ENDE	Industrial Engineering (% 100 English)
+ECNE	Economics (% 100 English)
+SIS	Business (Suny)
+ESS	Economics (International Joint Degree Programmes) - Sarajevo
+SED	Industrial Engineering (International Joint Degree Programmes) - Binghamtom
+SEK	Economics (Suny)
+SEN	Industrial Engineering (Suny)
+VBAE	Data Science and Analytics (%100 English)
+GD-Faculty of Naval Architecture and Ocean Engineering
+GEM	Naval Architecture & Marine Engineering
+GEME	Naval Architecture & Marine Engineering (% 100 English)
+SGI	Naval Architecture & Marine Engineering (International Joint Degree Programmes) - UK&UOLP
+GEMM	Naval Architecture & Marine Engineering (Minor)
+DEN	Shipbuilding and Ocean Engineering
+SORM	Surveying Techniques (Minor)
+DENE	Shipbuilding and Ocean Engineering (% 100 English)
+FE-Faculty of Science and Letters
+MAT	Mathematics Engineering
+MATE	Mathematics Engineering (% 100 English)
+MATM	Mathematics Engineering (Minor)
+FIZ	Physics Engineering
+FIZE	Physics Engineering (% 100 English)
+FIZM	Physics Engineering (Minor)
+KIM	Chemistry
+KIME	Chemistry (% 100 English)
+KIMM	Chemistry (Minor)
+BIO	Molecular Biology & Genetics
+BIOE	Molecular Biology & Genetics (% 100 English)
+BIOM	Molecular Biology & Genetics (Minor)
+UU-Faculty of Aeronautics and Astronautics
+UCK	Aeronautical Engineering
+UCKE	Aeronautical Engineering (% 100 English)
+UCKM	Aeronautical Engineering (Minor)
+UZB	Astronautical Engineering
+UZBE	Astronautical Engineering (% 100 English)
+UZBM	Astronautical Engineering (Minor)
+MTO	Meteorological Engineering
+MTOE	Meteorological Engineering (% 100 English)
+MTOM	Meteorological Engineering (Minor)
+IBM	Meteorological Engineering
+KO-Turkish Music State Conservatory
+TEB	Basic Arts
+MTR	Musical Theory
+SES	Voice Training
+KMP	Composition
+BST	Composition
+MUT	Music Technologies
+MZT	Music Technology
+MUZ	Musicology
+MUZE	Musicology (% 100 English)
+CAB	Instrument Luthery
+CEB	Instrumental Performance
+THO	Turkish Folk Dance
+DZ-Maritime Faculty
+GMI	Marine Engineering
+GMIE	Marine Engineering (% 100 English)
+DUI	Maritime Transportation Management Engineering
+DUIE	Maritime Transportation Management Engineering (% 100 English)
+SGM	Marine Engineering (International Joint Degree Programmes)
+SDU	Marine Transportation Engineering (International Joint Degree Programmes)
+TK-Faculty of Textile Technologies and Design
+TEK	Textile Engineering
+TEKE	Textile Engineering (% 100 English)
+TEKM	Textile Engineering (Minor)
+SMT	Fashion Design (International Joint Degree Programmes)
+STP	Textile Development and Marketing (International Joint Degree Programmes)
+BB-Faculty of Computer and Informatics Engineering
+BLG	Computer Engineering
+BLGE	Computer Engineering (% 100 English)
+YZVE	Artificial Intelligence and Data Engineering (% 100 English)
+SBL	Information Systems Engineering (International Joint Degree Programmes)
+SECE	Cyber ​​Security Engineering (%100 English)
+KK- ITU-TRNC Education-Research Campuses
+CEN	Computer Engineering (% 100 English)
+MTM	Maritime Transportation Management Engineering (% 100 English)
+MMD	Maritime Business Management (% 100 English)
+EFN	Economics and Finance (% 100 English)
+EEE	Electrical Electronics Engineering (% 100 English)
+IND	Industrial Engineering (% 100 English)
+NAE	Naval Architecture and Marine Engineering (% 100 English)
+MEN	Marine Engineering (% 100 English)
+IAD	Interior Architecture (% 100 English)
+ARC	Architecture (% 100 English)
+Vocational School
+SAO	Cyber ​​Security Analyst and Operator
+Academic Calendar
+Undergraduate Level Academic Calendar
+Undergraduate Internal Transfer, Double Major, Minor Calendar
+Pre-Registration Calendar
+Graduate Level Academic Calendar
+Graduate Level Evening Education Calendar
+English Preparatory Class Calendar
+Course Information
+Course Plans
+Course Equivalence
+Prerequisites
+Course Information
+Course Schedules
+Building Codes
+Undergraduate Program Codes
+Procedures
+Application and Admission
+Double Major, Minor, Internal Transfer Procedures
+Graduation And Diploma Procedures
+Institutes
+Graduate School
+Disaster Management Institute
+Eurasia Institute of Earth Sciences
+Informatics Institute
+Energy Institute
+Aviation Institute
+Faculties
+School of Foreign Languages
+Turkish Music State Conservatory
+Cyber Security Vocational School
+Other Procedures
+Regulations
+Erasmus Exchange Program
+Mevlana Exchange Program
+Fee/Tuition Fee
+Competent Engineering Exam
+Equivalence Procedures
+Webmail
+İTÜ PORTAL
+Ninova
+İTÜ Career and Internship Center
+International Relations Office
+Scholarship and Dormitories Coordination
+Student with Disabilities Unit
+Physical Education Department
+Phone
+
++90 212 365 78 00-99 (100 line)
+
+Fax
+
++90 212 285 29 09
+
+İTÜ Ayazağa Campus
+
+Registrar's Office
+34469 Maslak - İstanbul
+
+Registrar's Office
+
+Create Help Ticket
+
+Registrar's Office
+
+Clarification Text
+
+Registrar's Office
+
+ogrenciisleri@itu.edu.tr
+
+İTÜ Information Technologies Department © 2021

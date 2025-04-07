@@ -1,0 +1,49 @@
+**Title:** UUBF Hassas Görevler Çalışması
+
+**Hassas Görevler:**
+1. **Bütçenin hazırlanması ve yönetimi**
+   - **Personel:** Maaş Mutemeti
+   - **Risk Düzeyi:** Yüksek
+   - **Sonuç:** Bütçe açığı ve hak kaybı
+   - **Önlemler:** Hazırlayan kişinin bilinçli olması, gelecekteki harcamaların öngörülmesi.
+
+2. **Maaş, ek ders, yolluk evraklarının hazırlanması**
+   - **Personel:** Maaş Mutemeti
+   - **Risk Düzeyi:** Yüksek
+   - **Sonuç:** Hatalı ödemeler
+   - **Önlemler:** Personel İşleri ve Öğrenci İşleri Birimi ile koordineli çalışılması.
+
+3. **Maaş hazırlamasında özlük haklarının zamanında temin edilmesi**
+   - **Personel:** Maaş Mutemeti
+   - **Risk Düzeyi:** Yüksek
+   - **Sonuç:** Hak kaybı oluşması
+   - **Önlemler:** Personel İşleri ile koordineli çalışılması.
+
+4. **Kesintilerin doğru ve eksiksiz yapılması**
+   - **Personel:** Maaş Mutemeti
+   - **Risk Düzeyi:** Yüksek
+   - **Sonuç:** Kamu ve kişi zararı
+   - **Önlemler:** Mevzuata hakim olunması, Personel İşleri ile koordineli çalışılması.
+
+5. **Ödeme emri belgesinin düzenlenmesi**
+   - **Personel:** Maaş Mutemeti
+   - **Risk Düzeyi:** Yüksek
+   - **Sonuç:** Kamu zararına sebebiyet verme riski
+   - **Önlemler:** Kontrollerin doğru yapılması.
+
+6. **SGK'na gönderilen keseneklerin doğru, eksiksiz ve zamanında gönderilmesi**
+   - **Personel:** Maaş Mutemeti
+   - **Risk Düzeyi:** Yüksek
+   - **Sonuç:** Kamu zararına sebebiyet verme riski, cezai işlem
+   - **Önlemler:** Hatasız yapılması, işin ehil kişiler tarafından yapılması.
+
+7. **Yıl sonunda büro içerisinde gerekli düzenlemeyi sağlamak**
+   - **Personel:** Maaş Mutemeti
+   - **Risk Düzeyi:** Yüksek
+   - **Sonuç:** Çalışma veriminin düşmesi
+   - **Önlemler:** Düzenli ve sistematik çalışmanın sağlanması.
+
+**Birim:** Uçak ve Uzay Bilimleri Fakültesi  
+**Alt Birim:** Hesap İşleri  
+**Hazırlayan:** İlgili Alt Birim Amiri  
+**Onaylayan:** Birim Amiri

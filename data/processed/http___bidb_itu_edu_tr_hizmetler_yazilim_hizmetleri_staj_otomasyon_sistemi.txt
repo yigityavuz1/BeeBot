@@ -1,0 +1,24 @@
+**Title: Staj Otomasyon Sistemi**
+
+**KÜNYE**
+- İlk yayın tarihi: Haziran 2011
+- Aktif kullanıcı sayısı: 21.000
+- Web Adresi: [https://portal.itu.edu.tr/apps/ogrenci/staj-islemleri/](https://portal.itu.edu.tr/apps/ogrenci/staj-islemleri/)
+
+**Sistem Özellikleri:**
+- Öğrenciler, staj bilgilerini kaydedebilir, düzenleyebilir ve onay için gönderebilir.
+- Önceki staj detaylarına erişim sağlar.
+- İş Güvenliği Sınavı için eğitim kaydı ve çevrimiçi dokümanlara erişim imkanı sunar.
+- Staj sorumlularının duyurularına ve belgelerine ulaşım sağlar.
+
+**Fakülte Staj Sorumluları:**
+- Öğrencilerin staj kayıtlarını inceleyebilir, onaylayabilir ve silebilir.
+- SGK işe giriş-çıkış ve tahakkuk işlemlerini gerçekleştirebilir.
+- Duyuru ekleyebilir ve belge yükleyebilir.
+
+**İletişim:**
+- İTÜ Ayazağa Kampüsü, Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- Telefon: 0212 285 3930
+
+**BİDB YARDIM:**
+- İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili bilet oluşturabilir ve takibini yapabilirsiniz.

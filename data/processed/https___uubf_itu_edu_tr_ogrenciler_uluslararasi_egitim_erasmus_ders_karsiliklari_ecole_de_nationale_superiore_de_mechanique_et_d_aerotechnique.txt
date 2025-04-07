@@ -1,0 +1,47 @@
+**Title:** Ecole De Nationale Superiore De Mechanique et D'aerotechnique
+
+**Relevant Courses:**
+
+| ITU Course Code | ITU Course Name                     | Partner Course Code | Partner Course Name                     |
+|------------------|-------------------------------------|---------------------|-----------------------------------------|
+| STA5             | Aeronautical Structures             | UZB331              | Aerospace Structures                    |
+| DEF5             | Large Deformations                  |                     |                                         |
+| AER4             | Aerodynamics                        | UCK351              | Aerodynamics                            |
+| BET5             | Advanced Design Project             | UCK432              | Aircraft Design                         |
+| AUT4             | Automatic Control                   | UCK362E             | Automatic Control                       |
+| AUT3             | Automatic Control                   | UCK362E             | Automatic Control                       |
+| BET2             | Engineering design project-CAD      | UZB487              | CAD/CAM                                 |
+| COB5             | Combustion                         | UCK427              | Combustion                             |
+| AER4             | Aerodynamics                        | UZB362E             | Compressible Aerodynamics               |
+| AEN5             | Numerical Aerodynamics              | UCK 419             | Computational Aerodynamics              |
+| AER5             | Aerodynamics I                     | UZB362              | Computational Aerodynamics              |
+| AED5             | Aerodynamic 2                      |                     |                                         |
+| Units5a-2       | Laboratory Works                   | UCK372              | Deneysel Mühendislik                   |
+| MEF5             | Finite Elements Method             | UZB318E             | Finite Element Method                   |
+| UnitS1-3        | Analytical Mechanics Flight Mechanics| UCK322E             | Flight Mechanics                        |
+| MEV2             | Flight Mechanics                   | UCK322E             | Flight Mechanics                        |
+| MEC1             | Analytical Mechanics                |                     |                                         |
+| MFL2             | Fluid Mechanics                     | AKM204              | Fluid Mechanics                         |
+| TRC4             | Heat Transfer                      | UZB232              | Heat Transfer                          |
+| MTH1             | Thermal Engines                    | MAK354              | IC Engines                              |
+| MPR4             | Engines and Propulsion Systems      | UCK421              | Jet Propulsion Principles               |
+| PRO5             | Propulsion                         | UCK421              | Jet Propulsion Principles               |
+| MTX3             | Material Science                   | MAL201              | Material Science                        |
+| ARC1             | Electronics-Microprocessors        | BLG212              | Microprocessor Systems                  |
+| PHY1             | Physics                            | FIZ201              | Modern Physics                          |
+| DAA5             | Atomic Diffusion and Applications   |                     |                                         |
+| END5             | Damage Mechanics                    |                     |                                         |
+| MEF4             | Vibrations-Finite Element Method    |                     |                                         |
+| Unit3s-2        | Numerical Analysis and Fortran Computer Project | MAT202E | Numerical Methods                       |
+| XXX              | Numerical Analysis and Fortran      | MAT202E             | Numerical Methods                       |
+| UnitS3-1        | Probabilities                       | MAT271              | Olasılık ve İstatistik                 |
+| PRO3             | Probabilities                       | MAT271              | Probability and Statistics              |
+| MDS3             | Structure Mechanics                 | MUK203              | Strength of Materials I                 |
+| MSO1             | Solid Mechanics                     | MUK204              | Strength of Materials II                |
+| Units5e-3       | Propulsion Transport and Turb. in Combustion | UCK421 | Tepki ile Tahrik                       |
+| Unit4-3         | Vibrations & FEM Project in Structures-FEM | UCK226          | Yapısal Titreşimler                    |
+
+**Contact Information:**
+- **Phone:** +90 (212) 285 31 01
+- **Fax:** +90 (212) 285 31 39
+- **Address:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

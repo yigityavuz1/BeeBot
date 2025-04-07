@@ -1,0 +1,32 @@
+**Title: E-Posta**
+
+**E-posta Hizmeti Bilgileri:**
+
+- **Kullanıcı Grupları ve Mail Kotası:**
+  | Kullanıcı Grubu | Mail Kotası | Günlük @itu.edu.tr Alıcılı Mail Gönderme Sınırı | Günlük @itu.edu.tr Dışına Mail Gönderme Sınırı | Günlük Mail Alma Sınırı | İkincil E-posta Adresi |
+  | --- | --- | --- | --- | --- | --- |
+  | Akademik | 16 GB | Sınırsız | 200 Adet | Sınırsız | Verilir |
+  | İdari | 10 GB | Sınırsız | 200 Adet | Sınırsız | Verilir |
+  | Öğrenci | 8 GB | Sınırsız | 200 Adet | Sınırsız | Verilmez |
+
+- **E-posta Hizmetleri Bileşenleri:**
+  - E-posta okuma servisi: IMAP
+  - Web üzerinden e-posta okuma/gönderme: Webmail
+  - E-posta grupları: Listeci
+
+**E-posta Gönderirken Dikkat Edilmesi Gerekenler:**
+- smtp.itu.edu.tr sunucusunun kullanılması gerekir.
+- Kimlik doğrulama zorunludur.
+- Son 24 saat içinde @itu.edu.tr dışındaki en fazla 200 alıcıya e-posta gönderilebilir.
+- E-posta boyutu (ek ile birlikte) en fazla 150MB olabilir.
+- Bir e-postanın en fazla 500 alıcısı olabilir.
+
+**E-posta Alırken Dikkat Edilmesi Gerekenler:**
+- E-posta boyutu (ek ile birlikte) en fazla 50MB olmalıdır.
+- Bir e-postanın en fazla 50 alıcısı olabilir.
+
+**Başvuru:**
+E-posta hizmetinizi aktif etmek için Bilgi İşlem Daire Başkanlığı'na İTÜ kimlik kartınız ile müracaat etmeniz yeterlidir.
+
+**SPAM ve AntiVirüs Koruması:**
+Gelen iletiler istenmeyen ileti (SPAM) ve zararlı içerik (Virüs) açısından taranmaktadır. Yüksek puanlı spam ve virüslü mailler dağıtılmamaktadır. Düşük puanlı spam mailler "SPAM" başlık bilgisi eklenerek "Junk E-mail" dizinine dağıtılmaktadır.

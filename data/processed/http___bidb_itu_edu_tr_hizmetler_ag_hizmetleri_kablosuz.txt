@@ -1,0 +1,12 @@
+**Title:** Kablosuz
+
+**Content:**
+Tüm İTÜ kampüslerinde İTÜNET kablosuz internet hizmetine **eduroam** ve **ITUNET Misafir** adında iki farklı ağ üzerinden erişilebilmektedir.
+
+"eduroam" (education roaming) kablosuz ağı, eğitim ve akademik araştırma camiasının kablosuz internet ihtiyaçlarını karşılamak amacıyla 2003 yılında oluşturulmuş ve dünya genelinde faaliyet gösteren bir kablosuz ağ hizmetidir. "eduroam" kablosuz ağı, tüm İTÜ mensuplarının ve dünya genelinde eduroam organizasyonuna üye tüm akademik kurum mensuplarının kullanımına açıktır. Kullanıcılar kendi kullanıcı adı ve şifrelerini kullanarak bu ağ üzerinde kimlik denetimine tabi olurlar. 
+
+"eduroam" kablosuz ağında IEEE 802.1x ve kurumsal WPA/WPA2 şifreleme yöntemleri kullanılarak kullanıcıların verilerinin güvenlikleri sağlanmaktadır. Kullanıcılar eduroam ağına bağlandıklarında mevcut fiziksel bağlantı hızları çerçevesinde bant genişliği kısıtlamasına tabi tutulmaksızın kablosuz bağlantı hizmeti alırlar.
+
+ITUNET Misafir kablosuz ağı, İTÜ mensubu yakınları, firma temsilcileri, konuk öğrenciler gibi ziyaretçilerin sadece İTÜ yerleşkelerinde faydalanabilecekleri bir hizmettir. ITUNET Misafir ağına bağlanabilmek için bir hesaba (kullanıcı adı ve şifreye) ihtiyaç duyulmaktadır. Bu hesaba **sponsor hesap** denilmektedir. Misafirler, bir İTÜ mensubunun kendilerine sponsor hesap oluşturması veya kişinin cep telefonu numarası ile kendi hesabını oluşturması gerekmektedir. 
+
+ITUNET Misafir ağının kullanım amacı İTÜ ziyaretçilerinin anlık internet erişim ihtiyaçlarını karşılamaktır. Bu nedenle ITUNET Misafir ağının erişebildiği portlar, uygulamalar ve ağ erişim hızı (bant genişliği) kısıtlanmıştır. ITUNET Misafir kablosuz ağında veri trafiği şifreleme mekanizmalarından geçmediği için kullanıcıların veri güvenliği garanti edilmemektedir.

@@ -1,0 +1,25 @@
+**Title: Gecikme Cezası Ödemeleri**
+
+Kullanıcılarımız gecikme cezası ödemelerini aşağıda belirtilen adımları izleyerek banka hesap numarasına yapabileceklerdir.
+
+**Not:** İşlem yaptıracak kullanıcıların gecikme cezası ödemelerini sorun yaşamamaları için en geç 1 gün önceden yapmaları gerekmektedir.
+
+- **Gecikme cezasını ödemek isteyen kullanıcı** eğer üzerinde gecikmiş yayın varsa kütüphaneden ceza miktarını teyit etmelidir.
+- Açıklama kısmına "Kütüphane Gecikme cezası / Öğrenci veya Sicil Numarası" notu mutlaka yazılmalıdır.
+- Ödeme yapıldıktan sonra dekontun kutuphane@itu.edu.tr adresine gönderilmesi gerekmektedir.
+
+**Hesap Bilgileri** 
+
+- **Banka:** Vakıflar Bankası Maslak Şubesi 
+- **Şube Kodu:** 401 
+- **Hesap Numarası:** 00158007311540712 
+- **IBAN Numarası:** TR81 0001 5001 5800 7311 5407 12 
+- **Hesap Adı:** İ.T.Ü. Strateji Geliştirme Daire Başkanlığı 
+- **Açıklama:** Kütüphane Yayın Gecikme Ceza Bedelleri
+
+**İletişim Bilgileri:**
+
+- **Telefon:** (0212) 285 35 96 
+- **Santral:** (0212) 285 30 13
+- **Fax:** (212) 285 33 02
+- **Adres:** İstanbul Teknik Üniversitesi, Ayazağa Kampüsü, Maslak Sarıyer, İstanbul

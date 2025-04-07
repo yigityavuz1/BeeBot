@@ -1,0 +1,27 @@
+**Webmail Hizmeti**
+
+- **Web Adresi:** [https://webmail.itu.edu.tr](https://webmail.itu.edu.tr)
+- **İlk Yayın Tarihi:** 2008
+- **Kullanılan Sürüm:** Horde 5
+- **Hizmete Ait Sunucu Sayısı:** 4
+
+**Hizmet Özellikleri:**
+- Kullanıcıların "@itu.edu.tr" uzantılı e-posta göndermesi ve alması.
+- E-posta süzgeçleri, adres defteri, takvim, not ve ajanda bölümleri.
+- Dosya Yöneticisi ile ev dizini alanlarına web üzerinden erişim ve dosya düzenleme imkanı.
+
+**Kullanılan Modüller:**
+- **Adres Defteri (Turba):** Kullanıcıların kişilerini yönetmesini sağlar.
+- **Dosya Yöneticisi (Gollem):** Uzak sunucudaki dosyaları yönetir.
+- **Görevler (Nag):** Görev planlayıcı olarak çalışır.
+- **Notlar (Mnemo):** Web arayüzü üzerinden not yönetimi.
+- **Posta (Imp):** E-posta istemcisi.
+- **Süzgeçler (Ingo):** E-posta kuralları oluşturma.
+- **Takvim (Kronolith):** Ajanda yönetimi.
+
+**İletişim:**
+- **Adres:** İTÜ Ayazağa Kampüsü, Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- **Telefon:** 0212 285 3930
+
+**Yardım Sistemi:**
+- Sorunlar için bilet oluşturma ve takip etme imkanı: [BİDB Yardım Al](http://yardim.itu.edu.tr/birim.aspx?birim=1&bilgi+islem+daire+baskanligi)

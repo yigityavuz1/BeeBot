@@ -1,0 +1,99 @@
+**Title: Ders Programı Formları**
+
+**Zorunlu Dersler:**
+- INS 101/E: Teknik Resim
+- INS 106/E: İnşaat Müh. İçin Yerbilimi
+- INS 107/E: Programlamaya Giriş (Python)
+- INS 111/E: İnşaat Müh. Giriş ve Etik
+- INS 201/E: Malzeme Bilimi
+- INS 228/E: Yapı Malzemesi
+- INS 252/E: Ölçme Bilgisi
+- INS 301/E: Mühendislik Ekonomisi
+- INS 323/E: Yapı Statiği I
+- INS 325/E: Demiryolu Müh.
+- INS 331/E: Zemin Mekaniği I
+- INS 332/E: Temel İnşaatı I
+- INS 336/E: Yapı Statiği II
+- INS 338/E: Betonarme I
+- INS 341/E: Yapı İşletmesi
+- INS 342/E: Karayolu Mühendisliği
+- INS 344/E: Çelik Yapılar I
+- INS 354/E: Hidroloji
+- INS 360/E: Hidrolik
+- INS 403/E: Toprak İşleri
+- INS 407/E: Su Getirme&Kanaliz. Sist.Tas.
+- INS 409/E: İnş.İşçi Sağlığı ve İş Güven.
+- INS 433/E: Betonarme II
+- INS 441/E: Su Kaynakları
+- INS 462/E: Mühendislik Etiği
+- INS 4901/E: İnşaat Müh. Tasarımı I
+- INS 4902/E: İnşaat Müh. Tasarımı II
+- DNK 201/E: Dinamik
+- MUK 201/E: Mukavemet I
+- MUK 202/E: Mukavemet II
+- STA 202/E: Statik
+
+**Seçmeli Dersler:**
+- INS 214/E: Kısmi Diferansiyel Denklemler
+- INS 216/E: Analytical Mechanics
+- INS 226/E: Mühendis Matematik Model Esas
+- INS 227/E: Karmaşık Değişknli Fonks. Teo.
+- INS 313/E: İleri Mukavemet
+- INS 314/E: Yapı Dinamiği
+- INS 315/E: Elastik Olmayan Malz. Mekaniği
+- INS 316/E: Şantiye Tekniği
+- INS 317/E: Betonun Kırılma Mekaniği
+- INS 318/E: Yapıların Yalıtımı & Korunması
+- INS 319/E: Betonun Dayanıklılığı
+- INS 320/E: Ahşap Yapılar
+- INS 324/E: Yapısal Yangın Güvenliği
+- INS 326/E: Bina Tasarım Yönetimi
+- INS 328/E: Mimari Yapısal Tasarım
+- INS 413/E: Hidrolojik Analiz ve Tasarım
+- INS 414/E: Oşinografi
+- INS 417/E: Yapısal Analiz ve Tasarım
+- INS 419/E: Zemin Mekaniği II
+- INS 420/E: Çelik Köprüler
+- INS 423/E: Deprem Mühendisliğinin Temelleri
+- INS 424/E: Betonarme Yapılar
+- INS 425/E: Sonlu Elemanlar Yöntemi
+- INS 427/E: Yapı Statiği III
+- INS 428/E: Sulama ve Drenaj
+- INS 429/E: Betonarme Yüksek Binalar
+- INS 430/E: Barajlar
+- INS 434/E: Çelik Yapıların Plastik Hesabı
+- INS 435/E: Akarsu Hidroliği
+- INS 436/E: Tünel Tasarımı ve İnşaatı
+- INS 437/E: Trafik Mühendisliği
+- INS 438/E: Geoteknik Deprem Mühendisliği
+- INS 440/E: Yapı Statiğinde Özel Konular
+- INS 442/E: Betonarme Temeller
+- INS 443/E: Tünel İnşaatı
+- INS 444/E: Çelik Yapılar II
+- INS 445/E: Esnek Yol Üstyapıları
+- INS 446/E: Çelik Yapıların Tasarımı
+- INS 447/E: İleri Beton Teknolojisi
+- INS 448/E: Hidroelektrik Santrallar
+- INS 449/E: Mühendislikte Bilgisayar Uygl
+- INS 450/E: Betonarme III
+- INS 452/E: Yapı Müh. Bilg. Dest. Çözüml.
+- INS 454/E: Betonarme Yaplr Kalıp & İskele
+- INS 455/E: Yapı Sistem. Enerji Metodları
+- INS 456/E: Depreme Dayanıklı Yapı Tsrm
+- INS 457/E: Temiz Enerji Tür. ve Mod. Tekn
+- INS 458/E: Öngerilmeli Beton
+- INS 459/E: Çubuk Sonlu Elemanlar
+- INS 464/E: Ulaştırmada Altyapı Tesisleri
+- INS 466/E: Beton Yollar
+- INS 468/E: Temel İnşaatı II
+- INS 472/E: Intr.to Environmental Geotech.
+- INS 474/E: Yapı İşletmesi Hukuku
+- INS 476/E: Çokkatlı Çelik Yapılar
+- INS 478/E: Metal Yapı Eleman Yorulması
+- INS 490/E: Kıyı ve Liman Yapıları
+- INS 494/E: Deneysel Hidrolik
+
+**İletişim:**
+- Telefon: +90 (212) 285 34 15
+- Fax: +90 (212) 285 65 87
+- Adres: İTÜ İnşaat Fakültesi, 34469, Maslak, İstanbul

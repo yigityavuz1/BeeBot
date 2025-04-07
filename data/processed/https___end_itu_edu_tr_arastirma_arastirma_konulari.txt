@@ -1,0 +1,50 @@
+**Title: Araştırma Konuları**
+
+### Üretim
+- İnsani Yardım Lojistiği 
+- Kalite Yönetimi ve Yalın 6 Sigma 
+- Kısıtlar Teorisi 
+- Mühendislik Ekonomisi 
+- Sürdürülebilir Tedarik Zinciri 
+- Tedarik Zinciri Yönetimi 
+- Üretim Planlama ve Kontrol 
+- Üretim Sistemleri Tasarımı 
+- Yalın Üretim
+
+### Yönetim
+- Hizmet Sistemleri ve Süreç Yönetimi 
+- İnsan Kaynakları Yönetimi 
+- Pazarlama Analitiği 
+- Proje Yönetimi 
+- Stratejik Yönetim 
+- Teknoloji ve Yenilik Yönetimi 
+- Yatırım Planlama 
+- Yönetim ve Organizasyon
+
+### Yöneylem
+- Bulanık Kümeler ve Uygulamaları 
+- Çok Kriterli/Grup Karar Verme 
+- Enerji Optimizasyonu 
+- Güvenilirlik Mühendisliği 
+- Karmaşık Sistemlerin Modellenmesi 
+- Lokasyon Analizi ve Dağıtım Modelleme 
+- Matematiksel Programlama 
+- Sağlıkta Yöneylem Uygulamaları 
+- Simülasyon 
+- Stokastik Süreçler / Modelleme 
+- Tahminleme
+
+### Bilgi
+- İnsan-bilgisayar Etkileşimi 
+- İstatistiksel Analiz ve Uygulamalar 
+- Makine Öğrenmesi 
+- Oyunlaştırma 
+- Uygulamalı Çok Değişkenli Veri Analizi 
+- Veri Analitiği 
+- Veri Madenciliği 
+- Yapay Zeka
+
+**İletişim:**
+- Telefon: +90 (212) 293 13 00 - 2073
+- Faks: +90 (212) 234 80 97
+- Adres: İTÜ Maçka Kampüsü, 34367, Maçka, İstanbul

@@ -1,0 +1,25 @@
+**Title: PST Dönem Dersleri**
+
+| CRN   | Ders Kodu | Ders Adı                              | Öğretim Üyesi                             | Gün       | Saat        | Kontenjan | Yazılan |
+|-------|-----------|---------------------------------------|-------------------------------------------|-----------|-------------|-----------|---------|
+| 12878 | PST 505E  | Polymer Synthesis                     | Metin Hayri Acar                          | Perşembe  | 1430/1729   | 15        | 8       |
+| 12876 | PST 508E  | Polymers From Renewable Sour.        | Tarık Eren                                | Pazartesi | 0930/1229   | 20        | 16      |
+| 12873 | PST 509E  | Advanced Mathematics                  | Melkon Tatlıer                            | Çarşamba  | 1330/1629   | 20        | 16      |
+| 12870 | PST 511E  | Fun. of Polymer Chemistry             | Hacer Ayşen Önen, İbrahim Ersin Serhatlı | Salı      | 0930/1229   | 20        | 17      |
+| 12871 | PST 524E  | Polymer Processing                    | Tuncer Yalçınyuva                         | Salı      | 1430/1729   | 15        | 15      |
+| 12868 | PST 530E  | Polymer Characterization              | Cüneyt Hüseyin Ünlü                      | Pazartesi | 0930/1229   | 30        | 30      |
+| 12872 | PST 545E  | Inorganic Polymers                    | Ahmet Gül, Şennur Özçelik                | Salı      | 1330/1629   | 0         | 0       |
+| 12874 | PST 596E  | Scien.Rese., Ethic&Seminar           | Metin Hayri Acar                          | Perşembe  | 0830/1029   | 15        | 13      |
+| 12875 | PST 603E  | Modification of Polymers              | Bahire Filiz Şenkal, Yeşim Gürsel        | Salı      | 1330/1629   | 15        | 12      |
+| 12877 | PST 609E  | Biopolymers                           | Muhammet Übeydullah Kahveci              | Pazartesi | 1330/1629   | 27        | 27      |
+| 12879 | PST 616E  | Polymeric Nanostructures             | Bünyamin Karagöz, Caner Ünlü             | Perşembe  | 0930/1229   | 20        | 18      |
+| 12881 | PST 621E  | Supramolecular Polymers               | Abdullah Aydoğan                          | Pazartesi | 0930/1229   | 15        | 7       |
+| 12880 | PST 696E  | Scien.Rese., Ethic&Seminar           | --                                        | Perşembe  | 1030/1229   | 0         | 0       |
+| 12883 | PST DRT   | Tez Çalışması                        | Oğuz Okay                                 | --        | /           | 200       | 18      |
+| 12884 | PST YET   | Yeterlik Aşaması                     | Oğuz Okay                                 | --        | /           | 200       | 2       |
+| 12882 | PST YLT   | Tez Çalışması                        | Oğuz Okay                                 | --        | /           | 200       | 16      |
+
+**İletişim Bilgileri:**
+- **Telefon:** +90 212 285 3233
+- **Fax:** +90 212 285 6386
+- **Adres:** İTÜ Fen Edebiyat Fakültesi Kimya Bölümü, Maslak 34469, İstanbul

@@ -1,0 +1,27 @@
+**Title:** Politecnico di Milano Üniversitesi
+
+**Dersin Kodu ve Dersin Adı:**
+- 61466: Aerodynamics I
+- 61471: Aerospace Structures
+- 61468: Fundamentals of Automatic Control
+- 60076: Business Administration
+- 70533: Aircraft Constructive Elements
+- 72602: Mechanical Design of Machine Elements
+- 70542: Experimental Techniques in Aerospace Engineering
+- 70538: Airtransport Logistics and Organization
+- 70541: Measurements and Instruments in Aerospace
+- 86225: Principles of Aerospace Experimentation (Measurements)
+- 61469: Flight Mechanics
+- 73993: Analytical & Numerical Methods in Aerospace
+- 60059: Numerical Analysis A
+- 70525: Aerospace Mechanics
+- 61450: Mathematical Statistics A
+- 86416: Aerospace Propulsion
+- 86222: Fundamentals of Structural Mechanics
+- 70527: Aerospace Structural Design
+- 70534: Aircraft Engines
+
+**Uçak ve Uzay Bilimler Fakültesi İletişim Bilgileri:**
+- Telefon: +90 (212) 285 31 01
+- Faks: +90 (212) 285 31 39
+- Adres: İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

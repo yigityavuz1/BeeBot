@@ -1,0 +1,26 @@
+**Title: Web Sitesi Barındırma**
+
+İ.T.Ü. bünyesinde faaliyet gösteren birimlerin, kulüplerin, çalışma ve proje gruplarının kullanması amacıyla Linux (PHP + MySQL) veya Windows (.NET + MSSQL) site barındırma hizmeti verilmektedir.
+
+### Veri Tabanı
+Formlarınızı dört aşamada hızlı ve kolay bir şekilde oluşturabilir, yayınladığınız formlarla İTÜ içi veya dışındaki farklı profildeki kullanıcılardan veri alabilirsiniz.
+
+### Web
+Formlarınızı diğer kullanıcılarla paylaşabilir, yetkilendirdiğiniz kullanıcıların formu geliştirmede rol almasını ve form sonuçlarını görmesini sağlayabilirsiniz.
+
+Barındırılacak veriler hizmetin tanımlı olduğu İTÜ hesabının İTÜ Bulut kotası kapsamındadır.
+
+### Hizmete Başvuru
+Hizmete başvurmak için Bilgi İşlem Daire Başkanlığı'na resmi yazı ile talepte bulunulması gerekmektedir. Talep için Bilgi İşlem Daire Başkanlığınca hazırlanan şablona ulaşılabilir. Aşağıda şablondaki formun uygun bir şekilde doldurması için açıklamalar bulunmaktadır:
+
+- **Birim Adı:** Hizmetin ait olduğu birim/kulüp/proje adını ifade etmektedir.
+- **Talep Edilen Kullanıcı Adı:** Hizmetin üzerine tanımlanacağı İTÜ/Bağımlı (Tüzel) hesabını ifade etmektedir.
+- **Talep Edilen Alan Adı:** Web barındırma hizmetine erişim amaçlı kullanılacak alan adı.
+- **Sunucu Tipi:** Web barındırma hizmetinin sağlanacağı işletim sistemi platformunu seçmelisiniz.
+- **Veri Tabanı Tipi:** Web sayfanızın tasarımında ihtiyaç duymanız halinde veritabanı ortamını seçmelisiniz.
+- **Mozaik İçerik Yönetim Sistemi:** Bilgi İşlem Daire Başkanlığı Yazılım Geliştirme Grubu tarafından geliştirilen içerik yönetim yazılımıdır.
+- **Sorumlu Olacak Kişi:** Hizmetin tanımlandığı birimin personeli/üyesi olan ve hizmetin yönetiminden sorumlu kişiyi tanımlar.
+
+Formun ikinci sayfası olan “Alan Adı Tahsis Sözleşmesi” başlıklı belge Sorumlu Olacak Kişi tarafından imzalanmalıdır. Formun birinci sayfasında en üstte yer alan Birim Sorumlusu alanı proje/kulüp/birimin bağlı olduğu üst birimin amiri tarafından doldurulmalıdır.
+
+Sorularınız için 0 212 285 39 30 numaralı operatör hattımızdan bize ulaşabilirsiniz.

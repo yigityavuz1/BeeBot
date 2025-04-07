@@ -1,0 +1,54 @@
+**Title:** GMI 427E Mechatronics  
+**Published Time:** 2022-05-15  
+
+**Course Name:** Mechatronics  
+**Course Code:** GMI 427E  
+**Semester:** 5-7-8  
+**Local Credits:** 2  
+**ECTS Credits:** 2  
+**Course Language:** English  
+**Course Type:** Elective  
+**Course Prerequisites:** None  
+
+**Course Description:**  
+Mechatronic systems. Mechatronic system components; sensors, actuators, DAC and ADC. Operational amplifiers. Step and servo motors. DC motors. Signal processing. Programmable systems; PLC, microcontrollers.
+
+**Course Objectives:**  
+1. To teach about mechatronics.  
+2. To teach about mechatronics systems implemented on ships.  
+3. To teach about fault diagnosis and maintenance of mechanical, electrical, electronic components and interfaces.
+
+**Course Learning Outcomes:**  
+Students who pass the course will be able to:  
+I. Learn about mechatronics systems.  
+II. Learn about basic components of mechatronics systems.  
+III. Learn about mechatronics systems on board ships and operating principles of them.  
+IV. Get knowledge about fault diagnosis and maintenance of mechatronics systems on ships.
+
+**Course Plan:**  
+1. Introduction to mechatronics, mechatronics system components  
+2. Sensors  
+3. Sensors  
+4. DAC  
+5. ADC  
+6. Signal Processing and operational amplifiers  
+7. Operational amplifiers  
+8. Actuators; relays, solenoids, solenoid valves  
+9. Actuators; step and servo motors  
+10. DC motors  
+11. DC motors  
+12. Programmable systems; PLC  
+13. Programmable systems; PLC  
+14. Programmable systems; microcontrollers  
+
+**Textbook:**  
+David Alciatore, *Introduction to Mechatronics and Measurement Systems*, McGraw-Hill Education, 2011.
+
+**Other References:**  
+1. Frank D. Petruzella, *Programmable Logic Controllers*, Fourth Edition, McGraw-Hill, 2011.  
+2. W. Bolton, *Mechatronics: Electronic Control Systems in Mechanical and Electrical Engineering*, 3rd edition, 2003.  
+3. John G. Webster and Halit Eren, *Measurement, Instrumentation, and Sensors Handbook*, 2nd ed., CRC Press, 2014.
+
+**Assessment Criteria:**  
+- Midterm Exams: 40%  
+- Final Exam: 60%

@@ -1,0 +1,35 @@
+**Title:** Ninova
+
+**KÜNYE:**
+- İlk yayın tarihi: 2006
+- Aktif kullanıcı sayısı: 40.000
+- Açılan ders sayısı: 2000
+- Web Adresi: [http://ninova.itu.edu.tr/](http://ninova.itu.edu.tr/)
+
+**Açıklama:**
+Ninova, İTÜ mensubu akademisyen ve öğrencilere elektronik ortamda öğretme ve öğrenme imkanı sunan geniş ölçekli bir Web tabanlı elektronik öğrenme platformudur. Projenin temel amacı, İTÜ öğrencilerine ve eğitmenlerine öğrenme sürecini destekleyecek bir elektronik ortam sunmaktır.
+
+**Akademisyenlerin Yapabilecekleri:**
+- Ders ve sınıflar oluşturma
+- Öğrencilere ödev verme ve notlandırma
+- Sınav notlandırmaları yapma
+- Ders kaynaklarını yükleme
+- Yoklama alma ve yönetme
+
+**Öğrencilerin Yapabilecekleri:**
+- Eğitmenlerin yüklediği kaynaklara erişim
+- Mesaj panosu ile iletişim
+- Not, yoklama ve ödev bilgilerini görüntüleme
+
+**Hizmetler Hakkında:**
+- **Akademi:** İTÜ mensubu öğretim üyeleri ve araştırma görevlileri için akademik portal.
+- **Veti:** Veri Toplama ve İstatistik Sistemi.
+- **Portal:** İTÜ ve mezunları arasındaki ilişkileri etkinleştiren yapı.
+- **Mezun Bilgi Sistemi:** Mezunlarla ilişkileri güçlendiren sistem.
+
+**İletişim:**
+- İTÜ Ayazağa Kampüsü, Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- Telefon: 0212 285 3930
+
+**Yardım Sistemi:**
+İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz.

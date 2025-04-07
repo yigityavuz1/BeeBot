@@ -1,0 +1,75 @@
+**Title: Staj Yapılan Yerler**
+
+| Country Code | Institution Name | Faculty | Department |
+|--------------|------------------|---------|------------|
+| NL           | Amsterdam University | Fen-Edebiyat Fakültesi | Moleküler Biyoloji ve Genetik |
+| DE           | Fraunhofer Iao | Bilgisayar Ve Bilişim Fakültesi | Bilgisayar Mühendisliği |
+| DE           | Albert-Ludwigs-Universität Freiburg | Fen-Edebiyat Fakültesi | Moleküler Biyoloji ve Genetik |
+| NL           | Technische Universiteit Eindhoven | Kimya Metalurji Fakültesi | Kimya Mühendisliği |
+| DE           | German Aerospace Center | Makina Fakültesi | Makina Müh. |
+| DE           | Fachhochschule Düsseldorf | Uçak Ve Uzay Bilimleri Fakültesi | Uzay Müh. |
+| UK           | Cranfield University | Elektrik-Elektronik Fakültesi | Kontrol Müh. |
+| DK           | Roskilde Universitet | Fen-Edebiyat Fakültesi | Moleküler Biyoloji ve Genetik |
+| UK           | Apple Green Energy | Elektrik-Elektronik Fakültesi | Elektrik Mühendisliği |
+| FR           | Studio Malka Architecture | Mimarlık Fakültesi | Mimarlık |
+| IT           | Smati Group - Politecnico Di Bari | Kimya Metalurji Fakültesi | Metalurji ve Malzeme Mühendisliği |
+| PT           | Wavecom | Elektrik- Elektronik Fakültesi | Elektronik ve Haberleşme Mühendisliği |
+| BE           | Colanguage | Bilgisayar Ve Bilişim Fakültesi | Bilgisayar Mühendisliği |
+| DK           | University Of Copenhagen | Fen Edebiyat Fakültesi | Moleküler Biyoloji ve Genetik |
+| DK           | National Food Institute, Tu Denmark | Fen Edebiyat Fakültesi | Moleküler Biyoloji ve Genetik |
+| PT           | Ingeniarius Lda | Makine Fakültesi | Makine Mühendisliği |
+| IT           | Tele Rilevamento Europa - Tre | Fen Bilimleri Enstitüsü | Jeoloji Mühendisliği |
+| DE           | Technical University Of Berlin | Fen Bilimleri Enstitüsü | Raylı Sistemler Mühendisliği |
+| FI           | Helsinki Zürich Office Ltd | Mimarlık | Mimarlık |
+| DE           | Max Planck Institute For Evolutionary Biology | Fen Edebiyat Fakültesi | Moleküler Biyoloji ve Genetik |
+| IT           | Studio Sao | Mimarlık | Mimarlık |
+| SE           | Lund University | Fen Edebiyat Fakültesi | Moleküler Biyoloji ve Genetik |
+| NO           | University Of Oslo | Fen Edebiyat Fakültesi | Moleküler Biyoloji ve Genetik |
+| UK           | University Of Birmingham | Fen Bilimleri Enstitüsü | Moleküler Biyoloji-Genetik ve Biyoteknoloji |
+| NL           | C Concept Design Bv | Mimarlık Fakültesi | Mimarlık |
+| DE           | Helmholtz Association GFZ | Fen Bilimleri Enstitüsü | Geomatik Mühendisliği |
+| BE           | Von Karman Institute For Fluid Dynamics | Fen Bilimleri Enstitüsü | Hesaplamalı Bilim ve Mühendislik |
+| IR           | Trinity College Dublin | Fen Edebiyat Fakültesi | Fizik Mühendisliği |
+| IT           | Tryeco 2.0 Srl | Mimarlık Fakültesi | Mimarlık |
+| NL           | TU Delft | Fen Bilimleri Enstitüsü | Sistem Dinamiği ve Kontrol |
+| DK           | Technical University Of Denmark | Fen Edebiyat Fakültesi | Moleküler Biyoloji ve Genetik |
+| NL           | Carve Bv | Mimarlık Fakültesi | Mimarlık |
+| CZ           | Institute Of Macromolecular Chemistry AS CR | Fen Edebiyat Fakültesi | Kimya Bölümü |
+| BE           | Solenco Power | Fen Bilimleri Enstitüsü | Uçak ve Uzay Mühendisliği |
+| PT           | Ingeniarius | Bilişim Enstitüsü | Bilgisayar Mühendisliği |
+| IT           | Barecca & La Varra | Mimarlık Fakültesi | Mimarlık |
+| CZ           | Institute Of Macromolecular Chemistry, ASCR | Fen Bilimleri Enstitüsü | Malzeme Mühendisliği |
+| DE           | Bruun And Möllers | Mimarlık | Mimarlık |
+| EE           | Devtailor Oü | Mimarlık | Endüstri Ürünleri Tasarımı |
+| ES           | Diagnoma C.B. | Mimarlık | Mimarlık |
+| CZ           | UWB Pilsen | Kimya Metalurji Fakültesi | Metalurji Malzeme Mühendisliği |
+| FR           | Tetris | Mimarlık | Mimarlık |
+| ES           | Stimulo | Mimarlık | Endüstri Ürünleri Tasarımı |
+| IT           | Italian National Research Council (ITM-CNR)/University Of Calabria | Fen Bilimleri Enstitüsü | Nano-Bilim ve Nano-Mühendislik |
+| UK           | Abertay University | Fen-Edebiyat Fak. | Moleküler Biyoloji ve Genetik |
+| AT           | Vienna University Of Technology | Kimya Metalurji Fak. | Kimya Müh. |
+| ES           | Vicente Guallart Architects | Mimarlık | Mimarlık |
+| DE           | University Of Duisburg-Essen |  | Bilgisayar Mühendisliği |
+| DE           | Fraunhofer Institute For Integrated Circuits (IIS) |  | Elektronik ve Haberleşme Mühendisliği |
+| NL           | University Of Twente |  | Makina Mühendisliği |
+| IT           | Barreca & La Varra | Mimarlık Fakültesi | Mimarlık |
+| SE           | Water Environment And Technology (WET) / Chalmers University Of Technology | Fen Bilimleri Enstitüsü | Çevre Bilimleri ve Mühendisliği |
+| DE           | Friedrich-Schiller Universität | Fen-Edebiyat Fakültesi | Kimya |
+| SE           | Chalmers University Of Technology | Fen Bilimleri Enstitüsü | Üretim Metalurjisi ve Teknolojileri Mühendisliği |
+| IR           | Trinity College Of Dublin | İnşaat Fakültesi | Çevre Mühendisliği |
+| ES           | Meteosim S.L. | Uçak Ve Uzay Bilimleri Fakültesi | Meteoroloji Mühendisliği |
+| CZ           | Charles University | Fen-Edebiyat Fakültesi | Kimya |
+| DE           | Innovations For High Performance Microelectronics | Fen Bilimleri Enstitüsü | Elektronik Mühendisliği |
+| DE           | Hohenheim University | Fen Bilimleri Enstitüsü | Gıda Mühendisliği |
+| PT           | Porto University | Fen Bilimleri Enstitüsü | Kimya |
+| CZ           | Çek Cumhuriyeti | Fen Bilimleri Enstitüsü | Restorasyon |
+| NO           | Norwegian University Of Science And Technology (NTNU) | Kimya Metalurji Fakültesi | Metalurji ve Malzeme Mühendisliği |
+| UK           | Imperial College London | Bilgisayar Ve Bilişim Fakültesi | Bilgisayar Mühendisliği |
+| CZ           | Tıng Architects | Fen Bilimleri Enstitüsü | Restorasyon |
+| CZ           | Institute Of Molecular Genetics Of The ASCR | Fen-Edebiyat Fakültesi | Moleküler Biyoloji ve Genetik |
+| PT           | Ingeniarius, Lda. | Fen-Edebiyat Fakültesi | Matematik Mühendisliği |
+| DE           | BSH Hausgeräte GmbH | Mimarlık Fakültesi | Endüstri Ürünleri Tasarımı |
+| ES           | Universidad De Castilla-La Mancha | Fen-Edebiyat Fakültesi | Moleküler Biyoloji ve Genetik |
+| ES           | University Of Granada | İşletme Fakültesi | İşletme Mühendisliği |
+| DE           | Universität Duisburg-Essen | Fen Bilimleri Enstitüsü | Hidrolik ve Su Kaynakları Mühendisliği |
+| DE           | Center Of Excellence For Polysaccharide Research, Friedrich Schiller University Of Jena | Fen Bilimleri Enstitüsü | Moleküler Biyoloji ve Genetik |

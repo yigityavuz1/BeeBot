@@ -1,0 +1,76 @@
+Title: 
+
+URL Source: https://www.sis.itu.edu.tr/TR/ogrenci/lisans/cap-yandal-yatay-gecis/202110/202110_ituiciyatay_taban_tavan_puanlari.htm
+
+Markdown Content:
+**2020-2021 Akademik Yılı Asil Listesi Lisans İTÜ İçi Yatay Geçiş Taban Tavan Not Ortalamaları**
+
+| Bölüm | 3.YY | 5.YY |
+| Yerleşen | Tavan Not Ortalaması | Taban Not Ortalaması | Yerleşen | Tavan Not Ortalaması | Taban Not Ortalaması |
+| **İnşaat Fakültesi** |
+| İnşaat Mühendisliği (% 30 İngilizce) | 5 | 3.56 | 3.32 | 0 | \-- | \-- |
+| İnşaat Mühendisliği (% 100 İngilizce) | 2 | 3.31 | 3.25 | 0 | \-- | \-- |
+| Geomatik Mühendisliği (% 30 İngilizce) | 1 | 3.1 | 3.1 | 0 | \-- | \-- |
+| Geomatik  Mühendisliği(% 100 İngilizce) | 0 | \-- | \-- | 0 | \-- | \-- |
+| Çevre Mühendisliği (% 30 İngilizce) | 3 | 2.75 | 2.67 | 0 | \-- | \-- |
+| Çevre Mühendisliği (% 100 İngilizce) | 1 | 3.01 | 3.01 | 0 | \-- | \-- |
+| **Mimarlık Fakültesi** |
+| Mimarlık (% 30 İngilizce) | 3 | 3.82 | 3.61 | 3 | 3.66 | 3.45 |
+| Mimarlık  (% 100 İngilizce) | 2 | 3.78 | 3.63 | 2 | 3.34 | 3.34 |
+| Şehir ve Bölge Planlaması (% 30 İngilizce) | 0 | \-- | \-- | 0 | \-- | \-- |
+| Şehir ve Bölge Planlaması  (% 100 İngilizce) | 0 | \-- | \-- | 0 | \-- | \-- |
+| Endüstri Ürünleri Tasarımı  (% 100 İngilizce) | 2 | 3.56 | 3.55 | 2 | 3.48 | 3.29 |
+| İç Mimarlık (% 30 İngilizce) | 2 | 3.61 | 3.52 | 1 | 3.24 | 3.24 |
+| Peyzaj Mimarlığı  (% 100 İngilizce) | 2 | 3.36 | 3.22 | 0 | \-- | \-- |
+| **Makina Fakültesi** |
+| Makina Mühendisliği (% 30 İngilizce) | 8 | 3.82 | 3.54 | 1 | 3.29 | 3.29 |
+| **Elektrik - Elektronik Fakültesi** |
+| Elektronik ve Haberleşme Mühendisliği (% 30 İngilizce) | 5 | 3.93 | 3.82 | 3 | 3.57 | 3.03 |
+| Elektronik ve Haberleşme Mühendisliği (% 100 İngilizce) | 3 | 3.93 | 3.81 | 0 | \-- | \-- |
+| Elektrik Mühendisliği (% 30 İngilizce) | 6 | 3.72 | 3.5 | 0 | \-- | \-- |
+| Elektrik Mühendisliği  (% 100 İngilizce) | 3 | 3.76 | 3.6 | 0 | \-- | \-- |
+| Kontrol ve Otomasyon Mühendisliği (% 30 İngilizce) | 3 | 3.85 | 3.75 | 0 | \-- | \-- |
+| Kontrol ve Otomasyon Mühendisliği  (% 100 İngilizce) | 2 | 3.76 | 3.74 | 0 | \-- | \-- |
+| **Maden Fakültesi** |
+| Maden Mühendisliği (% 30 İngilizce) | 0 | \-- | \-- | 0 | \-- | \-- |
+| Jeoloji Mühendisliği (% 30 İngilizce) | 0 | \-- | \-- | 0 | \-- | \-- |
+| Jeofizik Mühendisliği (% 30 İngilizce) | 0 | \-- | \-- | 0 | \-- | \-- |
+| Petrol ve Doğalgaz Mühendisliği  (% 100 İngilizce) | 0 | \-- | \-- | 0 | \-- | \-- |
+| Cevher Hazırlama Mühendisliği (% 30 İngilizce) | 0 | \-- | \-- | 0 | \-- | \-- |
+| **Kimya - Metalurji Fakültesi** |
+| Kimya Mühendisliği (% 30 İngilizce) | 3 | 3.48 | 3.36 | 0 | \-- | \-- |
+| Metalurji ve Malzeme Mühendisliği (% 30 İngilizce) | 5 | 3.58 | 3.4 | 0 | \-- | \-- |
+| Metalurji ve Malzeme Mühendisliği  (% 100 İngilizce) | 5 | 3.5 | 3.32 | 0 | \-- | \-- |
+| Gıda Mühendisliği (% 30 İngilizce) | 2 | 3.33 | 3.25 | 0 | \-- | \-- |
+| **İşletme Fakültesi** |
+| İşletme Mühendisliği  (% 100 İngilizce) | 6 | 3.74 | 3.61 | 0 | \-- | \-- |
+| Endüstri Mühendisliği (% 30 İngilizce) | 5 | 3.94 | 3.76 | 0 | \-- | \-- |
+| Endüstri Mühendisliği  (% 100 İngilizce) | 3 | 3.92 | 3.81 | 0 | \-- | \-- |
+| Ekonomi (% 100 İngilizce) | 3 | 3.52 | 3.47 | 0 | \-- | \-- |
+| **Gemi İnşaatı ve Deniz Bilimleri Fakültesi** |
+| Gemi İnşaatı ve Gemi Makineleri Mühendisliği (% 30 İngilizce) | 2 | 3.55 | 3.44 | 2 | 3.48 | 3.23 |
+| Gemi ve Deniz Teknolojisi Mühendisliği (% 30 İngilizce) | 0 | \-- | \-- | 0 | \-- | \-- |
+| **Fen - Edebiyat Fakültesi** |
+| Matematik Mühendisliği (% 30 İngilizce) | 1 | 3.59 | 3.59 | 0 | \-- | \-- |
+| Fizik Mühendisliği (% 30 İngilizce) | 3 | 3.53 | 3.44 | 0 | \-- | \-- |
+| Kimya (% 30 İngilizce) | 2 | 2.85 | 2.78 | 0 | \-- | \-- |
+| Moleküler Biyoloji ve Genetik  (% 100 İngilizce) | 1 | 3.48 | 3.48 | 0 | \-- | \-- |
+| **Uçak ve Uzay Bilimleri Fakültesi** |
+| Uçak Mühendisliği (% 30 İngilizce) | 2 | 3.94 | 3.88 | 2 | 3.81 | 3.58 |
+| Uzay Mühendisliği  (% 100 İngilizce) | 3 | 3.73 | 3.58 | 0 | \-- | \-- |
+| Meteoroloji Mühendisliği (% 30 İngilizce) | 2 | 3.23 | 3.15 | 0 | \-- | \-- |
+| **Türk Musikisi Devlet Konservatuvarı** |
+| Müzik Teorisi | 1 | 3.71 | 3.71 | 0 | \-- | \-- |
+| Ses Eğitimi | 0 | \-- | \-- | 0 | \-- | \-- |
+| Kompozisyon | 0 | \-- | \-- | 0 | \-- | \-- |
+| Müzik Teknolojileri | 0 | \-- | \-- | 0 | \-- | \-- |
+| Müzikoloji | 0 | \-- | \-- | 0 | \-- | \-- |
+| Türk Halk Oyunları | 0 | \-- | \-- | 0 | \-- | \-- |
+| **Denizcilik Fakültesi** |
+| Gemi Makinaları İşletme Mühendisliği (% 30 İngilizce) | 0 | \-- | \-- | 0 | \-- | \-- |
+| Deniz Ulaştırma İşletme Mühendisliği (% 30 İngilizce) | 2 | 3.19 | 2.8 | 0 | \-- | \-- |
+| **Tekstil Teknolojileri ve Tasarımı Fakültesi** |
+| Tekstil Mühendisliği  (% 100 İngilizce) | 3 | 3.05 | 2.91 | 0 | \-- | \-- |
+| **Bilgisayar ve Bilişim Fakültesi** |
+| Bilgisayar Mühendisliği  (% 100 İngilizce) | 3 | 4 | 3.95 | 0 | \-- | \-- |
+| **İTÜ Kuzey Kıbrıs** |

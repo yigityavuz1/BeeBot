@@ -1,0 +1,47 @@
+**Araştırma Alanları**:
+
+- Matematiksel Finans ve Ekonomi
+- Matematiksel Modelleme
+- Sayısal Optimizasyon
+- Stokastik Diferansiyel Denklemler
+- Oyun Teorisi
+- Diferansiyel Denklemlerin Yaklaşık Çözümleri ve Sayısal Analizi
+- Kesirli Mertebeden Türevli Diferansiyel Denklemlerin Sayısal Çözümleri
+- Nonlineer Dalga Yayılımı
+- Sürekli Ortamlar Mekaniği
+- Plak Titreşim problemleri
+- Hasar Mekaniği
+- Görüntü işleme
+- Değişmeli ve Değişmesiz Cebirler
+- Lie Cebirleri
+- Simetrik Gruplar
+- Sonlu Gruplar
+- Kategori Teorisi
+- Homolojik Cebir
+- Genel Rölativite
+- Gravitasyon Teorileri
+- Kuantum Mekaniği ve Kuantum Alan Teorileri
+- Riemann Geometrisi
+- Weyl Uzayları
+- Geometrik Ölçüm Teorisi
+- Fraktal Geometri
+- Optimal Kontrol
+- H-Sonsuz Kontrol
+- Makine Öğrenmesi
+- Yapay Zeka
+- Derin Öğrenme
+- Sinir Ağları
+- Veri Analizi
+- Tıbbi Modelleme
+- Ekonomik Modelleme
+- Matematiksel Epidemiyoloji
+- Salgın Modellemesi
+- Kombinatorik
+- Graf Teorisi
+- Dominasyon
+- Dengeli Ağlar
+- NP-Tam Sorular
+- Fonksiyonel Analiz
+- Operatörler Teorisi
+- Aşırıdönüşsel Operatörler
+- Operatör ve Matris Fonksiyonlar

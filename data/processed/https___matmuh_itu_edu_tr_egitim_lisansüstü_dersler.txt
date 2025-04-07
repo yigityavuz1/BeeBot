@@ -1,0 +1,62 @@
+**Lisansüstü Dersleri**
+
+**Zorunlu Dersler**
+- MAT501E: Diferansiyel Denklemler I (İngilizce, Güz)
+- MAT502: Reel Analiz I (Türkçe, Bahar)
+- MAT505E: Sayısal Analiz I (İngilizce, Güz)
+- MAT509E: Cebir I (İngilizce, Güz)
+- MAT511E: Diferansiyel Geometri I (İngilizce, Güz)
+- MAT512/MAT512E: Kısmi Diferansiyel Denklemler I (Türkçe/İngilizce, Bahar)
+- MAT557/MAT557E: Sayısal Kısmi Diferansiyel Denklemler I (Türkçe/İngilizce, Bahar)
+- MAT559/MAT559E: Uygulamalı Fonksiyonel Analiz (Türkçe, Güz)
+- MAT596/MAT596E: Bilimsel Araştırma Etik ve Seminer (Türkçe/İngilizce, Güz/Bahar)
+- MAT597/MAT597E: Uzmanlık Alan Dersi (Türkçe/İngilizce, Güz/Bahar)
+- MAT696/MAT696E: Bilimsel Araştırma Etik ve Seminer (İngilizce, Güz/Bahar)
+- MAT697/MAT697E: Uzmanlık Alan Dersi (Türkçe/İngilizce, Güz/Bahar)
+
+**Seçmeli Dersler**
+- MAT503/MAT503E: İntegral Denklemler
+- MAT504/MAT504E: Kompleks Analiz
+- MAT506/MAT506E: Sayısal Lineer Cebir
+- MAT507/MAT507E: Özel Fonksiyonlar
+- MAT508/MAT508E: Manifoldlarda İntegrasyon
+- MAT510/MAT510E: Asimptotik Analiz
+- MAT544/MAT544E: Adi Diferansiyel Denklemler için Sayısal Analiz
+- MAT545/MAT545E: Matematik Mühendisliğinde Özel Konular
+- MAT547/MAT547E: Olasılık Teorisi
+- MAT549/MAT549E: İstatistiksel Modelleme ve Regresyon Analizi
+- MAT551/MAT551E: Hesaplamalı Cebir
+- MAT553/MAT553E: Temel Bilimler için Hesaplamalı Metotlar
+- MAT555/MAT555E: Hesaplamalı Bilimler için İstatistiksel Veri Analizi
+- MAT602/MAT602E: Sayısal Analiz II
+- MAT603/MAT603E: Diferansiyel Topoloji
+- MAT604/MAT604E: Diferansiyel Denklemler II
+- MAT605/MAT605E: Topoloji
+- MAT606/MAT606E: Cebirsel Topoloji
+- MAT607/MAT607E: Halka Teorisi
+- MAT608/MAT608E: Cebir II
+- MAT609/MAT609E: Reel Analiz II
+- MAT610/MAT610E: Diferansiyel Geometri II
+- MAT611/MAT611E: Kısmi Diferansiyel Denklemler II
+- MAT612/MAT612E: Operatörler Teorisi
+- MAT613/MAT613E: Lie Grupları ve Lie Cebirleri
+- MAT614/MAT614E: Sayı Teorisi
+- MAT616/MAT616E: Diferansiyel Denklemlerin Lie Grup Analizine Giriş
+- MAT617/MAT617E: Matematiksel Optimal Kontrol Teorisi I
+- MAT618/MAT618E: Matematiksel Optimal Kontrol Teorisi II
+- MAT619/MAT619E: Harmonik Analiz I
+- MAT620/MAT620E: Harmonik Analiz II
+- MAT622/MAT622E: Kaos ve Dinamik Sistemler
+- MAT625/MAT625E: Stokastik Diferansiyel Denklemlerin Sayısal Çözümü
+- MAT626/MAT626E: Pertürbasyon Yöntemleri
+- MAT628/MAT628E: Kompleks Geometri
+- MAT629/MAT629E: Sürekli Ortamlar Mekaniği
+- MAT631/MAT631E: Lineer Sınır Değer Problemleri
+- MAT632/MAT632E: Homoloji Cebiri
+- MAT633/MAT633E: Yarı Riemann Geometrisi
+- MAT635/MAT635E: Dalga Yayılımı için Sayısal Yöntemler
+- MAT637/MAT637E: Matematik Mühendisliğinde İleri Konular
+- MAT639/MAT639E: Sonlu Grupların Temsil Teorisi
+- MAT641/MAT641E: Dalga Hareketi I-Lineer Dalgalar
+- MAT642/MAT642E: Dalga Hareketi II-Nonlineer Dalgalar
+- MAT644/MAT644E: Sonlu Hacim Yöntemleri I

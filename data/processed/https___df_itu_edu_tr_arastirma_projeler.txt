@@ -1,0 +1,117 @@
+**Title: Projeler**
+
+**Projects:**
+
+1. **Project Name:** Uzaktan algılama yöntemleriyle İstanbul Boğazındaki petrol kirliliği analizi  
+   **Category:** BAP  
+   **Coordinator:** Dr. Burcu Özsoy Çiçek  
+   **Start Date:** 01.07.2012  
+   **End Date:** 31.10.2013  
+   **Budget:** 25,000 TL  
+
+2. **Project Name:** InTraRegio, Towards an Intermodal Transport Network through innovative research-driven clusters in Regions of organised and competitive knowledge  
+   **Category:** AB Projesi/FP7-REGIONS  
+   **Coordinator:** Dr. Münip BAŞ  
+   **Start Date:** 01.01.2012  
+   **End Date:** 31.12.2014  
+   **Budget:** 1,821,519.20 €  
+
+3. **Project Name:** Improving Energy Efficiency of Ships through Optimisation of Ship Operations  
+   **Category:** IAMU  
+   **Coordinator:** Dr. Özcan Arslan  
+   **Start Date:** 01.05.2014  
+   **End Date:** 01.04.2015  
+   **Budget:** $57,000  
+
+4. **Project Name:** Safety Enhancements in Transport by Achieving Human Orientated Resilient Shipping Environment  
+   **Category:** FP7 SEAHORSE FP7-SST-2013-RTD-1  
+   **Coordinator:** İTÜ/Dr. Özcan Arslan  
+   **Start Date:** 01.01.2013  
+   **End Date:** 01.01.2016  
+   **Budget:** 36,800€ İTÜ/ 2,391,966.48€ Total  
+
+5. **Project Name:** Demans Tanısı için Mobil Bilişsel Tarama Testi Geliştirilmesi ve Uygulanması  
+   **Category:** BAP YL Destek  
+   **Coordinator:** Dr. Leyla Tavacıoğlu  
+   **Start Date:** 01.01.2013  
+   **End Date:** 01.01.2014  
+   **Budget:** 5,000 TL  
+
+6. **Project Name:** Örgüt Kültüründe İş Güvenliği Ölçeğinin Geçerlilik ve Güvenilirliği, Tuzla Tersaneler Bölgesi Örneği  
+   **Category:** BAP YL Destek  
+   **Coordinator:** Dr. Leyla Tavacıoğlu  
+   **Start Date:** 01.01.2013  
+   **End Date:** 01.01.2014  
+   **Budget:** 5,000 TL  
+
+7. **Project Name:** Duygusal Zekanın Gemi Adamlarının Çalışma Verimliliği Üzerine Etkileri  
+   **Category:** BAP YL Destek  
+   **Coordinator:** Dr. Leyla Tavacıoğlu  
+   **Start Date:** 01.01.2013  
+   **End Date:** 01.01.2014  
+   **Budget:** 5,000 TL  
+
+8. **Project Name:** Laboratuarımız Mutfak  
+   **Category:** TÜBİTAK Bilim Toplum Projesi  
+   **Coordinator:** Dr. Leyla Tavacıoğlu  
+   **Start Date:** 01.01.2013  
+   **End Date:** 01.01.2014  
+   **Budget:** 28,750 TL  
+
+9. **Project Name:** Ana, ilk ve ortaokul öğrencilerine yaratıcı, deney ve gözleme dayalı uygulamalı fen ve matematik eğitimi ve AR-GE çalışmaları  
+   **Category:** İSTKA/GEN 0160  
+   **Coordinator:** Dr. Leyla Tavacıoğlu  
+   **Start Date:** 01.01.2014  
+   **End Date:** 01.01.2015  
+   **Budget:** 870,000 TL  
+
+10. **Project Name:** Gemi teçhizatı test merkezi  
+    **Category:** ISTKA  
+    **Coordinator:** Dr. Cengiz Deniz  
+    **Start Date:** 15.01.2013  
+    **End Date:** 14.01.2014  
+    **Budget:** 1,167,750 TL  
+
+11. **Project Name:** Gemi ana makine simülatörü tasarımı ve geliştirilmesi  
+    **Category:** San-Tez  
+    **Coordinator:** Dr. İsmail Çiçek  
+    **Start Date:** 01.06.2014  
+    **End Date:** 30.11.2016  
+    **Budget:** 401,430 TL  
+
+12. **Project Name:** ASVTECH Otonom su üstü aracı  
+    **Category:** BAP (Öğrenci tasarım proje destek)  
+    **Coordinator:** Dr. İsmail Çiçek  
+    **Start Date:** 01.10.2013  
+    **End Date:** 30.09.2014  
+    **Budget:** 18,000 TL  
+
+13. **Project Name:** Gemi Dizel motoru parametrik erken arıza tespit sistemi geliştirilmesi  
+    **Category:** BAP  
+    **Coordinator:** Dr. Cengiz Deniz  
+    **Start Date:** 01.11.2014  
+    **Budget:** 23,000 TL  
+
+14. **Project Name:** Gemi dizel motoru verim ölçme sistemi geliştirilmesi  
+    **Category:** BAP  
+    **Coordinator:** Dr. İsmail Çiçek  
+    **Start Date:** 01.11.2014  
+    **Budget:** 22,000 TL  
+
+15. **Project Name:** Gemi Operasyonlarında İnsan Güvenilirliği Analiz ve Takip Sistemi Önerisi (İ-GATS)  
+    **Category:** TÜBİTAK ARDEB 1001 - 2014/I dönem  
+    **Coordinator:** Dr. Metin Çelik  
+    **Start Date:** 15.10.2014  
+    **End Date:** 15.04.2017  
+    **Budget:** 131,001 TL  
+
+16. **Project Name:** Gemi adamlarının bilişsel süreçlerinin modellenmesi ve denizde çatma - çatışma- çarpma önleme üzerine etkisi  
+    **Category:** BAP  
+    **Coordinator:** Doç.Dr. Leyla TAVACIOĞLU  
+    **Start Date:** 07.07.2015  
+    **Budget:** 24,904 TL  
+
+**Contact Information:**
+- **Phone:** +90 (0216) 395 45 01  
+- **Fax:** +90 (216) 395 45 00  
+- **Address:** İTÜ Tuzla Yerleşkesi, 34940, Tuzla, İstanbul  

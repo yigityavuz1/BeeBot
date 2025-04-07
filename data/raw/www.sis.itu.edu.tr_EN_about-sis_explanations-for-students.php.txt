@@ -1,0 +1,75 @@
+Title: İTÜ | Registrar's Office
+
+URL Source: https://www.sis.itu.edu.tr/EN/about-sis/explanations-for-students.php
+
+Markdown Content:
+EXPLANATIONS FOR STUDENTS
+-------------------------
+
+USER LOGIN TO THE SYSTEM
+------------------------
+
+*   Click on the "Login to System" link on the website [www.sis.itu.edu.tr](https://www.sis.itu.edu.tr/EN/)
+*   Your WEB client will be directed to the ITU GİRİŞ server and page on the next page. Enter your ITU login information in the "username and password" sections on this page.
+*   Student Information Automation System can only be accessed after ITU LOGIN user login. After this login, your use will continue with ITU LOGIN rights until your client is closed.
+*   When your ITU LOGIN registration is confirmed, your WEB client will come to the Student Information System "Banner" entry. You can log in to the Student Information System by entering the password of your user number in the PIN field and clicking the Login button.
+*   You will enter the page entitled Istanbul Technical University - Student Information Systems Main Menu. This page is the home page of the system.
+*   If you enter your user number and / or password incorrectly 5 times in a row, your account will be locked. In order to re-enter the system, if you select "PIN Transactions" from the category selection [on the help ticket creation screen](https://yardim.itu.edu.tr/choose.aspx?birim=2&kid=0&akid=0) and "PIN Block transactions" from the sub-category selection, and submit a help ticket, you will be sent your new password.
+
+CHANGING THE PASSWORD
+---------------------
+
+As soon as you connect to the system with your first password given by Student Information Systems Automation, we recommend that you change your password to a password that you can remember. There is no limit to the number of password changes. You can change your password as many times as you want at any time.
+
+*   After logging into the system and accessing ‘Istanbul Technical University Student Information Systems Main Menu’, click on the 'Personal Information' menu item.
+*   Click on the 'Change PIN' menu item under the Personal Information Menu.
+*   After entering your old password in the 'Enter Old PIN' field, enter your new password in the 'Enter new PIN' field, then in the 'Re-enter New PIN' field, and press the 'Change PIN' button.
+*   For a successful password change, your new password must be different from your old password and must consist of six numeric characters.
+*   If your password change process is successful, the system will send you to the 'Personal Information Menu' and give the message 'Your Changes were saved successfully' on the first line of the page. From now on, your logins to the system will only be with your new password.
+
+VIEWING / UPDATING ADDRESS, PHONE AND E-MAIL INFORMATION
+--------------------------------------------------------
+
+*   The address you see in Istanbul Technical University address type is the address given to you by the Information Technologies Directorate. Please do not make any changes to this address, as this address will be used as the official communication channel.
+*   After logging into the system and accessing the 'Istanbul Technical University Main Menu', click on the 'Personal Information' menu item.
+*   Under the Personal Information Menu, you will find four menu items for viewing and updating your address, phone and e-mail information.
+*   Click on the 'See Address and Phone Information' menu item to see your address and telephone information registered in the system.
+*   For an update, click on the 'Update Address and Phone Information' menu item. Select the address type, click 'Update Address and Phones' and enter your new address.
+*   To view your e-mail information registered in the system, click on the 'View E-mail Addresses' menu item.
+*   For updating, select the address type from the 'Update Email Address' menu item and click 'Update E-Mail Addresses'. Check the 'Preferred' option for the e-mail address you prefer to use.
+
+COURSE REGISTRATIONS
+--------------------
+
+Term registrations for the academic year will be online. Faculty Laboratories will also be available at our university between the registration dates.
+
+*   Go to the 'Course Programs' link at [www.sis.itu.edu.tr](https://www.sis.itu.edu.tr/EN/) and view the courses offered by the university for your department. You can determine which courses you want to enroll in and write down the CRNs of these courses. While determining the courses you want to enroll, make sure that there is no time conflict, that it is open for your department and that the prerequisite of the course is met, if any. According to the ITU Undergraduate Education Regulation, the maximum credits you can receive in a semester are determined, make sure to make your choice in accordance with the regulation.
+
+*   After logging into the system and reaching the 'Istanbul Technical University Main Menu', click on the 'Student Service' menu item.
+*   Click on the 'Registration Menu' menu item in the 'Student Service Menu'.
+*   The term to be registered is selected from the Term option. Submit button is clicked. The Course Add / Drop Menu is clicked.
+*   The CRNs to be registered are written in the CRN boxes of the "Add Classes Worksheet" in order, leaving no blank boxes in between.
+*   ‘Submit changes’ button is clicked.
+*   The registered CRNs appear as "Web registered" under "Current Schedule".
+*   “In Registration Add Errors ” section, unregistered CRNs and error reasons are written.
+*   To unsubscribe a registered course, select "Course Change-Web" in the Action box and click on the "Submit Changes" button. The removed lesson will no longer appear under 'Current Schedule'.
+*   You can view your weekly lesson plan from the "Student Schedule by Day and Time".
+*   If you click the "Registration Status" menu item, you can see your status for class, program and course enrolment.
+
+VIEWING REGISTRATION BLOCKS
+---------------------------
+
+*   After logging into the system and reaching the 'Istanbul Technical University Main Menu', click on the 'Student Service' menu item. Click on the 'Student Information' menu item.
+*   If you have any registration block and cannot register, you can view your recording block (s) by clicking the 'See Registration Blocks' menu item.
+
+VIEWING END-OF-SEMESTER GRADES
+------------------------------
+
+*   Enter the "Student Information" menu in the "Student Service" menu.
+*   Click on the “Semester Grades” link.
+*   Select the semester you want to see the notes and press the submit button.
+
+VIEWING THE TRANSCRIPT
+----------------------
+
+You can view your transcript by selecting the transcript from the Student Information Menu.

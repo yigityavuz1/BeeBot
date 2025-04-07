@@ -1,0 +1,55 @@
+**Projeler**
+
+Elektrik mühendisliği akademik personeli ve lisans/lisansüstü programı öğrencilerinin son dönemde yer aldığı başlıca projeler aşağıdadır.
+
+**Yürütücülük / Araştırma Yapılan Projeler:**
+
+- Prof. Dr. Güven KÖMÜRGÖZ, “Transformatörlerde Sargı Arızalarının Modellenmesi, Tespiti ve Arızalara Karşı Transformatör Sargılarının Tasarımı Ve Geliştirilmesi”, TÜBİTAK 2244.
+- Prof. Dr. Lale Tükenmez ERGENE, “Immersive Business and Engineering English in Virtual Reality: A Tool for the Sustainable Mobility of the Skilled Workforce in the EU”, EU Project.
+- Prof. Dr. Tahir Çetin AKINCI, “Vestibuler Hiperfonksiyonlu Hastalarda Giyilebilir Teknoloji Kullanılarak Galvanik Akımla Vestibüler Rehabilitasyon”, TÜBİTAK 2200197.
+- Prof. Dr. Lale Tükenmez ERGENE, Doç. Dr. Murat YILMAZ, “PMaSynRM'nin Beyaz Eşya Uygulamaları İçin Yenilikçi Bir Gerçek Zamanlı Model Tanılama ve Kontrol Sistemi Tasarımı”, TÜBİTAK 1001, 2020 – 2022.
+- Doç. Dr. Murat YILMAZ, “Yüksek Taşıma Kapasiteli ve Uzun Menzilli Çoklu Rotor Döner Kanatlı İnsansız Hava Aracı Geliştirilmesi”, İTÜ - ALTINAY Havacılık, TÜBİTAK 1505, 2020 – 2022.
+- Doç. Dr. Murat YILMAZ, “E5000 Tip Lokomotif Geliştirilmesi”, TÜBİTAK KAMAG, 2017 – 2021.
+- Prof. Dr. İstemihan GENÇ, “Büyük Ölçekli Güç Sistemlerinde İleri İşaret İşleme Ve Makine Öğrenmesi Tabanlı Geniş Alan İzleme Koruma ve Kontrol Sistemi Tasarımı”, TÜBİTAK-1001-118E184, 2018-2020.
+- Prof. Dr. Güven KÖMÜRGÖZ, “Hareket Kontrol Teknolojileri Çalışmalarında Akım Metal – İstanbul Teknik Üniversite İşbirliği Modelinin Geliştirilmesi”, TÜBİTAK 2244.
+- Prof. Dr. Hakan Akyıldız, Doç. Dr. Özgür ÜSTÜN, “Gezinti Teknelerinde Akıllı Bir Yalpa Önleyici Sistemin Geliştirilmesi”, TÜBİTAK 1005-119M665, 01.04.2020-01.07.2020.
+- Dr. Öğr. Üyesi Suat İLHAN, “Uzun ömürlü silikon izolatör için optimum katkı kompozisyonu belirlenmesi ve ömür kestirimi”, TÜBİTAK-1001 117E276, 2017-2020.
+- Prof. Dr. Aydoğan ÖZDEMİR, “Yüksek Doğru Gerilim (HVDC) İletim Hatlarının Korona Karakteristikleri ve Elektromanyetik Etkileri”, TÜBİTAK 215E262, 2017-2020.
+- Prof. Dr. Aydoğan ÖZDEMİR, “Grid Responsive Society Through Building Automation Systems, GReSBAS”, TÜBİTAK-Uluslararası, 2016-2019.
+- Prof. Dr. Aydoğan ÖZDEMİR, “Akıllı Şebekeler ve Akıllı Toplum İçin Gelişmiş Evrimsel Hesaplamalar”, TÜBİTAK-1001-117E773, 2018 - Devam Ediyor.
+- Prof. Dr. Aydoğan ÖZDEMİR, “Dünyanın İlk 72 kV Nominal İşletme Gerilimine Sahip, Dökme Reçineli Kuru Tip Transformatörünün Tasarımı, Prototip İmalatı ve Prototip Testler”, TÜBİTAK-TEYDEB, 2015-2017.
+- Prof. Dr. Mustafa BAĞRIYANIK, “Distribution Network Oriented Demand Response-DiNODR”, AB Destekli-Uluslararası, ERIGrid, 07.03.2017-27.11.2017.
+- Prof. Dr. Aydoğan ÖZDEMİR, “Gamified Management of Distributed Energy Resources-GaMDER”, AB Destekli-Uluslararası, ERIGrid 07.03.2017-27.11.2017.
+- Prof. Dr. Lale TÜKENMEZ ERGENE, “Çamaşır Makinaları İçin Sürekli Mıknatıs Destekli Senkron Relüktans Motor (Pmasynrm) Tasarım Ve Eniyilemesi”, TÜBİTAK-1001, 2015-2017.
+- Prof. Dr. Güven KÖMÜRGÖZ KIRIŞ, “Kuru Tip Güç Transformatörleri İçin Sargı Tekniği Tasarımı, Geliştirilmesi ve Uygulaması”, TÜBİTAK-TEYDEB-1505, 2016-2017.
+- Prof. Dr. Lale TÜKENMEZ ERGENE, Dr. Murat İMERYÜZ, “IE4 Verim Değerine Sahip Ticarileşebilir Senkron Relüktans Motor Projesi”, TÜBİTAK-TEYDEB, 2014-2017.
+- Prof. Dr. İstemihan GENÇ, “Makine Öğrenmesi Teknikleri Ve Popülasyon Tabanlı Optimizasyon Yöntemleri ile Büyük Ölçekli Elektrik Güç Sistemlerinin Dinamik Güvenliğinin Değerlendirilmesi Ve İyileştirilmesi” TÜBİTAK-1001-114E157, 01/12/2014 - 01/12/2016.
+- Prof. Dr. Lale Tükenmez ERGENE, “İTÜ Sanayi Araştırmacı Yetiştirme Programı Projesi”, T.C. Strateji ve Bütçe Başkanlığı, 2013.
+- Prof. Dr. Ayşen Demirören, Y. Doç. Dr. Derya Ahmet Kocabaş, “Elektrik Makineleri Laboratuarının Geliştirilmesi”, İTÜ Bilimsel Araştırma ve Geliştirme Destekleme Programı Projeleri, 2011.
+- Doç. Dr. Lale T. Ergene, “Çamaşır Makinalarında Kullanılan BLDC Motorlarının Moment Titreşimlerini Azaltmaya Yönelik Parametrik Bir Çalışma, TÜBİTAK Projesi, Ref. No:107e201, 2010.
+- Doç. Dr. Ömer Gül, “Üç Fazlı Dengesiz Elektrik Dağıtım Sistemi Ortak Bağlantı Noktası Harmoniklerine Şebeke ve Müşteri Katkılarının Belirlenmesi”, İTÜ Hızlı Destek Projesi, 2010.
+- Doç. Dr. Özgür Üstün, “Elektrikli Araç Geliştirme”, İTÜ Bilimsel Araştırma ve Geliştirme Destekleme Programı Projeleri, 2010.
+- Doç. Dr. Özgür Üstün, “İTÜ Güneş Arabası Tahrik Sistemi Geliştirilmesi”, İTÜ Bilimsel Araştırma ve Geliştirme Destekleme Programı Projeleri, 2009.
+- Doç. Dr. Lale T. Ergene, "A Centre of Excellence for Industrial Innovation", TÜBİTAK Projesi, Ref.No:105e067, 2008.
+- Prof. Dr. Ömer Usta, Kocaeli Havaray (Monoray) Ulaşım Sistemi Fizibilite Çalışması, Kocaeli Büyük Şehir Belediyesi-İstanbul Teknik Üniversitesi, 2007-2008.
+- Doç. Dr. Özgür Üstün, “İTÜ Güneş Arabası Projesi”, İTÜ Bilimsel Araştırma ve Geliştirme Destekleme Programı Projeleri, 2007.
+- Prof. Dr. Faik Mergen, “Elektrik Makineleri Laboratuarının Geliştirilmesi 1”, DPT, 2006.
+- Doç. Dr. Ömer Gül, TEDAŞ Danışmanlık Projesi- İTÜ Döner Sermaye Müdürlüğü.
+- Doç. Dr. Ömer Gül, “Elektrik Dağıtım Sistemlerinde Harmonik Rezonans Potansiyeli Araştırması”, İTÜ Genç Araştırmacıları Destekleme Programı Projeleri.
+
+**Danışmanlık Yapılan Projeler:**
+
+- Doç. Dr. Lale T. Ergene, “Göğüs Kanserinin Dedeksiyonu ve Görüntülenmesi için Yeni Bir Mikrodalga Tomografisi Yaklaşımı”, Ref.No:109E077, TÜBITAK Projesi, 2012.
+- Prof. Dr. Ömer Usta, “GSM/GPRS-Uzaktan Anahtarlamalı Sayaç Tasarımı”, MAKTEK Elektrik 2009-2011.
+- Prof. Dr. Ömer Usta, “GSM/GPRS Gateway & Data Logger”, TÜBİTAK-ENTES Elektronik, 2009-2011.
+- Doç. Dr. Ömer Gül, “BEDAŞ Boğaziçi Elektrik Dağıtım Sistemleri” 2009 - 2010, Istanbul.
+- Doç. Dr. Özgür Üstün, “TOFAŞ R&D Elektrikli Araçların Geliştirilmesi”, 2009-2010, BURSA.
+- Prof. Dr. Adnan Kaypmaz, Aydoğan Özdemir, Mustafa Bağrıyanık, Ömer Gül, “TEİAŞ Marmara Bölgesi İletim Şebekesi”, 2009.
+- Prof. Dr. Kevork Mardikyan, “IBB Raylı Ulaşım Sistemleri, İstanbul”, 2008 - 2010.
+- Prof. Dr. Ömer Usta, “Digital Power Factor Controller”, TUBİTAK-ENTES-İTÜ, 2007-2008.
+- Prof. Dr. Ömer Usta, Elektrik Sayaçlarının PLC üzerinden Uzaktan Okunması-TÜBİTAK-MAKTEK-İTÜ 2006-2008.
+- Doç. Dr. Ömer Gül, Nano Liflerden Oluşan Bir Ağ (Nanoweb) Üretimi İçin Taşınabilir Bir Sistemin Geliştirilmesi ve Prototip İmalatı, TÜBİTAK Projesi.
+
+**Öğrenci Projeleri:** 
+
+- Güneş arabası

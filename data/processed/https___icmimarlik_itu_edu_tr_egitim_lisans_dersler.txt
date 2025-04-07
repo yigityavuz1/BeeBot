@@ -1,0 +1,15 @@
+**Title: Dersler**
+
+### 2019-2020 Bahar Dönemi İtibariyle İç Mimarlık Bölümü Ders Planı (%30 İngilizce)
+
+| **EĞİTİM ÖĞRETİM YILI** | **GÜZ DÖNEMİ** | **BAHAR DÖNEMİ** |
+|-------------------------|----------------|------------------|
+| **I. YIL**              | Project I<br>Visual Com. I: Visualztn. & Tech. Drawing<br>Basic Design and Visual Arts<br>Introduction to Interior Architecture & Ethics<br>Akademik Danışmanlık<br>Mathematics I<br>Statik | Project II<br>Visual Com. II: Visualztn. & Perspective<br>İç Mimarlıkta Tarih, Kuram ve Eleştiri I<br>Introduction to Programming Language (Python)<br>Akademik Danışmanlık<br>Mukavemet<br>English Course I |
+| **II. YIL**             | Project III<br>Taşıyıcı Sistem İlkeleri<br>İç Mimarlıkta Tarih, Kuram ve Eleştiri II<br>Yapı Malzemesi I<br>Akademik Danışmanlık<br>English II<br>Building and Construction in Architecture<br>3rd Smstr Elective Course (ITB) | İç Mimarlık Projesi I<br>Survey and Representation Techniques in Interior Architecture<br>İç Mimarlıkta Tarih, Kuram ve Eleştiri III<br>Akademik Danışmanlık<br>Architectural Building Element Design<br>Environmental Control Studio<br>4th Smstr Elective Course (ITB) |
+| **III. YIL**            | İç Mimarlık Projesi II<br>İç Mimarlıkta Tarih, Kuram ve Eleştiri IV<br>Space and Furniture<br>Investigating Color and Light in Interior Architecture<br>Akademik Danışmanlık<br>Economics<br>Advanced Representation Techniques<br>Statistics for Research and Design | İç Mimarlık Projesi III<br>İç Mimarlıkta Proje Dokümantasyon ve Maliyet Tahmini<br>Yapı Malzemesi II<br>Design Principles of Interior Finishing Systems<br>Akademik Danışmanlık<br>6th Smstr Elective Course I (ITB)<br>6th Smstr Elective Course II (MT) |
+| **IV. YIL**             | İç Mimarlık Projesi IV<br>Paradigms and Case Studies in Adaptive Re-use<br>Meslek Pratiği<br>Atatürk İlkeleri & İnkılap Tarihi I<br>Akademik Danışmanlık<br>Türk Dili I<br>7th Smstr Elective Course (MT)<br>7th Smstr Elective Course (MT) | Diploma Projesi<br>Communication Design in Interior Architecture<br>Atatürk İlkeleri & İnkılap Tarihi II<br>Akademik Danışmanlık<br>Türk Dili II<br>8th Smstr Elective Course I (MT)<br>8th Term Elective Course II (MT) |
+
+**İletişim Bilgileri:**
+- **Telefon:** +90 (212) 293 13 00
+- **Faks:** +90 (212) 251 48 95
+- **Adres:** İTÜ Taşkışla Kampüsü, 34437, Şişli, İstanbul

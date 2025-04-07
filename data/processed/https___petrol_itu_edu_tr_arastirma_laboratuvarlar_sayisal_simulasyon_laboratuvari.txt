@@ -1,0 +1,16 @@
+**Title:** Sayısal Simülasyon Laboratuvarı
+
+**Description:** Sayısal Simülasyon laboratuvarında öğrencilerimiz endüstri standartlarında simülatörler, kuyu testi, üretim optimizasyonu ve faz davranışı yazılımları ile çalışma fırsatı bulabilmektedirler. Laboratuvar yüksek lisans ve öğretim üyelerinin araştırma faaliyetlerinde ve lisans öğrencilerinin ders eğitimlerinde kullanılmaktadır.
+
+**Donanımlar:**
+- 24 adet bilgisayar
+- Python, Matlab, C/C++, FORTRAN, Visual Basic derleyicileri
+- CMG, Eclipse, Petrasim, TOUGH II, Rubis rezervuar simülatörleri
+- Petrel jeolojik modelleme yazılımı
+- Ecrin (Veri idaresi, Kararsız basınç testi analizleri, Üretim analizi, Rezervuar simülasyonu ve Kuyu performansı analizi) paketi
+- Gaz boru hattı tasarımı için Pipe Works ve PipeSim
+
+**İletişim Bilgileri:**
+- **Telefon:** +90 212 285 62 70
+- **Fax:** +90 212 285 62 63
+- **Adres:** İTÜ Ayazağa Yerleşkesi, Maden Fakültesi, 34469 Maslak/İstanbul, Türkiye

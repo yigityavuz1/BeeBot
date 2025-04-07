@@ -1,0 +1,265 @@
+Title: İTÜ | ÖİDB
+
+URL Source: https://www.sis.itu.edu.tr/TR/obs-hakkinda/sistem-giris-hakkinda.php
+
+Markdown Content:
+İTÜ ÖİDB | Sisteme Giriş Hakkında
+===============
+                           
+
+*   [**ÖBS Giriş**](https://www.sis.itu.edu.tr/TR/obs-giris/obs-giris.php)
+*   [İTÜ Anasayfa](https://www.itu.edu.tr/)
+*   [Ninova](https://ninova.itu.edu.tr/)
+*   [**Program Bilgi Paketi / TYYÇ**](https://www.tyyc.itu.edu.tr/index.php)
+*   [Öğrenci Dekanlığı](https://odek.itu.edu.tr/)
+*   [Yardım](https://yardim.itu.edu.tr/birim.aspx?birim=2&ogrenci+isleri+daire+baskanligi)
+*   [İletişim](https://www.sis.itu.edu.tr/TR/iletisim/iletisim.php)
+*   [ENGLISH](https://www.sis.itu.edu.tr/EN/about-sis/system_login_instruction.php)
+*   [![Image 15](https://www.sis.itu.edu.tr/icon/search.png)](https://www.sis.itu.edu.tr/TR/arama/ara.php)
+
+ [![Image 16](https://www.sis.itu.edu.tr/v2/lib/img/oidb-logo-tr.png)](https://www.sis.itu.edu.tr/)[![Image 17](https://www.sis.itu.edu.tr/v2/lib/img/oidb-logo-tr.png)](https://www.sis.itu.edu.tr/)
+
+*   [Hakkımızda](https://www.sis.itu.edu.tr/TR/obs-hakkinda/sistem-giris-hakkinda.php#)
+    *   [Tarihçe](https://www.sis.itu.edu.tr/TR/hakkimizda/tarihce.php)
+    *   [Özgörev](https://www.sis.itu.edu.tr/TR/hakkimizda/ozgorev.php)
+    *   [Özgörü](https://www.sis.itu.edu.tr/TR/hakkimizda/ozgoru.php)
+    *   [Faaliyetlerimiz](https://www.sis.itu.edu.tr/TR/hakkimizda/faaliyetlerimiz.php)
+    *   [Yönetim ve İdari Kadro](https://www.sis.itu.edu.tr/TR/hakkimizda/personel.php)
+    *   [Süreçler](https://www.sis.itu.edu.tr/TR/obs-hakkinda/sistem-giris-hakkinda.php#)
+        *   [Hassas Görevler](https://www.sis.itu.edu.tr/TR/hakkimizda/hassas-gorevler.php)
+        *   [İş Akış Süreçleri](https://www.sis.itu.edu.tr/TR/hakkimizda/is-akis-surecleri.php)
+*   [ÖBS Hakkında](https://www.sis.itu.edu.tr/TR/obs-hakkinda/sistem-giris-hakkinda.php#)
+    *   [Sistem Hakkında](https://www.sis.itu.edu.tr/TR/obs-hakkinda/sistem-hakkinda.php)
+    *   [Sisteme Giriş Hakkında](https://www.sis.itu.edu.tr/TR/obs-hakkinda/sistem-giris-hakkinda.php)
+    *   [Öğrenciler için Açıklamalar](https://www.sis.itu.edu.tr/TR/obs-hakkinda/ogrenci-icin-aciklamalar.php)
+    *   [Öğretim Elemanları için Açıklamalar](https://www.sis.itu.edu.tr/TR/obs-hakkinda/ogretim-uyesi-icin-aciklamalar.php)
+    *   [Bina Kodları](https://obs.itu.edu.tr/public/GenelTanimlamalar/BinaKodlariList)
+    *   [Önlisans Program Kodları](https://www.sis.itu.edu.tr/TR/obs-hakkinda/onlisans-program-kodlari.php)
+    *   [Lisans Program Kodları](https://www.sis.itu.edu.tr/TR/obs-hakkinda/lisans-program-kodlari.php)
+    *   [Lisansüstü Ders Kodları](https://www.sis.itu.edu.tr/TR/obs-hakkinda/lisansustu-ders-kodlari.php)
+*   [Öğrenci](https://www.sis.itu.edu.tr/TR/obs-hakkinda/sistem-giris-hakkinda.php#)
+    *   Lisans
+        *   [Hazırlık](http://www.ydy.itu.edu.tr/)
+        *   [İTÜ TÖMER (Türkçe Hazırlık)](https://tomer.itu.edu.tr/)
+        *   [Ders Planları](https://obs.itu.edu.tr/public/DersPlan/)
+        *   [Ders Denklikleri](https://obs.itu.edu.tr/public/GenelTanimlamalar/DersPlanDenklikleri)
+        *   [Önşartlar](https://obs.itu.edu.tr/public/GenelTanimlamalar/DersOnsartList)
+        *   [Ders Bilgileri](https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-bilgileri/ders-bilgileri.php)
+        *   [ÇAP, Yandal ve Yatay Geçiş](https://www.sis.itu.edu.tr/TR/ogrenci/lisans/cap-yandal-yatay-gecis/cap-yandal-yatay-gecis.php)
+        *   [Mühendislik Tamamlama](https://www.sis.itu.edu.tr/TR/ogrenci/lisans/muhendislik-tamamlama/muhendislik-tamamlama-planlanlari.php)
+        *   [İntibak Raporu Arşivi](https://www.sis.itu.edu.tr/onkayitlar/OgrenciIntibakArsivi/sonuc/index.php)
+        *   [Azami Süresini Dolduran Öğrenciler](https://www.sis.itu.edu.tr/TR/ogrenci/lisans/azami-suresini-dolduran-ogrenciler/azami-suresini-dolduran-ogrenciler.php)
+        *   [MasterBee](https://masterbee.itu.edu.tr/)
+        *   [Mikrokredi](https://mikrokredi.itu.edu.tr/)
+    *   Lisansüstü
+        *   [Lisansüstü Ders Kodları](https://www.sis.itu.edu.tr/TR/obs-hakkinda/lisansustu-ders-kodlari.php)
+        *   [Lisansüstü Ders Programları](https://www.sis.itu.edu.tr/TR/ogrenci/ders-programi/ders-programi.php?seviye=LU)
+        *   [Lisansüstü Eğitim Enstitüsü](https://lee.itu.edu.tr/)
+    *   [Uluslararası Öğrenciler](https://www.sis.itu.edu.tr/TR/ogrenci/uluslararasi-ogrenci/uluslararasi-ogrenci.php)
+    *   [Ders Programları](https://obs.itu.edu.tr/public/DersProgram)
+    *   [Final Sınav Programı](https://www.sis.itu.edu.tr/TR/ogrenci/final-sinav-programi/sinav-listesi.php)
+    *   [Öğrenci Katkı Payı/Öğrenim Ücretleri](https://www.sis.itu.edu.tr/TR/ogrenci/katki-payi-ogrenim-ucreti/katki-payi-ogrenim-ucreti.php)
+    *   [Erasmus - Değişim Programları](https://www.sis.itu.edu.tr/TR/ogrenci/erasmus-degisim-programlari/erasmus-degisim-programlari.php)
+    *   [Formlar](https://www.sis.itu.edu.tr/TR/ogrenci/formlar/formlar.php)
+    *   [Belge Ücretleri](https://www.sis.itu.edu.tr/TR/ogrenci/belge-ucretleri/belge-ucretleri.php)
+    *   [Eğitim Doğrulama](https://www.sis.itu.edu.tr/TR/ogrenci/egitim-dogrulama/egitim-dogrulama.php)
+    *   [Akademik Takvim](https://www.sis.itu.edu.tr/TR/ogrenci/akademik-takvim/akademik-takvim.php)
+    *   [Özel Öğrenci](https://www.sis.itu.edu.tr/TR/ogrenci/ozel-ogrenci/ozel-ogrenci.php)
+    *   [Denklik Belgesi](https://www.sis.itu.edu.tr/TR/ogrenci/denklik-belgesi/denklik-belgesi.php)
+    *   [Mezuniyet ve Diploma](https://www.sis.itu.edu.tr/TR/ogrenci/mezuniyet-diploma/mezuniyet-diploma.php)
+*   [Kayıt Süreçleri](https://www.sis.itu.edu.tr/TR/obs-hakkinda/sistem-giris-hakkinda.php#)
+    *   Lisans
+        *   [Ders Kayıt](https://www.sis.itu.edu.tr/TR/kayit-surecleri/lisans/lisans-kayit-sureci.php)
+        *   [Ders Kayıt (Çap,Yandal,vb.)](https://www.sis.itu.edu.tr/TR/kayit-surecleri/lisans/ders-kayit-diger.php)
+        *   [Çap - Yandal - Yatay Geçiş Başvuru](https://www.sis.itu.edu.tr/TR/kayit-surecleri/lisans/cap-yandal-yatay-gecis-surec.php)
+    *   Lisansüstü
+        *   [Yüksek Lisans Ders Aşaması](https://lee.itu.edu.tr/ogrenciler/yuksek-lisans/ders-asamasi-sureci)
+        *   [Yüksek Lisans Tez Teslimi](http://www.lee.itu.edu.tr/mevcut-ogrenciler/yuksek-lisans/tez-teslim-sureci)
+        *   [Doktora Ders ve Yeterlik Aşaması](https://lee.itu.edu.tr/ogrenciler/doktora/ders-ve-yeterlik-asamasi-sureci)
+        *   [Doktora Tez Öneri ve Çalışma](https://lee.itu.edu.tr/ogrenciler/doktora/tez-oneri-ve-calisma-sureci)
+        *   [Doktora Tez Teslimi](https://lee.itu.edu.tr/ogrenciler/doktora/tez-teslim-sureci)
+*   [Mevzuat](https://www.sis.itu.edu.tr/TR/obs-hakkinda/sistem-giris-hakkinda.php#)
+    *   [Yönetmelikler ve Yönergeler](https://www.sis.itu.edu.tr/TR/mevzuat/mevzuat.php)
+    *   [Geçerli İngilizce Sınavlar](https://www.sis.itu.edu.tr/TR/mevzuat/ingilizce-gecerli-sinavlar.php)
+*   [Başvuru ve Kabul](https://www.sis.itu.edu.tr/TR/basvuru-kabul/basvuru-kabul.php)
+*   [SSS](https://sss.sis.itu.edu.tr/ "Sıkça Sorulan Sorular")
+*   [ÖBS GİRİŞ](https://www.sis.itu.edu.tr/TR/obs-giris/obs-giris.php)
+
+[](javascript:;)
+
+*   [Anasayfa](https://www.sis.itu.edu.tr/)
+*   [Sisteme Giriş Hakkında](https://www.sis.itu.edu.tr/TR/obs-hakkinda/sistem-giris-hakkinda.php#)
+
+Sisteme Giriş Hakkında
+======================
+
+Bu yönerge Üniversitemiz Öğrencilerinin Öğrenci Bilgi Sistemi üzerinden gerçekleştirebileceği işlemler ile Sisteme Giriş işlemi ve Sistem Menüsü hakkında açıklamalar içermektedir.
+
+İTÜ Öğrenci Bilgi Sistemine Giriş için [https://www.sis.itu.edu.tr/](https://www.sis.itu.edu.tr/) adresi üzerinden “ÖBS Giriş” bağlantısı sizi iki aşamalı kimlik güvenlik denetiminin ilk aşaması için İTÜ Giriş sayfasına yöneltecektir.
+
+[![Image 18: Sisteme Giriş Linki](https://www.sis.itu.edu.tr/TR/obs-hakkinda/sisteme-giris-foto/giris-1.png)](http://uzay.sis.itu.edu.tr/login/index.php)
+
+İTÜ Giriş sayfasında yer alan Kullanıcı Adı ve Şifre bölümlerine İTÜ Hesabınızın kullanıcı ve şifresini girmelisiniz. Bu bilgiler E-posta([https://webmail.itu.edu.tr/](https://webmail.itu.edu.tr/) ) ve Portal ([https://portal.itu.edu.tr](https://portal.itu.edu.tr/) ) için kullanılan tanımlamalardır. İTÜ kullanıcı bilgisi sadece Bilgi İşlem Daire Başkanlığı tarafından verilmektedir.
+
+![Image 19: Sisteme Giriş](https://www.sis.itu.edu.tr/TR/obs-hakkinda/sisteme-giris-foto/giris-2.png)
+
+Oturum açıldıktan sonra ikinci aşamada Öğrenci Bilgi Sistemindeki kullanıcılarınız (Öğrenci Numaraları(nız)) User ID alanında yer alacaktır. Giriş yapmak istediğiniz kullanıcıyı seçerek, bu kullanıcının şifresini PIN alanına yazdıktan sonra Login butonuna tıklayarak Öğrenci Bilgi Sistemine giriş yapabilirsiniz.
+
+Bu aşamadaki şifrenizi (PIN) hatırlamıyorsanız [http://yardim.itu.edu.tr/](https://yardim.itu.edu.tr/birim.aspx?birim=2&ogrenci+isleri+daire+baskanligi) bağlantısından İTÜ kullanıcı bilgileriniz ile giriş yaparak; “Öğrenci İşleri Daire Başkanlığı \> PIN işlemleri \> PIN şifresini unuttum” şeklinde yardım bileti oluşturmanız gerekmektedir. PIN şifresi sadece Öğrenci İşleri Daire Başkanlığı tarafından verilmektedir.
+
+![Image 20: Kullanıcı Pin](https://www.sis.itu.edu.tr/TR/obs-hakkinda/sisteme-giris-foto/giris-3.png)
+
+Giriş işlemi tamamlandıktan sonra işlem menüsü karşınıza çıkacaktır. Gelen ekranda, Bilgi Sistemindeki yetkileriniz ölçüsünde ilgili ekranlara ulaşarak sunduğumuz hizmetten faydalanma olanağı bulacaksınız. Kişisel Bilgiler ve Öğrenci Servisi bağlantıları için detaylı açıklamalar aşağıdaki gibidir
+
+KİŞİSEL BİLGİLER
+================
+
+![Image 21: KİŞİSEL BİLGİLER](https://www.sis.itu.edu.tr/TR/obs-hakkinda/sisteme-giris-foto/giris-4.png)
+
+*   PIN Değiştir
+*   Güvenlik Sorusunu Değiştir
+*   Adres ve Telefon Bilgileri
+*   Adres ve Telefon Bilgilerini Güncelle
+*   E-mail Adresi
+*   E-mail Adresi Güncelle
+*   Acil Durum İletişim
+*   Acil Durum İletişim Güncelleme
+
+ÖĞRENCİ SERVİSİ
+===============
+
+![Image 22: ÖĞRENCİ SERVİSİ](https://www.sis.itu.edu.tr/TR/obs-hakkinda/sisteme-giris-foto/giris-5.png)
+
+KAYIT MENÜSÜ
+------------
+
+*   Dönem Seçme
+*   Ders Ekle/Çıkar #Ders kaydı ve ders ekle/çıkar haftasında Ders Kayıtlarının yapıldığı bağlantı
+*   Gün ve Zamana Göre Öğrenci Çizelgesi #Haftalık ders planınızı görüntülediğiniz bağlantı
+*   Kayıt Durumu #İlgili dönemi seçtiğinizde
+*   Ders kaydı yapabileceğiniz tarih ve saat bilgisi
+*   Sistemde ders seçmenizi engelleyen durum bilgisi
+*   Akademik Durumunuza ait bilgi (Gözetim Listesi,İyi Durum vb. alınabilecek max. Kredi sayısı bu duruma göre değişiklik gösterir.)
+*   Başardığınız toplam kredi bilgisi
+*   Bölümünüze/Fakültenize ait bilgileri içermektedir
+*   Final Giremez Listesi #Final sınavına giremeyecek öğrencilerin listesi
+*   Kayıtlı Dersler #Kayıtlı olunan derslerinizi görüntüleyebilirsiniz
+*   Final Sınav Programı #Dönem sonu sınavlarına ait tarih, yer ve saat bilgileri
+
+ÖĞRENCİ BİLGİLERİ
+-----------------
+
+*   Dönem Notları #Dönem notlarınızı görüntüleyebilirsiniz
+*   Dönemlik Hesap Özeti #Varsa ödenmesi gereken Dönemlik katkı payı miktarına ait bilgiler. Ders kayıt haftasından önce kontrol ediniz
+*   Transkript #Resmi olmayan transkriptinizi görüntüleyebilirsiniz
+*   Transkript (İngilizce) #Resmi olmayan ingilizcetranskriptinizi görüntüleyebilirsiniz
+*   Staj Bilgileri #Staj bilgilerinize ulaşabilirsiniz
+*   Bitirme Projesi Kaydı #Bitirme projenizin kayıt işlemlerini görüntüleyebilirsiniz.
+*   Mezuniyetime Ne Kaldı? \*\*Deneme Sürümü\*\* #Deneme sürümüdür. Derslerinizi ders planınızdan ve transcriptinizden kontrol ediniz. GPA' iniz için sadece transcriptinizi dikkate alınız. Mezuniyetime ne kaldı programı henüz geliştirilme aşamasındadır
+
+DANIŞMAN MENÜSÜ
+---------------
+
+*   Danışman Bilgisi #Danışman bilgilerinizi görüntüleyebilirsiniz
+*   Danışmanın Haftalık Görüşme Planı #Danışman haftalık görüşme planınızı görüntüleyebilirsiniz
+*   Danışman Onay Formu
+*   Akademik Danışman Katılım Cetveli #Danışman katılım cetvelini görüntüleyebilirsiniz
+
+NOT DAĞILIMI
+------------
+
+*   Geçmiş dönemlerde kayıt olduğunuz derslerdeki not dağılımına ulaşabilirsiniz
+
+* * *
+
+### Akademik Takvim
+
+*   [Lisans Akademik Takvimi](https://www.takvim.sis.itu.edu.tr/AkademikTakvim/TR/akademik-takvim/index.php?takvimadi=15 "lisansakademik")
+*   [Lisans Yatay Geçiş, ÇAP, Yandal Takvimi](https://www.takvim.sis.itu.edu.tr/AkademikTakvim/TR/akademik-takvim/index.php?takvimadi=16 "yatay")
+*   [Önkayıt Takvimi](https://www.takvim.sis.itu.edu.tr/AkademikTakvim/TR/akademik-takvim/index.php?takvimadi=17 "onkayit")
+*   [Lisansüstü Akademik Takvimi](https://www.takvim.sis.itu.edu.tr/AkademikTakvim/TR/akademik-takvim/index.php?takvimadi=19 "yukseklisan")
+*   [II.Öğretim Lisansüstü Akademik Takvimi](https://www.takvim.sis.itu.edu.tr/AkademikTakvim/TR/akademik-takvim/index.php?takvimadi=20 "ikinciogretim")
+*   [İngilizce Hazırlık Akademik Takvimi](https://www.takvim.sis.itu.edu.tr/AkademikTakvim/TR/akademik-takvim/index.php?takvimadi=18 "ingilizce")
+
+* * *
+
+### Ders Bilgileri
+
+*   [Ders Planları](https://obs.itu.edu.tr/public/DersPlan/ "dersplanlari")
+*   [Ders Denklikleri](https://obs.itu.edu.tr/public/GenelTanimlamalar/DersPlanDenklikleri "dersdenklikleri")
+*   [Önşartlar](https://obs.itu.edu.tr/public/GenelTanimlamalar/DersOnsartList "onsartlar")
+*   [Ders Bilgileri](https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-bilgileri/ders-bilgileri.php "dersbilgileri")
+*   [Ders Programları](https://obs.itu.edu.tr/public/DersProgram "dersprogramlari")
+*   [Bina Kodları](https://www.sis.itu.edu.tr/TR/obs-hakkinda/bina-kodlari.php "bina")
+*   [Lisans Program Kodları](https://www.sis.itu.edu.tr/TR/obs-hakkinda/lisans-program-kodlari.php "lisansprogram")
+
+### İşlemler
+
+*   [Başvuru ve Kabul](https://www.sis.itu.edu.tr/TR/basvuru-kabul/basvuru-kabul.php "basvuru")
+*   [Çap, Yandal ve Yatay Geçiş İşlemleri](https://www.sis.itu.edu.tr/TR/ogrenci/lisans/cap-yandal-yatay-gecis/cap-yandal-yatay-gecis.php "cap")
+*   [Mezuniyet ve Diploma İşlemleri](https://www.sis.itu.edu.tr/TR/ogrenci/mezuniyet-diploma/mezuniyet-diploma.php "mezuniyet")
+
+* * *
+
+### Enstitüler
+
+*   [Lisansüstü Eğitim Enstitüsü](https://lee.itu.edu.tr/ "Lisansüstü Eğitim Enstitüsü")
+*   [Afet Yönetimi Enstitüsü](https://eedmi.itu.edu.tr/ "afet")
+*   [Avrasya Yer Bilimleri Enstitüsü](https://eies.itu.edu.tr/ "avrasya")
+*   [Bilişim Enstitüsü](http://www.be.itu.edu.tr/ "bilisim")
+*   [Enerji Enstitüsü](https://enerji.itu.edu.tr/ "enerji")
+*   [Havacılık Enstitüsü](https://www.sis.itu.edu.tr/TR/obs-hakkinda/sistem-giris-hakkinda.php# "havacilik")
+
+* * *
+
+*   [**Fakülteler**](https://www.itu.edu.tr/fakulte-listesi "Fakülteler")
+*   * * *
+    
+    [**Yabancı Diller Yüksekokulu**](http://www.ydy.itu.edu.tr/ "beden")
+*   * * *
+    
+    [**Türk Musikisi Devlet Konservatuvarı**](https://tmdk.itu.edu.tr/ "beden")
+*   * * *
+    
+    [**Siber Güvenlik Meslek Yüksekokulu**](https://sgmyo.itu.edu.tr/ "beden")
+
+### Diğer İşlemler
+
+*   [Mevzuat](https://www.sis.itu.edu.tr/TR/mevzuat/mevzuat.php "Mevzuat")
+*   [Erasmus Değişim Programları](https://www.sis.itu.edu.tr/TR/ogrenci/erasmus-degisim-programlari/erasmus-degisim-programlari.php "erasmus")
+*   [Mevlana Değişim Programı](http://www.mevlana.itu.edu.tr/ "mevlana")
+*   [Katkı Payı / Öğrenim Ücreti](https://www.sis.itu.edu.tr/TR/ogrenci/katki-payi-ogrenim-ucreti/katki-payi-ogrenim-ucreti.php "katkipayi")
+*   [Yetkin Mühendislik Sınavı](http://www.yms.itu.edu.tr/ "yetkin")
+*   [Denklik İşlemleri](https://www.sis.itu.edu.tr/TR/ogrenci/denklik-belgesi/denklik-belgesi.php "denklik")
+
+* * *
+
+*   [Webmail](http://webmail.itu.edu.tr/ "webmail")
+*   [İTÜ PORTAL](https://portal.itu.edu.tr/ "portal")
+*   [Ninova Öğrenim Merkezi](https://ninova.itu.edu.tr/ "ninova")
+*   [İTÜ Kariyer ve Staj Merkezi](http://ikm.itu.edu.tr/ "kariyer")
+*   [Uluslararası İlişkiler Ofisi](https://international.itu.edu.tr/tr/anasayfa "uluslararasi")
+*   [Yurtlar ve Burslar Koordinatörlüğü](https://yurtburs.itu.edu.tr/ "yurtburs")
+*   [Engelli Öğrenci Birimi](https://engelsiz.itu.edu.tr/ "engelli")
+*   [Beden Eğitimi Bölümü](https://beb.itu.edu.tr/ "beden")
+
+**Telefon**+90 212 365 78 00-99 (100 hat)
+
+**Faks**+90 212 285 29 09
+
+**İTÜ Ayazağa Kampüsü**Öğrenci İşleri Daire Başkanlığı  
+34469 Maslak - İstanbul
+
+**Öğrenci İşleri Daire Başkanlığı**[Yardım Bileti Oluştur](https://yardim.itu.edu.tr/birim.aspx?birim=2&ogrenci+isleri+daire+baskanligi)
+
+**Öğrenci İşleri Daire Başkanlığı**[Aydınlatma Metni](http://www.sis.itu.edu.tr/TR/KVKK/aydinlatma-metni.php)
+
+**Öğrenci İşleri Daire Başkanlığı**[ogrenciisleri@itu.edu.tr](mailto:ogrenciisleri@itu.edu.tr)
+
+[![Image 23](https://www.sis.itu.edu.tr/v2/lib/img/itu-logo-big.png)](https://www.itu.edu.tr/)
+
+[](https://www.facebook.com/itu1773 "facebook")[](https://twitter.com/itu1773 "twitter")[](https://www.youtube.com/itu1773 "youtube")[](https://www.instagram.com/itu1773/ "instagram")[](https://www.linkedin.com/school/itu1773/ "linkedin")
+
+[İTÜ Bilgi İşlem Daire Başkanlığı © 2021](https://bidb.itu.edu.tr/)
+
+[➤](https://www.sis.itu.edu.tr/TR/obs-hakkinda/sistem-giris-hakkinda.php# "Yukarı")

@@ -1,0 +1,29 @@
+2025-04-07 17:30:53,731 [INFO] HTTP Request: GET http://weaviate:8080/v1/.well-known/openid-configuration "HTTP/1.1 404 Not Found"
+2025-04-07 17:30:53,754 [INFO] HTTP Request: GET http://weaviate:8080/v1/meta "HTTP/1.1 200 OK"
+2025-04-07 17:30:53,869 [INFO] HTTP Request: GET https://pypi.org/pypi/weaviate-client/json "HTTP/1.1 200 OK"
+2025-04-07 17:30:53,906 [INFO] HTTP Request: GET http://weaviate:8080/v1/.well-known/ready "HTTP/1.1 200 OK"
+2025-04-07 17:30:53,950 [INFO] HTTP Request: GET http://weaviate:8080/v1/schema "HTTP/1.1 200 OK"
+2025-04-07 17:30:57,174 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-07 17:30:58,612 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-07 17:30:58,827 [INFO] CONTEXT_ANALYSIS: Retrieved 2 context documents for query: 'KAMU KONUTLARI (LOJMAN) SERVİS SAATLERİ Haftaiçi nasıl?'
+2025-04-07 17:30:59,836 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 17:30:59,877 [INFO] CONTEXT_ANALYSIS: Context sufficiency analysis: False. Web search needed: True
+2025-04-07 17:30:59,879 [INFO] WEB_SEARCH: Searching with query: 'İstanbul Teknik Üniversitesi KAMU KONUTLARI (LOJMAN) SERVİS SAATLERİ Haftaiçi nasıl?'
+2025-04-07 17:31:00,758 [INFO] response: https://lite.duckduckgo.com/lite/ 200
+2025-04-07 17:31:00,770 [INFO] WEB_SEARCH: Found 1 search results
+2025-04-07 17:31:00,772 [INFO] ANSWER_GEN: Including 1 web search results
+2025-04-07 17:31:00,773 [INFO] WEB_RESULT: Web result 1 | Data: BAŞLIK: İYTE Konutlarından Yararlanmak İsteyen Personelimizin Dikkatine
+URL: https://iyte.edu.tr/duyuru/iyte-konutlarindan-yararlanmak-isteyen-persone...
+2025-04-07 17:31:00,775 [INFO] CONTENT_TO_LLM: Sending content to LLM - strict: 1265 chars, relaxed: 1265 chars, web: 214 chars
+2025-04-07 17:31:02,806 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 17:31:02,814 [INFO] LLM_RESPONSE: Successfully parsed LLM response
+2025-04-07 17:33:02,229 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-07 17:33:03,540 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-07 17:33:03,729 [INFO] CONTEXT_ANALYSIS: Retrieved 6 context documents for query: 'Mimarlığa yatay geçiş için not ortalamam kaç olmalı?'
+2025-04-07 17:33:06,017 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 17:33:06,046 [INFO] CONTEXT_ANALYSIS: Context sufficiency analysis: True. Web search needed: False
+2025-04-07 17:33:06,049 [INFO] CONTENT_TO_LLM: Sending content to LLM - strict: 28740 chars, relaxed: 41059 chars, web: 0 chars
+2025-04-07 17:33:06,406 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-07 17:33:06,408 [INFO] Retrying request to /chat/completions in 29.506000 seconds
+2025-04-07 17:33:41,583 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 17:33:41,591 [INFO] LLM_RESPONSE: Successfully parsed LLM response

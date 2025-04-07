@@ -1,0 +1,75 @@
+### Çalışma Alanları
+
+#### GEOTEKNİK
+- Açık Deniz Yapıları Temel Sistemleri
+- Afet Yönetimi
+- Arazi Isıl İletkenlik Deneyi
+- Çevre Geotekniği
+- Deniz Geotekniği
+- Deprem Özelliklerinin Zemin Davranışına Etkisi
+- Derin Kazılarda İksa Perdelerinin Projelendirilmesi
+- Dinamik Analiz
+- Drag Anchor Temel Sistemleri
+- Düzenli Depolama Sahalarının Projelendirilmesi
+- Enerji Kazıkları
+- Geoteknik Mühendisliğinde Stokastik Yöntemler
+- Geoteknik Mühendisliğinde Yapay Sinir Ağları
+- İleri Düzey Numerik Modelleme
+- İstinat Yapılarının Boyutlandırılması
+- Kazık Süreklilik Deneyi
+- Kayma Mukavemeti
+- Kirlenmiş Zeminlerde Alınacak Önlemler
+- Mikrobölgeleme Çalışmaları
+- Sarsma Masası Deneyleri
+- Sığ Geotermal Sistemler
+- Sıvılaşma
+- Şev Stabilitesi Kontrolü
+- Tahribatsız Zemin Deneyleri
+- Temel Mühendisliği
+- Zemin İyileştirme Teknikleri
+- Zemin Stabilizasyonu
+- Zemin-Yapı Etkileşimi
+
+#### HİDROLİK
+- Akarsu Mekaniği
+- Akarsu Yönetimi
+- Akarsularda ve Kıyılarda Katı Madde Hareketi
+- Akım-Taban-Yapı Etkileşimi
+- Akışkanlar Mekaniği
+- Barajlar
+- Dalga Analizi
+- Deniz Yapıları
+- Erozyon
+- Hidrolik Geometri
+- Hidroloji
+- Kıyı Alanlarının Yönetimi
+- Su Kaynakları
+- Taşkın Hidrodinamik Modelleme
+
+#### MEKANİK
+- Akıllı Yapılar
+- Belirsizlik Yöntemleri
+- Deprem Mühendisliği
+- Dinamik Yapı-Zemin Etkileşimi Problemleri
+- Kırılma Mekaniği
+- Mühendislik Yapılarının Bilgisayar ile Analizi
+- Yapı Dinamiği
+
+#### ULAŞTIRMA
+- Dinamik Ağ Modellemesi
+- Karayolu ve Demiryolu Üstyapı Tasarımı
+- Kentiçi Trafik Yönetimi
+- Ulaştırma Planlaması
+
+#### YAPI
+- Ahşap ve Çelik Yapılar
+- Betonarme Yapılar
+- Yapı Mühendisliği
+- Deprem Mühendisliği
+- Yapıların Onarım ve Güçlendirilmesi
+
+#### YAPI MALZEMESİ
+- Beton Tasarımı
+- Çimento Esaslı Malzemelerin Üretim Teknolojileri
+- Yapı Malzemelerinde Nano-Teknoloji Uygulamaları
+- Yüksek performanslı betonlar

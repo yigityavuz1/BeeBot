@@ -1,0 +1,83 @@
+**Title:** KIM101 Genel Kimya Ders İçeriği
+
+**Bölüm ve Konular:**
+
+1. **Atomun Elektron Yapısı**
+   - Atomlar ve Atom Kuramı
+   - Atom Yapısı
+   - Dalton Atom Modeli
+   - Elektromagnetik Işıma
+   - Atomik Spektrum
+   - Hidrojen Atomu (Bohr Modeli)
+   - Kuantum Mekanik Model
+   - Kuantum Sayıları
+   - Enerji Seviyeleri
+   - Orbitaller
+   - Spin
+   - Pauli Prensibi
+   - Elektron Konfigurasyonu
+
+2. **Periyodik Tablo ve Kimyasal Bileşikler**
+   - Periyodik Tablo
+   - Elektron Dağılımları
+   - Elementlerin Sınıflandırılması
+   - Elementlerin Yükseltgenme Basamakları
+   - Atom Büyüklükleri
+   - Elektronegativite
+   - Elektron İlgisi
+   - Kimyasal Bileşikler ve Çeşitleri
+   - Mol Kavramı
+   - Kimyasal Bileşiklerin Açıklanmasında Yükseltgenme Basamakları
+
+3. **Kimyasal Tepkimeler**
+   - Kimyasal Eşitliklerin Denkleştirilmesi
+   - Stokiyometri
+   - Çözeltide Kimyasal Tepkimeler
+   - Molarite
+   - Çözeltinin Seyrelmesi
+   - Asit-Baz Tepkimeleri
+   - Yükseltgenme-İndirgenme Tepkimeleri
+
+4. **Gazlar**
+   - Gaz Basıncı
+   - İdeal Gaz Denklemi
+   - Gazların Kinetik ve Molekül Kuramı
+
+5. **Termokimya**
+   - Isı ve Tepkime Isısı
+   - Termodinamiğin 1. Yasası
+   - Hess Yasası
+   - Enerji Kaynağı Olarak Yakıtlar
+
+6. **Kimyasal Bağlar**
+   - İyonik Bağlanma
+   - Kovalent Bağlanma
+   - Molekül Biçimleri (VSEPR)
+   - Hibritleşme
+   - Bağ Enerjileri
+
+7. **Sıvılar ve Katılar**
+   - Moleküller Arası Kuvvetler
+   - Buhar Basıncı
+   - Faz Diyagramları
+
+8. **Çözeltiler**
+   - Çözelti Türleri
+   - Kütle %, Hacim % ve Mol Kesri
+   - Gazların Çözünürlüğü
+   - Osmotik Basınç
+
+9. **Kimyasal Denge**
+   - Dinamik Denge
+   - Denge Sabiti
+   - Le Chatelier Prensibi
+
+10. **Asitler ve Bazlar**
+    - Arrhenius ve Lowry-Brønsted Kuramları
+    - pH Hesaplamaları
+
+11. **Termodinamik**
+    - Entropi Kavramı
+    - Serbest Enerji ve Denge
+
+Bu içerik, KIM101 Genel Kimya dersi için haftalara göre planlanmış konuları kapsamaktadır.

@@ -1,0 +1,288 @@
+**Tez Çalışmaları**
+
+1. **Hümeira Çavdar (2023)**: Encapsulation of aqueous Hibiscus sabdariffa L. extract in food-grade high internal phase pickering emulsions stabilized by soy protein isolate.
+2. **Rumeysa Bayrak (2023)**: Sunflower oil and protein obtained by aqueous enzymatic extraction.
+3. **Gülay Akkaya (2023)**: Investigation of nonlinear rheological behaviors of tahini-molasses mixtures.
+4. **Ayşe Merve Cellat (2023)**: Effects of packaging materials with different gas permeabilities on the quality and shelf life of commercial powdered soup mixes.
+5. **Feride Sonverdi (2023)**: Effects of packaging materials with different barrier properties on the quality and shelf life of some powdered foods.
+6. **Elif Feyza Aydar (2022)**: Investigation of the functional properties and health effects of flour and bread prepared from Kavılca wheat grown in Kars and modern bread wheat.
+7. **Hande Yenipazar (2022)**: Sustainable strategies to obtain protein from brewery wastes and evaluation of film forming properties.
+8. **Batuhan İnanlar (2022)**: Investigation of the effect of egg components on cake batter rheology and cake texture.
+9. **Parnia Nazari (2022)**: Improvement of functional properties of chickpea flour and application in bakery products.
+10. **Beyza Vahapoğlu (2022)**: Bioactivity and functionality of chickpea protein-spent coffee phenolic complex.
+11. **Dilara Nur Dikmetaş (2022)**: Biological control of Aspergillus flavus growth and its aflatoxin b1 production by antagonistic yeasts.
+12. **Sena Tütüncü Ertan (2022)**: Encapsulation of oil-based cheese aroma by using spray-drying and efficiency of microcapsules in model foods.
+13. **Zeynep Merve Kahveci (2022)**: Enzyme and ultrasound-assisted extraction of phenolic compounds and pectin from pomegranate peel.
+14. **Zehra Mertdinç (2022)**: Protein extraction by ultrasound assisted alkaline extraction from faba beans: Investigation of technofunctional, in vitro bioavailability and ace inhibition properties.
+15. **Ayşenur Betül Bilgin (2022)**: Effect of DBUVC and UVCLED irradiation on microbial inactivation and quality attributes on sweet and sour cherry surfaces.
+16. **Furkan Ediz Hacıhasanoğlu (2022)**: Evaluation on techno-functional, fatty acids and in vitro antioxidant activity of edible house cricket (Acheta domesticus).
+17. **Selin Özhan (2022)**: Development of pea protein agar based biodegradable film with the incorporation of essential oils.
+18. **Onur Atlı (2022)**: Encapsulation of cumin seed oil in chickpea protein-maltodextrin matrix.
+19. **Büşra Kabataş (2021)**: Inulin production from Jerusalem artichoke by ultrasound-assisted extraction.
+20. **Mert Mustafa Eren (2021)**: Ultrasound-assisted extraction of pectin from orange peels.
+21. **Seçin Burcu Sezgin (2021)**: Microbial and sensory properties of various plant-based milks.
+22. **Seda Yaylalı (2021)**: Investigation of the effect of baking parameters on the quality properties of strawberry muffins.
+23. **Elifsu Nemli (2021)**: Improving the bioaccessibility of tomato pomace bioactives by excipient emulsion in bread and tomato sauce samples.
+24. **Meltem Ece Gülhan (2021)**: Effects of lentil flour on the quality of gluten-free muffins.
+25. **Fatimatüz Zehra Sarı (2021)**: Effect of pretreatment methods on drying of pomegranate arils.
+26. **Pelin Ayhan (2020)**: Textural and sensory properties of selected Turkish cheese types.
+27. **Emine Simge Karlığa (2020)**: Encapsulation of bioactive peptides obtained from spirulina platensis and determination of their antioxidant properties.
+28. **Nil Işık Yeşil (2020)**: Characterization of carrageenan films incorporated with flaxseed oil.
+29. **Tuğçe Yılmaz (2020)**: Usage of some traditional fermented products in manufacturing of sourdough bread.
+30. **Nefise Begüm Kırcı (2020)**: Evaluation of edible films with palmarosa oil as active food packaging for kashar cheese.
+31. **Dilek Erbil (2020)**: Determination of some physicochemical and quality parameters of different types of molasses produced by industrial and conventional methods.
+32. **Öznur Karğı (2019)**: Effects of different geographical originated cocoa masses on dark chocolate quality.
+33. **Buşra Sariakçalı (2019)**: Production of angiotensin converting enzyme inhibitory peptides by microbial fermentation.
+34. **Aslı İnal (2019)**: Preparation of nanoemulsion with echium oil and curcumin and investigation of in-vitro digestion behaviour of nanoemulsions.
+35. **Burcu Celep (2019)**: Comparison of traditional and microwave heating on rheology and sensory properties of milk jams made of different milks.
+36. **Seda Kumcu (2019)**: Investigation and optimization of cold active microbial pectinase production.
+37. **Merve Kaya (2019)**: Development of polyurethane based packaging film for fresh fruits and vegetables and its application on fresh broccoli and sweet cherry.
+38. **Osman Eroğlu (2019)**: The effect of different packaging materials and storage temperatures on the quality of natural and roasted hazelnuts.
+39. **Sayna Zahedinia (2019)**: Functional properties of protein isolates and antioxidants of two local Turkish cranberry bean varieties and in-vitro bioaccessibility studies.
+40. **Betül Orhan (2019)**: Investigation of the production potentials of the angiotensin converting enzyme inhibitor on local yeast cultures.
+41. **İlknur İlhan (2019)**: Development of thermally sensitive polyurethane based packaging film and application on fresh strawberry.
+42. **İlayda Hızır Kadi (2019)**: Encapsulation of phenolic extract of pollen in chitosan coated liposomes and in-vitro bioaccessibility studies.
+43. **Cihan Kaan Coşkun (2019)**: Effect of cooling rate on microbiological development in hot foods.
+44. **Sonay Merve Gülay (2019)**: The effect of heat treatment on the growth of Byssochlamys species.
+45. **Elif Gamze Aygün (2019)**: Hardness removal from water through zein membranes obtained by electrospinning.
+46. **Elif Güneşli (2019)**: Antifungal and antimicrobial properties of yeasts isolated from environmental origins.
+47. **Özden İlgüz (2019)**: Evaluation of the use of niaouli volatile oil incorporated edible films as active food packaging for kashar cheese.
+48. **Diyar Selimoğlu Özkan (2019)**: Investigation of sugar reduction with sensory analysis in different chocolates.
+49. **Sinem Betül Canikli (2019)**: Development of milk-based fermented product with low protein content.
+50. **Zeynep Salih Güneş (2019)**: Protein isolation from local lentil varieties grown in Turkey, and the investigation of functional properties and characterization of lentil protein isolates.
+51. **Rukiye Gündoğan (2019)**: Functional properties and physicochemical characterization of proteins isolated from bean varieties grown in Turkey.
+52. **Gülcan Müstaşim (2019)**: Accredited food laboratories according to the standard of the EN ISO/IEC 17025 in Turkey proficiency testing participation and use of reference materials analysis.
+53. **Ezgi Koçer (2019)**: Production of prebiotic yogurt powder and development of its physical properties.
+54. **ECE Özdemir (2018)**: The investigation of antioxidant properties of propolis products obtained from Turkey.
+55. **Burcu Fırtın (2018)**: Microencapsulation of chia seed oil and curcumin and investigation of in-vitro digestion behaviour.
+56. **Şermin Demirpençe (2018)**: Investigation of the relationship between the textural characteristics of potato chips and mass transfer parameters of the oils used for frying.
+57. **Gamze Çelik (2018)**: Effect of UV-C light treatment on decontamination and quality of fresh raspberry and blackberry fruits.
+58. **Kübra Aydınlı (2018)**: Polyphenol content and antioxidant profile of sour cherries (Prunus cerasus L.) from Turkey.
+59. **Seçil Bal Batır (2018)**: Physicochemical and functional properties of Phaseolus coccineus L. protein isolate obtained by isoelectric precipitation method.
+60. **Eda Şensu (2018)**: Determination of bioactive compounds, bioactivities and In Vitro bioaccessibility of different Berberis and Hippophae rhamnoides plants native to Bayburt.
+61. **Solmaz Mohammadi Pour Mavazekhan (2018)**: Characterization of physicochemical properties of caseinomacropeptide treated with transglutaminase.
+62. **Ümmü Büşra Yavuz (2018)**: Stabilization of emulsion of olive oil in water by ultrasound treatment.
+63. **Dilara Devecioğlu (2018)**: Investigation of the antifungal activity of different essential oils and their nanofibers.
+64. **Ertan Şahin (2018)**: Study of Sc-CO2 extraction of cacao bean shell fat and determination of characteristics.
+65. **Neriman Erdem (2018)**: In vitro evaluation of antimicrobial effect of walnut and celery extracts.
+66. **Aslı Güzel (2018)**: Examination of phenolic matter and antioxidant capacity from fruit and vegetables to examples.
+67. **Sümeyye Koç (2018)**: Investigating the gelling properties of chia seed in different model systems and conditions.
+68. **Elif Olfaz Hezer (2018)**: Investigation of freshness of red meat with nondestructive optical methods.
+69. **Elif Olfaz Hezer (2018)**: Investigation of freshness of red meat with nondestructive optical methods.
+70. **Meryem Tuğce Karaca (2018)**: Aspergillus section Nigri members' amylase production properties.
+71. **Deryanur Kalkavan (2018)**: Effect of different amounts of steam application on quality properties of bread during steam assisted baking.
+72. **Kübra Ayan (2018)**: Determination of the stability of beeswax encapsulated red beetroot extract in kefir.
+73. **Burcu Şaşmaz (2018)**: Investigation of roasting temperature, time and relative humidity on quality of hazelnuts.
+74. **Merve Koyuncu (2018)**: Quinoa starch isolated from native quinoa seed: Characterization, functional properties and product application.
+75. **Öznur Saroğlu (2018)**: Detection of some quality properties and antioxidant activity of bee products like; honey, pollen and propolis obtained from Bayburt and different regions of Turkey.
+76. **Eda Nur Ayar (2017)**: Nanoencapsulation of the black carrot extraction with complex coacervation method: Optimization with response surface method.
+77. **Ceyda Sarı (2017)**: Antimicrobial effect of yeast isolated from kefir.
+78. **Hande Nur Akhan (2017)**: Encapsulation of beetroot antioxidants by coacervation and optimization of the parameters using fractional factorial design.
+79. **Sema Özdemir (2017)**: Evaluation of food safety management system applications in food retail sector.
+80. **Ayşe Sitare Karakaş Tiftikçi (2017)**: Encapsulation of sour cherry juice concentrate with spray drying and increasing encapsulation yield by using various proteins.
+81. **Ceren Özkan (2017)**: Investigating the bioavailability and bioactivity of black carrot polyphenols in an in-vitro epithelial-endothelial co-culture model.
+82. **Merve Ece Arabacı (2017)**: Spontaneously fermented meats: Isolation and characterization of lactic acid bacteria as possible starter cultures.
+83. **Mahdi Derazshamshir (2017)**: Development of formulation of pudding containing caseinomacropeptide.
+84. **Hazal Akyol (2017)**: Optimization of extraction method in potato peel waste and evaluation of antioxidant activity and phenolic content in various PEF treated potato varieties.
+85. **Berna Topçu (2017)**: Effect of processing on the phenolic content and antioxidant activity of oat flour substituted breads.
+86. **Büşra Demircan (2017)**: Production of novel vegetal based beverages fermented by probiotic lactic acid bacteria.
+87. **Gamze Hanbeyoğlu Aktürk (2017)**: Influence of emulsifier type on the stabilization of palm olein double emulsion (W/O/W)-based delivery systems for reduced calorie foods.
+88. **Hatice Sungur Birinci (2017)**: Acidic milk beverage production by using glucono-delta-lactone.
+89. **Reyhan Koyuncu (2017)**: Production of BAMLET protein and increase stability with coacervation.
+90. **Zeynep Dayıoğlugil (2017)**: Investigation and optimization of microbial amylase production.
+91. **İpek Ekin (2017)**: Encapsulation of black mulberry extract by ionic gelation method and microencapsule enriched kefir.
+92. **Damla Ezgi Uzun (2017)**: Effect of processing steps on the phenolic compounds and protein digestibility of cowpea.
+93. **Gülnaz Artan (2017)**: Transglutaminase enzyme's effect on emulsifying properties of caseinomacropeptide.
+94. **Farzaneh Azizadeh (2017)**: The separation of phenolic compounds from red colored fruit juices by using electrospun nanofiber membranes.
+95. **Damla Kavassan (2017)**: Evaluation of chemical and physicochemical properties of dietary fibers extracted from dry bean and chickpea.
+96. **Esra Aytemur (2017)**: The effects of different combination of wall materials to encapsulation of clary sage oil with spray dryer.
+97. **Ekin Ongan (2016)**: Screening of the phenolic profile for the determination of adulteration in pomegranate juices.
+98. **Yeşim Serin (2016)**: Determination of the bacterial sourced exopolysaccharides on viscosity.
+99. **Gökçe Altın (2016)**: Ayran (drinking yoghurt) nano-lipozomal systems with encapsulated cocoa hull waste extract: Shelf life and bioaccessibility studies.
+100. **Serpil Gönül (2016)**: Impact of bee pollen fermentation on the profile and bioaccessibility of phenolic compounds.
+101. **Ceren Adıgüzel (2016)**: Immobilization of β-galactosidase onto chitosan nanofibers.
+102. **Mustafa Bayraktar (2016)**: Investigating the effects of ultrasound on quality parameters of honey (HMF, enzymes) and evaluating alternative methods vs conventional technologies.
+103. **Merve Akar (2016)**: Evaluation of frying performance of canola and sunflower oil.
+104. **Selin Dağ (2016)**: Effects of exopolysaccharides produced by lactic acid bacteria on the liquid wheat.
+105. **Beyza Şükran Işık (2016)**: The uniaxial and coaxial electrospun nanofiber encapsulation of sour cherry (Prunus cerasus L.) anthocyanins and their in vitro bioaccessibility.
+106. **Evindar Doğan (2016)**: Development of heat resistant compound chocolate.
+107. **İsel Çiprut (2016)**: Monitoring the quality of potato crisps and occurring processing contaminants.
+108. **Betül Toktaş (2016)**: Effect of fermentation on phenolic content, anthocyanin stability, antioxidant capacity and in vitro bioaccessibility during shalgam (şalgam) beverage production.
+109. **Cansu Gülseven (2016)**: Demineralization of whey by electrodialysis.
+110. **Pınar Babat (2016)**: The influence of digestion on the malondialdehyde behaviour in oil-in-water emulsions.
+111. **Merve Nur Eren (2016)**: Effects of four methods on homogeneity of filter cake and operational variables during filtration of mash in beer production.
+112. **Nurçiçek Dedetaş (2016)**: The investigation of the effects of ultrasound technology on fish oil encapsulation with sporopollenin exine capsule.
+113. **Hatice Saadiye Eryılmaz (2016)**: Valorization of functional protein from a plant-based food waste: Sour cherry kernel, and its physicochemical characteristics.
+114. **Saide Başak Arıkan (2016)**: Nanofiber membrane filtration and microwave applications during fruit juice processing.
+115. **Turgay Çetinkaya (2016)**: Design and characterization of novel O/W/O double emulsions.
+116. **Tuğba Özbek (2016)**: Chia seed added strawberry marmalade with no added sugar.
+117. **Evren Demircan (2016)**: Encapsulation of phenolic compounds which extracted from apple peels.
+118. **Esra Kocaman (2016)**: Effects of pH and transglutaminase enzyme on gelation of caseinomacropeptide.
+119. **Melda Tavlaşoğlu (2016)**: Encapsulation of black carrot extract in pectin and/or Na-alginat beads by cold gelation.
+120. **Ece Gökmen (2016)**: Investigation of ochratoxin a (OTA) production by black Aspergilli strains on dried vine fruit media.
+121. **İlkay Kırma (2016)**: Exopolysaccharide production by using food borne lactic acid bacteria.
+122. **Sinem Kamile Gedik (2016)**: Isolation of dietary fibers from lentils, characterization and evaluation of their functional properties.
+123. **Zeynep Bakkaloğlu (2015)**: The case of R&D studies in Turkey food industry and offering suggestions to improve R&D studies.
+124. **Melek Demirci (2015)**: Formation of epoxy fatty acids during photooxidation.
+125. **Esra Başaran (2015)**: The effects of ultrasound pretreatments on hazelnut oil yield and quality.
+126. **Merve Güven (2015)**: Characterization and modelling of pumpkin chips production with microwave assisted drying method.
+127. **Halime Esin Akın (2015)**: Investigation of the effect of visible light treatment on storage life and quality parameters of post-harvest tomatoes.
+128. **Ayşe Nur Bulut (2015)**: Sugar reduction in soft cookies with stevia.
+129. **Tuğba Yılmaz (2015)**: Nanoencapsulation of vitamin E via electrospinning and the investigation of factors affecting electrospinning, characterization of nanofibers.
+130. **Gizem Muazzez Yılmaz (2015)**: The effect of ultrasound pretreatment on drying characteristics of apple slices.
+131. **Hülya Yarar (2015)**: Effects of gaseous ozone treatment on quality attributes of some foods during cold storage.
+132. **Osman Yağız Turan (2015)**: Improvement of the quality parameters of cold stored food materials by the application of ultraviolet-C light.
+133. **Selin Hande Başaran (2015)**: The effect of ultrasound pretreatment on drying characteristics of apple slices.
+134. **Ayşe Gizem Kor Ulukut (2015)**: The effect of chickpea flour, peanut flour and red pepper seed flour on thermal and rheological properties of masa flour.
+135. **Dilek Erbil (2015)**: Determination of some physicochemical and quality parameters of different types of molasses produced by industrial and conventional methods.
+136. **Fatma Damla Bilen (2015)**: Stability of palace halva in relation to storage temperature and relative humidity.
+137. **Ayça Ayfer Paslı (2015)**: Kara havuç, kırmızı pancar, nar ve çileğin ekşi maya ekmeklerinde starter kültür kaynağı olarak değerlendirilmesi.
+138. **Buket Sağbasan (2015)**: Investigating the bioaccesibility of antioxidants in red fruits commonly consumed in Turkey.
+139. **Gizem Çatalkaya (2015)**: In vitro bioaccessibility of anthocyanins in black chokeberry (Aronia melanocarpa) added yogurts.
+140. **Fatma Duygu Ceylan (2015)**: Comparing the antioxidant properties and in vitro bioaccessibility of phenolic compounds in simple and milk added green tea and sea buckthorn leaf tea.
+141. **Hüseyin Korkmaz (2015)**: Parameters affecting bromate formation during the ozonation of source water and the applications which control bromate formation.
+142. **Bahar Nur Okumuş (2015)**: Characterization of brown lentil starch and investigation of resistant starch type V formation with different lipids.
+143. **Dönay Uysal (2015)**: Effects of magnetic field treatment on quality attributes of salami during cold storage.
+144. **Hande Yüce (2015)**: Changes in antioxidant quantity and bioavailability of sour cherry, black grape and pomegranate juices fermented with water kefir grain.
+145. **Hilal Demirkesen (2015)**: Physico-chemical and functional properties of resistant starch prepared from black chickpea (Cicer arietinum L.) starch by enzymatic method.
+146. **Hande Altan (2015)**: Effect of hydrothermal treatments on the physicochemical properties and resistant starch content of buckwheat starch.
+147. **Kadriye Nur Kasapoğlu (2015)**: Phenolic profile, antioxidant activity and bioaccessibility of peels and fleshes of a local red beet variety native to Turkey.
+148. **Sinem Doğal (2015)**: Antibacterial effect of some lactic acid bacteria on Enterobacter sakazakii.
+149. **Kadir Çınar (2015)**: Investigation of the effects of membran filtration techniques on composition and quality of white brined cheese.
+150. **Hilal Nur Yavuz (2015)**: Investigation of antifungal effect of thyme and cardamom essential oils.
+151. **Nagihan Ayvaz (2014)**: Investigation of potential use of ozone and UV radiation in microbial decontamination of black pepper.
+152. **Erinç Koçak (2014)**: Evaluation of antioxidant capacities and the in-vitro bioavailabilities of Osmanlı strawberry, Osmanlı strawberry jam and strawberry tree (Arbutus unedo).
+153. **Öyküm Bahar Esen (2014)**: Health related properties of different parts of walnut (Juglans regia L.) and walnut drink.
+154. **Yasemin Şengül (2014)**: Different freezing and thawing methods effect on antioxidant and physical properties of pomegranate.
+155. **Sebahat Özakça (2014)**: Natural occurrence of aflatoxin and ochratoxin a in red peppers.
+156. **Gözde Doğan (2014)**: Investigating the changes in antioxidant components of fresh-cut lettuce.
+157. **Sena Bakır (2014)**: Investigating the phenolic content and in vitro bioaccessibility of some vinegars, and changes in antioxidant activity during grape and apple vinegar processing.
+158. **Merve Yılmazer (2014)**: Characterisation and functionalization of electrospun carbon nanofibers and carbon nanotubes.
+159. **Emre Ömer Nas (2014)**: An investigation on the relations between process parameters and quality characteristics of pastry margarine.
+160. **Bengül Asar (2014)**: Hot air frying of fresh and frozen finger potatoes in domestic ovens and its effects on various quality parameters.
+161. **Furat Alakraa (2014)**: Production and optimization of carotenoids and lipids from oleaginous red yeast Rhodosporidium toruloides Y27012.
+162. **İpek Hazal Ünver (2014)**: Developing probiotic yogurt using Saccharomyces boulardii and various prebiotics investigation of their effects on yogurts.
+163. **Bengi Ece Yalçın (2014)**: Investigating phenolic content, antioxidant activity and bioavailability of raw/steam cooked buckwheat, black chickpea and brown lentil.
+164. **Serap Fatma Çelik (2014)**: Antioxidant activity and polyphenol composition of sesame paste and grape molasses blends.
+165. **Ümit Altuntaş (2014)**: Measurement of migration from packaging materials into some foods launched in Turkey.
+166. **Pınar Küçükakar (2014)**: Determination the effect of temperature and water activity on growth and ochratoxin A production of Aspergillus carbonarius.
+167. **Zeynep Aslanoğlu (2014)**: Determination of ochratoxin A and fumonisin B2 in dried vine fruits.
+168. **Gönül Çavuşoğlu (2014)**: Investigation of different ozone gas doses treatments on broccolies, cucumbers and tomatoes postharvest quality during cold storage.
+169. **Saman Hendessı (2014)**: Utilization of electrospun nanofibers containing gelatin or gelatin-cellulose acetate for preventing syneresis in tomato ketchup.
+170. **Aynur Çetin (2014)**: Evaluating the antioxidant potential and in vitro bioavailability of different phenolics in model systems.
+171. **Alparslan Kumru (2013)**: Investigations on affecting parameters of electrospinning and rheological properties of model food systems containing electrospun gelatin-pectin nanofibers.
+172. **Havvana Tuba Yavuz (2013)**: Migration of dipropylene and tripropylene glycol diacrylate from packaging materials and screening of potential risks for paper packagings.
+173. **Tuğba Öksüz (2013)**: Food matrix effect on bioavailability of phenolics and anthocyanins in sour cherry.
+174. **Zehra Gülsünoglu (2013)**: The effect of coacervation technique on the viability of model microorganisms.
+175. **Cansu Sedefoğlu (2013)**: Determination of Ochratoxin a and Aflatoxins in pistachio nuts.
+176. **Ceren Değirmenci (2013)**: Determination of Ochratoxin a and Fumonisin B2 in red wines.
+177. **Özlem Özmen (2013)**: Concentration of omega-3 and omega-6 fatty acids by urea fractionation and enzymatic methods.
+178. **Canel Elikoğlu (2013)**: The effect of temperature and water activity on growth and ochratoxin A production of Aspergillus carbonarius.
+179. **Merve Tomaş (2013)**: Changes in antioxidants and in-vitro bioaccessibility during black mulberry juice and jam processing.
+180. **Damla Arucu (2013)**: Determination of sensory quality olive oils obtained from different natural region olives.
+181. **Hafizenur Şengül (2013)**: Effects of food matrix and food components on bioavailability of anthocyanins in pomegranate.
+182. **Betül Yeşiltaş (2013)**: Antioxidative effects of Fucus vesiculosus extracts in fish oil enriched mayonnaise.
+183. **Tayfun Yaman (2013)**: Quality evaluation of pomegranate arils with chickpea starch based edible film.
+184. **Özge İlgöy Gözükara (2013)**: Effect of drying methods on physicochemical and sorption properties of pumpkin powder and use of pumpkin powder in cake production.
+185. **Nagi̇han Okutan (2013)**: Using electrospun gelatin nanofibers as stabilizers in emulsions.
+186. **Ela Ergüney (2013)**: Improvement of physical properties of cherry laurel powder.
+187. **Parva Hesami Ghahramanlou (2013)**: Quantitative evaluation of microstructural changes of apple undergoing different hot air drying temperatures.
+188. **Pınar Terzi (2013)**: Electrospun gelatine nanofibers as thickener for foods.
+189. **Bahtınur Kapçı (2013)**: Characteristic components and antioxidant potential of black chokeberry and black chokeberry products.
+190. **Çiğdem Kurt (2013)**: Effect of high power ultrasound treatment on physical properties of fermented milk beverage.
+191. **Semra Pektaş (2013)**: Effects of temperature and packaging conditions on minced meat quality during cold storage.
+192. **Pınar Peri (2012)**: Investigating the effect of aging on the phenolic content, antioxidant activity and anthocyanins in wines collected from Turkey.
+193. **Gözde Gülsere (2012)**: Determination of the amount of lactic acid obtained from boza-based lactic acid bacteria and its inhibition effect against staphylococcus aureus.
+194. **Ahu Üner (2012)**: Analysis of antimicrobial substances produced by lactic acid bacteria and determination of their activity on foodborne spoilage yeasts.
+195. **Fatma Türkmen (2012)**: The effect of high power ultrasound treatment on physicochemical and gelation properties of milk.
+196. **Ayşegül Mutlu (2012)**: Determination the effect of temperature on growth and ochratoxin A production properties of Aspergillus section Nigri members.
+197. **Sezen Süzme (2012)**: The effect of food processing on antioxidant capacity of purple carrot.
+198. **Gökçe Engüdar (2012)**: Safra tuzlarının model lipid membranlar ile etkileşimi.
+199. **Tuğçe Çoruhlı (2012)**: Encapsulation of black mulberry anthocyanins by ionic gellation method and optimization of encapsulation parameters by response surface methodology.
+200. **Fatma Davarcı (2012)**: Effects of some physical parameters on penetration, size and shape in alginate gel microencapsulation.
+201. **Dilek Erarslan (2012)**: Determination of different temperature treatments for Aspergillus section flavi members.
+202. **Fatma Cebeci (2012)**: Investigating the matrix effect of blueberry, oat meal and milk on polyphenols, antioxidant activity and potential bioavailability.
+203. **Tuba Parlak Uzunoğlu (2012)**: The effect of high power ultrasound treatment on microbiological and sensory properties of ayran with short and long shelf lives.
+204. **Deniz Dinçer (2012)**: Determination of cyclopiazonic acid production ability of Aspergillus flavus and Aspergillus tamarii and investigation of heat and time effect on cyclopiazonic acid production by Aspergillus flavus and Aspergillus tamarii.
+205. **Changes in polyphenols and antioxidant activity during the processing of pomegranate into nectar.**
+206. **Changes in antioxidant capacity of chocolate added with almonds.**
+207. **Investigation of freezing rate effect on fresh red meat quality.**
+208. **Investigation of surface decontamination applications of some fresh cut vegetables and raw poultry meat.**
+209. **Determination of the presence of aflatoxins in dried fig.**
+210. **Comparison of hydroxyproline determination methods in meat products.**
+211. **Assessment of food safety systems applications in catering sectors.**
+212. **Improving the quality and shelf-life of almond paste.**
+213. **Bovine serum albumin (BSA)'in adsorpsiyon kinetiğine ko-solventlerin etkisi.**
+214. **The Investigation of mycotoxin formation properties of penicillium strains in olive.**
+215. **Rheological characterization of boza.**
+216. **The Use of some corn syrups in traditional Turkish breads.**
+217. **Detection of adulteration of skimmilk powder with whey powder.**
+218. **Functional properties of plum puree edible films: Effect of apple puree and whey protein isolate.**
+219. **The Effect of storage temperature on the shelflife of compound chocolate.**
+220. **The Effects of some essential oils, sodium lactate and sodium acetate on bacillus cereus growth.**
+221. **The Analysis of aflatoxins in tahini and Hazelnut paste by high performance liquid chromatography (HPLC), fluorometer and enzyme linked immunosorbent assay (ELISA).**
+222. **Rheological characterization of tahina.**
+223. **Application of HACCP in a white pickled cheese company.**
+224. **Carbohydrate profiles of honeys adulterated with HFCS.**
+225. **Relationship between some quality parameters of the Turkish wheat flows and their noodle making.**
+226. **The Examination of ISO 9000 quality assurance system using web browser format.**
+227. **Investigation of antimicrobial and antioxidant activities of some spices used in meat products.**
+228. **Changes of a cheese-like product during storage time.**
+229. **Antioxidant capacity and phenolic profile of Gemlik type table olives which are processed by Gemlik method.**
+230. **Determination of effects of different protein sources on physical properties of an imitation cheese.**
+231. **Effect of temperature, pH and concentration on rheological properties of quince puree.**
+232. **Determination of the functional properties of bulgur.**
+233. **Production of diglycerides by lipase-catalyzed glycerolysis in ionic liquids.**
+234. **The effects of physical dough properties on the quality of rye bread.**
+235. **Development of the structure of a hard cheese-like product with low protein content.**
+236. **Effect of different modified atmospheres and irradiation on quality of ready-to-cook refrigerated meatballs.**
+237. **Effect of different modified atmosphere packaging and irradiation on microbial quality and safety of ready-to-cook meatballs.**
+238. **Production of cocoa butter like fats by interesterification of hazelnut oil.**
+239. **Production of cholesterol reduced egg yolk and using in low cholesterol mayonnaise production.**
+240. **Determination of the presence of aflatoxins in dried fig.**
+241. **Mathematical analyzing of foodstuff freezing time prediction models.**
+242. **Chemical characterization of Ayvalık monocultivar olive oils.**
+243. **Determination of kinetics of browning reaction in honey during storage.**
+244. **Occurrence of cyclopiazonic acid in dried figs.**
+245. **Production of conjugated linoleic acid from oils by using lactic acid bacteria.**
+246. **Determination of lipase activity of some strains of Aspergillus niger isolated from different materials on oily rich dried fruits.**
+247. **In addition pumpkin powder to wheat flour effect on bread quality of flour.**
+248. **Effect of homogenization at high pressure on physical properties of stirred yoghurt.**
+249. **The effect of wheat flour types on Challah bread quality.**
+250. **Determination of antibacterial activities of lactic acid bacteria against some pathogens.**
+251. **Production of activated carbon from food fabrication waste and investigation of bleaching performance in soybean oil.**
+252. **Examining phenolic substance profile and antioxidant activities of some herbal teas.**
+253. **Investigation of effect of microwave treatment as a drying method on Aspergillus flavus in hazelnut.**
+254. **The effects of nisin, lysozyme and some plant sources to control the growth of moulds in the different environmental conditions.**
+255. **Antioxidant activities and phenolic substance profile of purple carrot, its concentrate, shalgam beverage, pomegranate juice and sour pomegranate concentrate products.**
+256. **Inhibitory effects of plant-derived antimicrobials on some food-borne pathogenic bacteria.**
+257. **Improvement of physical properties of non-fat fermented milk drink by utilization of whey protein concentrate.**
+258. **Investigation of ochratoxin a and citrinin production of penicillium verrucosum on black and green olives.**
+259. **Determination of origin in honey.**
+260. **Production of functional (Diet) soudjouk with low calorie and reduced fat contents.**
+261. **Lipase production from fungi by solid-state fermentation.**
+262. **Ohmic heating system design and effect of different solution concentration and voltage application to ohmic heating.**
+263. **Physicochemical and in vitro hypoglycemic characteristics of fiber-rich fractions of brined-vine leaves.**
+264. **Osmotic dehydration of pumpkin and influence of osmotic pretreatments on hot air drying and rehydration characteristics.**
+265. **Effect of heat treatment in manufacture of hazelnut meal on oxidation during storage period.**
+266. **Development of a new organic grape molasses product and determination of shelf life and quality parameters.**
+267. **The effect of inulin isomalt addition on the rheological and sensory attributes of vanilla flavored yoghurt ice cream.**
+268. **Determination of total antioxidant activities and phenolic compounds in green and black teas produced by microwave technology.**
+269. **Influence of some sucrose substitutes on rheological properties of chocolate.**
+270. **Enrichment of hazelnut oil with conjugated linoleic acid by lipase and production of functional/structured lipid summary.**
+271. **Affects of different cereal brans on bread quality.**
+272. **Effects of gamma irradiation on quality and safety of 'çiğ köfte' (raw meatball).**
+273. **Investigation of pathogenic microorganisms and analysis of some pathogens by VIDAS system in butter, cheese and baked potato product.**
+274. **Prevention of Bacillus cereus growth in fruit juices.**
+275. **Examination of saccharose degrading activity of lactic acid bacteria in boza.**
+276. **Effects of gamma irradiation on quality of minced beef and meat balls.**
+277. **Enrichment of hazelnut oil by long chain polyunsaturated Omega-3 fatty acids by using lipase.**
+278. **Proteolysis and lipolysis in white cheeses manufactured by two different production methods.**
+279. **Fortification of bread with amino acid chelated iron and zinc compounds.**
+280. **Production of lipids by moulds by solid state fermentation.**
+281. **Improvement of textural properties of ayran.**
+282. **Evaluation of surface decontamination applications of some fresh cut vegetables and raw poultry meat.**
+283. **Determination of rheological properties of salep drink.**
+284. **Influence of temperature, time and salt concentration on citrinin production in olive.**
+285. **The tempering of wheat by using different temperatures and time and influence on some properties of flour.**
+286. **Factors affecting the inhibition of penicillium citrinum with microwave in olives.**

@@ -1,0 +1,176 @@
+**Title:** Kitapçık A KIM101 Ara Sınav-1
+
+**Date:** 17 Mart 2024
+
+**Constants:**
+- c = 2.998 × 10^8 m/s
+- g = 9.8 m/s²
+- h = 6.626 × 10^-34 J·s
+- RH = 2.179 × 10^-18 J
+- NA = 6.02 × 10^23
+- 1 cal = 4.184 J
+- 1 atm = 760 mmHg = 101325 Pa
+- R = 0.08206 L·atm·mol^-1·K^-1
+
+**Questions:**
+1. A jewelry alloy has a density of 12.412 g/cm³ and contains 75.0% gold. If we have 522 g of gold, what is the volume of the alloy produced?
+   - A) 8.64 × 10³ cm³
+   - B) 31.5 cm³
+   - C) 4.86 × 10³ cm³
+   - D) 335 cm³
+   - E) 56.1 cm³
+
+2. Which of the following statements is incorrect?
+   - A) Matter is composed of very small units called atoms.
+   - B) An element is a substance made of one type of atom.
+   - C) A compound contains regions that differ from other regions of the compound.
+   - D) Homogeneous mixtures are solutions.
+   - E) Elements and compounds are forms of matter.
+
+3. Determine the percentage of the nitrogen isotope 15N given the atomic masses of nitrogen isotopes are 14.0031 and 15.0001 amu, and the average atomic mass of nitrogen is 14.0067 amu.
+   - A) 0.4%
+   - B) 0.04%
+   - C) 99.6%
+   - D) 9.6%
+   - E) 4%
+
+4. Given 10.500 g of calcium hydroxide and 11.125 g of ammonium chloride, what is the mass of the resulting solution after the reaction?
+   - A) 69.605 g
+   - B) 83.941 g
+   - C) 28.914 g
+   - D) 76.652 g
+   - E) 35.961 g
+
+5. What is the mass-to-charge ratio (m/e) for the S2- ion?
+   - A) 1.67 × 10^-4
+   - B) 3.35 × 10^-4
+   - C) 4.17 × 10^-5
+   - D) 1.85 × 10^-5
+   - E) 5.99 × 10^-4
+
+6. What is the atomic mass of an isotope with atomic number 64 and mass number 158 compared to carbon-12?
+   - A) 7.9780
+   - B) 10.1216
+   - C) 9.8734
+   - D) 12.0060
+   - E) 14.9897
+
+7. Which electromagnetic radiation has the highest energy per photon?
+   - A) 662 nm
+   - B) 2.1 × 10^-5 cm
+   - C) 3.58 μm
+   - D) 4.1 × 10^-6 m
+   - E) 0.22 mm
+
+8. What are the possible values for the quantum numbers n = 3, l = ?, m_l = 2, and m_s = +1/2?
+   - A) 0
+   - B) 1
+   - C) 2
+   - D) 3
+   - E) -1/2
+
+9. Which atom has the lowest polarizability?
+   - A) S
+   - B) Si
+   - C) Te
+   - D) At
+   - E) Cs
+
+10. What is the correct order of ionization energies for elements A, B, and C with given electron configurations?
+    - A) C > B > A
+    - B) B > C > A
+    - C) C > A > B
+    - D) A > B > C
+    - E) A > C > B
+
+11. What is the wavelength (in nm) of the photon emitted when an electron in a hydrogen atom transitions from n = 4 to n = 2?
+    - A) 567 nm
+    - B) 728 nm
+    - C) 486 nm
+    - D) 364 nm
+    - E) 243 nm
+
+12. Calculate the de Broglie wavelength of an electron with mass 9.11 × 10^-31 kg.
+    - A) 194 pm
+    - B) 332 pm
+    - C) 33.2 pm
+    - D) 43.6 pm
+    - E) 436 pm
+
+13. Calculate the mass of a single CO2 molecule in grams.
+    - A) 6.8 × 10^-23 g
+    - B) 7.3 × 10^-23 g
+    - C) 8.1 × 10^-23 g
+    - D) 9.4 × 10^-23 g
+    - E) 10.8 × 10^-23 g
+
+14. What are the oxidation states of the atoms in the given compounds?
+    - A) 6+, 4+, 2-, 1-, 5+
+    - B) 4+, 4+, 2-, 1-, 5+
+    - C) 4+, 4+, 0, 1-, 5+
+    - D) 6+, 4+, 0, 2-, 5+
+    - E) 6+, 4+, 0, 1-, 5+
+
+15. What is the empirical formula of a compound containing 0.130 g of nitrogen and 0.370 g of oxygen?
+    - A) NO2
+    - B) NO3
+    - C) N2O4
+    - D) N2O5
+    - E) N3O5
+
+16. What is the mass percentage of NH3 in Co(NH3)6Cl3?
+    - A) 29.5
+    - B) 34.6
+    - C) 38.2
+    - D) 45.7
+    - E) 49.1
+
+17. What is the total of all coefficients in the combustion reaction of malonic acid?
+    - A) 10
+    - B) 9
+    - C) 6
+    - D) 7
+    - E) 8
+
+18. Given the reaction for producing PCl3, how much P4 was used?
+    - A) 77.4 g
+    - B) 124.0 g
+    - C) 62.0 g
+    - D) 248.0 g
+    - E) 89.0 g
+
+19. Rank the densities of the given solutions from highest to lowest.
+    - A) I > II > III
+    - B) II > I > III
+    - C) II > III > I
+    - D) III > I > II
+    - E) III > II > I
+
+20. How many mL of 1.5 M AgNO3 solution is needed to prepare 250 mL of 0.425 M AgNO3?
+    - A) 141.5 mL
+    - B) 70.8 mL
+    - C) 283.2 mL
+    - D) 35.4 mL
+    - E) 17.7 mL
+
+**Answer Key:**
+1) E
+2) C
+3) A
+4) A
+5) A
+6) C
+7) B
+8) C
+9) A
+10) D
+11) C
+12) B
+13) B
+14) E
+15) D
+16) C
+17) E
+18) A
+19) C
+20) B

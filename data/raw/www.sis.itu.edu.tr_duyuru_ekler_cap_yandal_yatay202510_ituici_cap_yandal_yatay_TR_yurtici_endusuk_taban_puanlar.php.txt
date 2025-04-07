@@ -1,0 +1,64 @@
+Title: İTÜ | ÖİDB
+
+URL Source: https://www.sis.itu.edu.tr/duyuru_ekler/cap_yandal_yatay202510/ituici_cap_yandal_yatay/TR/yurtici_endusuk_taban_puanlar.php
+
+Markdown Content:
+2024-2025 EĞİTİM ÖĞRETİM YILI NOT ORTALAMASI İLE KURUM İÇİ (İTÜ İÇİ) YATAY GEÇİŞ BAŞVURUSUNDA BULUNACAK ÖĞRENCİLER İÇİN PROGRAMLARIN YURT İÇİ EN DÜŞÜK TABAN PUANLARI
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Üniversite bünyesindeki aynı düzeyde öğrenci kabul eden diploma programları arasında yatay geçiş başvurusu yapılabilmesi için, öğrencinin merkezi sınava girdiği yıl itibarıyla geçmek istediği diploma programı için geçerli olan puan türünde aldığı merkezi yerleştirme puanının, geçmek istediği diploma programına eşdeğer yurt içindeki diğer üniversitelerin diploma programlarının en düşük taban puanından az olmaması şartı aranır.
+
+**Not:** Programın Yurtiçi En Düşük Taban Puanı oluşmayan yıllardan öğrenci alınmayacaktır.
+
+| İTÜ Fakülte | İTÜ Program | Yurtiçi Eşdeğer Programlar | Programın Yurtiçi En Düşük Taban Puanı |
+| --- | --- | --- | --- |
+| 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017 | 2016 | 2015 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| İnşaat Fakültesi | Çevre Mühendisliği | Çevre Mühendisliği | 307,74435 | 297,9508 | 247,85562 | 283,25365 | 260,64221 | 248,11172 | 244,96757 | 239,65138 | 196,84926 |
+| İnşaat Fakültesi | Geomatik Mühendisliği | Geomatik Mühendisliği,  
+Harita Mühendisliği | 307,70074 | 297,99928 | 247,95038 | 283,21079 | 260,63467 | 248,07593 | 245,15525 | 239,86468 | 218,9123 |
+| İnşaat Fakültesi | İnşaat Mühendisliği | İnşaat Mühendisliği | 307,67307 | 297,97064 | 247,84867 | 283,21548 | 260,62068 | 248,0963 | 244,97851 | 239,62469 | 198,19822 |
+| Mimarlık Fakültesi | Endüstriyel Tasarım | Endüstri Ürünleri Tasarımı,  
+Endüstri Tasarımı,  
+Endüstriyel Tasarım | 195,24202 | 259,61649 | 200,95567 | 200,55309 | 199,78341 | 200,94592 | 204,20019 | 198,97142 | 204,05112 |
+| Mimarlık Fakültesi | İç Mimarlık | İç Mimarlık | 210,4652 | 228,31171 | 199,34133 | 201,8441 | 206,53455 | 199,68774 | 196,37851 | 222,83965 | 205,23287 |
+| Mimarlık Fakültesi | Mimarlık | Mimarlık | 326,27234 | 315,41439 | 262,86405 | 301,86638 | 275,65634 | 261,40827 | 263,57825 | 259,10515 | 202,56306 |
+| Mimarlık Fakültesi | Peyzaj Mimarlığı | Peyzaj Mimarlığı | 240,52869 | 230,60424 | 199,61332 | 217,46361 | 201,17781 | 201,12141 | 204,73741 | 199,30569 | 198,07043 |
+| Mimarlık Fakültesi | Şehir ve Bölge Planlama | Şehir ve Bölge Planlama | 210,73806 | 195,24759 | 198,34238 | 190,80313 | 199,98905 | 200,75076 | 228,4102 | 227,00130 | 204,5871 |
+| Makina Fakültesi | İmalat Mühendisliği | İmalat Mühendisliği | 331,38827 | 310,67914 | 250,95261 | 293,62386 | 266,0498 | 248,88524 | 245,16936 | 240,12414 | 201,21471 |
+| Makina Fakültesi | Makina Mühendisliği | Makina Mühendisliği | 307,69971 | 297,93922 | 247,8496 | 283,21931 | 260,62138 | 248,06064 | 244,96688 | 239,63994 | 200,42181 |
+| Elektrik-Elektronik Fakültesi | Elektrik Mühendisliği | Elektrik Mühendisliği | 307,79687 | 298,18593 | 247,93938 | 283,36253 | 260,62044 | 266,262 | 278,36595 | 292,20085 | 289,85156 |
+| Elektrik-Elektronik Fakültesi | Elektronik ve Haberleşme Mühendisliği | Elektronik ve Haberleşme Mühendisliği,  
+Elektronik Mühendisliği | 325,61111 | 307,1713 | 252,35078 | 283,88474 | 260,80671 | 248,15776 | 244,96105 | 240,85653 | 199,13763 |
+| Elektrik-Elektronik Fakültesi | Kontrol ve Otomasyon Mühendisliği | Kontrol ve Otomasyon Mühendisliği,  
+Mekatronik Mühendisliği | 307,91407 | 298,04678 | 247,86465 | 283,25612 | 260,66313 | 248,06543 | 245,00636 | 239,66146 | 202,67511 |
+| Maden Fakültesi | Cevher Hazırlama Mühendisliği | Yok | \- | \- | \- | \- | \- | \- | \- | \- | \- |
+| Maden Fakültesi | Jeofizik Mühendisliği | Jeofizik Mühendisliği | 307,76505 | 298,16746 | 248,08729 | 286,71049 | 261,39592 | 249,55687 | 244,99748 | 239,9395 | 221,57194 |
+| Maden Fakültesi | Jeoloji Mühendisliği | Jeoloji Mühendisliği | 308,10396 | 298,00444 | 247,90016 | 283,36333 | 261,01753 | 248,19216 | 245,31765 | 239,71369 | 200,43276 |
+| Maden Fakültesi | Maden Mühendisliği | Maden Mühendisliği | 307,67992 | 298,16605 | 248,09292 | 283,30905 | 260,75711 | 248,17132 | 245,51552 | 239,6457 | 197,40161 |
+| Maden Fakültesi | Petrol ve Doğalgaz Mühendisliği | Petrol ve Doğalgaz Mühendisliği | 309,82047 | 299,64884 | 248,64312 | 285,21003 | 261,13628 | 248,12497 | 245,13827 | 240,20513 | 219,14392 |
+| Kimya-Metalurji Fakültesi | Gıda Mühendisliği | Gıda Mühendisliği | 307,73565 | 298,15918 | 247,8562 | 283,22441 | 260,66845 | 248,08658 | 244,96151 | 239,64958 | 199,91587 |
+| Kimya-Metalurji Fakültesi | Kimya Mühendisliği | Kimya Mühendisliği, Kimya Mühendisliği ve Uygulamalı Kimya, Kimya ve Süreç Mühendisliği, Kimya Biyoloji Mühendisliği | 307,719 | 298,17163 | 247,97877 | 283,27625 | 260,72146 | 248,12126 | 245,03231 | 239,6566 | 200,46911 |
+| Kimya-Metalurji Fakültesi | Metalurji ve Malzeme Mühendisliği | Metalurji ve Malzeme Mühendisliği | 307,79145 | 298,34647 | 247,92472 | 283,30464 | 260,72906 | 251,30042 | 258,47598 | 256,88961 | 254,68896 |
+| İşletme Fakültesi | Ekonomi | Ekonomi,  
+İktisat | 196,08323 | 201,98994 | 199,35468 | 188,47529 | 195,3088 | 197,3728 | 196,61001 | 196,72943 | 196,90085 |
+| İşletme Fakültesi | Endüstri Mühendisliği | Endüstri Mühendisliği | 307,68459 | 297,94536 | 247,92752 | 283,21278 | 260,68512 | 248,06974 | 245,15722 | 239,62454 | 197,48014 |
+| İşletme Fakültesi | İşletme Mühendisliği | İşletme Mühendisliği | 341,52263 | 359,27913 | 287,32526 | 283,30691 | 260,7228 | 248,30385 | 246,02881 | 239,77577 | 202,81448 |
+| Gemi İnşaatı ve Deniz Bilimleri Fakültesi | Gemi İnşaatı ve Gemi Makinaları Mühendisliği | Gemi İnşaatı ve Gemi Makinaları Mühendisliği | 312,40888 | 315,23824 | 258,26234 | 303,63141 | 262,46515 | 250,37024 | 248,4826 | 245,98338 | 220,25276 |
+| Gemi İnşaatı ve Deniz Bilimleri Fakültesi | Gemi ve Deniz Teknolojisi Mühendisliği | Yok | \- | \- | \- | \- | \- | \- | \- | \- | \- |
+| Fen-Edebiyat Fakültesi | Fizik Mühendisliği | Fizik Mühendisliği | 307,98097 | 303,56831 | 250,76099 | 284,06236 | 260,62775 | 248,95496 | 245,03551 | 240,02624 | 204,75822 |
+| Fen-Edebiyat Fakültesi | Kimya | Kimya | 238,40294 | 255,58262 | 198,80811 | 241,42971 | 222,12597 | 200,78511 | 212,18167 | 200,46323 | 223,80054 |
+| Fen-Edebiyat Fakültesi | Matematik Mühendisliği | Matematik Mühendisliği | 503,50772 | 482,20758 | 400,43601 | 459,9877 | 421,80485 | 400,29967 | 390,3187 | 244,45766 | 205,02324 |
+| Fen-Edebiyat Fakültesi | Moleküler Biyoloji ve Genetik | Moleküler Biyoloji ve Genetik | 201,6504 | 211,64297 | 200,20008 | 208,35784 | 201,70947 | 200,45191 | 203,29059 | 202,27386 | 198,41017 |
+| Uçak ve Uzay Bilimleri Fakültesi | Meteoroloji Mühendisliği | Meteoroloji Mühendisliği | 341,28329 | 327,0769 | 260,95874 | 312,49674 | 260,9334 | 258,97483 | 274,74383 | 304,59103 | 294,70663 |
+| Uçak ve Uzay Bilimleri Fakültesi | Uçak Mühendisliği | Uçak Mühendisliği  
+Uçak ve Uzay Mühendisliği  
+Havacılık ve Uzay Mühendisliği | 308,00097 | 299,09471 | 248,54219 | 325,93113 | 273,85842 | 253,85038 | 247,62888 | 372,88486 | 358,976 |
+| Uçak ve Uzay Bilimleri Fakültesi | Uzay Mühendisliği | Uzay Mühendisliği  
+Uçak ve Uzay Mühendisliği  
+Havacılık ve Uzay Mühendisliği | 308,00097 | 299,09471 | 248,54219 | 325,93113 | 298,70489 | 248,51483 | 247,62888 | 382,60164 | 210,651 |
+| Denizcilik Fakültesi | Deniz Ulaştırma İşletme Mühendisliği | Deniz Ulaştırma İşletme Mühendisliği | 319,48188 | 301,30322 | 252,58638 | 283,48276 | 260,70916 | 248,52649 | 244,96487 | 239,8645 | 214,19441 |
+| Denizcilik Fakültesi | Gemi Makinaları İşletme Mühendisliği | Gemi Makinaları İşletme Mühendisliği | 311,63532 | 298,08411 | 248,65685 | 288,46685 | 262,30565 | 248,62337 | 245,0672 | 246,64209 | 198,68299 |
+| Tekstil Teknolojileri ve Tasarımı Fakültesi | Tekstil Mühendisliği | Tekstil Mühendisliği | 307,78171 | 297,94173 | 247,8597 | 283,44473 | 260,67235 | 248,28999 | 245,09798 | 239,71401 | 195,65729 |
+| Bilgisayar ve Bilişim Fakültesi | Bilgisayar Mühendisliği | Bilgisayar Mühendisliği | 307,81977 | 298,06059 | 247,85531 | 283,32949 | 260,69013 | 248,0903 | 244,99013 | 239,64829 | 199,90892 |
+| Bilgisayar ve Bilişim Fakültesi | Yapay Zeka ve Veri Mühendisliği | Yapay Zeka Mühendisliği | 317,72396 | 330,96881 | 320,72407 | 357,97517 | 482,06784 | \- | \- | \- | \- |

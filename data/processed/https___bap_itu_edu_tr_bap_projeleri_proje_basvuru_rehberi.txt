@@ -1,0 +1,27 @@
+### Proje Başvuru Rehberi
+
+#### Proje Başvurusunun Sorunsuz Yapılabilmesi İçin:
+
+- Proje başvurusu yapabilmek için öğretim üyesi veya doktora, sanatta yeterlik ya da eşdeğer eğitimini tamamlamış araştırmacı olmak gerekmektedir.
+- AVESİS bilgileri güncellenmelidir.
+- Üniversitemizin akademik kadrolarında bulunmayan diğer araştırmacıların temel kimlik ve iletişim bilgilerine ilave olarak, özgeçmiş dosyalarının başvuru esnasında sisteme yüklenmesi gerekmektedir.
+- Projede yer alacak araştırmacıların, idari kadrolardaki personelin ve öğrencilerin iletişim bilgileri ve özgeçmiş dosyaları sisteme yüklenmelidir.
+- Proje türüne uygun olan “Proje Başvuru Formu” eksiksiz olarak doldurulmalıdır.
+- Kitap satın alım talebi olacak ise, ilgili kitapların alımına ihtiyaç duyulduğuna dair onaylı bir yazının başvuru esnasında sisteme yüklenmesi gerekmektedir.
+- Talep edilecek proje bütçesine temel teşkil edecek olan Proforma Faturaları temin edilmeli ve sisteme yüklenmelidir.
+- Proje konusu gerektiriyorsa Etik Kurul Onay Belgesi temin edilmelidir.
+- Hayvanlar üzerinde yapılacak deneysel çalışmaların söz konusu olması halinde, araştırmacılardan en az birinin “Laboratuvar Hayvanı Kullanım Sertifikası”na sahip olduğuna dair sertifikanın sisteme yüklenmesi gerekmektedir.
+- Başvuru esnasında yüklenen tüm belgeler pdf formatında olmalıdır.
+
+#### Projelerin Değerlendirme Süreci:
+
+1. Proje Süreçleri Yönetim Sisteminde Taslak Proje önerisi başlatılması.
+2. Taslak çalışmasının yürütücü tarafından Ön Başvuru’ya dönüştürülerek BAP Koordinasyon Birimine sunulması.
+3. BAP Proje Ofisinin ön başvuru üzerinde teknik/biçimsel inceleme yapması.
+4. Projenin Komisyon Üyesi değerlendirmesine sunulması.
+5. Gerekli olan projeler için başvurunun hakem değerlendirmesine gönderilmesi.
+6. Komisyon Üyesi tarafından değerlendirme sonucunun Komisyona sunulması.
+7. Gerekli ise, yürütücüden proje üzerinde revizyon yapmasının talep edilmesi.
+8. Komisyonda değerlendirme yapılarak projenin desteklenip desteklenmeyeceğine karar verilmesi.
+
+**Not:** Başvuru yapan araştırmacılar, sistem tarafından otomatik olarak üretilen e-posta mesajı ile bilgilendirilmektedir. Bilgilendirme e-postası alınmaması durumunda sistem üzerinden başvurunuzu kontrol ediniz.

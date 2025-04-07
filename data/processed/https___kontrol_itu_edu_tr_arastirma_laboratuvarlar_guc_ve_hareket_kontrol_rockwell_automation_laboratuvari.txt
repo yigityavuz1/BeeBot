@@ -1,0 +1,37 @@
+**Güç, Hareket ve Proses Kontrol (Rockwell Automation) Laboratuvarı**
+
+**Laboratuvar Sorumlusu:**  
+Doç. Dr. Ali Fuat Ergenç
+
+**Laboratuvar Çalışanları:**  
+Araş. Gör. Hülya Eraslan
+
+**Genel Bilgi:**  
+Laboratuvar, Rockwell Automation firması tarafından yapılan hibe ile 2013 yılında yenilenmiş ve en güncel endüstriyel otomasyon cihazlarıyla donatılmıştır. Görevi, güç ve hareket kontrolü uygulamalarında akademinin ve endüstrinin hedeflerine yönelik araştırmalar yapmak ve üniversite-sanayi işbirliği ile yeni teknolojilerin geliştirilmesine imkan sağlamaktır.
+
+**Laboratuvar Olanakları:**  
+- 12 adet eğitim ve araştırma seti (2 adet Allen Bradley ControlLogix serisi, 1 adet SIL 3 seviyesi CompactLogix serisi PLC)
+- Yedeklenebilir Etherner/IP, ControlNet, DeviceNet haberleşme modülleri
+- Çeşitli giriş çıkış birimleri
+- PowerFlex AC motor sürücü, Kinetix servo motor sürücü ve HMI
+- PowerBench güç kontrol seti
+- 5 adet kompakt hareket kontrol seti (Delta robot, directdrive linear motor seti, vb.)
+- 2 kartezyen robot ve konveyör band sistemi (Schneider Electric)
+- Bilgisayarlar ve gerekli yazılımlar (RSLinx, RSLogix 5000, FTView Studio)
+
+**Laboratuvarda Yapılan Deneyler:**  
+- Ters sarkaç
+- Manyetik levitasyon
+- Çift tank sıvı seviye kontrolü
+
+**Kullanım Amaçları:**  
+- Araştırma projeleri
+- Lisans dersleri
+- Lisans bitirme ödevleri
+- Yüksek lisans ve doktora tez çalışmaları
+- Üniversite-sanayi işbirliği kapsamında eğitim ve proje faaliyetleri
+
+**İletişim Bilgileri:**  
+- **Telefon:** +90 212 285 35 75  
+- **Fax:** +90 212 285 29 20  
+- **Adres:** İTÜ Ayazağa Kampüsü, PK: 34469, Maslak / İstanbul, Türkiye

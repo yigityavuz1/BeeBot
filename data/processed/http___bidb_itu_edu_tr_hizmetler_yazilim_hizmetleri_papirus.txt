@@ -1,0 +1,31 @@
+**Title:** Papirus
+
+**Web Address:** [https://papirus.itu.edu.tr/](https://papirus.itu.edu.tr/)
+
+**Overview:**
+Papirus is a project that allows for the electronic registration of all documents within ITU, facilitating their transmission between units and enabling secure electronic signatures. The project aims to reduce paper usage and increase the speed of document circulation.
+
+**Key Features:**
+- Electronic registration of incoming documents.
+- Data extraction and recording from scanned documents.
+- Electronic circulation of internal documents.
+- Security mechanisms to restrict access to unauthorized users.
+- Preparation of documents for secure electronic signature transmission.
+- Verification of documents sent with secure electronic signatures by the receiving institution.
+- Sending documents externally via KEP (Registered Electronic Mail).
+- Access to unit document archives with search functionality.
+- Ability to take personal notes on documents.
+
+**Contact Information:**
+- **Department:** Bilgi İşlem Daire Başkanlığı
+- **Location:** İTÜ Ayazağa Kampüsü, Maslak-Sarıyer / İstanbul
+- **Phone:** 0212 285 3930
+
+**Additional Services:**
+- **Akademi:** A portal for ITU faculty and research staff to share publications and academic information.
+- **Veti:** A web-based form application for data collection and statistics.
+- **Ninova:** An electronic learning platform for educators and students.
+- **Portal:** A platform to enhance relationships between ITU and its alumni.
+
+**Support:**
+For assistance, users can create and track tickets through the ITU/BIDB help system.

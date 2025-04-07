@@ -1,0 +1,51 @@
+**Course Name:** STATİK (Physical Chemistry)  
+**Course Code:** KIM 202 -202E  
+**Semester:** 1, 2, 3, 4, 5  
+**Local Credits:** 3  
+**ECTS Credits:** 4  
+**Course Language:** Turkish  
+**Prerequisites:** KIM 101 MIN DD or KIM 101E MIN DD  
+**Course Type:** Elective  
+**Department/Program:** Common Pool  
+
+**Course Description:**  
+Basic concepts of physical chemistry, ideal gases, kinetic theory of gases, real gases, distribution functions, collisions, transport properties, 1st, 2nd and 3rd laws of Thermodynamics, work, heat, enthalpy, entropy, Gibbs and Helmholtz free energies, chemical potential, equilibrium, phase equilibrium, solutions, colligative properties, reaction rate expressions, reaction kinetics, rate law, Galvanic and electrolytic cells.
+
+**Course Objectives:**  
+1. To teach basic concepts of physical chemistry to engineering students.  
+2. To provide the ability to apply basic principles to different chemical systems.  
+3. To develop the ability to analyze problems in daily life and engineering from a physical chemistry perspective.
+
+**Course Learning Outcomes:**  
+Students who successfully complete this course will be able to:  
+1. Use ideal and real gas equations.  
+2. Calculate molecular collision elements and use distribution functions.  
+3. Observe the 1st, 2nd, and 3rd laws of thermodynamics in chemical events.  
+4. Use the concept of equilibrium in chemical processes.  
+5. Determine the physicochemical properties of ideal and non-ideal solutions.  
+6. Find the reaction rate in chemical reactions and modify factors affecting the rate.  
+7. Apply basic principles of electrochemistry.
+
+**Course Syllabus Overview:**  
+- **Week 1:** Introduction, definitions, history, Boyle, Charles, Avogadro Laws  
+- **Week 2:** Ideal gas law, Dalton's Law, kinetic theory of gases  
+- **Week 3:** Barometric distribution law, Maxwell-Boltzmann distribution  
+- **Week 4:** Collisions, mean free path, transport properties  
+- **Week 5:** Introduction to thermodynamics, first law, enthalpy  
+- **Week 6:** Energy changes in systems, Joule experiments  
+- **Week 7:** Application of the first law to various processes  
+- **Week 8:** Second law of thermodynamics, entropy  
+- **Week 9:** Entropy changes in chemical reactions  
+- **Week 10:** Internal energy and Gibbs free energy at equilibrium  
+- **Week 11:** Equilibrium between phases, Clasius equation  
+- **Week 12:** Types of solutions, Raoult's law, colligative properties  
+- **Week 13:** Reaction rates and order of reactions  
+- **Week 14:** Introduction to electrochemistry, galvanic cells  
+
+**Textbook:**  
+- P. V. Atkins and J. de Paula, *Atkins Physical Chemistry*  
+- G. W. Castellan, *Physical Chemistry*  
+
+**Assessment Criteria:**  
+- Midterm Exams: 2 (50%)  
+- Final Exam: 1 (50%)  

@@ -1,0 +1,22 @@
+**Title: Genel Bilgiler**
+
+Bilgisayar Mühendisliği Bölümü'nde bilgisayar ağları, bilgisayarla görü, deprem tahmini, doğa-esinli hesaplama, doğal dil işleme, makine öğrenmesi, paralel ve dağıtık bilgi işleme, veri madenciliği, yapay zeka ve robotik, tarımsal izleme ve bilgi sistemleri, biyoinformatik, yazılım modellemesi ve analizi alanlarında eğitim ve araştırmalar yapılmaktadır. Mezunlar, kamu ve özel sektör kuruluşlarında bilgi sistemlerinin kurulması, işletilmesi ve yazılım geliştirme alanlarında çalışabilmektedir. Donanım alanında uzman olan mezunlar, bilgisayarlı sistem tasarlama, üretme ve atanmış sistem geliştirme alanlarında önemli çalışmalar yapmaktadırlar.
+
+İTÜ Bilgisayar Mühendisliği Lisans Programı, ABET Mühendislik Akreditasyon Komisyonu (EAC) tarafından akredite edilmiştir.
+
+**Dersler**
+Bilgisayar Mühendisliği lisans programının ders planları ve dersler hakkında bilgi için Öğrenci İşleri Daire Başkanlığı'na başvurabilirsiniz.
+
+- Bilgisayar Mühendisliği (%30 İngilizce) Ders Planı (2017-2018 Öğretim yılından itibaren yeni öğrenci kabul edilmemektedir.)
+- Bilgisayar Mühendisliği (%100 İngilizce) Ders Planı
+
+**Sıkça Sorulan Sorular**
+
+**Hangi programlama dilleri öğretiliyor?**
+Derslerde öğretilen diller C ve C++. Ayrıca PHP, Java, C#, Prolog, Scheme, Haskell, Python gibi diller de kullanılmaktadır.
+
+**Yatay geçiş koşulları nelerdir?**
+İTÜ'de üniversite dışı yatay geçişler 2nci sınıfa (3ncü yarıyıl) Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal İle Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik uyarınca yapılır.
+
+**Çift anadal programı (ÇAP) koşulları nelerdir?**
+İTÜ'de çift anadal programı Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal İle Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik uyarınca yapılır.

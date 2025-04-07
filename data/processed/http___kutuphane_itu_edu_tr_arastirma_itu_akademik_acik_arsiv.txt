@@ -1,0 +1,16 @@
+**Title:** İTÜ Akademik Açık Arşiv
+
+**Description:** İTÜ Akademik Açık Arşiv (İTÜ AAA), üniversitenin akademik ve idari personeli ile öğrencileri tarafından bilimsel dergilerde yayınlanmış makaleler, araştırma projeleri, konferans metinleri, raporlar, ders notları ve yüksek lisans ve doktora tezlerinin yer aldığı bir arşivdir. Bu çalışmalar, yazar/eser sahiplerinin izinleri dahilinde sınırsız erişime sunulmaktadır.
+
+**Key Information:**
+- **İTÜ Akademik Açık Arşiv Adresi:** http://polen.itu.edu.tr/
+- **İletişim:**
+  - **Telefon:** (0212) 285 35 96
+  - **Santral:** (0212) 285 30 13
+  - **Fax:** (212) 285 33 02
+  - **Adres:** İstanbul Teknik Üniversitesi, Ayazağa Kampüsü, Maslak Sarıyer, İstanbul
+
+**Notes:**
+- Fen Bilimleri Enstitüsü'nün 1992-2014 yılları arasındaki yüksek lisans ve doktora tezleri sisteme yüklenmiştir. Diğer enstitülerin tezleri yüklenmeye devam etmektedir.
+- 2014-2018 yılları arasındaki yazar isteği üzerine erişime kapalı olan tezlerin PDF dosyaları sisteme yüklenmemiştir.
+- Açık arşivde bulunan çalışmalardan yararlanıldığında, kaynak gösterilmesi bilimsel etik açısından gereklidir.

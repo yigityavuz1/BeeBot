@@ -1,0 +1,22 @@
+**Title:** İTÜ Mobil
+
+**KÜNYE:**
+- **İlk yayın tarihi:** Ocak 2015
+- **Aktif kullanıcı sayısı:** Android için 12.000; iOS için 7.000
+- **Web Adresi:** [http://mobil.itu.edu.tr](http://mobil.itu.edu.tr)
+
+**Açıklama:**
+İTÜ Mobil, Android ve iOS platformlarında İTÜ’lülerin üniversite ve kampüs hayatındaki birçok işlemi kolayca yapabilmesini sağlar. Uygulama, üniversite genelindeki duyurulardan kütüphane veritabanına erişim, acil yardım çağrısı, yemekhane menüsü takibi ve kampüs içindeki ring servislerinin yerini görüntüleme gibi birçok bilgiye erişim imkanı sunar. Kullanıcı geri bildirimleri doğrultusunda sürekli olarak güncellenmektedir.
+
+**İletişim:**
+- **Adres:** İTÜ Ayazağa Kampüsü, Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- **Telefon:** 0212 285 3930
+
+**MOBİL UYGULAMA:**
+- Android: [Google Play Store](https://play.google.com/store/apps/details?id=com.v2.itumobil)
+- iOS: [App Store](https://itunes.apple.com/tr/app/itu-mobil/id449118128?mt=8)
+
+**BİDB YARDIM:**
+İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili bilet oluşturabilir ve takibini yapabilirsiniz. [BİDB Yardım Al](http://yardim.itu.edu.tr/birim.aspx?birim=1&bilgi+islem+daire+baskanligi)
+
+**Not:** İTÜ Mobil uygulaması, İTÜ Bilgi İşlem Daire Başkanlığı ürünüdür. © 2023

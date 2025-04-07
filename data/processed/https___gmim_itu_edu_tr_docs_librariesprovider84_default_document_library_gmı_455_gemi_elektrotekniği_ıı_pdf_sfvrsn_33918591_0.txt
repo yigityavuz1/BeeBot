@@ -1,0 +1,53 @@
+**Title:** GMI 455 Gemi Elektrotekniği II (Marine Electrotechnics II)
+
+**Course Information:**
+- **Course Code:** GMI 455
+- **Semester:** 7
+- **Local Credits:** 1.5
+- **ECTS Credits:** 2
+- **Course Type:** Compulsory
+- **Course Language:** Turkish
+- **Prerequisites:** None
+
+**Course Description:**
+- Basic electrical concepts and electrical circuit diagrams.
+- Batteries, transformers, ship electrical power generation and distribution.
+- High voltage systems, DC and AC generators and motors.
+- Motor control systems and circuits, measurement, testing, and fault diagnosis of electric devices.
+
+**Course Objectives:**
+1. Teach the fundamentals of electrical machines.
+2. Teach electrical systems and devices on board ships.
+3. Teach control systems of electrical machines.
+4. Set up electrical control systems and carry out testing and measurements.
+
+**Course Learning Outcomes:**
+Students who pass the course will be able to:
+I. Learn about fundamentals of electrical machines.
+II. Learn about electrical systems on board ships.
+III. Learn about control systems of electrical machines.
+IV. Set up control systems and make measurements.
+
+**Course Plan:**
+1. Basic electrical concepts and electrical diagrams
+2. Batteries
+3. Transformers, ship electrical power generation and distribution systems
+4. High voltage systems
+5. High voltage equipment insulation and switching circuits
+6. DC and AC generators
+7. DC Motors
+8. AC Motors
+9. Motor control devices
+10. Motor control circuits
+11. Lab: Introduction of electric machinery, measuring equipment, reading electrical circuits
+12. Lab: Introduction of control circuit elements, forward running of motor, fault diagnosis and troubleshooting
+13. Lab: Reverse running of motor, fault diagnosis and troubleshooting
+
+**Textbook:**
+1. Fahrettin Küçükşahin, Gemi Elektroteknolojisi, Birsen Yayınevi, 2010.
+2. Christopher Lavers, et al., Basic Electrotechnology for Marine Engineers, Tomas Reed Publication, 2013.
+
+**Assessment Criteria:**
+- Midterm Exams: 35%
+- Laboratory Work: 15%
+- Final Exam: 50%

@@ -1,0 +1,11 @@
+**İTÜ/NET Hizmetleri**
+
+**İTÜ/NET Nedir?**  
+İstanbul Teknik Üniversitesi'nin Bilişim Teknolojileri alt yapısıdır. İTÜ-BİDB tarafından yüksek güvenlik ve erişilebilirlik ile sunulmaktadır. İTÜ/NET, İstanbul Teknik Üniversitesi'ne ait tüm yerleşkelerde bilişim teknolojileri hizmetlerini sağlamak için konumlanmış ağ cihazları ve hesaplama donanımlarını içermektedir.
+
+İTÜ/NET, 2012 yılında açılan İTÜ Kıbrıs Kampüsü ile birlikte 6 ayrı kampüste hizmet vermektedir. Ayazağa Kampüsü ile diğer kampüsler arasındaki bağlantılar kiralık hatlar üzerinden, Tuzla ve Kıbrıs Kampüsleri ile Ayazağa merkez Kampüsü arasındaki bağlantılar ise VPN teknolojileri ile sağlanmaktadır.
+
+**İTÜ/NET Erişim Hizmetleri Altyapısı**  
+İTÜ/NET, yüksek hızlı Ethernet teknolojisi üzerinden hizmet veren fiber optik omurgası ile İstanbul Teknik Üniversitesi'nin teknik altyapısının çekirdeğini oluşturur. Ağ omurgası 40 Gigabit, 10 Gigabit ve Gigabit Ethernet bağlantıları ile sağlanmaktadır. Kullanıcıların ağa erişimi 100Mbps ve 1000Mbps Ethernet teknolojileri ile gerçekleşmektedir. Binalar arası bağlantılar için Multi mode ve Single mode fiber optik kablolar, bina içlerinde ise Cat5e, Cat6, Cat6a ve Cat7 kablolar kullanılmaktadır.
+
+İTÜ/NET'in Global İnternet çıkışı, ULAK-NET üzerinden 5 Gbps Ethernet teknolojisi ile sağlanmaktadır. ULAK-NET'in İstanbul POP noktası İTÜ-BİDB'dir ve güvenlik duvarı ile korunmaktadır.

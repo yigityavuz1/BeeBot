@@ -1,0 +1,54 @@
+**Title: Lisanslı Yazılım Hizmeti**
+
+**Lisanslı Yazılımlar:**
+- IBM: SPSS, 28
+- Mathworks: Matlab, 2022b
+- Solidworks: Solidworks, 2017
+- Texas Instruments: Code Composer, 12.1
+- ESET: NOD32 Endpoint Antivirus, V10
+- Ansys: Ansys, 2023 R1
+- Arena Solutions: Arena, 11
+- Autodesk: 
+  - AutoCAD, 2022
+  - AutoCAD Civil 3D, 2022
+  - Revit, 2022
+  - Navisworks Manage, 2022
+  - 3ds Max Design, 2021
+  - AutoCAD Plant 3D, 2022
+  - Autodesk Maya, 2020
+  - MoldFlow Adviser, 2021
+  - MoldFlow Insight, 2023
+  - MoldFlow Synergy, 2021
+  - Motionbuilder, 2020
+  - MudBox, 2020
+- Aspentech: Aspen, 8.8
+- ETABS: Etabs, 2015
+- Minitab: Minitab, 16
+- NetCAD: NetCAD, 8
+- Phoenics: Phoenics, 2010
+- SAP2000: SAP2000, v18
+- GoldenSoftware: 
+  - Grapher
+  - Surfer
+  - Map Viewer, Version3
+- Bentley: Various software versions (e.g., AutoPIPE V8i, Civilstorm V8i, etc.)
+- XPRT: Dynamita Sumo, 16
+- MSC Software: Multiple software versions (e.g., Actran, Adams, etc.)
+- Plaxis BV: Plaxis 2D, 2019
+- ANSYS: Scade, 2023R2
+- Simio LLC: Simio, 12,205
+- Dassault Systems: Simulia Abaqus, 2024
+- Microsoft: 
+  - Dynamics CRM enterprise, 4
+  - Project Professional, 2016
+  - Visual Studio, 2013
+  - Virtual PC, 2007
+  - Office, 2021
+
+**Contact Information:**
+- İTÜ Ayazağa Kampüsü
+- Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- Phone: 0212 285 3930
+
+**BİDB Yardım:**
+- İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz.

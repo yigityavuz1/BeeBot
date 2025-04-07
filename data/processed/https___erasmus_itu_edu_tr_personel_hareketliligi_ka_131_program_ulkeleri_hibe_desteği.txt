@@ -1,0 +1,42 @@
+**Title: Hibeler**
+
+**KA131 Personel Hareketliliği**
+
+**Hibe Bilgileri:**
+- **Faaliyet Süresi:** Seyahat hariç ardışık 5 iş günü.
+- **Ders Verme Zorunluluğu:** En az 8 ders saati.
+- **Hibe Hesaplama:** 5 iş günü ve 2 seyahat günü üzerinden hesaplanır.
+
+**Günlük Hibe Miktarları:**
+1. **1. Grup Program Ülkeleri:** Danimarka, Finlandiya, İrlanda, İsveç, İzlanda, Lihtenştayn, Lüksemburg, Norveç - **162 €**
+2. **2. Grup Program Ülkeleri:** Almanya, Avusturya, Belçika, Fransa, Güney Kıbrıs, Hollanda, İspanya, İtalya, Malta, Portekiz, Yunanistan - **144 €**
+3. **3. Grup Program Ülkeleri:** Bulgaristan, Çek Cumhuriyeti, Estonya, Hırvatistan, Kuzey Makedonya, Letonya, Litvanya, Macaristan, Polonya, Romanya, Sırbistan, Slovakya, Slovenya - **126 €**
+4. **Diğer Ülkeler:** 1-12. Bölge Ülkeleri - **180 €**
+
+**Seyahat Gideri Hesaplamaları:**
+- Seyahat giderleri için "Distance Calculator" kullanılacaktır.
+- Seyahat hibesi, mesafeye göre belirlenir:
+  - 10-99 KM: 23 €
+  - 100-499 KM: 180 € (210 € yeşil seyahat)
+  - 500-1999 KM: 275 € (320 € yeşil seyahat)
+  - 2000-2999 KM: 360 € (410 € yeşil seyahat)
+  - 3000-3999 KM: 530 € (610 € yeşil seyahat)
+  - 4000-7999 KM: 820 €
+  - 8000 KM ve üzeri: 1500 €
+
+**Hibesiz Katılım:**
+- Personel, hibe almaksızın faaliyete katılabilir. Başvuru gereklidir.
+
+**Geçersiz Faaliyet Durumu:**
+- Mücbir sebep olmaksızın asgari sürenin altında gerçekleştirilen hareketlilik geçersiz sayılır.
+
+**İletişim:**
+- **KA131 Giden Öğrenci Birimi:** +90 (212) 285 76 49, 50, 56
+- **KA131 Gelen Öğrenci Birimi:** +90 (212) 285 76 51, 52
+- **KA131 Staj Hareketliliği Birimi:** +90 (212) 285 76 58
+- **KA171 Öğrenci/Personel Hareketliliği Birimi:** +90 (212) 285 71 84
+
+**Adres:**
+İTÜ Uluslararası İlişkiler Koordinatörlüğü,  
+Uluslararası Değişim Programları Ofisi - Erasmus+ Programı,  
+Ayazağa Kampüsü, Lisansüstü Eğitim Enstitüsü Binası, 3. Kat, 34469, Maslak, İstanbul

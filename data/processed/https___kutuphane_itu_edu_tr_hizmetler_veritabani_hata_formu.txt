@@ -1,0 +1,17 @@
+**Title:** Veritabanı Hata Formu
+
+**Contact Information:**
+- **Phone:** (0212) 285 35 96
+- **Fax:** (212) 285 33 02
+- **Address:** İstanbul Teknik Üniversitesi, Ayazağa Kampüsü, Maslak Sarıyer, İstanbul
+
+**Form Fields:**
+- Ad Soyad (Name)
+- Öğrenci / Sicil Numarası (Student / Registration Number)
+- E-posta Adresi (Email Address)
+- Problemi Seçin (Select Problem)
+- Sorun Yaşanan Veritabanı Adı (Name of the Database with Issues)
+- Problem Detayı (Problem Details)
+- Yaşadığınız hatanın ekran görüntüsünü ekleyiniz (Attach a screenshot of the error you encountered)
+
+**Note:** This form is intended for reporting issues related to databases.

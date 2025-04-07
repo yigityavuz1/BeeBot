@@ -1,0 +1,27 @@
+**Title: Genel Bilgiler**
+
+Bilgisayar Mühendisliği Bölümü'nde bilgisayar ağları, bilgisayarla görü, deprem tahmini, doğa-esinli hesaplama, doğal dil işleme, makine öğrenmesi, paralel ve dağıtık bilgi işleme, veri madenciliği, yapay zeka ve robotik, tarımsal izleme ve bilgi sistemleri, biyoinformatik, yazılım modellemesi ve analizi alanlarında eğitim ve araştırmalar yapılmaktadır. Mezunlar, kamu ve özel sektör kuruluşlarında bilgi sistemlerinin kurulması, işletilmesi ve yazılım geliştirme alanlarında çalışabilmektedir. Uygulama ağırlıklı çalışmalara yatkın olan mezunlar, büyük iletişim ve finans firmalarının araştırma geliştirme bölümlerinde görev yapmaktadırlar. Donanım alanında uzman olan mezunlar, bilgisayarlı sistem tasarlama, üretme ve atanmış sistem geliştirme alanlarında önemli çalışmalar yapmaktadırlar.
+
+İTÜ Bilgisayar Mühendisliği Lisans Programı, ABET Mühendislik Akreditasyon Komisyonu (EAC) tarafından akredite edilmiştir.
+
+**Dersler**
+
+Bilgisayar Mühendisliği lisans programlarının ders planları ve dersler hakkında bilgi için Öğrenci İşleri Daire Başkanlığı'nın sitesine başvurabilirsiniz. 
+
+- Bilgisayar Mühendisliği (%30 İngilizce) Ders Planı (2017-2018 Öğretim yılından itibaren yeni öğrenci kabul edilmemektedir.)
+- Bilgisayar Mühendisliği (%100 İngilizce) Ders Planı
+
+Bitirme ödevlerine ilişkin genel bilgilere ve belgelere BLG 492 Ninova sayfasından ulaşabilirsiniz.
+
+**Sıkça Sorulan Sorular**
+
+**Bilgisayar mühendisliği lisans eğitiminde hangi programlama dilleri öğretiliyor?**
+Bu programda derslerde öğretilen diller C ve C++. Çeşitli derslerin projeleri ve ödevleri için PHP, Java, C#, Prolog, Scheme, Haskell, Python gibi diller de kullanılmaktadır. Bölüm, öğrencilerin yeni dilleri kendi başlarına öğrenebilecek birikimi ve beceriyi kazanmalarına önem vermektedir.
+
+**Bölümünüze yatay geçiş koşulları nelerdir?**
+İTÜ'de üniversite dışı yatay geçişler 2nci sınıfa (3ncü yarıyıl) Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal İle Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik uyarınca yapılır.
+
+**Bölümünüzün çift anadal programı (ÇAP) koşulları nelerdir?**
+İTÜ'de çift anadal programı Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal İle Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik uyarınca yapılır. 
+
+Öğrencilerimiz ve öğretim elemanlarımız elde ettikleri yarışma dereceleri ve yaptıkları akademik yayınlar ile başarılarına ulaşabilirsiniz.

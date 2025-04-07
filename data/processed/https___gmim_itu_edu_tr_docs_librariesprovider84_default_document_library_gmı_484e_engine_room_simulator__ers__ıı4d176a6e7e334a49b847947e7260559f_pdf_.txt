@@ -1,0 +1,61 @@
+**Title:** GMI 484E Engine Room Simulator (ERS) II
+
+**Published Time:** 2022-05-15
+
+**Course Name:** Engine Room Simulator (ERS) II  
+**Code:** GMI 484E  
+**Semester:** 8  
+**Local Credits:** 2  
+**ECTS Credits:** 5  
+**Course Implementation, Hours/Week:** 1 - 2  
+**Department/Program:** Marine Engineering  
+**Course Type:** Compulsory  
+**Course Language:** English  
+**Course Prerequisites:** GMI 392E min DD  
+
+**Course Description:**  
+Simulator applications related to the troubles and remedies of main engines, diesel and turbo generators, marine boilers, auxiliary machinery, and systems. Troubles and remedies during maneuvering and watchkeeping. Efficient operation. Forming an engine crew and team management. Management of engine crew in case of emergencies.
+
+**Course Objectives:**  
+1. To teach detection and remedy of troubles in the engine room.  
+2. To teach efficient operation.  
+3. To teach about management of engine crew in case of emergencies.  
+
+**Course Learning Outcomes:**  
+Students who pass the course will be able to:  
+I. Troubleshoot generator and main engine preparation problems.  
+II. Troubleshoot problems during maneuvering and cruising.  
+III. Efficiently operate marine main engines and auxiliaries.  
+IV. Acquire skills in correct communication and management in case of emergencies.  
+
+**Course Plan:**  
+- Week 1: Preparations of D/G, boiler, main engine, and related systems  
+- Week 2: Preparations of all systems, maneuvering, and watchkeeping  
+- Week 3: Creating malfunctions by using simulator  
+- Week 4: Troubleshooting during preparation of generator and main engine  
+- Week 5: Troubleshooting during preparation of generator and main engine  
+- Week 6: Troubleshooting during maneuvers and cruising  
+- Week 7: Troubleshooting during maneuvers and cruising  
+- Week 8: Efficient operation  
+- Week 9: Efficient operation  
+- Week 10: Leadership and managerial skills  
+- Week 11: Leadership and managerial skills  
+- Week 12: Emergency response  
+- Week 13: Emergency response  
+- Week 14: Emergency response  
+
+**Assessment Criteria:**  
+- Midterm Exams: 40%  
+- Laboratory Work: 20%  
+- Final Exam: 40%  
+
+**Textbook:**  
+MDS control list (ERS checklist)  
+Other References: Textbooks of all prerequisite courses  
+
+**Laboratory Work:**  
+Using workstation and practice in engine room simulator mimic panel.  
+Using computer (workstation) that simulation software is installed.  
+
+**Scaling:**  
+1: Little, 2: Partial, 3: Full  

@@ -1,0 +1,24 @@
+**Title: VPN Kullanım Politikaları**
+
+**Tanımlar:**
+1. **İTÜ/BİDB:** İstanbul Teknik Üniversitesi Bilgi İşlem Daire Başkanlığı 
+2. **İTÜ/VPN:** İTÜ Bilgi İşlem Daire Başkanlığı tarafından verilen VPN hizmetinin adı 
+3. **Kullanıcı:** İTÜ/VPN hizmetini kendi İTÜ kullanıcı adı ve şifresi için aktifleştiren kişi.
+
+**Hizmet Şartları:**
+1. İTÜ/VPN hizmetinden sadece İTÜ mensupları yararlanabilir. Kullanıcının İTÜ/VPN kullanım kurallarını okuması ve imzalaması gerekmektedir.
+2. Erişim sadece “Cisco Anyconnect SSL VPN Client” yazılımı ile yapılabilir. Kullanıcı, bu yazılımı kurmadan önce bilgisayarında yedekleme almalıdır.
+3. İTÜ/BİDB, İTÜ/VPN hizmetini yalnızca “Cisco Anyconnect SSL VPN Client” programının kullanılabildiği cihazlar üzerinden vermektedir.
+4. İTÜ/VPN hizmeti, İTÜ/NET ağına güvenli erişim ve akademik amaçlı servisler için sağlanmaktadır; bunun dışında kullanılması yasaktır.
+5. İTÜ/VPN üzerinden herhangi bir servis verilemez ve yönlendirme protokolü anonsu yapılamaz.
+6. İTÜ/VPN bağlantı hizmeti kişiseldir ve devredilemez. Kullanıcı, bağlantı yaptığı cihazdan ve bu cihazla yapılan her türlü kural dışı hareketten sorumludur.
+7. İTÜ/BİDB, altyapıda oluşabilecek zaafiyetlerden sorumlu tutulamaz ve bu tür açıkları en kısa sürede gidermekle yükümlüdür.
+8. Lisanssız yazılım, film ve müzik dosyaları İTÜ/VPN üzerinden dağıtılamaz; yasal sorumluluk kullanıcıya aittir.
+9. Kullanıcıların, İTÜ/NET dahilinde ya da haricindeki sistemlere saldırı amaçlı girişimlerde bulunması yasaktır.
+10. Kullanıcı, bilgisayarlarının işletim sistemi yamalarını yapmak zorundadır. Yama uygulanmaması durumunda erişim hizmeti kesilebilir.
+11. Kullanıcı, bakım çalışmaları veya sistem aksaklıkları nedeniyle beklenmedik kesintiler yaşayabilir.
+12. İTÜ/BİDB, hız garantisi vermemektedir.
+13. İTÜ/BİDB, adil kullanım koşulları çerçevesinde hız kısıtlama hakkını saklı tutar.
+14. İTÜ/BİDB, hizmetlerle ilgili güncellemeleri web sayfası, sosyal medya hesapları ve İTÜ mail adresleri aracılığıyla duyurabilir.
+15. İTÜ/BİDB, kuralları değiştirme hakkına sahiptir.
+16. Kurallara uyulmaması durumunda, İTÜ/BİDB kullanıcının hizmetini uyarı yapmaksızın kesme hakkına sahiptir.

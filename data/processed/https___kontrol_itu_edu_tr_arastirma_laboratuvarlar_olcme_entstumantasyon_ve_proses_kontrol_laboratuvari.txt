@@ -1,0 +1,25 @@
+**Laboratuvar Adı:** Yapay Zeka ve Akıllı Sistemler Laboratuvarı
+
+**Laboratuvar Sorumlusu:** Doç. Dr. Tufan Kumbasar
+
+**Laboratuvar Çalışanları:** Araş. Gör. Ömer Faruk Dik
+
+**Genel Bilgi:** 
+Laboratuvarda 7 adet PC ve gerçek zamanlı çalışma için gerekli IO donanımları ile çeşitli kontrol sistem tasarımlarına yönelik yazılımlar bulunmaktadır. Lisans ve yüksek lisans bitirme ödevleri ile bilgisayarlı kontrol proje dersi uygulamaları yapılmaktadır. Ayrıca, çift tanklı bir seviye kontrol düzeneği mevcuttur.
+
+**Laboratuvarda Yapılan Deneyler:**
+
+1. **Isıl Süreç Kontrol Sistemi:** 
+   - PT326 Isıl Süreç Kontrol Seti kullanılarak, dış ortamdan çekilen havanın ısıtılması ve sıcaklık kontrolü sağlanmaktadır. Kontrol işareti, tüp içindeki havanın sıcaklığını referans değeri ile karşılaştırarak elektriksel gücü belirler.
+
+2. **Kağıt Sarma Sistemi:** 
+   - İki motorun kağıt rulonun istenen hızda ve gerginlikte sarılmasını sağlamak için kullanıldığı sistemdir. PI ve PID kontrolörler, hız ve gerginlik kontrolü için kullanılmaktadır.
+
+**Kullanım Amaçları:**
+- Ölçme Tekniği ve Algılayıcılar
+- Elektronik Enstrümantasyon
+- Bitirme Ödevi & Yüksek Lisans Tezi çalışmaları
+- Sanayiye Yönelik Döner Sermaye Deneyleri
+- Ölçü Aletleri kalibrasyonu
+- Elektriksel/fiziksel büyüklüklerin ölçülmesi
+- Seminerler

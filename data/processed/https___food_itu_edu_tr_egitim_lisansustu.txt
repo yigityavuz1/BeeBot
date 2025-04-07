@@ -1,0 +1,46 @@
+**Title: Lisansüstü**
+
+**Gıda Mühendisliği Lisansüstü Yüksek Lisans Programı:**
+- 12 kredilik zorunlu 4 ders, 11 adet 500 kodlu ders ve 12 adet 600 kodlu dersten oluşmaktadır.
+- Tüm lisansüstü öğrencilerinin (yüksek lisans için 596 ve doktora için 696 kodlu) kredisiz Bilimsel Araştırma, Etik ve Seminer dersini başarmaları gerekmektedir.
+- Programda açılan 12 dersin dili İngilizcedir.
+- Doktora programında zorunlu ders yoktur.
+
+### Yüksek Lisans Zorunlu Dersler
+- **GID501E**: Food Analysis: Theory and Applications (Z) - 3 kredi
+- **Mühendislik Matematiği (Z)** - 3 kredi
+- **GID502**: İstatistik (Z) - 3 kredi
+- **GID514E**: Novel Food Process. Tech. (Z) - 3 kredi
+
+### Seçmeli Dersler
+- **GID503**: Gıda Güvenlik Sistemleri - 3 kredi
+- **GID505**: Gıda İşleme Modell. Sayısal Analiz Uyg. - 3 kredi
+- **GID507**: Yeni Gıda Ürünleri Tasarımı - 3 kredi
+- **GID509**: Hazır Yemek Teknolojisi - 3 kredi
+- **GID504**: Gıda Fermantasyon Prosesleri - 3 kredi
+- **GID513**: İleri Gıda Mikrobiyolojisi - 3 kredi
+- **GID506E**: Food Stability
+- **GID508**: Organik Gıda İşleme ve Üretimi - 3 kredi
+- **GID512E**: Fund. of Baking and Pasta Process. - 3 kredi
+- **GID511**: Gıda Toksikolojisi - 3 kredi
+- **GID510E**: Nutritional Changes During Food Process. - 3 kredi
+
+### Doktora Dersleri
+- **GID601E**: Food Research and Experimental Design - 3 kredi
+- **GID603E**: Advanced Food Biochemistry - 3 kredi
+- **GID607E**: Postharvest Phys. of Fruits and Vegetables - 3 kredi
+- **GID611**: Fonksiyonel Gıdalar - 3 kredi
+- **GID608**: Nem Kontrolü İle Gıda Muhafazası - 3 kredi
+- **GID605E**: Nutritional Biochemistry - 3 kredi
+- **GID613E**: Phase and State Transitions in Foods - 3 kredi
+- **GID602E**: Food Proteins - 3 kredi
+- **GID604E**: Food Carbohydrates - 3 kredi
+- **GID606**: Gıda İşleme Modellenmesi ve Kontrolu - 3 kredi
+- **GID610**: Gıda Kaynaklı Patojen Mikroorganizmalar - 3 kredi
+- **GID612**: Mikotoksijenik Küfler - 3 kredi
+- **GID609E**: Food Lipids - 3 kredi
+
+**İletişim Bilgileri:**
+- **Telefon**: +90 (212) 285 60 40
+- **Fax**: +90 (212) 285 73 33
+- **Adres**: İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

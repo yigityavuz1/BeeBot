@@ -1,0 +1,92 @@
+### Ders İçerikleri
+
+#### Zorunlu Dersler
+
+- **GID 112E Introduction to Food Science and Technology (2-0) 2**  
+  Scope of food science and technology: food components, food decay and its prevention, unit operations in food processing, practical technologies, food quality, food safety, contemporary issues and engineering ethics.
+
+- **GID 211E Mass and Energy Balances (3-0) 3**  
+  Dimensions and units; problem solving techniques; mass balances; properties of gases and vapors; energy balances; simultaneous mass and energy balances.
+
+- **GID 212 Thermodynamics (4-0) 4**  
+  Basic concepts in thermodynamics; Properties of pure substances; The first law of thermodynamics in open and closed systems; Definitions and processes related with humid air (psychrometry); The entropy and its importance in thermodynamics; The second law of thermodynamics in open and close systems; Vapor power and refrigeration cycles; Application of heat pumps in food industry.
+
+- **GID 221E Food Chemistry I (3-0) 3**  
+  Comprehensive evaluation of individual components of foods, such as water, carbohydrates, proteins, lipids, enzymes, and vitamins giving particular attention to their chemical structures and reactions and to the role of each component on food quality.
+
+- **GID 222 Microbiology (3-0) 3**  
+  Characteristics of microorganisms: antigenic, metabolic genetic ecological, morphological; Biology of cells; Development and mutation; Isolation and identification methods; microbial growth and growth requirements; Bacteria and bacterial kinetics, microbial metabolism and energy; Diversity of microorganisms; Characteristics of viruses; Microbial genetic and the regulation of gene expression; Important microorganisms in food, environment, medical and industry.
+
+- **GID 232 Food Chemistry II (3-0) 3**  
+  Food constituents other than carbohydrates, proteins, fats, vitamins, enzymes; food additives and food contaminants; their significance for food quality and safety; relevant toxicological concepts (LD50, NOEL, ADI, MAC, etc.).
+
+- **GID 311 Food Microbiology I (3-0) 3**  
+  Introduction to microorganisms important in food industry and factors affecting microbial growth in foods. Study of microbial metabolism, microflora of food commodities with special emphasis on food spoilage and food safety. Measures to be taken to control microbial growth in foods. Beneficial microorganisms and their use in food industry.
+
+- **GID 312 Food Microbiology II (3-0) 3**  
+  Food-borne illness; Microbial food poisoning; Control of microbial growth in foods; Cleaning; Disinfection, Sanitation; Physical methods; Novel methods; Chemical methods; Combine methods; Preventive systems: GMP, GHP, SSOP and HACCP system.
+
+- **GID 321 Food Microbiology Laboratory (0-3) 1.5**  
+  Laboratory experience on basic principles of microbiological analysis of foods; Isolation and identification techniques of the main food-borne pathogenic and indicator microorganisms, and lactic acid bacteria; Evaluation of food safety and quality by microbiological analysis.
+
+- **GID 322 Food Engineering Unit Operations II (3-0) 3**  
+  Analyze and design of unit operations used in food processing such as pasteurization, sterilization, freezing, drying, and other minimal and/or novel food preservation methods.
+
+- **GID 331E Food Engineering Unit Operations I (3-0) 3**  
+  In this course the concept of food processing is introduced as a series of unit operations with emphasis on food raw material handling; characteristics of particulate materials; size reduction; physical separation operations: filtration, sedimentation, centrifugation, crystallization; agitation and mixing of liquids.
+
+- **GID 332 Food Engineering Laboratory (0-4) 2**  
+  Laboratory experiments on physical and thermal properties of foods; Fluid mechanics; Heat transfer; Separations; Drying; Solid-Liquid Extraction; Packaging properties.
+
+- **GID 341 Heat Transfer (3-0) 3**  
+  Fundamental information related to heat transfer; steady and unsteady heat transfer; characteristics that affect the incident in the case of forced or natural convection; the important points to be cautioned about are investigated during the phase change (boiling and condensation) and radiation heat transfer; and several topics in application (heat exchangers, energy conservation and thermal processes in food industry).
+
+- **GID 351 Mass Transfer (3-0) 3**  
+  Basic principles and laws in mass transfer; Diffusion models of gas, solid and liquid systems; Continuity equation and steady-state diffusion model; Mass transfer with convection.
+
+- **GID 402 Food Engineering Design II (1-4) 3**  
+  Selecting an industrial food product. The production technology and flow diagram of food product. Gathering essential statistical data for process calculations and determination of capacity. Calculations of mass and energy balances, fluid mechanics, heat and mass transfer for the selected process. Designing of a food plant by selecting or designing proper equipments, calculation of the costs of equipments, operational, and the product.
+
+- **GID 411E Food Engineering Design I (3-0) 3**  
+  Application of engineering principles in the quantitative analysis of food processing operations with emphasis on reactor design, extraction, evaporation, distillation, filtration, agitation and mixing of liquids, freezing. Various stages of plant design such as feasibility studies, capacity planning, plant location and management.
+
+- **GID 421E Food Technology (3-0) 3**  
+  Integrating principles of food chemistry, food microbiology, food engineering unit operations, nutritional aspects and sensory evaluation through discussions of food processing operations, processing of cereals, fruit and vegetables, dairy, and fats and oils, chemical and biochemical properties of raw materials and their relationship to current processing methods to obtain food products with desired quality.
+
+- **GID 422 Food Quality Control (2-0) 2**  
+  Quality concept and related definitions; national and international standards and legislation concerning food quality; quality assurance systems and total quality management in food industries; quality management tools; quality criteria, their respective limits and quality monitoring systems for different food commodity groups; relevant ethical issues.
+
+- **GID 432 Food Quality Control Laboratory (0-3) 1.5**  
+  Laboratory experiments for proximate analysis of foods (moisture, ash, fat, protein, sugar, starch), analysis of food additives (colorants, nitrite, etc.) and quality tests (peroxide, acidity, etc.), application of chemical, physical, instrumental, chromatographic and enzymatic methods used in food quality control. Course is supported with projects.
+
+- **GID 441 Process Control (3-0) 3**  
+  Basic concepts related to process control; Importance and application of control parameters and systems in food industry; Open and close loop controls; Mathematical modeling; Temperature control- A case study; Feedback control and performance criteria; Measuring devices; Digital computer control loops.
+
+- **GID 492 or GID 492E Graduation Project (0-6) 3**  
+  Course involves the application of technical knowledge to design and conduct an experimental study in the laboratory, or searching literature extensively on a specific current topic, or conducting a market survey, or investigating current status of a specific food sector. Projects are presented by a final report and a seminar at the end of semester.
+
+#### Seçimli Dersler
+
+- **GID 314 Sensory Analysis (3-0) 3**  
+  Basic information on sensorial perceptions, factors affecting evaluation of panelists, a variety of methods and test designs applied to evaluate sensory properties of foods, evaluation of sensory data, and a sensory project performed as a team.
+
+- **GID 316 Food Packaging (3-0) 3**  
+  Essential functions of packaging, factors causing food spoilage, physical, chemical and quality properties, types, and utilization of paper-, glass-, metal- and plastic-based packaging materials, multi-layer combinations, examples of food packaging, bar-code system in packaging, packages and recycling.
+
+- **GID 318 Functional Properties of Food Components (3-0) 3**  
+  The functional properties of water, carbohydrates, proteins, and lipids on shelf-life and product quality with particular emphasis on sensory properties such as appearance, flavor, texture and viscosity of various food commodities during food processing, engineering foods using additives.
+
+- **GID 413 Biotechnology (3-0) 3**  
+  Biotechnological applications in food industry, including utilization of biological organisms and enzymes, r-DNA technology; basic concepts of immunological and genetic techniques for food analysis.
+
+- **GID 415 Cold Preservation Technology (3-0) 3**  
+  Basic concepts of refrigeration, and its importance; restrictions related to current environmental phenomena like ozone layer and greenhouse effect; Cold preservation of foodstuffs; Refrigeration cycles; Cold stores, modified atmosphere storage; Freezing; Energy conservation in cold stores; Product-based applications; Process control equipment in refrigeration systems.
+
+- **GID 417 Cereal Technology (3-0) 3**  
+  Cereal grains: General composition, kernel structure, utilization; Bread wheat quality, storage of cereals, modern milling, breadmaking technology; Durum wheat quality, pasta production technology; Soft wheat products; Bulgur production technology.
+
+- **GID 416E Shelf Life of Foods (3-0) 3**  
+  Food quality and shelf life; basic food deterioration reactions; food preservation methods; scientific evaluation of shelf-life; shelf-life evaluation of various fresh and processed food commodities.
+
+- **GID 414E Biochemical Changes During Food Processing (3-0) 3**  
+  Postmortem changes of meat, changes during respiration and maturation period of fruits and vegetables, post-harvest physiology of cereals, enzymatic changes in brewing process, biochemistry of baking, biochemistry of cheese and yogurt, effect of processes on nutrients, enzymatic spoilage reactions.

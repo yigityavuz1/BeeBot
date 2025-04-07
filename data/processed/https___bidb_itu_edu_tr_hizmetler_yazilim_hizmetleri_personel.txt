@@ -1,0 +1,20 @@
+**Title: Personel**
+
+**KÜNYE**
+- İlk yayın tarihi: Ocak 2008
+- Aktif kullanıcı sayısı: 120
+- Web Adresi: [http://personel.itu.edu.tr](http://personel.itu.edu.tr)
+
+**Açıklama:**
+İTÜ'de kadrolu olarak görev yapan akademik ve idari personellerin özlük ve kadro işlemlerinin yürütüldüğü, sözleşmeli personellerin sözleşme ve diğer bilgilerinin kaydedildiği sistemdir. Ayrıca SGK'nın personel sistemi olan Hizmet Takip Programı ile ilgili tüm verilerin anlık olarak gönderilerek kadrolu personellerimizin SGK Hizmet Takip Programı üzerindeki tüm işlemleri Personel Otomasyonu ile yapılmaktadır. Personel Otomasyonu tüm alt yapı yenilenerek tekrar yazılmıştır ve yeni hali Ocak 2012’de yayına alınmıştır.
+
+**İletişim:**
+- Bilgi İşlem Daire Başkanlığı, 
+- İTÜ Ayazağa Kampüsü, Maslak-Sarıyer / İstanbul
+- Telefon: 0212 285 3930
+
+**BİDB YARDIM:**
+İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz.
+- [BİDB Yardım Al](http://yardim.itu.edu.tr/birim.aspx?birim=1&bilgi+islem+daire+baskanligi)
+
+**Not:** İTÜ Bilgi İşlem Daire Başkanlığı ürünüdür. © 2023

@@ -1,0 +1,21 @@
+**Title:** Akademi
+
+**Description:** Akademi is a platform for faculty members and research assistants of Istanbul Technical University (İTÜ) to share their publications, academic information, works, files, and announcements more quickly and easily.
+
+**Key Information:**
+- **First Publication Date:** 2008
+- **Active User Count:** 1500
+- **Web Address:** [http://akademi.itu.edu.tr](http://akademi.itu.edu.tr)
+
+**Services Offered:**
+- **Licensed Software:** Software used within İTÜ.
+- **İTÜ/NET Services:** A structure providing IT services across İTÜ campuses.
+- **Academy Portal:** A portal for İTÜ faculty members to share their academic information and publications.
+
+**Contact Information:**
+- **Location:** İTÜ Ayazağa Campus, Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- **Phone:** 0212 285 3930
+
+**Support System:** Users can create and track tickets for issues through the İTÜ/BİDB help system. 
+
+**Note:** This content is provided by the İTÜ Bilgi İşlem Daire Başkanlığı.

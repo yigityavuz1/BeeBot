@@ -1,0 +1,137 @@
+**Title:** Araştırma-Geliştirme Süreçlerinde Sürekli İyileştirme
+
+**Proje Çalışmaları:**
+
+1. **Development of Standard Accident/Incident Analysis Forms**
+   - Proje Türü: IAMU Projesi
+   - Proje Yürütücüsü: Yrd. Doç. Dr. Tuba KEÇECİ
+   - Başlangıç Tarihi: Mayıs 2018
+   - Bitiş Tarihi: Mayıs 2019
+   - Toplam Ödenek: 20.000$
+
+2. **Safety Enhancements in Transport by Achieving Human Orientated Resilient Shipping Environment**
+   - Proje Türü: A.B.
+   - Proje Yürütücüsü: Doç. Dr. Özcan ARSLAN / Müh. Dr. Tuba KEÇECİ
+   - Başlangıç Tarihi: 01.01.2013
+   - Bitiş Tarihi: 01.01.2016
+   - Toplam Ödenek: 50.000 €
+
+3. **Space-borne observations for detecting and forecasting sea ice cover extremes (SPICES)**
+   - Proje Türü: HORIZON 2020
+   - Proje Yürütücüsü: Y.Doç.Dr. Burcu ÖZSOY
+   - Başlangıç Tarihi: 01.01.2015
+   - Bitiş Tarihi: 01.01.2018
+   - Toplam Ödenek: 217.000 TL
+
+4. **Gemi Ana Makine Simülatörü Tasarımı ve Geliştirilmesi**
+   - Proje Türü: San-Tez
+   - Proje Yürütücüsü: Y.Doç.Dr. İsmail ÇİÇEK
+   - Başlangıç Tarihi: 02.06.2014
+   - Bitiş Tarihi: 31.12.2016
+   - Toplam Ödenek: 401.430 TL
+
+5. **Gemi Operasyonlarında İnsan Güvenilirliği Analiz ve Takip Sistemi Önerisi (İ-GATS)**
+   - Proje Türü: TÜBİTAK 1001 - Araştırma
+   - Proje Yürütücüsü: Doç.Dr. Metin ÇELİK
+   - Başlangıç Tarihi: 15.10.2014
+   - Bitiş Tarihi: 15.04.2017
+   - Toplam Ödenek: 131.001 TL
+
+6. **Toplu Deniz Taşımacılığına Yönelik Değişik Koşullardaki Acil Durum Tahliye Sürecinin Modellenmesi, Analizi Ve Planlanması**
+   - Proje Türü: TÜBİTAK 3001 - Başlangıç AR-GE
+   - Proje Yürütücüsü: Doç. Dr. Emre ÇEVİKCAN
+   - Başlangıç Tarihi: 15.10.2015
+   - Bitiş Tarihi: 15.04.2017
+   - Toplam Ödenek: 94,500 TL
+
+7. **Tersaneler İçin Risk Analiz Karar Destek Sistemi**
+   - Proje Türü: Bilim, Sanayi ve Teknoloji Bakanlığı
+   - Proje Yürütücüsü: Doç. Dr. Selçuk ÇEBİ
+   - Başlangıç Tarihi: 08.06.2015
+   - Bitiş Tarihi: 07.06.2016
+   - Toplam Ödenek: 86,850 TL
+
+8. **Gemi Mekatronik Sistemleri Analiz ve Uygulamaları**
+   - Proje Türü: İTU-BAP
+   - Proje Yürütücüsü: Doç. Dr. Cengiz DENİZ
+   - Başlangıç Tarihi: 26.02.2015
+   - Bitiş Tarihi: 26.02.2016
+   - Toplam Ödenek: 49,790 TL
+
+9. **E-Maritime Medicine for seafarers, students and seamanship physicians**
+   - Proje Türü: IAMU Projesi
+   - Proje Yürütücüsü: Doç.Dr. Özcan ARSLAN
+   - Başlangıç Tarihi: 2015
+   - Bitiş Tarihi: 2016
+   - Toplam Ödenek: -
+
+10. **Antarktika Çevre Protokolü ve Arktik Konseyine Üyelik Çerçevesinde Çevresel Faktörlerin Belirlenmesi**
+    - Proje Türü: İTÜ BAP
+    - Proje Yürütücüleri: Y.Doç.Dr.Sevilay CAN, Y.Doç.Dr.Tanzer SATIR, Sabri DURAK, Y.Doç.Dr.Burcu ÖZSOY
+    - Başlangıç Tarihi: 01.10.2015
+    - Toplam Ödenek: 25.000 TL
+
+11. **Köprüüstü Dümen Tutma Eğitim Simülatörü**
+    - Proje Türü: TUBITAK-1507
+    - Proje Yürütücüsü: Doç.Dr.Serdar KUM
+    - Başlangıç Tarihi: 2015
+    - Bitiş Tarihi: 2017
+    - Toplam Ödenek: 474.237 TL
+
+12. **İzmir Körfezi Limanlar ve Suyolları Emniyet Değerlendirmesi (PAWSA Uygulaması)**
+    - Proje Türü: T.C. Ulaştırma Denizcilik ve Haberleşme Bakanlığı
+    - Proje Yürütücüsü: Doç.Dr.Serdar KUM
+    - Başlangıç Tarihi: 2015
+    - Bitiş Tarihi: 2017
+    - Toplam Ödenek: 27.000 TL
+
+13. **Gübretaş Gübre Fabrikaları T.A.Ş. Limanı Projesi Gemi Manevraları Risk Değerlendirme Raporu**
+    - Proje Türü: Sanayi Projesi
+    - Proje Yürütücüsü: Y.Doç.Dr.Tanzer SATIR
+    - Başlangıç Tarihi: 08.09.2016
+    - Bitiş Tarihi: 07.12.2016
+    - Toplam Ödenek: 17.700 TL
+
+14. **How to Break Social Isolation of Seafarers**
+    - Proje Türü: BAP Yüksek Lisans Destek
+    - Proje Yürütücüsü: Doç.Dr.Leyla TAVACIOĞLU
+    - Başlangıç Tarihi: Aralık 2015
+    - Bitiş Tarihi: 2016
+    - Toplam Ödenek: 5.000 TL
+
+15. **Denizcilik Çalışmaları Tezsiz Yüksek Lisans Programı Altyapı Projesi**
+    - Proje Türü: BAP Hızlı Destek
+    - Proje Yürütücüleri: Doç.Dr.Leyla TAVACIOĞLU, Yrd. Doç.Dr. Pelin BOLAT
+    - Başlangıç Tarihi: Aralık 2016
+    - Toplam Ödenek: 50.000 TL
+
+16. **Occupational Safety Climate Measurement for Turkish, Chinese and European Maritime Transportation**
+    - Proje Türü: Hızlı Destek Projeleri
+    - Proje Yürütücüleri: Doç.Dr.Leyla TAVACIOĞLU, Yrd. Doç.Dr. Pelin BOLAT
+    - Başlangıç Tarihi: Nisan 2016
+    - Toplam Ödenek: 19.000 TL
+
+17. **INTRAREGIO AB 7. Çerçeve Programı Araştırma Projesi**
+    - Proje Türü: A.B Projesi
+    - Proje Yürütücüsü: Doç.Dr.Levent KIRVAL
+    - Başlangıç Tarihi: 19.01.2012
+    - Bitiş Tarihi: 29.06.2016
+    - Toplam Ödenek: 1.750.000 €
+
+18. **Risk Assessment of Special Nuclear Materials Maritime Transportation**
+    - Proje Türü: Hızlı Destek Projeleri
+    - Proje Yürütücüleri: Yrd. Doç. Dr. Pelin BOLAT, Doç.Dr.Leyla TAVACIOĞLU
+    - Başlangıç Tarihi: Nisan 2016
+    - Toplam Ödenek: 19.000 TL
+
+19. **Example of Scotland of Cruise Tourism Potential for the Development of Turkey**
+    - Proje Türü: Tübitak-Doktora Sonrası Araştırma Projesi
+    - Proje Yürütücüsü: Öğretim Görevlisi Dr. Muhsin KADIOĞLU
+    - Başlangıç Tarihi: Haziran 2016
+    - Durum: Tamamlandı
+    - Toplam Ödenek: 7.600 €
+
+**İletişim Bilgileri:**
+- Telefon: +90 (0216) 395 45 01
+- Belge Geçer: +90 (216) 395 45 00
+- Adres: İTÜ Tuzla Yerleşkesi, 34940, Tuzla, İstanbul

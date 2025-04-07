@@ -1,0 +1,71 @@
+**Title:** GMI 476E Deck Machinery
+
+**Published Time:** 2022-05-14
+
+**Course Name:** Deck Machinery  
+**Course Code:** GMI 476 E  
+**Semester:** 7-8  
+**Local Credits:** 2  
+**ECTS Credits:** 4  
+**Course Implementation:** 2 hours/week (Theoretical)  
+
+**Department/Program:** Marine Engineering  
+**Course Type:** Elective  
+**Course Language:** English  
+**Course Prerequisites:** None  
+
+**Course Description:**  
+- Deck crane and davits.  
+- Capstan and windlass.  
+- Steering gear.  
+- Hatch covers.  
+- Ramps, covers, and vehicles lifts on RO-RO ships.  
+- Bow thruster.  
+- Cargo pumps and types.  
+- Cargo pumps and components in LNG, LPG, chemical, and oil tankers.  
+- Pump application on tankers.  
+- Efficiency and power on pumps.  
+- Maintenance, troubles, and remedies of cargo pumps.  
+
+**Course Objectives:**  
+1. To teach about the working principles of deck machinery.  
+2. To teach about the working principles of RO-RO ships’ systems.  
+3. To teach about the working principles of cargo handling equipment.  
+
+**Course Learning Outcomes:**  
+Students who pass the course will be able to:  
+I. Understand the working principles of deck crane, davits, and capstan-windlass.  
+II. Understand the working principles of steering gear.  
+III. Understand hatch covers and types.  
+IV. Understand systems on RO-RO ships and bow thruster.  
+V. Understand the working principles of cargo handling pumps.  
+
+**Course Plan:**  
+1. Deck cranes  
+2. Davits  
+3. Capstan and windlass  
+4. Steering gears  
+5. Steering gears  
+6. Hatch covers and types  
+7. Systems on RO-RO ships; ramps, covers, and vehicles lifts  
+8. Bow thruster  
+9. Cargo pumps and types  
+10. Cargo pumps in LNG, LPG, chemical, and oil tankers  
+11. Cargo handling system components  
+12. Pump applications on tankers, power, and efficiency  
+13. Maintenance, troubles, and remedies of cargo pumps  
+14. Safety measures on cargo handling and maintenance  
+
+**Textbook:**  
+- Kemal Demirel, Hidrolik Pnömatik Sistemler, Birsen Yayınevi, İstanbul, 2012.  
+
+**Other References:**  
+1. Kemal Demirel, Gemi Yardımcı Makineleri ve Sistemleri I, Birsen Yayınevi, İstanbul, 2014.  
+2. Kemal Demirel, Gemi Yardımcı Makineleri ve Sistemleri II, Birsen Yayınevi, İstanbul, 2014.  
+3. H. D. McGeorge, Marine Auxiliary Machinery, Butterworth-Heinemann, March 1999.  
+4. Igor J. Karassik, Pump Handbook, McGraw-Hill, 2001.  
+
+**Assessment Criteria:**  
+- Midterm Exams: 30%  
+- Homework: 20%  
+- Final Exam: 50%  

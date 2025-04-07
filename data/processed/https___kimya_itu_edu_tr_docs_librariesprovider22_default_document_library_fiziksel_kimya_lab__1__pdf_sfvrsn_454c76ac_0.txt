@@ -1,0 +1,59 @@
+**Course Name:** Physical Chemistry Laboratory  
+**Course Code:** KIM 202L - 202EL  
+**Semester:** 3  
+**Local Credits:** 1  
+**ECTS Credits:** 1.5  
+**Course Implementation (Hours/Week):** 2  
+**Department/Program:** Chemistry  
+**Course Type:** Compulsory  
+**Course Language:** Turkish  
+**Course Prerequisites:** KIM 101 MIN DD or KIM 101E MIN DD  
+
+**Course Description:**  
+- Determination of temperature dependence of the vapor pressure for a pure liquid  
+- Surface tension measurement  
+- Refractometric measurement  
+- Determination of dissociation constant of a weak acid and solubility product of a slightly soluble salt by conductometry  
+- Determination of the activation energy of the reaction between bromide-bromate ions  
+- Determination of molecular weight by cryoscopy  
+- Determination of heat of dissolution by solubility method  
+- Applications of electrolysis  
+
+**Course Objectives:**  
+1. Mastering physical chemistry laboratory skills.  
+2. Providing ability to produce a practical outcome by using theoretical knowledge.  
+3. Demonstrating the importance of physical chemistry in the industry.  
+
+**Course Learning Outcomes:**  
+1. Mastering physical chemistry laboratory skills.  
+2. Solving problems encountered in the physical chemistry laboratory.  
+3. Using and interpreting theoretical and practical knowledge together.  
+4. Producing practical outcomes using theoretical knowledge.  
+5. Understanding the importance of physical chemistry in the industry.  
+
+**Course Plan:**  
+1. Introduction  
+2. Determination of temperature dependence of the vapor pressure for a pure liquid  
+3. Hydrolysis of sucrose  
+4. Refractometry  
+5. Electrolysis  
+6. Determination of activation energy of the reaction between bromide-bromate ions  
+7. Application of spectroscopic methods  
+8. Molar volume and partial molar volume  
+9. Determination of heat of dissolution by solubility method  
+10. Surface tension  
+11. Determination of dissociation constant of a weak acid and solubility product of a slightly soluble salt by conductometry  
+12. Colligative properties  
+13. Viscosity measurements  
+14. Application of thermometric titration  
+
+**Textbook:** Physical Chemistry Laboratory Booklet  
+**Other References:** Atkins - Physical Chemistry  
+**Assessment Criteria:**  
+- Midterm Exams: 2 (70%)  
+- Quizzes: 10 (10%)  
+- Homework: 10 (10%)  
+- Laboratory Work: 10 (10%)  
+- Final Exam: -  
+
+This cleaned text retains only the relevant information about the course, removing all unnecessary links and extraneous details.

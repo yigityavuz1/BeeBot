@@ -1,0 +1,21 @@
+**Title:** Danmarks Tekniske Universitet
+
+**Course Equivalents:**
+
+| Danmarks Tekniske Universitet Course Code | Danmarks Tekniske Universitet Course Name | İTÜ Course Code | İTÜ Course Name |
+|-------------------------------------------|-------------------------------------------|------------------|------------------|
+| 12320                                     | Hydrology                                 | MTO222           | Hidroloji        |
+| 12205                                     | Climate change-impacts, mitigation and adaptation | MTO479E         | Climate Change    |
+| 47205                                     | Energy Technologies                       | MTO457           | Enerji Meteorolojisine Giriş |
+| 46010                                     | Wind Turbine Racer                       | MT               | 8.yy Seçmeli MT Ders |
+| 47202                                     | Introduction to future Energy            | MTO460E          | Introduction to Energy Meteorology |
+| 12102                                     | Environmental Processes                   | MT               | 8.yy Seçmeli MT Ders |
+| 12228                                     | Urban Air Pollution                       | MTO315E          | Air Pollution Fundamentals |
+| 30730                                     | Space Weather Forecast and Effects       | UZB411E          | Space Environment |
+| 11142                                     | Daylight and Lighting                    | MT               | 7.yy Seçmeli MT Ders |
+| 62618                                     | Economics for Engineers                  | EKO201E          | Economics        |
+
+**Contact Information:**
+- **Phone:** +90 (212) 285 31 01
+- **Fax:** +90 (212) 285 31 39
+- **Address:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

@@ -1,0 +1,22 @@
+**Title: Bilgisayar Mühendisliği Lisansüstü**
+
+Lisansüstü programları ile ilgili bazı kurallar ve önemli bilgiler:
+
+- Öğrenciler öğrenimlerinin ilk yarıyılında en az iki derse kayıt olmak zorundadır.
+- Bilimsel Araştırma Etik ve Seminer dersine en erken, öğrenimlerinin ikinci yarıyılında kayıt yaptırabilirler.
+- Yüksek Lisans öğrencileri, bu dersi öğrenimlerinin ilk dört yarıyılında almak zorundadır.
+- Zorunlu ders havuzunda yer alan bir dersten başarısız olursa aynı dersi tekrar alması gerekir.
+- Seçimli ders havuzunda yer alan bir dersten başarısız olursa bu dersin yerine farklı bir ders alabilir.
+- Öğrenciler danışmanının onayı ile diğer lisansüstü programlardan ders seçebilir.
+- Öğrenciler, öğrenimlerinin üçüncü yarıyılından itibaren her dönem tez dersine (YLT/DRT) kayıt olmak zorundadır.
+- Bilgisayar Mühendisliği dışında herhangi bir lisans programından mezun olan öğrenciler Bilimsel Hazırlık derslerini almak zorundadır.
+- Bilimsel Hazırlık dersleri için dil koşulu aranmaz. Dersler Türkçe veya İngilizce şubelerden alınabilir.
+- Öğrenciler, Bilimsel Hazırlık derslerini tamamlamak için en fazla bir yıl süresi vardır.
+- Bilimsel Hazırlık derslerini en az CC harf notu ile geçmelidir.
+- Öğrencinin sekiz adet dersten az olmamak koşuluyla en az yirmi dört kredilik ders alması gerekir.
+- Bu derslerden en az birinin zorunlu matematik ders havuzundan olması gerekir.
+- Öğrencinin tez çalışmasını başarıyla tamamlaması gerekir.
+- Öğrencinin en az bir uluslararası basılı bildirisinin olması gerekir.
+- Öğrencinin kredisiz Bilimsel Araştırma Etik ve Seminer dersini alması gerekir.
+- Öğrencinin ağırlıklı genel not ortalamasının en az 3.00 olması gerekir.
+- Doktora programında zorunlu/seçmeli ders ayrımı yoktur.

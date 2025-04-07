@@ -1,0 +1,30 @@
+**Title:** Fiziksel Kimya Lab
+
+### KIM 311L - Fiziksel Kimya Lab. I
+1. Saf Bir Sıvının Özelliklerinin Sıcaklığa Bağlı Değişiminin İncelenmesi
+2. Molar Hacim ve Kısmi Molar Hacim
+3. Bir Polimer Çözeltisinin Viskozitesi
+4. Dağılım ve Bölüşüm Yöntemleri
+5. İki Bileşenli Sistemlerde Gibbs Faz Kuralı
+6. Üç Bileşenli Bir Sistemin Faz Diyagramı
+7. Aktivite Sayılarının Tespiti ve Termodinamik Katsayıların Hesabı
+8. Yüzey Gerilimi
+9. Sayısal Özellikler (Kriyoskopi Yöntemiyle Molekül Ağırlığının Belirlenmesi)
+10. Sayısal Özellikler (Bir Asidin İyonlaşma Derecesi ve İyonlaşma Sabitinin Bulunması)
+
+### KIM 312L - Fiziksel Kimya Lab. II
+1. Determination of chemical formula Job’s method
+2. Kinetics study of acrylamide polymerization by viscosity
+3. Determination of hydrolysis constant for butyl acetate hydrolysis
+4. Kinetics of an iodine clock reaction
+5. Autocatalytic reaction between KMnO4 and oxalic acid
+6. The determination of thermodynamic potentials (ΔG, ΔH, and ΔS) from thermometric titration
+7. Activation energy of bromide / bromate reaction
+8. Investigation of monomolecular reaction: hydrolysis of sucrose
+9. Adsorption
+10. Actinometry
+
+**Contact Information:**
+- **Phone:** +90 212 285 3233
+- **Fax:** +90 212 285 6386
+- **Address:** İTÜ Fen Edebiyat Fakültesi Kimya Bölümü, Maslak 34469, İstanbul

@@ -1,0 +1,34 @@
+**Title: Standartlar**
+
+**A.** Abone olduğumuz elektronik standartların listesine ulaşmak için [bu yolu](http://kutuphane.itu.edu.tr/arastirma/veritabanlari) izleyebilirsiniz. Ulaşılan Veritabanları sayfasında sol menüde yer alan Yayın Türü "Standartlar" olacak şekilde seçilerek abone olunan e-standart listesine erişilebilmektedir.
+
+**B.** Sadece e-posta ile talep edilebilecek standartlar şunlardır:
+
+[Türk Standartları(TSE) Talep Formu](http://kutuphane.itu.edu.tr/arastirma/standart-talep-formu)
+
+Bu standartların e-posta ile gönderilebilmesi için TSE Standart Talep Formu’nu doldurmanız gerekmektedir. Talep Formu alanına ilk girişte adınızı ve e-posta nasıl girmişseniz, bundan sonraki girişlerde de aynı şekilde ve büyük-küçük harf ayrımına dikkat ederek girmeniz gerekmektedir. Eğer ilk seferde nasıl giriş yaptığınızı hatırlamıyorsanız, lütfen [library-it@itu.edu.tr](mailto:library-it@itu.edu.tr) adresi ya da kampüs içinden 3013 (dahili: 4110 veya 4121) numaralı telefon üzerinden sorunu bize bildiriniz.
+
+* İTÜ Mensubu ve kütüphane üyeliği olmayan kullanıcılarımız bu hizmetten yararlanamazlar. Kütüphane üyeliği talebinde bulunabilirsiniz.
+
+* TSE Standart Talep Formuna istenen standardın numarası ve adının yazılması gerekmektedir.
+
+* İstekler iş yoğunluğuna göre istek tarihinden itibaren 3 iş günü içinde e-posta ile gönderilmektedir.
+
+* Standart Talep Formu sadece İTÜ e-posta adresini kabul etmektedir.
+
+* Aynı gün içinde en fazla 3 standart isteğinde bulunulabilir.
+
+* Kullanıcılarımızın 1 ay içinde isteyebileceği toplam standart sayısı aşağıdaki tabloda belirtilmiştir.
+
+| Kullanıcı                     | İstenebilen toplam standart sayısı (1 ay içinde) |
+|-------------------------------|---------------------------------------------------|
+| Öğretim elemanı               | 40                                                |
+| İdari personel                | 30                                                |
+| Y. Lisans / Doktora Öğrencisi | 30                                                |
+| Lisans Öğrencisi              | 20                                                |
+
+**C.** Koleksiyonumuzda bulunan basılı standartların listesine [bu yolu](http://divit.library.itu.edu.tr/search*tur/dstandartlar%2Cm%fchendislik/dstandartlar+mu~ahendislik/1,7,96,B/exact&FF=dstandartlar+mu~ahendislik&1,89) izleyerek ulaşabilirsiniz. Ayrıca basılı formdaki standartlara Katalog Tarama ve TARIYORUM tarama araçları üzerinden de erişebilirsiniz.
+
+**İTÜ Kütüphane - Telefon**: (0212) 285 35 96  
+**İTÜ Kütüphane - Fax**: (212) 285 33 02  
+**İTÜ Kütüphane - Adres**: İstanbul Teknik Üniversitesi, Ayazağa Kampüsü, Maslak Sarıyer, İstanbul

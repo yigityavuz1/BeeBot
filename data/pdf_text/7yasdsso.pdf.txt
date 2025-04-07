@@ -1,0 +1,31 @@
+**Azami Süresi Dolan Öğrenciler**
+
+**Kapsam:**  
+7 yıllık azami süresini dolduran son sınıf öğrencileri (4. sınıf - minimum 95 kredi tamamlayanlar)
+
+**1. Durum:**  
+- Tüm derslerini tamamlamış, ancak ortalaması 2.00'nin altında olanlar:  
+  - Yalnızca teorik derslerden olmak üzere, ortalamasını yükseltmek için bir veya daha fazla dersten sınırsız sınav hakkı kullanabilir.
+
+**2. Durum:**  
+- 1 teorik dersi kaldıysa ve sınırsız sınav hakkı şartını sağlıyorsa (min FF):  
+  - Tek dersten sınırsız sınav hakkı kullanmalıdır.
+- 1 teorik dersi kaldıysa ve sınırsız sınav hakkı şartını sağlamıyorsa (dersi hiç almamışsa veya VF ise):  
+  - 4 yarıyıl ek süre.
+- 1 uygulamalı/lab dersi kaldıysa:  
+  - Bu sürenin sonunda mezuniyet şartını sağlamıyorsa üniversite ile ilişiği kesilir.
+
+**3. Durum:**  
+- 2-5 dersi kalan (teorik veya uygulama/lab dersi):  
+  - 4 yarıyıl ek süre.  
+  - Bu sürenin sonunda mezuniyet şartını sağlamıyorsa üniversite ile ilişiği kesilir.
+
+**4. Durum:**  
+- 6 ve üzeri dersi kalanlar (teorik veya uygulama/lab dersi):  
+  - Ek sınavlar.  
+  - Ek sınavlar sonunda halen 6 ve üzeri dersi kalanların üniversite ile ilişiği kesilir.  
+  - Teorik derslerde dönem sonu sınav.  
+  - Uygulamalı/lab derslerinde dönemde derse devam.  
+  - 3 yarıyıl ek süre.  
+  - Bu sürenin sonunda mezuniyet şartını sağlamıyorsa üniversite ile ilişiği kesilir.  
+  - Ek sınavlar sonunda 1-5 dersi kaldıysa.

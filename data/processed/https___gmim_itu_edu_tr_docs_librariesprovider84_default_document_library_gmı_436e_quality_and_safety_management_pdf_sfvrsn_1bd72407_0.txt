@@ -1,0 +1,85 @@
+**Title:** GMI 436E Quality and Safety Management
+
+**Published Time:** 2022-05-15
+
+**Course Name:** Quality and Safety Management Systems
+
+**Course Code:** GMI 436 E
+
+**Semester:** 5-7-8
+
+**Credits:** Local Credits: 2, ECTS Credits: 2
+
+**Department/Program:** Marine Engineering
+
+**Course Type:** Elective
+
+**Course Language:** English
+
+**Course Prerequisites:** None
+
+**Course Description:**
+- Management systems
+- Maritime stakeholders
+- Ship safety management system
+- International standards (ISO 9001, ISO 14001, OHSAS 18001, ISO 50001)
+- Integrated management systems
+- Key performance indicators
+- Process improvement techniques
+- Corrective and preventive actions
+- Emergency management process
+- Ship maintenance planning process
+- Training and safety awareness
+- Management system inspections
+
+**Course Objectives:**
+1. To teach the ship safety management system.
+2. To teach process improvement via international standards.
+3. To teach the requirements of company/ship audits.
+
+**Course Learning Outcomes:**
+Students who pass the course will be able to:
+I. Learn about main principles of management systems.
+II. Learn about ship safety management system implementations.
+III. Learn about the requirements of international standards.
+IV. Learn about integrated management system implementations.
+V. Learn about ship management system audits.
+
+**Course Plan:**
+1. Management systems
+2. Maritime stakeholders
+3. Ship safety management system
+4. International standards
+5. ISO 9001 requirements, ISO 14001 requirements
+6. OHSAS 18001 requirements, ISO 50001 requirements
+7. Integrated management systems
+8. Key performance indicators
+9. Process improvement techniques
+10. Corrective and preventive actions
+11. Emergency management process
+12. Ship maintenance planning process
+13. Training, safety and environmental awareness
+14. Management systems inspections
+
+**Relationship of the Course to Marine Engineering Student Outcomes:**
+- Ability to identify, formulate, and solve complex engineering problems.
+- Ability to apply engineering design to produce solutions considering public health, safety, and welfare.
+- Ability to communicate effectively with a range of audiences.
+- Ability to recognize ethical and professional responsibilities in engineering.
+- Ability to function effectively on a team.
+- Ability to develop and conduct appropriate experimentation and analyze data.
+- Ability to acquire and apply new knowledge as needed.
+- Ability to effectively and safely operate and maintain marine engines and systems.
+
+**Course Materials:**
+1. Guide for Marine Health, Safety, Quality Environmental and Energy Management, ABS, 2013.
+2. Integrated Management Systems - Ship Operating Companies - Safety, Quality, Environment and Occupational Health and Safety, DNV, 2005.
+3. ISM Code and Guidelines, IMO Publication, 2010.
+4. M. Chavvel, Managing Safety & Quality in Shipping, Nautical Institute, 1997.
+5. Management of Safety in Shipping, Nautical Institute, 1991.
+6. H. Gitlow, Quality Management Tools and Methods for Improvement, Irwin Press, 1995.
+
+**Assessment Criteria:**
+- Midterm Exams: 30%
+- Term Paper/Project: 30%
+- Final Exam: 40%

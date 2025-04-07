@@ -1,0 +1,63 @@
+**Robotik Laboratuvarı**
+
+**Oda Numarası:** 4203 
+
+**Laboratuvar Sorumlusu:** Prof. Dr. Hakan Temeltaş 
+
+**Laboratuvar Çalışanları:** Araş. Gör. Ecem Sümer, Araş. Gör. Mert Can Kurucu 
+
+**Genel Bilgi:** Laboratuvarın kuruluş amacı endüstriyel robot kolları ve mobil robotlarla birlikte günümüz robot teknolojilerini geliştirerek akademik ve endüstriyel alanlarda çalışmalar yapmaktır. Yapılan bu çalışmalar TÜBİTAK destekli projelerle birlikte robotik alanında yeni teknolojilerin geliştirilmesine olanak sağlamaktadır. 
+
+**Laboratuvar Olanakları:**
+- **Endüstriyel Robot Kolları:**
+  - 3 serbestlik dereceli robot simülatörü (Control Techniques)
+  - 7 serbestlik dereceli Mitsubishi PA-10 endüstriyel robot kolu
+  - 5 serbestlik dereceli ROB3i endüstriyel robot kolu
+
+- **Mobil Robotlar:** Toplamda 7 adet mobil robot
+  - 2 adet İTÜ-AGV
+  - 1 adet Parrot AR Drone 2.0 Quadrotor
+  - 1 adet Parrot Beebop Drone Quadrotor
+  - 1 adet Parrot Jumping Sumo Mobil Kara Taşıtı
+  - 1 adet Nomad 200 Mobil Robot Platformu
+  - 1 adet Clearpath Husky A-200 Mobil Kara Taşıtı
+
+- **Diğer Ekipmanlar:**
+  - FARO Quantum 7 eksenli lazer ölçüm aleti
+  - Proto Place LPKF prototipleme cihazı
+  - LPFK Prototip Baskı Devre Sistemi
+  - Stratasys FDM 400mc Hızlı Prototipleme Sistemi
+  - DMU 70 eVo Heidenhain 5 eksenli CNC
+  - Ideal Aerosmith Kalibrasyon Tahtası
+  - SICK-LMS511 ve SICK-LMS200 Lazer Mesafe Sensörleri
+  - Microsoft Kinect Stereo Kameralar
+  - Tektronix Dijital Örüntü Üretici ve Osiloskoplar
+  - Tektronix Lojik Analizör ve Fonksiyon Üretici
+
+**Laboratuvarda Yapılan Deneyler:**
+- Hızlı prototipleme ile tasarım ve üretim
+- CNC 5 eksen parça işleme
+- Lazerli hassas koordinat ölçüm sistemi
+- Robot prototip tasarımı
+- Katmanlı baskı devre (PCB) tasarımı
+- Lazer sensör kalibrasyonu ve modellenmesi 
+
+**Kullanılan Yazılımlar:**
+- Code Composer Studio
+- Geomagic
+- Catia
+- Insight
+- Vericut
+- Matlab & Simulink 
+
+**Kullanım Amaçları:**
+- Araştırma projeleri
+- Lisans dersleri
+- Lisans bitirme ödevleri
+- Yüksek lisans ve doktora tez çalışmaları
+- Üniversite-sanayi işbirliği kapsamında eğitim ve proje faaliyetleri 
+
+**İletişim Bilgileri:**
+- **Telefon:** +90 212 285 35 75
+- **Fax:** +90 212 285 29 20
+- **Adres:** İTÜ Ayazağa Kampüsü, PK: 34469, Maslak / İstanbul, Türkiye

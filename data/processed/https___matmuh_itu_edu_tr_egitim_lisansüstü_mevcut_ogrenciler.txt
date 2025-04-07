@@ -1,0 +1,46 @@
+**Yüksek Lisans Mevcut Öğrenciler Listesi**
+
+| **Öğrenci** | **E-posta** | **Danışman** | **Eş Danışman** |
+|-------------|--------------|---------------|------------------|
+| Ali Gineli | gineli | Doç. Dr. Nurettin Cenk Turgay | |
+| Ali Kaan Arbay | arbay22 | | |
+| Arif Çakır | cakirar19 | Doç. Dr. Gül İnan | |
+| Aslıhan Yaşar | yasara21 | Prof. Dr. Seher Melike Aydoğan | |
+| Barış Küçük | kucukb22 | Prof. Dr. Atabey Kaygun | |
+| Berna Yavaş | yavas22 | Doç. Dr. Ali Demirci | |
+| Buğra Coşkun | coskun24 | Prof. Dr. Murat Sarı | |
+| Burhan Ermiş | ermis23 | | |
+| Büşra Köksal | koksalb17 | Doç. Dr. Burcu Tunga | Dr. Öğr. Üyesi Murat Rüştü Demirer |
+| Büşra Temel | temelbu | | |
+| Doğan Zeki Muratoğlu | muratoglu24 | Prof. Dr. Seher Melike Aydoğan | |
+| Emre Perihan | perihan18 | Doç. Dr. Ali Demirci | |
+| Emrullah Uluışık | uluisik21 | Prof. Dr. Gülçin Çivi Bilir | Dr. Öğr. Üyesi Erdem Alkım |
+| Fatma Mutlu | mutluf | Prof. Dr. Ahmet Kırış | |
+| Furkan Emre Işık | isikf17 | Doç. Dr. Ali Demirci | |
+| Gamze Demirhan | demirhang24 | | |
+| Gökçeana Karadağ | karadagg23 | Prof. Dr. Ahmet Kırış | Doç. Dr. Burcu Tunga |
+| Haldun Taha Uzunoğlu | uzunoglu18 | Prof. Dr. İlkay Bakırtaş Akar | |
+| Hilal Kılıç | kilichil | | |
+| Huriye Oreavon | oreavon18 | Dr. Öğr. Üyesi İrma Hacınlıyan | |
+| Hüseyin Alper Karagöz | karagozh16 | Dr. Öğr. Üyesi İzzet Göksel | |
+| Kadir Bilgin | bilgink19 | Doç. Dr. Nurettin Cenk Turgay | |
+| Kenan Evren Boyabatlı | boyabatli23 | | |
+| Melike Özcan | ozcanme23 | Prof. Dr. Murat Sarı | |
+| Mira Bağman | bagman | Doç. Dr. Burcu Tunga | Doç. Dr. Müge Balkaya |
+| Muhammed Talha Kaya | kayamu16 | | |
+| Nur Melek Bağcılar | bagcilar18 | Prof. Dr. Samet Yücel Kadıoğlu | |
+| Nurdan Hatice Ayar | ayar17 | | |
+| Ömer Can Karademir | karademiro23 | | |
+| Ramazan Pehlivan | pehlivanr23 | | |
+| Rukiyye Sakallı | sakallir20 | Doç. Dr. Ergün Yaraneri | |
+| Sümeyra Sayın | sayins21 | Doç. Dr. Burcu Tunga | Prof. Dr. Ahmet Kırış |
+| Ufuk Biber | biber | Doç. Dr. Burcu Tunga | |
+| Umut Kutlu | kutlu18 | Doç. Dr. Burcu Tunga | |
+| Utku Sadettin Koç | koc24 | Dr. Öğr. Üyesi İzzet Göksel | |
+| Yusuf Kerim Oğuz | oguzy18 | | |
+| Zeynep Bekçi | bekciz16 | Prof. Dr. Seher Melike Aydoğan | |
+
+**İletişim Bilgileri:**
+- **Telefon:** +90 (212) 285 32 53
+- **Fax:** +90 (212) 285 63 86
+- **Adres:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

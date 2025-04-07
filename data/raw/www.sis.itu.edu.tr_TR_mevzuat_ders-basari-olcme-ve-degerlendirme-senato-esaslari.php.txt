@@ -1,0 +1,213 @@
+Title: İTÜ | ÖİDB
+
+URL Source: https://www.sis.itu.edu.tr/TR/mevzuat/ders-basari-olcme-ve-degerlendirme-senato-esaslari.php
+
+Markdown Content:
+| İSTANBUL TEKNİK ÜNİVERSİTESİ  
+DERS BAŞARI ÖLÇME VE DEĞERLENDİRME SENATO ESASLARI
+
+BİRİNCİ BÖLÜM
+
+Amaç, Kapsam, Dayanak ve Tanımlar
+
+**Amaç**
+
+**Madde 1 -** Senato Esasları, İstanbul Teknik Üniversitesi Fakülteleri, Türk Musikisi Devlet Konservatuvarı, Lisansüstü Eğitim Enstitüsü, Yabancı Diller Yüksekokulu ve Siber Güvenlik Meslek Yüksekokulu tarafından yürütülen ön lisans, lisans ve lisansüstü öğretim programlarındaki derslerin ölçme ve değerlendirme uygulama esaslarını, Yükseköğretim Kurumu Ön lisans, Lisans, Lisansüstü Eğitim ve Öğretim Yönetmeliği ile İstanbul Teknik Üniversitesi Ön lisans, Lisans, Lisansüstü Eğitim ve Öğretim Yönetmeliği’nde belirtilmiş ilkeler çerçevesinde tanımlar.
+
+**Kapsam**
+
+**Madde 2 -** Esaslar, İstanbul Teknik Üniversitesi’ne bağlı Fakülteler, Türk Musikisi Devlet Konservatuvarı, Lisansüstü Eğitim Enstitüsü, Yabancı Diller Yüksekokulu ve Siber Güvenlik Meslek Yüksekokulunu kapsar.
+
+**Dayanak**
+
+**Madde 3-** Esaslar, İTÜ Lisans Eğitim ve Öğretim Yönetmeliği, İTÜ Lisansüstü Eğitim ve Öğretim Yönetmeliğine dayanılarak hazırlanmıştır.
+
+**Tanımlar**
+
+**Madde 4-** Bu Esaslarda sözü edilen tanımlar aşağıdaki anlamları ifade eder:
+
+**Üniversite:** İstanbul Teknik Üniversitesini,
+
+**Senato:** İstanbul Teknik Üniversitesi Senatosunu,
+
+**Öğretim:** Yönetmelikteki tüm eğitim öğretim etkinliklerini,
+
+**Akademik Yarıyıl:** Senato tarafından kabul edilen bir akademik takvim yarıyılını,
+
+**Program:** Ön lisans, Lisans, Yüksek lisans, doktora veya sanatta yeterlik unvanlarına yönelik belirli sayıda ve belirli içerikte zorunlu ve seçmeli dersler ile doktora yeterlik/sanatta ön yeterlik sınavı, tez ve uygulamalarını,
+
+**Havuz Dersleri:** Birden fazla Fakülte Programının ders planında bulunan, tek bir Akademik birim tarafından verilen ve bir koordinatör tarafından yürütülen zorunlu dersleri,
+
+**Havuz Laboratuvar Dersleri:** Birden fazla Fakülte Programının ders planında bulunan, tek bir Akademik birim tarafından verilen, bir koordinatör tarafından yürütülen, yalnızca laboratuvar saati olan zorunlu dersleri,
+
+**Yarı Havuz Dersleri:** Birden fazla Fakülte Programının ders planında bulunan ve farklı Akademik Birimler tarafından yürütülen ortak dersleri,
+
+**Dersin Öğrenme Kazanımları:** Bir öğrencinin bir dersi öğrenme sürecinin sonunda, bilmesi, yapması ve uygulaması gereken bilgi, beceri ya da tutumları,
+
+**Dijital Ders Dosyası:** Birimler tarafından kurumsal dijital arşiv platformlarında depolanan dersin dijital dosyasını,
+
+**Biçimlendirici-Geliştirici Değerlendirme Yöntemleri:** Öğrenciye süreç içinde geri bildirim verilen ve ödev/projenin süreç içinde biçimlendirilmesini sağlayan değerlendirme türünü,
+
+**Genel Değerlendirme Yöntemleri:** Bir eğitsel aktivitenin sonunda öğrencinin kazanımlarının sınav/ödev/sözlü gibi değerlendirme yöntemleri ile ölçülmesi ve değerlendirilmesini,
+
+**MT:** Mühendislik Tasarımı derslerini,
+
+**TM:** Temel Mühendislik derslerini,
+
+**TB:** Temel Bilim derslerini,
+
+**ITB:** İnsan ve Toplum Bilimleri derslerini,
+
+**Tasarım Projesi Dersleri:** Tasarım Projesi I ve Tasarım Projesi II derslerini,
+
+**Ninova:** Öğrenme Yönetim Sistemini,
+
+**Kepler:** Öğrenci Bilgi Sistemini,
+
+ifade eder.
+
+İKİNCİ BÖLÜM
+
+Ders Türleri ve Değerlendirme Yöntemleri
+
+**MADDE 5- a) Mühendislik Tasarımı Dersleri (MT):** Mühendislik tasarımı kavramı ve tasarım unsurlarını öğreten derslerdir. Bu kapsamda genel olarak tasarım süreci, tasarım faaliyetleri ve tasarım geliştirme süreçlerinin tanıtılması ve öğretilmesi amaçlanmaktadır. Mühendislik tasarım kavramını öğretmeyi amaçlayan bu derslerin içeriklerinde en az bir tasarım bileşeni bulunması gerekmektedir. Dersin başarı değerlendirilmesinde yarıyıl içi çalışması olarak, yarıyıl boyunca öğrenciye geri bildirim verilen (Biçimlendirici-Geliştirici değerlendirme) ve öğrencinin tasarım becerilerini geliştirmeye yönelik ödev/projeler verilir. Biçimlendirici-Geliştirici değerlendirmelere ilişkin geri bildirim, öğrencilerin çalışma stratejilerini değiştirmeleri için bilgilerindeki boşlukları belirlemelerine yardımcı olmayı amaçlamaktadır. Bu derslerde ek olarak Genel Değerlendirme yöntemleri de kullanılır.
+
+**b) Temel Bilim Dersleri (TB) ve Temel Mühendislik (TM) Dersleri:** Bu derslerin başarı değerlendirilmesinde Genel Değerlendirme Yöntemleri kullanılır. Dersi veren Öğretim Üyesi başarı değerlendirmesine Biçimlendirici-Geliştirici Değerlendirme Yöntemlerinden de ekleyebilir.
+
+**c) İnsan ve Toplum Bilimleri Dersleri (ITB):** İnsan ve toplum bilimleri dersleri, tarih, ahlak felsefesi, sanat felsefesi, siyaset felsefesi ve kuramı, bilim ve teknoloji felsefesi gibi alanlarda geleneksel analiz, teknik ve yaklaşımlarla verilen seçmeli derslerdir. Bu derslerin başarı değerlendirilmesinde Genel Değerlendirme Yöntemleri kullanılır. Dersi veren Öğretim Üyesi başarı değerlendirmesine Biçimlendirici-Geliştirici Değerlendirme Yöntemlerinden de ekleyebilir.
+
+**d) Sanat Dersleri (SNT):** Güzel sanatlar bölümü tarafından verilen seçmeli derslerdir. Bu derslerin başarı değerlendirilmesinde Genel Değerlendirme Yöntemleri kullanılır. Dersi veren Öğretim Üyesi başarı değerlendirmesine Biçimlendirici-Geliştirici Değerlendirme Yöntemlerinden de ekleyebilir.
+
+**e) Beden Eğitimi Dersleri (BEB):** Beden Eğitimi Bölümü tarafından yürütülen teorik veya uygulamalı derslerdir.
+
+**f) Yabancı Dil Dersleri:** Yabancı Diller Yüksekokulu tarafından öğrencilerin dil becerilerini geliştirmek üzere verilen zorunlu veya seçmeli derslerdir. Bu derslerin başarı değerlendirmesinde Genel ve Biçimlendirici-Geliştirici Değerlendirme Yöntemleri birlikte kullanılır.
+
+**g) Atatürk İlkeleri ve İnkılap Tarihi Dersleri (ATA):** Rektörlüğe bağlı Atatürk İlkeleri ve İnkılap Tarihi Bölümü tarafından yürütülen teorik derslerdir. Bu derslerin başarı değerlendirilmesinde Genel Değerlendirme Yöntemleri kullanılır. Başarı değerlendirmesine Biçimlendirici-Geliştirici Değerlendirme Yöntemlerinden de eklenebilir.
+
+**h) Türk Dili Dersleri (TUR):** Rektörlüğe bağlı Türk Dili Bölümü tarafından yürütülen teorik derslerdir. Bu derslerin başarı değerlendirilmesinde Genel Değerlendirme Yöntemleri kullanılır. Başarı değerlendirmesine Biçimlendirici-Geliştirici Değerlendirme Yöntemlerinden de eklenebilir.
+
+**i) Uygulama Saati Olan dersler:** Uygulama saati olan temel bilim (TB), temel mühendislik (TM) ve mühendislik tasarımı (MT) derslerinde, teorik içeriğin daha iyi anlaşılmasını sağlayacak, öğrencilerin aktif olarak katıldığı uygulamalar yapılır. Uygulama sınıf içi soru çözümü, bilgisayar laboratuvarında uygulama, arazi çalışması vb. olabilir.
+
+**j) Laboratuvar Saati Olan dersler:** Laboratuvar saati olan temel bilim (TB), temel mühendislik (TM) ve mühendislik tasarımı (MT) derslerinde, ilgili saatler bir laboratuvar/atölye vb. mekanda işlenir. Bu derslerde öğrencilerin aktif olarak katıldığı laboratuvar uygulamaları yapılır.
+
+**k) Havuz Dersleri:** Birden fazla Fakülte Programının ders planında bulunan, tek bir Akademik birim tarafından verilen ve bir koordinatör tarafından yürütülen zorunlu derslerdir. Her yarıyılın başında koordinatör listesi Öğrenci Dekanlığı’nın web sitesi üzerinden yayımlanır.
+
+Bu derslerin başarı değerlendirilmesinde Genel Değerlendirme Yöntemleri kullanılır. Başarı değerlendirmesine Biçimlendirici-Geliştirici Değerlendirme Yöntemlerinden de eklenebilir.
+
+**l) Yarı Havuz Dersleri:** Birden fazla Fakülte Programının ders planında bulunan ve farklı Akademik Birimler tarafından verilen ortak derslerdir. Bu derslerin listesi ve koordinatörleri her yarıyılın başında Öğrenci Dekanlığı’nın web sitesi üzerinden yayımlanır. Bu derslerin başarı değerlendirilmesinde Genel Değerlendirme Yöntemleri kullanılır. Başarı değerlendirmesine Biçimlendirici-Geliştirici Değerlendirme Yöntemlerinden de eklenebilir.
+
+**m) Tasarım Projesi Dersleri:** Tasarım projesinin değerlendirilmesi ilgili senato esaslarına göre yapılır.
+
+ÜÇÜNCÜ BÖLÜM
+
+Ders Başarı Değerlendirme Ölçütleri
+
+**MADDE 6** a) Bir dersin ders başarı değerlendirme ölçütleri, yarıyıl başlangıcından önce dersi veren öğretim üyesi veya dersin koordinatörü tarafından taslak olarak belirlenir ve Bölüm Başkanlıklarınca Fakülte/Yüksekokul/Konservatuvar/Enstitü Kuruluna sunulur. ‘Ders Başarı Değerlendirme Ölçütleri ve Yarıyıl Sonu Sınavına Girebilme Koşulları’ Fakülte/Yüksekokul/Konservatuvar/Enstitü Kurulu tarafından en geç yarıyılın ilk haftasında onaylanır.
+
+b) Havuz Derslerinde, yarıyıl içi ders başarı kriteri olarak sadece ara sınavların uygulandığı durumlarda; yarıyıl sonu sınavına giriş koşulu olarak söz konusu ara sınavlara girme ve derse devam koşulu aranır.
+
+Bağıl değerlendirme ile harf notu verilen havuz derslerinde, yarıyıl sonu sınavlarının ağırlığı %40 olarak uygulanır.
+
+c) Fakülte/Yüksekokul/Konservatuvar/Enstitü Kurulu tarafından onaylanan tüm ölçütler ve ağırlıkları, dersi veren Öğretim Üyesi tarafından yarıyıl başında Ninova platformu üzerinden öğrencilere duyurulur. Ayrıca Kepler platformunda her bir ölçüt ve ağırlığı ayrı ayrı tanımlanır ve dönem boyunca her bir ölçütün değerlendirmesinin ilanı bu platformdan yapılır.
+
+Tüm yarıyıl içi değerlendirmelerinin sonuçları en geç dönemin son ders günü ilan edilir.
+
+d) Bir dersin yarıyıl sonu sınavına girebilme koşullarını yerine getirmeyen öğrenci listesi, dersi veren öğretim üyesi tarafından yarıyılın son haftasında, akademik takvime göre ilan edilir. Bu öğrenciler bu dersten VF harf notu alırlar ve final sınavına giremezler.
+
+e) Öğrencinin bir dersteki ham başarı notu; öğrencinin o dersin yarıyıl içi notları ile yarıyıl sonu sınavından aldığı notların dönem başında belirlenen ve sınıfa duyurulan ‘Ders Başarı Değerlendirme Ölçütleri’nde belirlenen oranlarda katkısının alınması ile belirlenir.
+
+f) Yarıyıl sonu sınavı yapılmayan derslerde başarı değerlendirmesi, yalnızca yarıyıl içi çalışmalarına bağlı olarak belirlenir.
+
+g) Kredisiz derslerde harf notu olarak Başarılı (BL) veya Başarısız (BZ) notlarından biri verilir. Bu derslerdeki değerlendirme için ilgili birim tarafından, derse devam koşulunun yanında uygun bir ders geçme barajı belirlenebilir.
+
+DÖRDÜNCÜ BÖLÜM
+
+Ders Başarı Notunun Harf Notuna Dönüştürülmesi
+
+**Derslerin Bağıl Değerlendirmesi**
+
+**Madde 7-** Öğrencinin bir dersteki başarısı, bağıl değerlendirme yöntemi ile belirlenir. Bir sınıftaki bağıl değerlendirmeye katılmaya hak kazanan öğrencilerin (VF alan öğrencilerin dışındakiler) ham başarı puanları, sınıf ortalaması ve standart sapması dikkate alınarak harf notuna dönüştürülür.
+
+Bağıl Değerlendirmeye katılan öğrenci sayısı 30 ve üzerinde ise bu dönüştürme için aşağıda önerilen yöntemlerden (Yöntem 1 veya 2) sınıfın başarı durumuna uygun olan biri kullanılabilir:
+
+**(Ek ÜS-28.12.2023-852)**Bu yöntemler örnek olup, Öğretim elemanı sınıfın başarı not dağılımına göre bu veya benzer yöntemler kullanarak harf notu alt sınırını belirleme yetkisine sahiptir.
+
+**a) Yöntem 1**: T-skorunun kullanıldığı yöntemdir.
+
+1) Öğrencilerin 100 puan üzerinden hesaplanmış olan başarı notları kullanılarak sınıf ortalaması aşağıdaki eşitliğe göre bulunur ve virgülden sonra iki haneye yuvarlanır. Sınıf ortalaması; bir sınıftaki bağıl değerlendirmeye katılmaya hak kazanan öğrencilerin (VF alan öğrencilerin dışındakiler) başarı notlarının aritmetik ortalamasıdır.
+
+![Image 15](blob:https://www.sis.itu.edu.tr/9c49734abae4168454404663b2fd8451)
+
+x ̅:Sınıf ortalaması
+
+X: Bir öğrencinin başarı notu
+
+N: Hesaplamaya katılan öğrenci sayısı
+
+2) Standart sapma aşağıda verilen eşitliğe göre hesaplanır ve virgülden sonra iki haneye yuvarlanır. Standart sapma; bir sınıftaki notların sınıf ortalamasına göre gösterdiği dağılımı belirten bir ölçüdür.
+
+![Image 16](blob:https://www.sis.itu.edu.tr/6b1449e60b1d3bb333ff2361e4ad9f4d)
+
+STD: Standart Sapma
+
+X: Bir öğrencinin başarı notu
+
+N: Hesaplamaya katılan öğrenci sayısı
+
+3) Her öğrencinin T-skoru aşağıdaki eşitliğe göre, virgülden sonra iki haneye yuvarlanarak hesaplanır.
+
+![Image 17](blob:https://www.sis.itu.edu.tr/feefb6a537be117bf5f261687f6715bd)
+
+x ̅:Sınıf ortalaması
+
+x: Bir öğrencinin başarı notu
+
+STD: standart sapma
+
+Z: standart skor
+
+4) Her öğrencinin T-skoruna göre harf notu, sınıf düzeyine karşılık gelen T-skoru alt sınır değerleri gözetilerek belirlenir. Örnek bir dönüşüm Tablo 1’de verilmiştir. T-skoruna karşılık gelen harf notu, sınıfın başarı düzeyine göre ilgili satırdan belirlenir.
+
+**Tablo1:** Yöntem 1 ile harf notuna dönüşüm tablosu**(Değişik:ÜS-28.12.2023-852)**(Örnektir)
+
+![Image 18](blob:https://www.sis.itu.edu.tr/0c1c07b092b50dfb9904ff4c29af0599)
+
+**b) Yöntem 2:** Harf notu alt sınırı için sınıf ortalaması ve standart sapmanın kullanıldığı yöntemdir (Tablo 2).
+
+**Tablo 2:** Yöntem 2 ile harf notuna dönüşüm tablosu**(Değişik:ÜS-28.12.2023-852)**(Örnektir)
+
+![Image 19](blob:https://www.sis.itu.edu.tr/d20a788f780efcc430e8ee7409d3a77d)
+
+**Ek Sınav ve Sınırsız Sınav Hakkı Sonrası Harf Notu Belirlenmesi**
+
+**Madde 8-** Ek sınav 1 ve 2, veya sınırsız sınav hakkı kullanan öğrencilerin derslerdeki harf notu; öğrencinin aldığı sınav puanı ve ilgili dersin en son açıldığı dönemdeki harf notu dağılımı dikkate alınarak belirlenir.
+
+BEŞİNCİ BÖLÜM
+
+**Dijital Ders Dosyasının Hazırlanması ve Teslim Edilmesi**
+
+**Madde 9-** Bölüm/Anabilim dalı Başkanlıkları ilgili yarıyılda açılan tüm ön lisans, lisans ve lisansüstü dersler için hazırlanmak üzere Dijital Ders Dosyasının dönem sonunda tamamlanmasını sağlamakla sorumludur. **(Ek:ÜS-28.12.2023-852)**Bu amaçla Bölüm /Anabilimdalı Başkanı öğretim elemanlarından oluşan bir komisyon kurar. Dersi ilgili dönemde veren Öğretim Üyesi veya dersin Koordinatörü Dijital Ders Dosyasını hazırlamakla ve en geç son not girişi tarihini takip eden 1 **(Değişik Terim:ÜS-28.12.2023-852)**ay içerisinde **(Değişik Terim:ÜS-28.12.2023-852)**ilgili komisyona dalı Başkanlıklarına teslim etmekle yükümlüdür. **(Değişik:ÜS-28.12.2023-852)**Komisyon dijital ders dosyalarının kontrol edilmesi, eksikliklerin tamamlanması ve kurumsal dijital arşiv platformunda saklanması görevlerini yürütür.
+
+**Madde 10-** Dijital Ders Dosyasının içeriğinde aşağıdaki belgeler bulunur:
+
+a) Ders Tanıtım Formu
+
+b) Ders Değerlendirme Formu
+
+c) Ödevler (Sorular ve cevapları, en iyi-orta-en düşük kağıt örneği)
+
+d) Sınıf içi çalışmalar, Raporlar, Projeler (Sorular ve cevapları, en iyi-orta-en düşük kağıt örneği)
+
+e) Yıl içi sınavı (Sorular ve cevapları, en iyi-orta-en düşük kağıt örneği)
+
+f) Final sınavı (Sorular ve cevapları, en iyi-orta-en düşük kağıt örneği)
+
+g) Not dağılımı ve bağıl not eğrisi (Her bir başarı ölçütünün not karşılığı, ham notlar ve harf notları tablosu ile bağıl not eğrisi)
+
+h) Dersin eğitsel çıktıların ilişkisi (Öğrenme çıktılarıyla ölçme yöntemlerinin eşleştirilmesini gösteren tablo)
+
+ı) Ders genel değerlendirme ve iyileştirme öneri raporu (Dersin öğrenme kazanımlarını ölçmeye yönelik ölçme değerlendirme teknikleri kullanılır. Dersin sorumlusu yarıyıl sonunda soru bazlı kazanım istatistiği çıkarır ve dersin kazanımlarını iyileştirmeye yönelik öneriler geliştirmek için kullanılır. Bu bilgiler ders dosyasına eklenir.)
+
+**Madde 11-** Bu esaslar Üniversite Senatosunun 28.09.2023 günlü, 845 sayılı toplantısında kabul edilerek yürürlüğe girmiştir.
+
+ |

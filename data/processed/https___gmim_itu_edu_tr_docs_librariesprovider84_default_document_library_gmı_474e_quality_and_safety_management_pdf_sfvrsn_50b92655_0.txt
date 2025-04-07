@@ -1,0 +1,66 @@
+**Course Name:** Quality and Safety Management Systems  
+**Course Code:** GMI 474E  
+**Semester:** 7-8  
+**Local Credits:** 2  
+**ECTS Credits:** 4  
+**Course Language:** English  
+**Course Type:** Elective  
+**Course Prerequisites:** None  
+
+**Course Description:**  
+- Management systems  
+- Maritime stakeholders  
+- Ship safety management system  
+- International standards: ISO 9001, ISO 14001, OHSAS 18001, ISO 50001  
+- Integrated management systems  
+- Key performance indicators  
+- Process improvement techniques  
+- Corrective and preventive actions  
+- Emergency management process  
+- Ship maintenance planning process  
+- Training and safety awareness  
+- Management system inspections  
+
+**Course Objectives:**  
+1. Teach the ship safety management system  
+2. Teach process improvement via international standards  
+3. Teach the requirements of company/ship audit  
+
+**Course Learning Outcomes:**  
+Students will be able to:  
+I. Understand main principles of management systems  
+II. Implement ship safety management systems  
+III. Meet requirements of international standards  
+IV. Implement integrated management systems  
+V. Conduct ship management system audits  
+
+**Course Plan:**  
+1. Management systems  
+2. Maritime stakeholders  
+3. Ship safety management system  
+4. International standards  
+5. ISO 9001, ISO 14001  
+6. OHSAS 18001, ISO 50001  
+7. Integrated management systems  
+8. Key performance indicators  
+9. Process improvement techniques  
+10. Corrective and preventive actions  
+11. Emergency management process  
+12. Ship maintenance planning process  
+13. Training, safety, and environmental awareness  
+14. Management systems inspections  
+
+**Relationship to Marine Engineering Student Outcomes:**  
+1. Identify, formulate, and solve complex engineering problems  
+2. Apply engineering design considering public health, safety, and welfare  
+3. Communicate effectively with a range of audiences  
+4. Recognize ethical and professional responsibilities in engineering  
+5. Function effectively on a team  
+6. Develop and conduct appropriate experimentation and analyze data  
+7. Acquire and apply new knowledge as needed  
+8. Operate and maintain marine engines and systems effectively and safely  
+
+**Assessment Criteria:**  
+- Midterm Exams: 30%  
+- Term Paper/Project: 30%  
+- Final Exam: 40%  

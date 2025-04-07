@@ -1,0 +1,60 @@
+**Title:** Karlsruher Institut für Technologie
+
+**Courses Offered:**
+
+1. **Theoretische Meteorologie I + Übungen zu Theoretische**
+   - ITU Code: 4051021
+   - Course Name: Atmosfer Dinamiği I (2021)
+
+2. **Cloud Physics + Exercises to Cloud Physics**
+   - ITU Code: 4052081
+   - Course Name: Physics of Clouds & Precipitation (2021)
+
+3. **Ocean-Atmosphere Interactions**
+   - ITU Code: 4052121
+   - Course Name: 8. YY. Seçime Bağlı MT (2021)
+
+4. **German Intensive Course**
+   - ITU Code: 4052061
+   - Course Name: German V (2021)
+
+5. **Middle Atmosphere in the Climate System**
+   - ITU Code: 4052061
+   - Course Name: 7. YY. Seçime Bağlı MT (2021)
+
+6. **Seminar zur Wettervorhersage I**
+   - ITU Code: 4051064
+   - Course Name: Hava Analizi ve Öngörü I (2021)
+
+7. **Methods of Data Analysis**
+   - ITU Code: 4052171
+   - Course Name: Data Analysis (2021)
+
+8. **Turbulent Diffusion + Exercises to Turbulent**
+   - ITU Code: 4052081
+   - Course Name: 8. YY. Seçime Bağlı MT (2021)
+
+9. **German Intensive Course**
+   - ITU Code: 4051121
+   - Course Name: German VI (2021)
+
+10. **Theoretische Meteorologie II + Übungen zu Theoretische Meteorologie II**
+    - ITU Code: 4051122
+    - Course Name: Atmosfer Dinamiği II (2021)
+
+11. **Energy Meteorology**
+    - ITU Code: 4052191
+    - Course Name: Enerji Meteorolojisine Giriş (2021)
+
+12. **Field Trip**
+    - ITU Code: 4052263
+    - Course Name: 7. YY. Seçime Bağlı MT (2021)
+
+13. **Remote Sensing of Atmosphere and Ocean**
+    - ITU Code: 4052151
+    - Course Name: Meteorolojide Uzaktan Algılamanın Temelleri (2021)
+
+**Contact Information:**
+- **Phone:** +90 (212) 285 31 01
+- **Fax:** +90 (212) 285 31 39
+- **Address:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

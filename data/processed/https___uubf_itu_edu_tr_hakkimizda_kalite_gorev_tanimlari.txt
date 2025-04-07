@@ -1,0 +1,13 @@
+**Title: Görev Tanımları**
+
+- Yazı İşleri Memuru
+- Personel İşleri Memuru
+- Taşınır Kayıt Yetkilisi
+- Taşınır Kayıt Kontrol Yetkilisi
+- Satın Alma Memuru
+- Öğrenci İşleri Memuru
+- Özel Kalem Sekreteri
+- İdare Amiri
+- Maaş Mutemedi
+- Fakülte Sekreteri
+- Bölüm Sekreteri

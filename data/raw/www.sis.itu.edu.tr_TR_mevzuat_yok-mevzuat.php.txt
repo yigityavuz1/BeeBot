@@ -1,0 +1,100 @@
+Title: İTÜ | ÖİDB
+
+URL Source: https://www.sis.itu.edu.tr/TR/mevzuat/yok-mevzuat.php
+
+Markdown Content:
+### Akademik Takvim
+
+*   [Lisans Akademik Takvimi](https://www.takvim.sis.itu.edu.tr/AkademikTakvim/TR/akademik-takvim/index.php?takvimadi=15 "lisansakademik")
+*   [Lisans Yatay Geçiş, ÇAP, Yandal Takvimi](https://www.takvim.sis.itu.edu.tr/AkademikTakvim/TR/akademik-takvim/index.php?takvimadi=16 "yatay")
+*   [Önkayıt Takvimi](https://www.takvim.sis.itu.edu.tr/AkademikTakvim/TR/akademik-takvim/index.php?takvimadi=17 "onkayit")
+*   [Lisansüstü Akademik Takvimi](https://www.takvim.sis.itu.edu.tr/AkademikTakvim/TR/akademik-takvim/index.php?takvimadi=19 "yukseklisan")
+*   [II.Öğretim Lisansüstü Akademik Takvimi](https://www.takvim.sis.itu.edu.tr/AkademikTakvim/TR/akademik-takvim/index.php?takvimadi=20 "ikinciogretim")
+*   [İngilizce Hazırlık Akademik Takvimi](https://www.takvim.sis.itu.edu.tr/AkademikTakvim/TR/akademik-takvim/index.php?takvimadi=18 "ingilizce")
+
+* * *
+
+### Ders Bilgileri
+
+*   [Ders Planları](https://obs.itu.edu.tr/public/DersPlan/ "dersplanlari")
+*   [Ders Denklikleri](https://obs.itu.edu.tr/public/GenelTanimlamalar/DersPlanDenklikleri "dersdenklikleri")
+*   [Önşartlar](https://obs.itu.edu.tr/public/GenelTanimlamalar/DersOnsartList "onsartlar")
+*   [Ders Bilgileri](https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-bilgileri/ders-bilgileri.php "dersbilgileri")
+*   [Ders Programları](https://obs.itu.edu.tr/public/DersProgram "dersprogramlari")
+*   [Bina Kodları](https://www.sis.itu.edu.tr/TR/obs-hakkinda/bina-kodlari.php "bina")
+*   [Lisans Program Kodları](https://www.sis.itu.edu.tr/TR/obs-hakkinda/lisans-program-kodlari.php "lisansprogram")
+
+### İşlemler
+
+*   [Başvuru ve Kabul](https://www.sis.itu.edu.tr/TR/basvuru-kabul/basvuru-kabul.php "basvuru")
+*   [Çap, Yandal ve Yatay Geçiş İşlemleri](https://www.sis.itu.edu.tr/TR/ogrenci/lisans/cap-yandal-yatay-gecis/cap-yandal-yatay-gecis.php "cap")
+*   [Mezuniyet ve Diploma İşlemleri](https://www.sis.itu.edu.tr/TR/ogrenci/mezuniyet-diploma/mezuniyet-diploma.php "mezuniyet")
+
+* * *
+
+### Enstitüler
+
+*   [Lisansüstü Eğitim Enstitüsü](https://lee.itu.edu.tr/ "Lisansüstü Eğitim Enstitüsü")
+*   [Afet Yönetimi Enstitüsü](https://eedmi.itu.edu.tr/ "afet")
+*   [Avrasya Yer Bilimleri Enstitüsü](https://eies.itu.edu.tr/ "avrasya")
+*   [Bilişim Enstitüsü](http://www.be.itu.edu.tr/ "bilisim")
+*   [Enerji Enstitüsü](https://enerji.itu.edu.tr/ "enerji")
+*   [Havacılık Enstitüsü](https://www.sis.itu.edu.tr/TR/mevzuat/yok-mevzuat.php# "havacilik")
+
+* * *
+
+*   [**Fakülteler**](https://www.itu.edu.tr/fakulte-listesi "Fakülteler")
+*   * * *
+    
+    [**Yabancı Diller Yüksekokulu**](http://www.ydy.itu.edu.tr/ "beden")
+*   * * *
+    
+    [**Türk Musikisi Devlet Konservatuvarı**](https://tmdk.itu.edu.tr/ "beden")
+*   * * *
+    
+    [**Siber Güvenlik Meslek Yüksekokulu**](https://sgmyo.itu.edu.tr/ "beden")
+
+### Diğer İşlemler
+
+*   [Mevzuat](https://www.sis.itu.edu.tr/TR/mevzuat/mevzuat.php "Mevzuat")
+*   [Erasmus Değişim Programları](https://www.sis.itu.edu.tr/TR/ogrenci/erasmus-degisim-programlari/erasmus-degisim-programlari.php "erasmus")
+*   [Mevlana Değişim Programı](http://www.mevlana.itu.edu.tr/ "mevlana")
+*   [Katkı Payı / Öğrenim Ücreti](https://www.sis.itu.edu.tr/TR/ogrenci/katki-payi-ogrenim-ucreti/katki-payi-ogrenim-ucreti.php "katkipayi")
+*   [Yetkin Mühendislik Sınavı](http://www.yms.itu.edu.tr/ "yetkin")
+*   [Denklik İşlemleri](https://www.sis.itu.edu.tr/TR/ogrenci/denklik-belgesi/denklik-belgesi.php "denklik")
+
+* * *
+
+*   [Webmail](http://webmail.itu.edu.tr/ "webmail")
+*   [İTÜ PORTAL](https://portal.itu.edu.tr/ "portal")
+*   [Ninova Öğrenim Merkezi](https://ninova.itu.edu.tr/ "ninova")
+*   [İTÜ Kariyer ve Staj Merkezi](http://ikm.itu.edu.tr/ "kariyer")
+*   [Uluslararası İlişkiler Ofisi](https://international.itu.edu.tr/tr/anasayfa "uluslararasi")
+*   [Yurtlar ve Burslar Koordinatörlüğü](https://yurtburs.itu.edu.tr/ "yurtburs")
+*   [Engelli Öğrenci Birimi](https://engelsiz.itu.edu.tr/ "engelli")
+*   [Beden Eğitimi Bölümü](https://beb.itu.edu.tr/ "beden")
+
+**Telefon**
+
++90 212 365 78 00-99 (100 hat)
+
+**Faks**
+
++90 212 285 29 09
+
+**İTÜ Ayazağa Kampüsü**
+
+Öğrenci İşleri Daire Başkanlığı  
+34469 Maslak - İstanbul
+
+**Öğrenci İşleri Daire Başkanlığı**
+
+[Yardım Bileti Oluştur](https://yardim.itu.edu.tr/birim.aspx?birim=2&ogrenci+isleri+daire+baskanligi)
+
+**Öğrenci İşleri Daire Başkanlığı**
+
+[Aydınlatma Metni](http://www.sis.itu.edu.tr/TR/KVKK/aydinlatma-metni.php)
+
+**Öğrenci İşleri Daire Başkanlığı**
+
+[ogrenciisleri@itu.edu.tr](mailto:ogrenciisleri@itu.edu.tr)

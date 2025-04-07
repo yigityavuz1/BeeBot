@@ -1,0 +1,22 @@
+**Title:** Web Sitesi Barındırma
+
+İ.T.Ü. bünyesinde faaliyet gösteren birimlerin, kulüplerin, çalışma ve proje gruplarının kullanması amacıyla Linux (PHP + MySQL) veya Windows (.NET + MSSQL) site barındırma hizmeti verilmektedir.
+
+### Veri Tabanı
+Formlarınızı hızlı ve kolay bir şekilde oluşturabilir, farklı profildeki kullanıcılardan veri alabilirsiniz.
+
+### Web
+Formlarınızı diğer kullanıcılarla paylaşabilir, yetkilendirdiğiniz kullanıcıların formu geliştirmede rol almasını ve form sonuçlarını görmesini sağlayabilirsiniz.
+
+**Hizmete başvurmak için:** Bilgi İşlem Daire Başkanlığı'na resmi yazı ile talepte bulunulması gerekmektedir. 
+
+**Başvuru için gerekli bilgiler:**
+- **Birim Adı:** Hizmetin ait olduğu birim/kulüp/proje adı.
+- **Talep Edilen Kullanıcı Adı:** İTÜ/Bağımlı (Tüzel) hesabı.
+- **Talep Edilen Alan Adı:** Web barındırma hizmetine erişim için kullanılacak alan adı.
+- **Sunucu Tipi:** Windows veya Linux platformu seçimi.
+- **Veri Tabanı Tipi:** MSSQL ya da MySQL seçimi.
+- **Mozaik İçerik Yönetim Sistemi:** WordPress, Joomla gibi hazır içerik yönetim yazılımları.
+- **Sorumlu Olacak Kişi:** Hizmetin yönetiminden sorumlu İTÜ mensubu.
+
+**İletişim:** Sorularınız için 0 212 285 39 30 numaralı operatör hattından ulaşabilirsiniz.

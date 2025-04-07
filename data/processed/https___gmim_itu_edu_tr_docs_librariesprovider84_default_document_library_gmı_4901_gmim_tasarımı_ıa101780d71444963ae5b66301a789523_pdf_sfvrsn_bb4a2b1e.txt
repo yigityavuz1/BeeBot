@@ -1,0 +1,54 @@
+**Title:** GMI 4901 GMİM Tasarımı I
+
+**Course Name:** Marine Engineering Design I  
+**Course Code:** GMI 4901  
+**Semester:** 7  
+**Local Credits:** 4  
+**ECTS Credits:** 8  
+**Course Implementation (Hours/Week):** 1 Theoretical, 6 Practical  
+**Department/Program:** Marine Engineering  
+**Course Type:** Compulsory  
+**Course Language:** Turkish  
+
+**Course Prerequisites:** GMI 384E MIN DD and successful completion of all courses in the first 3 semesters of the lesson plan (except ITB and/or SNT elective package courses).
+
+**Course Description:**  
+GMI 4901 and 4902 design courses allow students to gain design project skills from selection to completion using knowledge acquired during undergraduate education. The design of marine engines, systems, or processes is considered through open-ended projects under realistic constraints and ethical considerations. Teams of students work on basic and alternative solutions, presenting results and suggestions effectively to a wide audience. GMI 4901 includes the stages of design up to production or solution implementation.
+
+**Course Objectives:**
+1. To provide skills to use knowledge of basic science and engineering.
+2. To teach all phases of a design project and provide design experience.
+3. To provide teamwork awareness while improving professional and ethical responsibility.
+4. To teach oral and written presentation skills.
+
+**Course Learning Outcomes:**  
+Students who pass the course can:
+1. Carry out an engineering design study in a team environment and within ethical rules.
+2. Study current, scientific, and sectoral publications towards a specific goal.
+3. Analyze available information effectively and within constraints.
+4. Develop a goal-oriented method for the solution of a realistic problem by evaluating different alternatives within a timeline.
+
+**Course Plan:**
+- Week 1-3: Project planning
+- Week 4-6: Project preparation
+- Week 7-10: Research
+- Week 11-14: Information analysis
+
+**Relationship of the Course to Marine Engineering Student Outcomes:**  
+- Ability to identify, formulate, and solve complex engineering problems.
+- Ability to apply engineering design to produce solutions considering public health, safety, and welfare.
+- Ability to communicate effectively with a range of audiences.
+- Ability to recognize ethical and professional responsibilities in engineering situations.
+- Ability to function effectively on a team.
+- Ability to develop and conduct appropriate experimentation and analyze data.
+- Ability to acquire and apply new knowledge as needed.
+- Ability to effectively and safely operate and maintain marine engines and systems.
+
+**Assessment Criteria:**  
+- Midterm Exams: 0%  
+- Quizzes: 0%  
+- Homework: 0%  
+- Projects: 100%  
+- Final Exam: 0%  
+
+**Departmental Approval:** [Date not specified]

@@ -1,0 +1,34 @@
+**University of Patras Course Equivalents**
+
+| University of Patras Course Code | Course Name                                   | ITU Course Code | ITU Course Name                        |
+|----------------------------------|-----------------------------------------------|------------------|----------------------------------------|
+| EY511                            | Aero / Gas Dynamics                           | UCK351           | Aerodinamik                            |
+| 415                              | Finite Element Methods I                      | UZB318E          | Finite Element Method                  |
+| 24324                            | Kinematics of Mechanisms & Machines           | TM               | 6.YY Seçime Bağlı TM (2022)          |
+| 24ME38                           | Light Structures                              | UZB331E          | Aerospace Structures (2021)           |
+| EE531                            | Aerospace Propulsion Systems                  | UZB441E          | Rocket Propulsion                       |
+| EE514                            | Experimental Fluid Dynamics                    | UZB372E          | Experimental Engineering                |
+| 24111                            | Mathematics I                                 | MAT103E          | Mathematics I (2021)                  |
+| Made 312                         | Machine Design                                | UCK361E          | Design of Machine Elements             |
+|                                  | Greek Language                                | ING103ES         | Intercultural Citizenship (2022)      |
+| 24KY16                           | Computer Aided Design                         | TM               | 8. YY Seçime Bağlı TM (2022)         |
+| 24MY2                            | Introduction to Mechanics of Composite Materials | TM               | 7. YY Seçime Bağlı TM (2021)         |
+| 24ME16                           | Advanced Strength of Materials                | MT               | 7. YY Seçime Bağlı MT (2022)         |
+| Vtol428                          | Aerodynamics of Helicopters and Vertical Take-off Vehicles | UCK459E          | Helicopter Theory                      |
+| 24IT114                          | History of Technology I                       |                  | 8 YY. Seçime Bağlı ITB (2021)        |
+| 24KY1                            | Applications of Artificial Intelligence       |                  | 6. YY. Seçime Bağlı TM (2019)        |
+| Nume 328                         | Numerical Methods                             | MAT202E          | Numerical Methods                      |
+| 24KY9                            | Computer Numerical Control (CNC)              |                  | 7. YY. Seçime Bağlı MT (2022)        |
+| 24318                            | Heat Transfer I                              | UZB232           | Isı Geçişi (2018)                     |
+|                                  | Introduction to Greek Civilization And Culture |                  | 5. YY. Seçime Bağlı ITB (2021)       |
+|                                  | Introduction to Manufacturing System          |                  | 7. YY. Seçime Bağlı MT (2018)        |
+| 24ME19                           | Aeronautical Materials                        | UCK215E          | Aerospace Materials (2018)            |
+| 24213                            | Mechanics (Dynamics)                          | DNK201E          | Dynamics (2021)                       |
+| 24KY8                            | Design of Mechanical Systems                  | TM               | 6. Yarıyıl Seçime Bağlı TM (2021)    |
+| 24218                            | Manufacturing Processes & Laboratory I       |                  | 6. YY. Seçime Bağlı MT (2019)        |
+| 24ME38                           | Thermodynamics I                             | UCK205           | Termodinamik I (2018)                 |
+
+**Contact Information:**
+- **Phone:** +90 (212) 285 31 01
+- **Fax:** +90 (212) 285 31 39
+- **Address:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

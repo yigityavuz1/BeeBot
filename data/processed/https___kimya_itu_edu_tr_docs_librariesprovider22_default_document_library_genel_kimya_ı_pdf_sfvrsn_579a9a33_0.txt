@@ -1,0 +1,66 @@
+**Course Name:** General Chemistry I  
+**Course Code:** KIM 101 - KIM 101E  
+**Semester:** 1-2  
+**Local Credits:** 3  
+**ECTS Credits:** 4.5  
+**Course Type:** Compulsory  
+**Course Language:** Turkish / English  
+**Course Prerequisites:** None  
+
+**Course Description:**  
+- Matter: Its properties and measurements  
+- Atoms and atomic theory  
+- Electron structure of atoms  
+- Periodic table and atomic properties  
+- Chemical compounds  
+- Chemical reactions  
+- Introduction to reactions in aqueous solutions  
+- Gases  
+- Thermochemistry  
+- Chemical bonding (Basic concepts and bonding theories)  
+- Intermolecular forces: Liquids and solids  
+- Solutions and their physical properties  
+- Chemical equilibrium and principles  
+- Acids and bases  
+- Spontaneous change: Entropy and Gibbs energy  
+
+**Course Objectives:**  
+1. To teach the basic concepts and principles of chemistry.  
+2. To provide theoretical and practical knowledge together.  
+3. To improve problem-solving skills.  
+4. To explain the importance of chemistry in daily life.  
+5. To encourage logical and positive thinking and understanding of natural laws.  
+
+**Course Learning Outcomes:**  
+Students who pass the course will be able to:  
+1. Interpret and apply atomic theories and the periodic table.  
+2. Perform calculations using stoichiometry in chemical reactions.  
+3. Solve problems related to liquid solutions and gases.  
+4. Conduct applications related to heat, work, enthalpy, and internal energy.  
+5. Demonstrate the three-dimensional structure of molecular compounds using bonding theories.  
+6. Understand and solve problems related to the crystal structures of solids.  
+7. Solve problems regarding thermodynamics, equilibrium, acidity, basicity, and concentration.  
+8. Relate chemistry knowledge to real-world examples.  
+
+**Course Plan:**  
+- Week 1: Matter and its properties, atomic theory, electrons in atoms  
+- Week 2: Periodic table, chemical compounds, chemical reactions  
+- Week 3: Chemical reactions, reactions in aqueous solutions  
+- Week 4: Gases  
+- Week 5: Thermochemistry  
+- Week 6: Chemical bonding – I  
+- Week 7: Chemical bonding – II  
+- Week 8: Liquids, solids, and intermolecular forces  
+- Week 9: Liquids, solids, and intermolecular forces  
+- Week 10: Solutions and their properties  
+- Week 11: Chemical equilibrium  
+- Week 12: Acids and bases  
+- Week 13: Spontaneous change: Entropy and Gibbs energy  
+- Week 14: Spontaneous change: Entropy and Gibbs energy  
+
+**Textbook:**  
+- General Chemistry, Principles & Modern Applications; R. H. Petrucci, F. G. Herring, J. D. Madura, C. Bissonnette; Pearson Canada, Inc., 2017, Eleventh Ed. ISBN: 978-0-13-293128-1  
+
+**Assessment Criteria:**  
+- Midterm Exams: 50%  
+- Final Exam: 50%  

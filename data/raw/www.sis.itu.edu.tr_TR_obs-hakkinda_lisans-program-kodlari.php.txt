@@ -1,0 +1,269 @@
+Title: İTÜ | ÖİDB
+
+URL Source: https://www.sis.itu.edu.tr/TR/obs-hakkinda/lisans-program-kodlari.php
+
+Markdown Content:
+ÖBS Giriş İTÜ AnasayfaNinova Program Bilgi Paketi / TYYÇ Öğrenci Dekanlığı Yardım İletişim ENGLISH 
+Hakkımızda
+ÖBS Hakkında
+Öğrenci
+Kayıt Süreçleri
+Mevzuat
+Başvuru ve Kabul
+SSS
+ÖBS GİRİŞ
+Anasayfa
+Lisans Program Kodları
+Lisans Program Kodları
+IN-İnşaat Fakültesi
+AIN	İnşaat Mühendisliği Uluslararası Ortak Lisans Programı - Azerbaycan
+INS	İnşaat Mühendisliği
+INSE	İnşaat Mühendisliği (% 100 İngilizce)
+GEO	Geomatik Mühendisliği
+GEOE	Geomatik Mühendisliği(% 100 İngilizce)
+HTA	Harita Mühendisliği
+HTAE	Harita Mühendisliği (%100 İngilizce)
+CEV	Çevre Mühendisliği
+CEVE	Çevre Mühendisliği (% 100 İngilizce)
+SIN	İnşaat Mühendisliği Uluslararası Ortak Lisans Programı
+JDF	Jeodezi ve Fotogrametri Mühendisliği
+SCE	Çevre Mühendisliği Uluslararası Ortak Lisans Programı
+
+MM-Mimarlık Fakültesi
+MIM	Mimarlık
+MIME	Mimarlık (% 100 İngilizce)
+SAS	Mimarlık Uluslararası Ortak Lisans Programı - Saraybosna
+SBP	Şehir ve Bölge Planlama
+SBPE	Şehir ve Bölge Planlama (% 100 İngilizce)
+SBPM	Şehir ve Bölge Planlama (Yandal)
+EUT	Endüstri Ürünleri Tasarımı
+EUTE	Endüstri Ürünleri Tasarımı (% 100 İngilizce)
+ENTE	Endüstriyel Tasarım (%100 İngilizce)
+EUTM	Endüstri Ürünleri Tasarımı (Yandal)
+ICM	İç Mimarlık
+ICME	İç Mimarlık (%100 İngilizce)
+PEM	Peyzaj Mimarlığı
+PEME	Peyzaj Mimarlığı (% 100 İngilizce)
+
+MK-Makina Fakültesi
+MAK	Makina Mühendisliği
+MAKE	Makina Mühendisliği (% 100 İngilizce)
+MSS	Makina Mühendisliği Uluslararası Ortak Lisans Programı - Saraybosna
+MAKM	Makina Mühendisliği (Yandal)
+IML	İmalat Mühendisliği
+IMLE	İmalat Mühendisliği (% 100 İngilizce)
+IMLM	İmalat Mühendisliği (Yandal)
+MKN	Mekatronik (Yandal)
+
+EE-Elektrik Elektronik Fakültesi
+EHB	Elektronik ve Haberleşme Mühendisliği
+EHN	Elektronik ve Haberleşme Mühendisliği Uluslararası Ortak Lisans Programı
+EHBE	Elektronik ve Haberleşme Mühendisliği (% 100 İngilizce)
+EHS	Elektronik ve Haberleşme Mühendisliği Uluslararası Ortak Lisans Programı - Saraybosna
+ELK	Elektrik Mühendisliği
+ELH	Elektronik ve Haberleşme Mühendisliği
+MKN	Mekatronik (Yandal)
+ELKE	Elektrik Mühendisliği (% 100 İngilizce)
+ELE	Elektronik Mühendisliği
+KOM	Kontrol ve Otomasyon Mühendisliği
+KOME	Kontrol ve Otomasyon Mühendisliği (% 100 İngilizce)
+ROS	Robotik ve Otonom Sistemleri Mühendisliği
+ROSE	Robotik ve Otonom Sistemleri Mühendisliği (% 100 İngilizce)
+TEHB	Elektronik ve Haberleşme Mühendisliği - Türkçe
+TEL	Telekomünikasyon Mühendisliği
+
+MD-Maden Fakültesi
+MAD	Maden Mühendisliği
+MADE	Maden Mühendisliği (% 100 İngilizce)
+MADM	Maden Mühendisliği (Yandal)
+JEO	Jeoloji Mühendisliği
+JEOE	Jeoloji Mühendisliği (% 100 İngilizce)
+JEOM	Jeoloji Mühendisliği (Yandal)
+JEF	Jeofizik Mühendisliği
+JEFE	Jeofizik Mühendisliği (% 100 İngilizce)
+JEFM	Jeofizik Mühendisliği (Yandal)
+PET	Petrol ve Doğalgaz Mühendisliği
+PETE	Petrol ve Doğalgaz Mühendisliği (% 100 İngilizce)
+PETM	Petrol ve Doğalgaz Mühendisliği (Yandal)
+CHZ	Cevher Hazırlama Mühendisliği
+CHZE	Cevher Hazırlama Mühendisliği (% 100 İngilizce)
+
+KM-Kimya Metalurji Fakültesi
+KMM	Kimya Mühendisliği
+KMME	Kimya Mühendisliği (% 100 İngilizce)
+KMMM	Kimya Mühendisliği (Yandal)
+MET	Metalurji ve Malzeme Mühendisliği
+METE	Metalurji ve Malzeme Mühendisliği (% 100 İngilizce)
+GID	Gıda Mühendisliği
+GIDE	Gıda Mühendisliği (% 100 İngilizce)
+GIDM	Gıda Mühendisliği (Yandal)
+MBI	Biyomühendislik Uluslararası Ortak Lisans Programı
+
+IS-İşletme Fakültesi
+ISL	İşletme Mühendisliği
+ISLE	İşletme Mühendisliği (% 100 İngilizce)
+TISL	İşletme Mühendisliği - Türkçe
+END	Endüstri Mühendisliği
+ENDE	Endüstri Mühendisliği (% 100 İngilizce)
+ECNE	Ekonomi (% 100 İngilizce)
+SIS	İşletme Uluslararası Ortak Lisans Programı
+ESS	Ekonomi Uluslararası Ortak Lisans Programı - Saraybosna
+SED	Endüstri Mühendisliği Uluslararası Ortak Lisans Programı - Binghamtom
+SEK	Ekonomi Uluslararası Ortak Lisans Programı
+SEN	Endüstri Mühendisliği Uluslararası Ortak Lisans Programı
+VBAE	Veri Bilimi ve Analitiği (%100 İngilizce)
+
+GD-Gemi İnşaatı ve Deniz Bilimleri Fakültesi
+GEM	Gemi İnşaatı ve Gemi Makineleri Mühendisliği
+GEME	Gemi İnşaatı ve Gemi Makineleri Müh. (% 100 İngilizce)
+GEMM	Gemi İnşaatı ve Gemi Makineleri Müh. (Yandal)
+DEN	Gemi ve Deniz Teknolojisi Mühendisliği
+DENE	Gemi ve Deniz Teknolojisi Mühendisliği (% 100 İngilizce)
+SORM	Sörvey Teknikleri(Yandal)
+SGI	Gemi İnşaatı ve Gemi Makineleri Müh. (UK-UOLP)
+
+FE-Fen Edebiyat Fakültesi
+MAT	Matematik Mühendisliği
+MATE	Matematik Mühendisliği (% 100 İngilizce)
+MATM	Matematik Mühendisliği (Yandal)
+FIZ	Fizik Mühendisliği
+FIZE	Fizik Mühendisliği (% 100 İngilizce)
+FIZM	Fizik Mühendisliği (Yandal)
+KIM	Kimya
+KIME	Kimya (% 100 İngilizce)
+KIMM	Kimya (Yandal)
+BIO	Moleküler Biyoloji ve Genetik
+BIOE	Moleküler Biyoloji ve Genetik (% 100 İngilizce)
+BIOM	Moleküler Biyoloji ve Genetik (Yandal)
+
+UU-Uçak ve Uzay Bilimleri Fakültesi
+UCK	Uçak Mühendisliği
+UCKE	Uçak Mühendisliği (% 100 İngilizce)
+UCKM	Uçak Mühendisliği (Yandal)
+UZB	Uzay Mühendisliği
+UZBE	Uzay Mühendisliği (% 100 İngilizce)
+UZBM	Uzay Mühendisliği (Yandal)
+MTO	Meteoroloji Mühendisliği
+MTOE	Meteoroloji Mühendisliği (% 100 İngilizce)
+MTOM	Meteoroloji Mühendisliği (Yandal)
+IBM	İklim Bilimi ve Meteoroloji Mühendisliği
+
+KO-Türk Musikisi Devlet Konservatuvarı
+TEB	Temel Bilimler
+MTR	Müzik Teorisi
+SES	Ses Eğitimi
+KMP	Kompozisyon
+BST	Bestecilik
+MUT	Müzik Teknolojileri
+MZT	Müzik Teknolojisi
+MUZ	Müzikoloji
+MUZE	Müzikoloji (% 100 İngilizce)
+CAB	Çalgı
+CEB	Çalgı Eğitimi
+THO	Türk Halk Oyunları
+
+DZ-Denizcilik Fakültesi
+GMI	Gemi Makinaları İşletme Mühendisliği
+GMIE	Gemi Makinaları İşletme Mühendisliği (% 100 İngilizce)
+DUI	Deniz Ulaştırma İşletme Mühendisliği
+DUIE	Deniz Ulaştırma İşletme Mühendisliği (% 100 İngilizce)
+SGM	Gemi Makinaları İşletme Mühendisliği Uluslararası Ortak Lisans Programı
+SDU	Deniz Ulaştırma İşletme Mühendisliği Uluslararası Ortak Lisans Programı
+
+TK-Tekstil Teknolojileri ve Tasarımı Fakültesi
+TEK	Tekstil Mühendisliği
+TEKE	Tekstil Mühendisliği (% 100 İngilizce)
+TEKM	Tekstil Mühendisliği (Yandal)
+SMT	Moda Tasarımı Uluslararası Ortak Lisans Programı
+STP	Tekstil Geliştirme ve Pazarlama Uluslararası Ortak Lisans Programı
+
+BB- Bilgisayar ve Bilişim Fakültesi
+BLG	Bilgisayar Mühendisliği
+BLGE	Bilgisayar Mühendisliği (% 100 İngilizce)
+YZVE	Yapay Zeka ve Veri Mühendisliği (% 100 İngilizce)
+SBL	Bilişim Sistemleri Mühendisliği Uluslararası Ortak Lisans Programı
+SECE	Siber Güvenlik Mühendisliği (%100 İngilizce)
+KK- İTÜ-KKTC Eğitim-Araştırma Yerleşkeleri
+CEN	Bilgisayar Mühendisliği (% 100 İngilizce)
+MTM	Deniz Ulaştırma İşletme Mühendisliği (% 100 İngilizce)
+MMD	Denizcilik İşletmeleri Yönetimi (% 100 İngilizce)
+EFN	Ekonomi ve Finans (% 100 İngilizce)
+EEE	Elektrik-Elektronik Mühendisliği (% 100 İngilizce)
+IND	Endüstri Mühendisliği (% 100 İngilizce)
+NAE	Gemi İnşaatı ve Gemi Makineleri Mühendisliği (% 100 İngilizce)
+MEN	Gemi Makinaları İşletme Mühendisliği (% 100 İngilizce)
+IAD	İç Mimarlık (% 100 İngilizce)
+ARC	Mimarlık (% 100 İngilizce)
+Meslek Yüksekokulu
+SAO	Siber Güvenlik Analistliği ve Operatörlüğü
+Akademik Takvim
+Lisans Akademik Takvimi
+Lisans Yatay Geçiş, ÇAP, Yandal Takvimi
+Önkayıt Takvimi
+Lisansüstü Akademik Takvimi
+II.Öğretim Lisansüstü Akademik Takvimi
+İngilizce Hazırlık Akademik Takvimi
+Ders Bilgileri
+Ders Planları
+Ders Denklikleri
+Önşartlar
+Ders Bilgileri
+Ders Programları
+Bina Kodları
+Lisans Program Kodları
+İşlemler
+Başvuru ve Kabul
+Çap, Yandal ve Yatay Geçiş İşlemleri
+Mezuniyet ve Diploma İşlemleri
+Enstitüler
+Lisansüstü Eğitim Enstitüsü
+Afet Yönetimi Enstitüsü
+Avrasya Yer Bilimleri Enstitüsü
+Bilişim Enstitüsü
+Enerji Enstitüsü
+Havacılık Enstitüsü
+Fakülteler
+Yabancı Diller Yüksekokulu
+Türk Musikisi Devlet Konservatuvarı
+Siber Güvenlik Meslek Yüksekokulu
+Diğer İşlemler
+Mevzuat
+Erasmus Değişim Programları
+Mevlana Değişim Programı
+Katkı Payı / Öğrenim Ücreti
+Yetkin Mühendislik Sınavı
+Denklik İşlemleri
+Webmail
+İTÜ PORTAL
+Ninova Öğrenim Merkezi
+İTÜ Kariyer ve Staj Merkezi
+Uluslararası İlişkiler Ofisi
+Yurtlar ve Burslar Koordinatörlüğü
+Engelli Öğrenci Birimi
+Beden Eğitimi Bölümü
+Telefon
+
++90 212 365 78 00-99 (100 hat)
+
+Faks
+
++90 212 285 29 09
+
+İTÜ Ayazağa Kampüsü
+
+Öğrenci İşleri Daire Başkanlığı
+34469 Maslak - İstanbul
+
+Öğrenci İşleri Daire Başkanlığı
+
+Yardım Bileti Oluştur
+
+Öğrenci İşleri Daire Başkanlığı
+
+Aydınlatma Metni
+
+Öğrenci İşleri Daire Başkanlığı
+
+ogrenciisleri@itu.edu.tr
+
+İTÜ Bilgi İşlem Daire Başkanlığı © 2021

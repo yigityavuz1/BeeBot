@@ -1,0 +1,22 @@
+**Title: Bilgisayar Alım Hizmetleri**
+
+#### Bilgisayar Alım Süreci
+
+Üniversitemiz Rektörlüğünün bilgisayar alımı işi Bilgi İşlem Daire Başkanlığı’na devredilmiş olup, alım sürecinde aşağıdaki süreç işletilmektedir.
+
+#### Koşullar
+
+1. **Talep Aşaması**
+   - Alımlar, yılda üç dönemde toplu alım biçiminde gerçekleştirilir. Taleplerin birim üst amiri tarafından onaylı olması gerekmektedir.
+   - Birimimiz sadece bilgisayar ve monitör alımlarını yürütmektedir. Diğer ekipmanların alımı İdari Mali İşler Daire Başkanlığı tarafından yapılmaktadır.
+   - Rektörlüğe iletilen bilgisayar alım talepleri, ilgili birimin bilgisayar alım bütçesinde ödenek olmaması durumunda değerlendirilir.
+   - Ortak kullanılan bilgisayar laboratuvarlarındaki bilgisayarların alımı toplu yapılmaktadır. Tekil talepler değerlendirilmeyecektir.
+   - Taleplerde yer alan marka, model ve teknik özellikler dikkate alınmayacaktır; uygun konfigürasyonlar BİDB tarafından belirlenecektir.
+
+2. **Değerlendirme Aşaması**
+   - Alım dönemi sonunda, gelen talepler BİDB tarafından incelenerek uygun konfigürasyonlar belirlenecektir.
+   - Talep döneminde gelen talepler biriktirilir ve Rektörlüğe iletilir. Satın alma kararı, bütçe göz önünde bulundurularak Rektörlük tarafından yapılır.
+   - Alım kararı verilen ancak bütçe dışında kalan talepler bir sonraki döneme aktarılır.
+
+3. **Alım Aşaması**
+   - Bilgisayar alım taleplerinde, kullanım amacı ve kullanacak İTÜ personelinin adı belirtilmelidir. Alım sonrasında bilgisayarın zimmetlenmesi, adına talep yapılan personele yapılacaktır.

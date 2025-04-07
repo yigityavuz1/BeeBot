@@ -1,0 +1,15 @@
+**University of Orleans**
+
+### İTÜ
+
+**Dersin Kodu** | **Dersin Adı**
+--- | ---
+9HU01 | Operational Management 
+9HU02 | Intercultural Communication 
+9TE02 | Turbulence and Advanced 
+9TE04 | Gas Dynamics 
+9TE09 | Multiphysics Coupling in Aerodynamics 
+
+**Uçak ve Uzay Bilimler Fakültesi- Telefon**: +90 (212) 285 31 01  
+**Uçak ve Uzay Bilimler Fakültesi- Faks**: +90 (212) 285 31 39  
+**Uçak ve Uzay Bilimler Fakültesi- Adres**: İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

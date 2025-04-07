@@ -1,0 +1,30 @@
+**Title:** Portal
+
+**KÜNYE:**
+- İlk yayın tarihi: 2007
+- Aktif kullanıcı sayısı: 62.000
+- Web Adresi: http://portal.itu.edu.tr/
+
+**İTÜ Portal Projesi:**
+İTÜ Portal, İTÜ mensubu akademisyen, öğrenci ve idari personellerin Bilgi İşlem Daire Başkanlığı’nın sunduğu yazılım hizmetlerine tek bir noktadan erişimini sağlar. Portal, kullanıcıların çeşitli hizmetlere erişimini kolaylaştırmak için sürekli olarak geliştirilmekte ve ihtiyaçlara göre şekillenmektedir.
+
+**Kullanıcıların Erişebileceği Hizmetler:**
+- Kişisel ve sosyal medya ile bağladıkları İTÜ hesaplarını takip etme
+- İTÜ hesap şifrelerini değiştirme
+- İTÜ Kimlik Kartları ile ilgili işlemler
+- Günlük yemekhane menüsünü görüntüleme
+- İTÜ Rehber’e kayıt olma
+- Burs başvurusu yapma
+- Lojman, Yurt Hizmetleri, İTÜ/Kovan, İTÜ/Skype gibi hizmetlerden faydalanma
+- Elektronik Belge Yönetim Sistemi ile ilgili işlemler
+- Ders programlarını takip etme
+- Finansal işlemler ve maaş takibi
+- BAP projelerinin takibi
+- Personel özlük bilgilerine ulaşma
+
+**İletişim:**
+- **Adres:** İTÜ Ayazağa Kampüsü, Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- **Telefon:** 0212 285 3930
+
+**BİDB Yardım:**
+İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili bilet oluşturabilir ve takibini yapabilirsiniz.

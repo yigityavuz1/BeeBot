@@ -1,0 +1,49 @@
+**Title:** Delf University of Technology
+
+**Courses Offered:**
+
+1. **Aerodynamics**
+   - AE2-110: Aerodynamics B
+   - AE2-202 I: Airplane Performance II
+   - AE4-180: Experimental Methods in Aerodynamics (Ms. Sc)
+
+2. **Aircraft Structural Analysis**
+   - AE2-521N: Aircraft Stress Analysis and Structural Design
+   - AE2-522 I: Aircraft Structural Analysis I
+   - AE3-021: Aircraft Design
+   - AE3-020: Aircraft Design
+   - AE3-T75: Aircraft Systems
+
+3. **Air Transportation and Systems**
+   - AE3-295: Air Transportation and Systems
+   - AE3-295I: Air Transportation and Systems II
+   - AE3-295II: Air Transportation and Systems I
+
+4. **Space Engineering**
+   - AE1-801: Space Engineering and Technology I
+   - AE4-305: Spacecraft Attitude Dynamics and Control
+   - AE4-S12: Space System Engineering
+
+5. **Thermodynamics and Gas Turbines**
+   - AE3-235: Thermodynamics and Gas Turbines
+   - AE2-125: Thermodynamics and Compressible Aerodynamics
+
+6. **Experimental Engineering**
+   - AE2-191P: Low Speed Windtunnel Practical
+   - AE2-192P: Supersonic Windtunnel Exercise
+
+7. **Economics and Business**
+   - WM0609LR: Business Economics for Aerospace Engineers
+   - EKO201: Economics
+
+8. **Numerical Methods**
+   - WI3097TU: Numerical Mathematics C I
+   - W13097TU: Numerical Methods for Differential Equations
+
+9. **Graduation Thesis**
+   - xxxx: Graduation Thesis
+
+**Contact Information:**
+- **Phone:** +90 (212) 285 31 01
+- **Fax:** +90 (212) 285 31 39
+- **Address:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

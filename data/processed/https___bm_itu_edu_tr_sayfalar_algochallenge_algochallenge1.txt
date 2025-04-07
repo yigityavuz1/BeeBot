@@ -1,0 +1,39 @@
+**Title:** 1. Algoritma Yarışması | AlgoChallenge #1
+
+**Description:** İTÜ Bilgisayar Bilişim Fakültesi, Bilgisayar Mühendisliği Bölümü olarak Güz 2021-2022 döneminde **1. Algoritma Yarışması'nı (AlgoChallenge #1)** düzenliyoruz. Yarışmaya tüm lisans öğrencilerimiz davetlidir. 
+
+Yarışma iki seviye olarak tasarlanmış, farklı bilgi/tecrübe seviyelerdeki öğrencilerin programlama ve algoritma becerilerini çeşitli kriterler baz alınarak ölçmek üzere hazırlanmıştır. Sorular güz dönemi boyunca belirli aralıklarla duyurulacak, otomatik değerlendirme kriterleri ile değerlendirilecek ve sıralamalar her soru sonrasında yayınlanacaktır. Yarışma birincilerine çeşitli hediyeler verilmesi planlanmaktadır.
+
+### Güncellemeler
+
+- **7 Aralık 2021:** Birinci bölüm sonuçları açıklandı.
+  - **3. ve 4. Sınıflar:** 
+    1. Mustafa İzzet Muşlu _(2 Puan)_
+    2. Zehra Nur Günindi _(2 Puan)_
+    3. Alper Zorlutuna _(1 Puan)_
+  - **1. ve 2. Sınıflar:** 
+    1. Ahmed Selim Çeleğen _(2 Puan)_
+    2. Ata Türkoğlu _(1 Puan)_
+    3. Furkan Salık _(1 Puan)_
+
+- **22 Aralık 2021:** İkinci bölüm sonuçları açıklandı.
+  - **3. ve 4. Sınıflar:** 
+    1. Faruk Avcı _(2 Puan)_
+    2. Erce Can Bektüre _(1 Puan)_
+    3. Mert Çevik _(1 Puan)_
+  - **1. ve 2. Sınıflar:** 
+    1. Cihan Kurtuluş Altıparmak _(2 Puan)_
+    2. Ahmed Selim Çeleğen _(2 Puan)_
+    3. Hamza Oğuz Şenses _(2 Puan)_
+
+- **12 Ocak 2022:** Üçüncü bölüm sonuçları açıklandı.
+  - **3. ve 4. Sınıflar:** 
+    - _*** Soruyu kimse çözemedi ***_
+  - **1. ve 2. Sınıflar:** 
+    1. Ahmed Selim Çeleğen _(2 Puan)_
+    2. Hamza Oğuz Şenses _(1 Puan)_
+
+**İletişim Bilgileri:**
+- Telefon: +90 (212) 285 36 82
+- Faks: +90 (212) 285 34 24
+- Adres: İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

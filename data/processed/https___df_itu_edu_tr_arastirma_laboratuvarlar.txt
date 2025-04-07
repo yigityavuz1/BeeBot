@@ -1,0 +1,31 @@
+**Title: Laboratuvarlar**
+
+**Laboratuvarlar Listesi:**
+1. Gemi Teçhizatı Test Merkezi
+2. CBT - Bilgisayar Tabanlı Eğitim Laboratuvarı
+3. Deniz Haberleşme Laboratuvarı
+4. Gemi Trafik Hizmeti (GTH) Simülatörü
+5. Kimya Laboratuvarı
+6. Köprüüstü Simülatörü
+7. Küresel Deniz Tehlike ve Güvenlik Sistemi (GMDSS) Simülatörü
+8. Denizcilik Bilişsel, Ergonomi Araştırma Laboratuvarı
+9. Denizcilik Uzaktan Algılama (MaRS) Laboratuvarı
+10. Seyir Laboratuvarı
+11. Sıvı Yük ve Balast Elleçleme (Tanker) Simülatörü
+12. Tam Donanımlı Köprüüstü Simülatörü
+13. Gemi Makineleri Operasyonu Laboratuvarı
+14. Elektroteknik Elektronik Laboratuvarı
+15. ERS - Makina Dairesi Simülatörü
+16. Gemi Makinaları Laboratuvarı
+17. Gemi Yardımcı Makinaları Laboratuvarı
+18. Hidrolik-Pnomatik Laboratuvarı
+19. Otomatik Kontrol Laboratuvarı
+20. Ricardo Motoru Laboratuvarı
+21. Takım Tezgahları Atölyesi
+22. Termik Makinaları Laboratuvarı
+23. Denizcilikte Temiz Enerji Araştırma Laboratuvarı
+
+**İletişim Bilgileri:**
+- **Telefon:** +90 (0216) 395 45 01
+- **Belge Geçer:** +90 (216) 395 45 00
+- **Adres:** İTÜ Tuzla Yerleşkesi, 34940, Tuzla, İstanbul

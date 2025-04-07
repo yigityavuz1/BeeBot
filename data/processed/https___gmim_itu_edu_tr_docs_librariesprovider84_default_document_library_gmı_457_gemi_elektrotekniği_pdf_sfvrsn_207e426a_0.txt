@@ -1,0 +1,53 @@
+**Title:** GMI 457 Gemi Elektrotekniği (Marine Electrotechnics)
+
+**Published Time:** 2022-05-14
+
+**Course Description:**
+- Basic electrical concepts and electrical circuit diagrams.
+- Batteries, transformers, ship electrical power generation and distribution systems.
+- High voltage systems, DC and AC generators and motors.
+- Motor control systems and circuits.
+- Measurement, testing, and fault diagnosis of electrical devices.
+- Reading electrical circuits.
+
+**Course Objectives:**
+1. To teach the fundamentals of electrical machines.
+2. To teach electrical systems and devices on board ships.
+3. To teach control systems of electrical machines.
+4. To set up electrical control systems and carry out testing and measurements.
+
+**Course Learning Outcomes:**
+Students who pass the course will be able to:
+I. Learn about fundamentals of electrical machines.
+II. Learn about electrical systems on board ships.
+III. Learn about control systems of electrical machines.
+IV. Set up control systems and make measurements.
+
+**Course Plan:**
+1. Basic electrical concepts and electrical diagrams
+2. Batteries
+3. Transformers, ship electrical power generation and distribution systems
+4. High voltage systems
+5. DC and AC Generators
+6. DC Motors
+7. AC Motors
+8. Motor control devices
+9. Motor control circuits
+10. Lab: Introduction of electric machinery, measuring equipment, reading electrical circuits
+11. Lab: Introduction of control circuit elements, forward running of motor, fault diagnosis and troubleshooting
+12. Lab: Reverse running of motor, fault diagnosis and troubleshooting
+
+**Textbook:**
+1. Fahrettin Küçükşahin, *Gemi Elektroteknolojisi*, Birsen Yayınevi, 2010.
+2. Christopher Lavers et al., *Basic Electrotechnology for Marine Engineers*, Tomas Reed Publication, 2013.
+
+**Other References:**
+1. Stephen Chapman, *Electric Machinery Fundamentals*, Fifth Edition, McGraw-Hill Education, 2011.
+2. Dennis T. Hall, *Practical Marine Electrical Knowledge*, Third edition, Witherby Seamanship International, 2014.
+3. Mukund R. Patel, *Shipboard Electrical Power Systems*, CRC Press, 2012.
+4. Frank D. Petruzella, *Electric Motors and Control Systems*, McGraw-Hill, 2010.
+
+**Assessment Criteria:**
+- Midterm Exams: 35%
+- Laboratory Work: 15%
+- Final Exam: 50%

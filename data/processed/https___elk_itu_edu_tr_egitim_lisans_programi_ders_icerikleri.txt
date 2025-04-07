@@ -1,0 +1,56 @@
+**Title: Ders İçerikleri**
+
+### Bölümümüze ait ders katalog formlarına aşağıdaki bağlantılardan ulaşılabilmektedir.
+
+- **ELK111/ELK111E** Elektrik Mühendisliği ve Etik / Electrical Engineering and Ethics
+- **ELK221/ELK221E** Elektrik Mühendisliğinin Temelleri / Fundamentals of Electric. Eng.
+- **ELK226/ELK226E** Elektrik-Elektronik Mühendisliğinin Temelleri / Fundamentals of Electrical and Electronical Engineering
+- **ELK234/ELK234E** Termodinamik ve Hidrodinamik / Thermodynamics and Hydrodynamics
+- **ELK312/ELK312E** Yüksek Gerilim Tekniği / High Voltage Technique
+- **ELK313** Enerji İletim Hatları
+- **ELK324** Küçük Elektrik Makineleri ve Uygulamaları
+- **ELK331/ELK331E** Güç Elektroniği Devreleri / Power Electronic Circuits
+- **ELK333/ELK333E** Nükleer Mühendisliğe Giriş / Introduction to Nuclear Engineering
+- **ELK334E** Design of Power Electronic Circuits
+- **ELK342/ELK342E** Güç Elektroniği Laboratuvarı / Power Electronics Laboratory
+- **ELK343/ELK343E** Elektromekanik Enerji Dönüşümü / Electromechanical Energy Conversion
+- **ELK344/ELK344E** Elektrik Tesislerinde Güvenlik / Safety in Electrical Installations
+- **ELK356/ELK356E** Elektrik Makinaları / Electrical Machines
+- **ELK361/ELK361E** Mühendislikte Çizim ve Tasarım / Engineering Drawing and Design
+- **ELK364E** Fundamentals of Superconductivity
+- **ELK371/ELK371E** Aydınlatma Tekniği / Illumination Techniques
+- **ELK374E** Nuclear Energy and Nuclear Reactors
+- **ELK411/ELK411E** Yüksek Gerilim Laboratuvarı / High Voltage Laboratory
+- **ELK415E** Digital Protection and Signalling
+- **ELK416/ELK416E** Yüksek Gerilim Tekniğinde Yalıtkan Maddeler / Insulating Material in High Voltage Technique
+- **ELK418/ELK418E** Elektrik Enerjisi Dağıtımı / Distribution of Electrical Energy
+- **ELK419/ELK419E** Enerji Sistemlerinde Dengesiz Çalışma / Unbalanced Operation in Power Systems
+- **ELK420/ELK420E** Elektrik Dağıtım Otomasyonu Laboratuvarı / Electric Distribution Automation Laboratory
+- **ELK421/ELK421E** Elektrik Enerjisi Üretimi / Generation of Electrical Energy
+- **ELK423** Özel Elektrik Makinaları
+- **ELK426** Çok Yüksek Gerilim Tekniği
+- **ELK428/ELK428E** Elektrikli ve Karma Taşıtlar / Electric And Hybrid Vehicles
+- **ELK431/ELK431E** Elektrik Makinaları Laboratuvarı I / Electrical Machines Laboratory I
+- **ELK436/ELK436E** Yüksek Gerilim Ölçme Laboratuvarı
+- **ELK443/ELK443E** Elektrik Makineleri Dinamiğinin Temelleri / Basics of Dynamics of Electrical Machines
+- **ELK453E** Industrial Applications of Power Electronics I
+- **ELK455E** Computer Networks For Power Systems
+- **ELK463** Aşırı Gerilimler ve Yalıtım Koordinasyonu
+- **ELK458/ELK458E** Elektrik Mühendisliği Projesi / Electrical Engineering Project
+- **ELK473** Yüksek Gerilim Tekniğinde Boşalma Olayları
+- **ELK471/ELK471E** Mühendislik ve Proje Yönetimi / Engineering and Project Management
+- **ELK472/ELK472E** Yenilenebilir Enerji Sistemleri / Renewable Energy Systems
+- **ELK496E** Power System Dynamics and Stability
+- **ELK474E** Power System Control & Communications
+- **ELK493** Aydınlatma ve İç Tesisat Laboratuarı
+- **ELK488/ELK488E** Electric Drive Systems / Elektrikli Sürücü Sistemler
+- **ELK464** Elektrik Tesislerinde Koruma Tekniği
+- **ELK483** Yüksek Gerilim Güç Kesicileri
+- **ELK495** Elektrik Enerji Kalitesi ve Harmonikler
+- **ELK492/ELK492E** Bitirme Tasarım Projesi / Graduation Design Project
+- **ELK497** Fırçasız Elektrik Motorları
+
+**İletişim Bilgileri:**
+- **Telefon:** +90 (212) 285 6745
+- **Fax:** +90 (212) 285 6700
+- **Adres:** İTÜ Ayazağa Kampüsü, Elektrik Elektronik Fakültesi, 34469, Maslak, İstanbul

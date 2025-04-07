@@ -1,0 +1,43 @@
+Title: İTÜ | Registrar's Office
+
+URL Source: https://www.sis.itu.edu.tr/duyuru_ekler/cap_yandal_yatay202510/ituici_cap_yandal_yatay/EN/yurtici_endusuk_taban_puanlar.php
+
+Markdown Content:
+| Faculty of Civil Engineering | Environmental Engineering | Environmental Engineering | 307,74435 | 297,9508 | 247,85562 | 283,25365 | 260,64221 | 248,11172 | 244,96757 | 239,65138 | 196,84926 |
+| Faculty of Civil Engineering | Geomatics Engineering | Geomatics Engineering, Map Engineering | 307,70074 | 297,99928 | 247,95038 | 283,21079 | 260,63467 | 248,07593 | 245,15525 | 239,86468 | 218,9123 |
+| Faculty of Civil Engineering | Civil Engineering | Civil Engineering | 307,67307 | 297,97064 | 247,84867 | 283,21548 | 260,62068 | 248,0963 | 244,97851 | 239,62469 | 198,19822 |
+| Faculty of Architecture | Industrial Product Design | Industrial Product Design,Industry Design,Industrial Design | 195,24202 | 259,61649 | 200,95567 | 200,55309 | 199,78341 | 200,94592 | 204,20019 | 198,97142 | 204,05112 |
+| Faculty of Architecture | Interior Architecture | Interior Architecture | 210,4652 | 228,31171 | 199,34133 | 201,8441 | 206,53455 | 199,68774 | 196,37851 | 222,83965 | 205,23287 |
+| Faculty of Architecture | Architecture | Architecture | 326,27234 | 315,41439 | 262,86405 | 301,86638 | 275,65634 | 261,40827 | 263,57825 | 259,10515 | 202,56306 |
+| Faculty of Architecture | Landscape Architecture | Landscape Architecture | 240,52869 | 230,60424 | 199,61332 | 217,46361 | 201,17781 | 201,12141 | 204,73741 | 199,30569 | 198,07043 |
+| Faculty of Architecture | Urban and Regional Planning | Urban and Regional Planning | 210,73806 | 195,24759 | 198,34238 | 190,80313 | 199,98905 | 200,75076 | 228,4102 | 227,00130 | 204,5871 |
+| Faculty of Mechanical Engineering | Manufacturing Engineering | Manufacturing Engineering | 331,38827 | 310,67914 | 250,95261 | 293,62386 | 266,0498 | 248,88524 | 245,16936 | 240,12414 | 201,21471 |
+| Faculty of Mechanical Engineering | Mechanical Engineering | Mechanical Engineering | 307,69971 | 297,93922 | 247,8496 | 283,21931 | 260,62138 | 248,06064 | 244,96688 | 239,63994 | 200,42181 |
+| Faculty of Electrical and Electronics Engineering | Electrical Engineering | Electrical Engineering | 307,79687 | 298,18593 | 247,93938 | 283,36253 | 260,62044 | 266,262 | 278,36595 | 292,20085 | 289,85156 |
+| Faculty of Electrical and Electronics Engineering | Electronics and Communication Engineering | Electronics and Communication Engineering,Electronics Engineering | 325,61111 | 307,1713 | 252,35078 | 283,88474 | 260,80671 | 248,15776 | 244,96105 | 240,85653 | 199,13763td\> |
+| Faculty of Electrical and Electronics Engineering | Control and Automation Engineering | Control and Automation Engineering,Mechatronics Engineering | 307,91407 | 298,04678 | 247,86465 | 283,25612 | 260,66313 | 248,06543 | 245,00636 | 239,66146 | 202,67511 |
+| Faculty of Mines | Mineral Processing Engineering | None | \- | \- | \- | \- | \- | \- | \- | \- | \- |
+| Faculty of Mines | Geophysical Engineering | Geophysical Engineering | 307,76505 | 298,16746 | 248,08729 | 286,71049 | 261,39592 | 249,55687 | 244,99748 | 239,9395 | 221,57194 |
+| Faculty of Mines | Geological Engineering | Geological Engineering | 308,10396 | 298,00444 | 247,90016 | 283,36333 | 261,01753 | 248,19216 | 245,31765 | 239,71369 | 200,43276 |
+| Faculty of Mines | Mining Engineering | Mining Engineering | 307,67992 | 298,16605 | 248,09292 | 283,30905 | 260,75711 | 248,17132 | 245,51552 | 239,6457 | 197,40161 |
+| Faculty of Mines | Petroleum and Natural Gas Engineering | Petroleum and Natural Gas Engineering | 309,82047 | 299,64884 | 248,64312 | 285,21003 | 261,13628 | 248,12497 | 245,13827 | 240,20513 | 219,14392 |
+| Faculty of Chemistry- Metallurgy | Food Engineering | Food Engineering | 307,73565 | 298,15918 | 247,8562 | 283,22441 | 260,66845 | 248,08658 | 244,96151 | 239,64958 | 199,91587 |
+| Faculty of Chemistry- Metallurgy | Chemical Engineering | Chemical Engineering, Chemical Engineering and Applied Chemistry, Chemistry and Process Engineering, Chemistry Biology Engineering | 307,719 | 298,17163 | 247,97877 | 283,27625 | 260,72146 | 248,12126 | 245,03231 | 239,6566 | 200,46911 |
+| Faculty of Chemistry- Metallurgy | Metallurgical and Materials Engineering | Metallurgical and Materials Engineering | 307,79145 | 298,34647 | 247,92472 | 283,30464 | 260,72906 | 251,30042 | 258,47598 | 256,88961 | 254,68896 |
+| Faculty of Management | Economy | Economics,Economy | 196,08323 | 201,98994 | 199,35468 | 188,47529 | 195,3088 | 197,3728 | 196,61001 | 196,72943 | 196,90085 |
+| Faculty of Management | Industrial Engineering | Industrial Engineering | 307,68459 | 297,94536 | 247,92752 | 283,21278 | 260,68512 | 248,06974 | 245,15722 | 239,62454 | 197,48014 |
+| Faculty of Management | Management Engineering | Management Engineering | 341,52263 | 359,27913 | 287,32526 | 283,30691 | 260,7228 | 248,30385 | 246,02881 | 239,77577 | 202,81448 |
+| Faculty of Naval Architecture and Ocean Engineering | Naval Architecture and Marine Engineering | Naval Architecture and Marine Engineering | 312,40888 | 315,23824 | 258,26234 | 303,63141 | 262,46515 | 250,37024 | 248,4826 | 245,98338 | 220,25276 |
+| Faculty of Naval Architecture and Ocean Engineering | Shipbuilding and Ocean Engineering | None | \- | \- | \- | \- | \- | \- | \- | \- | \- |
+| Faculty of Science and Letters | Physics Engineering | Physics Engineering | 307,98097 | 303,56831 | 250,76099 | 284,06236 | 260,62775 | 248,95496 | 245,03551 | 240,02624 | 204,75822 |
+| Faculty of Science and Letters | Chemistry | Chemistry | 238,40294 | 255,58262 | 198,80811 | 241,42971 | 222,12597 | 200,78511 | 212,18167 | 200,46323 | 223,80054 |
+| Faculty of Science and Letters | Mathematics Engineering | Mathematics Engineering | 503,50772 | 482,20758 | 400,43601 | 459,9877 | 421,80485 | 400,29967 | 390,3187 | 244,45766 | 205,02324 |
+| Faculty of Science and Letters | Molecular Biology and Genetics | Molecular Biology and Genetics | 201,6504 | 211,64297 | 200,20008 | 208,35784 | 201,70947 | 200,45191 | 203,29059 | 202,27386 | 198,41017 |
+| Faculty of Aeronautics and Astronautics | Meteorological Engineering | Meteorological Engineering | 341,28329 | 327,0769 | 260,95874 | 312,49674 | 260,9334 | 258,97483 | 274,74383 | 304,59103 | 294,70663 |
+| Faculty of Aeronautics and Astronautics | Aeronautical Engineering | Aeronautical Engineering,Aerospace Engineering | 308,00097 | 299,09471 | 248,54219 | 325,93113 | 273,85842 | 253,85038 | 247,62888 | 372,88486 | 358,976 |
+| Faculty of Aeronautics and Astronautics | Astronautical Engineering | Astronautical Engineering,Aerospace Engineering | 308,00097 | 299,09471 | 248,54219 | 325,93113 | 298,70489 | 248,51483 | 247,62888 | 382,60164 | 210,651 |
+| Faculty of Maritime | Maritime Transportation Management Engineering | Maritime Transportation Management Engineering | 319,48188 | 301,30322 | 252,58638 | 283,48276 | 260,70916 | 248,52649 | 244,96487 | 239,8645 | 214,19441 |
+| Faculty of Maritime | Marine Engineering | Marine Engineering | 311,63532 | 298,08411 | 248,65685 | 288,46685 | 262,30565 | 248,62337 | 245,0672 | 246,64209 | 198,68299 |
+| Faculty of Textile Technologies and Design | Textile Engineering | Textile Engineering | 307,78171 | 297,94173 | 247,8597 | 283,44473 | 260,67235 | 248,28999 | 245,09798 | 239,71401 | 195,65729 |
+| Faculty of Computer Informatics and Information Engineering | Computer Engineering | Computer Engineering | 307,81977 | 298,06059 | 247,85531 | 283,32949 | 260,69013 | 248,0903 | 244,99013 | 239,64829 | 199,90892 |
+| Faculty of Computer Informatics and Information Engineering | Artificial Intelligence and Data Engineering | Artificial Intelligence Engineering | 317,72396 | 330,96881 | 320,72407 | 357,97517 | 482,06784 | \- | \- | \- | \- |

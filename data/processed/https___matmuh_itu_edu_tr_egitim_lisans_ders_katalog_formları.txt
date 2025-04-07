@@ -1,0 +1,156 @@
+**İTÜ MAT Bölüm Dersleri**
+
+**MAT Bölümü**
+MAT ve MATE öğrencileri ile ilgili genel duyurular bu site üzerinden yapılmaktadır. Kayıtlı olduğunuz dersin öğretim elemanı, ayrıca Ninova'yı da kullanabilir.
+
+**2025 Bahar**
+Ders programı formları dönem başına kadar güncellenmektedir.
+
+**Ders Programı Formları**
+
+**MAT Zorunlu Dersler**
+- MAT115/E
+- MAT116/E
+- MAT117/E
+- MAT143/E
+- MAT148/E
+- MAT175/E
+- MAT185/E
+- MAT186/E
+- MAT187/E
+- MAT221/E
+- MAT226/E
+- MAT232/E
+- MAT234/E
+- MAT244/E
+- MAT263/E
+- MAT264/E
+- MAT272/E
+- MAT287/E
+- MAT303/E
+- MAT324/E
+- MAT333/E
+- MAT342/E
+- MAT345/E
+- MAT351/E
+- MAT355/E
+- MAT374/E
+- MAT471/E
+- MAT4901/E
+- MAT4902/E
+- MAT492/E
+
+**MAT Seçmeli Dersler**
+- MAT310/E
+- MAT335/E
+- MAT337/E
+- MAT365/E
+- MAT368/E
+- MAT381/E
+- MAT386/E
+- MAT388/E
+- MAT417/E
+- MAT421/E
+- MAT423/E
+- MAT425/E
+- MAT427/E
+- MAT437/E
+- MAT438/E
+- MAT447/E
+- MAT448/E
+- MAT453/E
+- MAT455/E
+- MAT472/E
+- MAT485/E
+- MAT487/E
+- MAT488/E
+- MAT497/E
+- MTH404/E
+- MYZ309/E
+
+**Diğer Dersler**
+- FIZ101E
+- FIZ101EL
+- FIZ102E
+- FIZ102EL
+- KIM101E
+- ATA121
+- ATA122
+- DAN102
+- ING100
+- ING112A
+- ING201A
+- EKO201E
+- TUR121
+- TUR122
+
+Bu derslerin güncel formları için ilgili Bölümlere başvurunuz.
+
+**Eski Plan Dersleri ve Denklikleri**
+| Eski Ders | Denk Ders |
+| --- | --- |
+| ATA101 | ATA121 |
+| ATA102 | ATA122 |
+| BIL101/E | BIL100/E |
+| BIL104/E | MAT115/E |
+| DAN101 | - |
+| DAN301 | DAN102 |
+| DNK201/E , MUH201/E | MAT303/E |
+| FIZ106/E | FIZ102E |
+| FIZ106EL | FIZ102EL |
+| ING112 | ING112A |
+| ING201 | ING201A |
+| MAT111/E , MAT187/E | MAT185/E |
+| MAT112/E | - |
+| MAT188/E , MAT211/E , MAT213/E | MAT186/E |
+| MAT141/E | MAT143/E |
+| MAT142/E | MAT263/E |
+| MAT212/E , MAT214/E | MAT287/E |
+| MAT242/E | MAT244/E |
+| MAT288/E | MAT272/E |
+| MAT322/E | MAT324/E |
+| MAT331/E | MAT234/E |
+| MAT341/E | MAT345/E |
+| MAT355/E | MAT455/E |
+| MAT413/E , MUH312/E | MAT116/E |
+| MAT420/E | MAT471/E |
+| MUH211/E | MAT148/E |
+| MUH212/E | MAT226/E |
+| MUH302/E , MUH311/E | MAT374/E |
+| MUH321/E | MAT264/E |
+| MUH324/E | MAT423/E |
+| MUH334/E , MUH335/E | MAT333/E |
+| MUH423/E | MAT421/E |
+| MUH428/E | MAT422/E |
+| MUH443/E | MAT443/E |
+| MUH453/E | MAT453/E |
+| TUR101 | TUR121 |
+| TUR102 | TUR122 |
+
+**MAT Havuz Dersleri**
+- MAT103/E
+- MAT104/E
+- MAT210/E
+- MAT261/E
+
+**MTH UOLP Dersleri**
+- MTH101
+- MTH102
+- MTH103
+- MTH105
+- MTH106
+- MTH107
+- MTH108
+- MTH111
+- MTH117
+- MTH118
+- MTH121
+- MTH123
+- MTH131
+- MTH132
+- MTH203
+- MTH204
+
+Bazı kısımlar yapım aşamasındadır. Gördüğünüz eksik veya hataları bildirebilirsiniz.
+
+2016-2025  Dr. Öğr. Üyesi İzzet Göksel

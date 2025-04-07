@@ -1,0 +1,58 @@
+**Title: Lisansüstü**
+
+**Program Overview:**
+- Gıda Mühendisliği Lisansüstü Yüksek Lisans programı:
+  - 12 kredilik zorunlu 4 ders
+  - 11 adet 500 kodlu ders
+  - 12 adet 600 kodlu ders
+  - Tüm lisansüstü öğrencilerinin (yüksek lisans için 596 ve doktora için 696 kodlu) kredisiz Bilimsel Araştırma, Etik ve Seminer dersini başarmaları gerekmektedir.
+  - Programda açılan 12 dersin dili İngilizcedir.
+  - Doktora programında zorunlu ders yoktur.
+
+### Yüksek Lisans Zorunlu Dersler
+| Kod      | Güz                                         | Kredi |
+|----------|---------------------------------------------|-------|
+| GID501E  | Food Analysis: Theory and Applications (Z) | 3     |
+|          | Mühendislik Matematiği (Z)                 | 3     |
+|          |                                             |       |
+|          | İstatistik (Z)                             | 3     |
+| GID514E  | Novel Food Process. Tech. (Z)              | 3     |
+
+### Seçmeli Dersler
+| Kod      | Güz                                         | Kredi |
+|----------|---------------------------------------------|-------|
+| GID503   | Gıda Güvenlik Sistemleri                    | 3     |
+| GID505   | Gıda İşleme Modell. Sayısal Analiz Uyg.    | 3     |
+| GID507   | Yeni Gıda Ürünleri Tasarımı                 | 3     |
+| GID509   | Hazır Yemek Teknolojisi                     | 3     |
+| GID504   | Gıda Fermantasyon Prosesleri                | 3     |
+| GID513   | İleri Gıda Mikrobiyolojisi                  | 3     |
+|          |                                             |       |
+| GID506E  | Food Stability                              |       |
+| GID508   | Organik Gıda İşleme ve Üretimi              | 3     |
+| GID512E  | Fund. of Baking and Pasta Process.          | 3     |
+| GID511   | Gıda Toksikolojisi                          | 3     |
+| GID510E  | Nutritional Changes During Food Process.    | 3     |
+
+### Doktora Dersleri
+| Kod      | Güz                                         | Kredi |
+|----------|---------------------------------------------|-------|
+| GID601E  | Food Research and Experimental Design       | 3     |
+| GID603E  | Advanced Food Biochemistry                  | 3     |
+| GID607E  | Postharvest Phys. of Fruits and Vegetables  | 3     |
+| GID611   | Fonksiyonel Gıdalar                        | 3     |
+| GID608   | Nem Kontrolü İle Gıda Muhafazası           | 3     |
+| GID605E  | Nutritional Biochemistry                     | 3     |
+| GID613E  | Phase and State Transitions in Foods        | 3     |
+|          |                                             |       |
+| GID602E  | Food Proteins                               | 3     |
+| GID604E  | Food Carbohydrates                          | 3     |
+| GID606   | Gıda İşleme Modellenmesi ve Kontrolu       | 3     |
+| GID610   | Gıda Kaynaklı Patojen Mikroorganizmalar     | 3     |
+| GID612   | Mikotoksijenik Küfler                       | 3     |
+| GID609E  | Food Lipids                                 | 3     |
+
+**Contact Information:**
+- **Phone:** +90 (212) 285 60 40
+- **Fax:** +90 (212) 285 73 33
+- **Address:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

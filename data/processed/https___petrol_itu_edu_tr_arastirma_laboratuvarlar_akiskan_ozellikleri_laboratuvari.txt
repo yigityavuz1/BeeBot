@@ -1,0 +1,25 @@
+**Title:** Akışkan Özellikleri Laboratuvarı
+
+**Description:** Bu laboratuvar, hidrokarbon akışkanların ve formasyon sularının özelliklerini gözlemlemek ve ölçmek için malzeme ve olanaklar sunmaktadır. Yüksek lisans öğrencileri ve öğretim üyeleri tarafından araştırma faaliyetlerinde kullanılmakta olup, PET 311E Fluid properties ve PET 321 Petrol ve Doğal Gaz Lab. dersleri için hizmet vermektedir.
+
+**Laboratuvar Ekipmanları:**
+- Saf su ünitesi
+- Kurutma fırını
+- Santrifüj
+- Ham petrol damıtma ünitesi
+- Saybolt-Furol viskozimetresi
+- Kinematik viskozite tüp takımları
+- Reometre
+- Sıcaklık kontrollü sıcak su banyoları
+- Hassas teraziler
+- Ruska PVT donanımı
+- Hidrometre takımları
+- Açık/Kapalı yanma ve parlama noktası ölçme cihazı
+- Bilgisayar kontrollü De Nouy tansiyometre
+- Gaz kromatografisi
+- Su analizi malzemeleri ve kimyasalları
+
+**İletişim Bilgileri:**
+- **Telefon:** +90 212 285 62 70
+- **Fax:** +90 212 285 62 63
+- **Adres:** İTÜ Ayazağa Yerleşkesi, Maden Fakültesi, 34469 Maslak/İstanbul, Türkiye

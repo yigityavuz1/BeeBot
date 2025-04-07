@@ -1,0 +1,32 @@
+**Title: Glasgow Üniversitesi**
+
+**Ders Kodu ve Adları:**
+
+| Dersin Kodu | Dersin Adı |
+|-------------|-------------|
+| 7XPW        | Aerodynamics and Fluid Mechanics 3 |
+| 1A4X        | Aircraft Vibration and Aeroelasticity 4 |
+| 89BN        | Aircraft Structures and Materials 3 |
+| 1BAW        | Aircraft Design for Performance 3 |
+| 1A6X        | Aerospace Design Project |
+| 89BM        | Aircraft Structural Analysis & Design 3 |
+| 7DLW        | Dynamics and Control 3 |
+| 1A4X        | High Speed Aerodynamics 4 |
+| 1C7X        | Computational Fluid Dynamics 4 |
+| 3WHU        | Microeconomics E1 |
+| 1C5Y        | Experimental Aerodynamics 5 |
+| 89BG        | Flight Mechanics 3 |
+| 1A2X        | Flight Dynamics 4 |
+| 7XWW        | Propulsion and Turbomachinery 3 |
+| 9VAX        | Final Year Project 4 |
+| 3MHU        | Managerial and Organizational Context E1 |
+| 3FJW        | Aerospace Instrumentation and Measurement 3 |
+| JEVW        | Numerical Methods in Aerospace Engineering 3 |
+| 5ZCW        | Aircraft Design for Performance 3 |
+| 3KKW        | Engineering Mathematics EE3 |
+
+**İletişim Bilgileri:**
+
+- **Telefon:** +90 (212) 285 31 01
+- **Faks:** +90 (212) 285 31 39
+- **Adres:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

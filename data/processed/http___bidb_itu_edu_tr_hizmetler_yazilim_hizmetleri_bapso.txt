@@ -1,0 +1,15 @@
+**Title:** Bilimsel Araştırma Projeleri Yönetim Sistemi
+
+**KÜNYE:**
+- **İlk yayın tarihi:** Mart 2009
+- **Aktif kullanıcı sayısı:** 1300
+- **Web Adresi:** http://bapso.itu.edu.tr
+
+**Açıklama:**
+BAPSO, İstanbul Teknik Üniversitesi akademik personelinin, akademik çalışmalarını üniversite yönetimine sunabilmek için proje başvurusu yapılan sistemdir. Sistem üzerinde tanımlanan kurum içi ve kurum dışı hakemler aracılığı ile başvuru yapılan projeler değerlendirilebilmektedir. Bilimsel Araştırma Projeleri birimi değerlendirilen bu projelerin yönetimini sistem üzerinden yapabilmektedir. Sistem üzerinde başvurusu yapılan projeler reddedilip süreç sonlandırılabilir veya kabul edilip BAP biriminin kullanımında olan sardes sistemine aktarımı yapılabilir.
+
+**İletişim:**
+- **Adres:** İTÜ Ayazağa Kampüsü, Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- **Telefon:** 0212 285 3930
+
+**Not:** İTÜ Bilgi İşlem Daire Başkanlığı ürünüdür. © 2023

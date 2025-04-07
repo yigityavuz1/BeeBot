@@ -1,0 +1,11 @@
+**Title:** İTÜ Mezun Bilgi Sistemi
+
+**Description:** İTÜ Mezun Bilgi Sistemi, İTÜ ve mezunları arasındaki ilişkileri etkinleştirmek, etkinlik ve projeleri mezunlara ulaştırmak amacıyla yapılandırılmış bir elektronik veritabanıdır. Mezunların kişisel bilgilerini güncellemeleri ve onaylatmaları gerekmektedir.
+
+**Contact Information:**
+- **Office:** İTÜ Kurumsal İlişkiler ve Mezunlarla İletişim Ofisi
+- **Address:** İTÜ Ayazağa Kampüsü, Süleyman Demirel Kültür Merkezi, 34469 Maslak, Sarıyer/İstanbul
+- **Email:** mezun@itu.edu.tr
+- **Phone:** (212) 285 30 80
+
+**Note:** Sorular için Kurumsal İlişkiler ve Mezunlarla İletişim Ofisi ile iletişime geçebilirsiniz.

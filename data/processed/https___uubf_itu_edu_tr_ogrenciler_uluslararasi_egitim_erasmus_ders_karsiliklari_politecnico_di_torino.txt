@@ -1,0 +1,33 @@
+**Title:** Politecnico di Torino Üniversitesi
+
+**Ders Kodu ve Ders Adları:**
+
+- 01NFBLZ: Fondamenti di meccanica del volo - UCK322E: Flight Mechanics (2022)
+- 09IHRLZ: Fondamenti di meccanica strutturale - MUK211E: Strength of Materials (2022)
+- 01NHYLZ: Machine Dynamics - UZB220E: Mechanical Vibrations (2022)
+- 01NLGJM: Fundamentals of Engineering Thermodynamics & Heat - UCK207E: Thermodynamics (2022)
+- 01SUNLZ: Calcolo Numerico: metodie software - MAT202E: Numerical Methods (2022)
+- 01FSWLZ: Storia delle Scienze e delle Tecniche - ITB218: History of Science & Technology (2022)
+- 03LNMJY: Fluid Mechanics - AKM219E: Fluid Mechanics (2022)
+- 01DYBLZ: Modellazione digitale di impianti - ITB: 5. YY ITB (2022)
+- 02AAFLZ: Aerodinamica - UCK351E: Aerodynamics (2021)
+- 02EUCLZ: Costruzioni Aeronautiche - UZB331E: Aerospace Structures (2021)
+- 02SXJJM: Fundamentals of Machine Design - TM: 6.YY Seçime Bağlı TM (2021)
+- Lingua İtaliana III Livello - ITA102: Italian III (2021)
+- 01MZBLZ: Sistemi di bordo Aerospaziali - TM: 8.YY Seçime Bağlı TM (2021)
+- 01OFYLZ: Company Economics - ITB: 8.YY Seçime Bağlı ITB (2021)
+- 01NLGJM: Fundamentals of Engineering Thermodynamics and Heat Transfer - UZB317E: Heat Transfer (2021)
+- 01NLGJM: Fundamentals of Engineering Thermodynamics and Heat Transfer - UCK205E: Thermodynamics I (2021)
+- 70545: Space Flight Mechanics - UZB421E: Attitude Determination and Control
+- 14AKSES: Automatics Controls - UCK362E: Automatic Control
+- 61468: Fundamentals of Automatic Control - UCK362E: Automatic Control
+- 83401: Fundamentals of Automatic Control - UCK362E: Automatic Control
+- 01LTWES: Advanced CAD Technologies For Product Development - UZB487: CAD/CAM
+- 01GDVFQ: Flussi Compessibili - UZB362E: Compressible Aerodynamics
+- 01EUGES: Flight Mechanics - UCK322E: Flight Mechanics
+
+**İletişim Bilgileri:**
+
+- **Telefon:** +90 (212) 285 31 01
+- **Faks:** +90 (212) 285 31 39
+- **Adres:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

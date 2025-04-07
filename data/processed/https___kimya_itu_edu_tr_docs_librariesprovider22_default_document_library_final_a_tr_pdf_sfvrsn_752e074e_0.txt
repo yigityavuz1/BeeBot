@@ -1,0 +1,94 @@
+**Title:** Kitapç
+
+**Content:**
+
+1) Gümüşün iki doğal izotopundan 107 Ag izotopu 106,91 akb, 109 Ag izotopu ise 108,90 akb kütleye sahiptir. 107 Ag ve 109 Ag izotoplarındaki yüzde bağıl bolluk oranları kaçtır? Gümüşün atom kütlesi 107,87 akb'dir.  
+   A) %34,4 - %65,6  
+   B) %64,7 - %35,2  
+   C) %51,8 - %48,2  
+   D) %65,6 - %34,4  
+   E) %48,2 - %51,8  
+
+2) 474 nm dalga boyundaki bir mol fotonun enerjisi kaç Joule'dür?  
+   A) 4,00 × 10 -19 J  
+   B) 4,19 × 10 -19 J  
+   C) 2,09 × 10 -19 J  
+   D) 2,53 × 10 5 J  
+   E) 4,19 × 10 5 J  
+
+3) 0,800 M sulu CH3CO2Na çözeltisinin pH değerini hesaplayınız. Asetik asit (CH3CO2H) için K a= 1,8 ×10 -5'tir.  
+   A) 2,42  
+   B) 4,68  
+   C) 9,32  
+   D) 11,38  
+   E) 13,64  
+
+4) Potasyum florür (KF) iyonik katı için aşağıdaki verilen bilgilere göre flor atomunun elektron ilgisi nedir?  
+   Potasyumun süblimleşme entalpisi +89,24 kJ/mol  
+   Potasyumun 1. iyonlaşma enerjisi +418,90 kJ/mol  
+   F-F bağının ayrılma enerjisi +159,00 kJ/mol  
+   Potasyum florürün oluşum entalpisi -567,30 kJ/mol  
+   Potasyum florür kristalinin kristal örgü entalpisi -826,94 kJ/mol  
+   A) -847 kJ/mol  
+   B) -188 kJ/mol  
+   C) -408 kJ/mol  
+   D) -328 kJ/mol  
+   E) -926 kJ/mol  
+
+5) Amonyak (NH3(g)) → N2(g) + 3H2(g) bozunma tepkimesi için 400 °C'deki denge sabiti Kp= 1,5 × 10^3'tür. Dengede N2 gazının kısmi basıncı 0,10 bar ve H2 gazının kısmi basıncı 0,15 bar ise amonyak gazının kısmi basıncı kaçtır?  
+   A) 2,2 × 10 -7 bar  
+   B) 4,7 × 10 -4 bar  
+   C) 1,0 × 10 -5 bar  
+   D) 4,4 × 10 6 bar  
+   E) 3,1 × 10 -3 bar  
+
+6) Aşağıda verilen ve (I) ve (II) ile gösterilen gruplardaki en küçük atom çapına sahip olan elementler hangileridir?  
+   (I) Ba, Hf, At  
+   (II) As, Sb, Bi  
+   A) Ba, As  
+   B) Ba, Bi  
+   C) At, As  
+   D) At, Bi  
+   E) Hf, As  
+
+7) Aşağıda verilen tepkimeye göre 10,0 g NH3 gazı ile 20,0 g O2 gazından oluşan bir karışımdan ne kadar ısı açığa çıkar?  
+   4NH3(g) + 5O2(g) → 4NO(g) + 6H2O(g); ΔH° = -906 kJ  
+   A) 96,5 kJ  
+   B) 169,5 kJ  
+   C) 56,5 kJ  
+   D) 84,7 kJ  
+   E) 113,3 kJ  
+
+8) Aşağıda verilen bileşikleri artan kaynama noktalarına göre sıralayınız:  
+   pentan (CH3CH2CH2CH2CH3), metil butan (CH3CH(CH3)CH2CH3), neopentan (CH3C(CH3)3).  
+   A) pentan < metil butan < neopentan  
+   B) neopentan < metil butan < pentan  
+   C) neopentan < pentan < metil butan  
+   D) pentan < neopentan < metil butan  
+   E) metil butan < pentan < neopentan  
+
+9) Formülü bilinmeyen ve uçucu olmayan bir bileşik %65,44 C, %29,07 O ve %5,49 H'den oluşmaktadır. Bu bileşiğin 5,34 gramı 60,00 gram suda çözüldüğünde çözeltinin donma noktası -0,600 °C ölçülmüştür. Bileşiğin molekül formülü aşağıdakilerden hangisidir?  
+   A) C3H3O  
+   B) C9H9O3  
+   C) C15H15O5  
+   D) C14H10O5  
+   E) C7H5O3  
+
+10) VSEPR kuramına göre AsCl4 molekülünün elektron grup geometrisi aşağıdakilerden hangisidir?  
+    A) kare düzlem  
+    B) tahtarevalli  
+    C) kare piramit  
+    D) üçgen çiftpiramit  
+    E) dörtyüzlü  
+
+**Answer Key:**  
+1) C  
+2) D  
+3) C  
+4) D  
+5) B  
+6) C  
+7) E  
+8) B  
+9) C  
+10) D

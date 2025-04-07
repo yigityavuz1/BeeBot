@@ -1,0 +1,18 @@
+**Title: Opole University**
+
+**Course Equivalents:**
+
+| Opole University Code | Opole University Course Name | ITU Code | ITU Course Name |
+|-----------------------|------------------------------|----------|------------------|
+| MX-ER/00-SI>HeatTran  | Heat Transfer                | UZB317E  | Heat Transfer (2022) |
+| WX-ER/00-SI>Economi c | Economics                    | EKO201E  | Economics (2022) |
+| X-ER/00-SI>Statst     | Statistics                   | MAT271E  | Probability and Statistics (2022) |
+| MX-ER/00-SI>FluiMech  | Fluid Mechanics              | AKM214E  | Fluid Mechanics I (2022) |
+| MX-ER/00-SI>FluiMech  | Fluid Mechanics              | AKM215E  | Fluid Mechanics II (2022) |
+| MX-ER/00-SI>BasOfAU   | Basics of Automatics         | UCK360E  | Automatic Control I (2022) |
+| MX-ER/00-SI>CombEn    | Combustion Engines           | UCK427E  | Combustion (2022) |
+
+**Contact Information:**
+- **Phone:** +90 (212) 285 31 01
+- **Fax:** +90 (212) 285 31 39
+- **Address:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

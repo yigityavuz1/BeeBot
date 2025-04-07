@@ -1,0 +1,28 @@
+**Yurt Ücretleri (2024 - 2025 Eğitim-Öğretim Yılı)**
+
+| Yurt Adı                                   | Yurt Ücreti (₺) | Teminat Bedeli (₺) |
+|---------------------------------------------|------------------|---------------------|
+| Altan Edige Kız Öğrenci Yurdu               | 2.500,00         | 3.450,00            |
+| Arıoğlu Öğrenci Yurdu                       | 5.600,00         | 5.600,00            |
+| Gök Erkek Öğrenci Yurdu                     | 3.410,00         | 3.300,00            |
+| Gümüşsuyu Erkek Öğrenci Yurdu               | 3.710,00         | 3.750,00            |
+| Gümüşsuyu Erkek Öğrenci Yurdu (3 kişilik)   | 3.100,00         | 3.300,00            |
+| Gümüşsuyu Kız Öğrenci Yurdu (1 kişilik)     | 5.000,00         | 5.000,00            |
+| Gümüşsuyu Kız Öğrenci Yurdu (2 kişilik)     | 3.500,00         | 3.500,00            |
+| Gümüşsuyu Kız Öğrenci Yurdu (3 kişilik)     | 2.810,00         | 3.000,00            |
+| Prof. Dr. Ali İhsan Aldoğan Kız Öğrenci Yurdu | 2.500,00         | 3.450,00            |
+| Verda Üründül Kız Öğrenci Yurdu              | 2.445,00         | 2.700,00            |
+| Ayşe Birkan Kız Öğrenci Yurdu                | 5.600,00         | 5.600,00            |
+| Ferhunde Birkan Kız Öğrenci Yurdu           | 2.470,00         | 3.600,00            |
+| Gölet Öğrenci Yurtları (Normal)             | 4.180,00         | 4.500,00            |
+| Gölet Öğrenci Yurtları (2 kişilik Suit)     | 6.550,00         | 6.550,00            |
+| Gölet Öğrenci Yurtları (1 kişilik Suit)     | 9.000,00         | 9.000,00            |
+| Gölet Öğrenci Yurtları (Üçgen Suit)         | 9.000,00         | 9.000,00            |
+| Gölet Öğrenci Yurtları (Bağışçı Suit)       | 10.000,00        | 10.000,00           |
+| Mezunlar Erkek Öğrenci Yurdu (2 kişilik)    | 4.410,00         | 6.000,00            |
+| Zeynep Birkan Kız Öğrenci Yurdu              | 5.600,00         | 5.600,00            |
+| Yılmaz Akdoruk Öğrenci Evi (4 kişilik)      | 1.500,00         | -                   |
+| Haşim Gürdamar Öğrenci Yurdu (4 kişilik)    | 3.500,00         | 7.000,00            |
+| Kamu Konutları                               | -                | 1.000,00            |
+
+*Not: 01.11.2024 tarihi itibariyle geçerlidir.*

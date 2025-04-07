@@ -1,0 +1,1436 @@
+Title: İTÜ | ÖİDB
+
+URL Source: https://www.sis.itu.edu.tr/TR/ogrenci/duyuru_ekler/sinav-yapilmayacak/sinav-yapilamayacak-dersler.php
+
+Markdown Content:
+| ARC | 204E | Arch.Building Element Design |
+| ARC | 212E | Architectural Design IV |
+| ARC | 246E | Environmental Control Studio |
+| ARC | 312E | Architectural Design VI |
+| ARC | 351E | Architectural Design V |
+| ARC | 361E | Archtctrl Survey & Restrtn Std |
+| ARC | 411E | Architectural Design VII |
+| ARC | 484E | Construction Project |
+| ARC | 4902E | Diploma Project |
+| BEB | 101 | Temel Yüzme Becerisi Öğrenimi |
+| BEB | 102 | Yüzme Teknikleri Becerisi Öğrenimi |
+| BEB | 103 | Voleybolda Temel Eğitim ve Beceri Kazanma |
+| BEB | 104 | Tenis Teknik ve Taktik Eğitimi |
+| BEB | 105 | Futbol ve Temel Hareket Öğretimi |
+| BEB | 106 | Basketbol Temel Teknik Eğitimi |
+| BEB | 107 | Spor ve Medya |
+| BEB | 108 | Spor Sosyolojisi |
+| BEB | 109 | Egzersiz ve Zihinsel Sağlık |
+| BEB | 110 | Hentbol Temel Beceri Eğitimi |
+| BEB | 111 | Masa Tenisi Temel Beceri Eğitimi |
+| BEB | 112 | Okçuluk Temel Beceri Eğitimi |
+| BEB | 113 | Temel Yoga Beceri Eğitimi |
+| BEB | 114 | Futsal Temel Beceri Eğitimi |
+| BEB | 115 | Atletizm Temel Eğitimi |
+| BEB | 116 | Badminton Temel Beceri Eğitimi |
+| BEB | 117 | Eskrim Temel Beceri Eğitimi |
+| BEB | 118 | Genel Kondisyon ve Vücut Geliştirme |
+| BEB | 119 | Golf Temel Beceri Eğitimi |
+| BEB | 122 | Fiziksel Aktivite ve Egzersiz |
+| BIO | 103E | Int.to Mol.Biol.&Genet.&Ethics |
+| BIO | 106EL | General Biology II Lab. |
+| BIO | 207EL | Cell Biology Lab. |
+| BIO | 216EL | Microbiology Lab. |
+| BIO | 315EL | Biochemistry I Lab. |
+| BIO | 317EL | Molecular Genetics Lab. |
+| BIO | 328EL | Biochemistry II Lab. |
+| BIO | 415EL | Molecular Biology Lab. |
+| BIO | 4901E | Mol Bio & Genetics Design I |
+| BIO | 4902E | Mol Bio & Genetics Design II |
+| BIO | 492 | Bitirme Çalışması |
+| BIO | 492E | Graduation Project |
+| BLG | 242 | Lojik Devreler Laboratuvarı |
+| BLG | 242E | Logic Circuits Lab. |
+| BLG | 351 | Mikrobilgisayar Laboratuvarı |
+| BLG | 351E | Microcomputer Lab. |
+| BLG | 438 | Sayısal İşaret İşleme Laboratuvarı |
+| BLG | 438E | Digital Signal Processing Lab. |
+| BLG | 439 | Bilgisayar Proje 1 |
+| BLG | 439E | Computer Project 1 |
+| BLG | 440 | Bilgisayar Proje 2 |
+| BLG | 440E | Computer Project 2 |
+| BLG | 452 | Mikroişlemci Tasarım Lab. |
+| BLG | 452E | Microprocessor Design Laboratory |
+| BLG | 4901 | Bilgisayar Mühendisliği Tasarımı 1 |
+| BLG | 4901E | Computer Engineering Design 1 |
+| BLG | 4902 | Bilgisayar Mühendisliği Tasarımı 2 |
+| BLG | 4902E | Computer Engineering Design 2 |
+| BLG | 492 | Bitirme Çalışması |
+| BLG | 492E | Graduation Project |
+| CAB | 100 | Zurna I |
+| CAB | 1013 | Viyola 1 |
+| CAB | 1014 | Viyola 2 |
+| CAB | 102 | Korno I |
+| CAB | 104 | Zurna II |
+| CAB | 105 | Tar I |
+| CAB | 106 | Tar II |
+| CAB | 107 | Bağlama I |
+| CAB | 108 | Bağlama II |
+| CAB | 109 | Ud I |
+| CAB | 110 | Ud II |
+| CAB | 1101 | Keman 1 |
+| CAB | 1102 | Keman 2 |
+| CAB | 1103 | Dlli Kaval 1 |
+| CAB | 1104 | Dlli Kaval 2 |
+| CAB | 1105 | Dilli Kaval I |
+| CAB | 1106 | Dilli Kaval II |
+| CAB | 1107 | Tulum I |
+| CAB | 1108 | Tulum II |
+| CAB | 1109 | Akordiyon 1 |
+| CAB | 1110 | Akordiyon 2 |
+| CAB | 1111 | Tulum 1 |
+| CAB | 1112 | Tulum 2 |
+| CAB | 1113 | Garmon 1 |
+| CAB | 1114 | Garmon 2 |
+| CAB | 112 | Korno II |
+| CAB | 113 | Ney I |
+| CAB | 114 | Ney II |
+| CAB | 115 | Mey I |
+| CAB | 116 | Mey II |
+| CAB | 117 | Kaval I |
+| CAB | 118 | Kaval II |
+| CAB | 1183 | Kontrbas 1 |
+| CAB | 1184 | Kontrbas 2 |
+| CAB | 119 | Klarnet I |
+| CAB | 120 | Klarnet II |
+| CAB | 121 | Obua I |
+| CAB | 122 | Obua II |
+| CAB | 123 | Flüt I |
+| CAB | 124 | Flüt II |
+| CAB | 125 | Kudüm I |
+| CAB | 126 | Kudüm II |
+| CAB | 127 | 3 Telli Kemençe I |
+| CAB | 128 | 3 Telli Kemençe II |
+| CAB | 129 | 4 Telli Kemençe I |
+| CAB | 130 | 4 Telli Kemençe II |
+| CAB | 131 | Keman I |
+| CAB | 132 | Keman II |
+| CAB | 133 | Viyolonsel I |
+| CAB | 134 | Viyolonsel II |
+| CAB | 135 | Viyola I |
+| CAB | 136 | Viyola II |
+| CAB | 137 | Kontrbas I |
+| CAB | 138 | Kontrbas II |
+| CAB | 139 | Kemane I |
+| CAB | 140 | Kemane II |
+| CAB | 141 | Piyano I |
+| CAB | 142 | Piyano II |
+| CAB | 143 | Yrd.Çalgı Piyano I |
+| CAB | 144 | Yrd.Çalgı Piyano II |
+| CAB | 145 | Kanun I |
+| CAB | 146 | Kanun II |
+| CAB | 147 | Tanbur I |
+| CAB | 148 | Tanbur II |
+| CAB | 149 | Gitar I |
+| CAB | 150 | Gitar II |
+| CAB | 151 | Kanun 1 |
+| CAB | 152 | Kanun 2 |
+| CAB | 153 | Tanbur I |
+| CAB | 154 | Tanbur 2 |
+| CAB | 155 | Tar 1 |
+| CAB | 156 | Tar 2 |
+| CAB | 157 | Bağlama 1 |
+| CAB | 158 | Bağlama 2 |
+| CAB | 159 | Ud 1 |
+| CAB | 160 | Ud 2 |
+| CAB | 161 | Ney 1 |
+| CAB | 162 | Ney 2 |
+| CAB | 163 | Mey 1 |
+| CAB | 164 | Mey 2 |
+| CAB | 165 | Kaval 1 |
+| CAB | 166 | Kaval 2 |
+| CAB | 167 | Klarnet 1 |
+| CAB | 168 | Klarnet 2 |
+| CAB | 169 | Üç Telli Kemençe |
+| CAB | 170 | Üç Telli Kemençe 2 |
+| CAB | 171 | Dört Telli Kemençe |
+| CAB | 172 | Dört Telli Kemençe 2 |
+| CAB | 173 | Karadeniz Kemençesi 1 |
+| CAB | 174 | Karadeniz Kemençesi 2 |
+| CAB | 175 | Kemane 1 |
+| CAB | 176 | Kemane 2 |
+| CAB | 177 | Piyano 1 |
+| CAB | 178 | Piyano 2 |
+| CAB | 179 | Asmalı Davul 1 |
+| CAB | 180 | Asmalı Davul II |
+| CAB | 181 | Kudüm 1 |
+| CAB | 182 | Kudüm 2 |
+| CAB | 183 | Trombon I |
+| CAB | 184 | Trombon II |
+| CAB | 185 | Piyano Eşlik 1 |
+| CAB | 186 | Asmalı Davul 2 |
+| CAB | 186 | Piyano Eşlik 2 |
+| CAB | 187 | Gitar 1 |
+| CAB | 188 | Gitar 2 |
+| CAB | 189 | Çalgılama I |
+| CAB | 190 | Çalgılama II |
+| CAB | 191 | Lavta 1 |
+| CAB | 192 | Lavta 2 |
+| CAB | 193 | Zurna 1 |
+| CAB | 194 | Zurna 2 |
+| CAB | 195 | Viyolonsel 1 |
+| CAB | 196 | Viyolonsel 2 |
+| CAB | 200 | Zurna III |
+| CAB | 2013 | Viyola 3 |
+| CAB | 2014 | Viyola 4 |
+| CAB | 202 | Korno III |
+| CAB | 204 | Zurna IV |
+| CAB | 205 | Tar III |
+| CAB | 206 | Tar IV |
+| CAB | 207 | Bağlama III |
+| CAB | 208 | Bağlama IV |
+| CAB | 209 | Ud III |
+| CAB | 210 | Ud IV |
+| CAB | 2101 | Keman 3 |
+| CAB | 2102 | Keman 4 |
+| CAB | 2103 | Dlli Kaval 3 |
+| CAB | 2104 | Dlli Kaval 4 |
+| CAB | 2105 | Dilli Kaval III |
+| CAB | 2106 | Dilli Kaval IV |
+| CAB | 2107 | Tulum III |
+| CAB | 2108 | Tulum IV |
+| CAB | 2109 | Akordiyon 3 |
+| CAB | 2110 | Akordiyon 4 |
+| CAB | 2111 | Tulum 3 |
+| CAB | 2112 | Tulum 4 |
+| CAB | 2113 | Garmon 3 |
+| CAB | 2114 | Garmon 4 |
+| CAB | 212 | Korno IV |
+| CAB | 213 | Ney III |
+| CAB | 214 | Ney IV |
+| CAB | 215 | Mey III |
+| CAB | 216 | Mey IV |
+| CAB | 217 | Kaval III |
+| CAB | 218 | Kaval IV |
+| CAB | 2183 | Kontrbas 3 |
+| CAB | 2184 | Kontrbas 4 |
+| CAB | 219 | Klarnet III |
+| CAB | 220 | Klarnet IV |
+| CAB | 221 | Obua III |
+| CAB | 222 | Obua IV |
+| CAB | 223 | Flüt III |
+| CAB | 224 | Flüt IV |
+| CAB | 225 | Asmalı Davul I |
+| CAB | 226 | Asmalı Davul II |
+| CAB | 227 | 3 Telli Kemençe III |
+| CAB | 228 | 3 Telli Kemençe IV |
+| CAB | 229 | 4 Telli Kemençe III |
+| CAB | 230 | 4 Telli Kemençe IV |
+| CAB | 231 | Keman III |
+| CAB | 232 | Keman IV |
+| CAB | 233 | Viyolonsel III |
+| CAB | 234 | Viyolonsel IV |
+| CAB | 235 | Viyola III |
+| CAB | 236 | Viyola IV |
+| CAB | 237 | Kontrbas III |
+| CAB | 238 | Kontrbas IV |
+| CAB | 239 | Kemane III |
+| CAB | 240 | Kemane IV |
+| CAB | 241 | Piyano III |
+| CAB | 242 | Piyano IV |
+| CAB | 243 | Yrd.Çalgı Piyano III |
+| CAB | 244 | Yrd.Çalgı Piyano IV |
+| CAB | 245 | Kanun III |
+| CAB | 246 | Kanun IV |
+| CAB | 247 | Tanbur III |
+| CAB | 248 | Tanbur IV |
+| CAB | 249 | Gitar III |
+| CAB | 250 | Gitar IV |
+| CAB | 251 | Kanun 3 |
+| CAB | 252 | Kanun 4 |
+| CAB | 253 | Tanbur 3 |
+| CAB | 254 | Tanbur 4 |
+| CAB | 255 | Tar 3 |
+| CAB | 256 | Tar 4 |
+| CAB | 257 | Bağlama 3 |
+| CAB | 258 | Bağlama 4 |
+| CAB | 259 | Ud 3 |
+| CAB | 260 | Ud 4 |
+| CAB | 261 | Ney 3 |
+| CAB | 262 | Ney 4 |
+| CAB | 263 | Mey 3 |
+| CAB | 264 | Mey 4 |
+| CAB | 265 | Kaval 3 |
+| CAB | 266 | Kaval 4 |
+| CAB | 267 | Klarnet 3 |
+| CAB | 268 | Klarnet 4 |
+| CAB | 269 | Ud 4 |
+| CAB | 269 | Üç Telli Kemençe 3 |
+| CAB | 270 | Üç Teli Kemençe 4 |
+| CAB | 271 | Dört Telli Kemençe 3 |
+| CAB | 272 | Dört Telli Kemençe 4 |
+| CAB | 273 | Karadeniz Kemençesi 3 |
+| CAB | 274 | Karadeniz Kemençesi 2 |
+| CAB | 275 | Kemane 3 |
+| CAB | 276 | Kemane 4 |
+| CAB | 277 | Piyano 3 |
+| CAB | 278 | Piyano 4 |
+| CAB | 279 | Koltuk Davul 1 |
+| CAB | 280 | Koltuk Davul 2 |
+| CAB | 281 | Def |
+| CAB | 282 | Bendir |
+| CAB | 283 | Trombon III |
+| CAB | 284 | Trombon IV |
+| CAB | 285 | Piyano Eşlik 3 |
+| CAB | 286 | Piyano Eşlik 4 |
+| CAB | 287 | Gitar 3 |
+| CAB | 288 | Gitar 4 |
+| CAB | 289 | Çalgılama III |
+| CAB | 290 | Çalgılama IV |
+| CAB | 291 | Lavta 3 |
+| CAB | 292 | Lavta 4 |
+| CAB | 293 | Zurna 3 |
+| CAB | 294 | Zurna 4 |
+| CAB | 295 | Viyolonsel 3 |
+| CAB | 296 | Viyolonsel 4 |
+| CAB | 300 | Zurna V |
+| CAB | 3013 | Viyola 5 |
+| CAB | 3014 | Viyola 6 |
+| CAB | 302 | Korno V |
+| CAB | 304 | Zurna VI |
+| CAB | 305 | Tar V |
+| CAB | 306 | Tar VI |
+| CAB | 307 | Bağlama V |
+| CAB | 308 | Bağlama VI |
+| CAB | 309 | Ud V |
+| CAB | 310 | Ud VI |
+| CAB | 3101 | Keman 5 |
+| CAB | 3102 | Keman 6 |
+| CAB | 312 | Korno VI |
+| CAB | 313 | Ney V |
+| CAB | 314 | Ney VI |
+| CAB | 315 | Mey V |
+| CAB | 316 | Mey VI |
+| CAB | 317 | Kaval V |
+| CAB | 318 | Kaval VI |
+| CAB | 3183 | Kontrbas 5 |
+| CAB | 3184 | Kontrbas 6 |
+| CAB | 319 | Klarnet V |
+| CAB | 320 | Klarnet VI |
+| CAB | 321 | Obua V |
+| CAB | 322 | Obua VI |
+| CAB | 323 | Flüt V |
+| CAB | 324 | Flüt VI |
+| CAB | 325 | Def |
+| CAB | 326 | Koltuk Davulu |
+| CAB | 327 | 3 Telli Kemençe V |
+| CAB | 328 | 3 Telli Kemençe VI |
+| CAB | 329 | 4 Telli Kemençe V |
+| CAB | 330 | 4 Telli Kemençe VI |
+| CAB | 331 | Keman V |
+| CAB | 332 | Keman VI |
+| CAB | 333 | Viyolonsel V |
+| CAB | 334 | Viyolonsel VI |
+| CAB | 335 | Viyola V |
+| CAB | 336 | Viyola VI |
+| CAB | 337 | Kontrbas V |
+| CAB | 338 | Kontrbas VI |
+| CAB | 339 | Kemane V |
+| CAB | 340 | Kemane VI |
+| CAB | 341 | Piyano V |
+| CAB | 342 | Piyano VI |
+| CAB | 343 | Yrd.Çalgı Piyano V |
+| CAB | 344 | Yrd.Çalgı Piyano VI |
+| CAB | 345 | Kanun V |
+| CAB | 346 | Kanun VI |
+| CAB | 347 | Tanbur V |
+| CAB | 348 | Tanbur VI |
+| CAB | 349 | Gitar V |
+| CAB | 350 | Gitar VI |
+| CAB | 351 | Kanun 5 |
+| CAB | 352 | Kanun 6 |
+| CAB | 353 | Tanbur 5 |
+| CAB | 354 | Tanbur 6 |
+| CAB | 355 | Tar 5 |
+| CAB | 356 | Tar 6 |
+| CAB | 357 | Bağlama 5 |
+| CAB | 358 | Bağlama 6 |
+| CAB | 359 | Ud 5 |
+| CAB | 360 | Ud 6 |
+| CAB | 361 | Ney 5 |
+| CAB | 362 | Ney 6 |
+| CAB | 363 | Mey 5 |
+| CAB | 364 | Mey 6 |
+| CAB | 365 | Kaval 5 |
+| CAB | 366 | Kaval 6 |
+| CAB | 367 | Klarnet 5 |
+| CAB | 368 | Klarnet 6 |
+| CAB | 369 | Üç Telli Kemençe 5 |
+| CAB | 370 | Üç Telli Kemençe 6 |
+| CAB | 371 | Dört Telli Kemençe |
+| CAB | 372 | Dört Telli Kemençe 6 |
+| CAB | 375 | Kemane 5 |
+| CAB | 376 | Kemane 6 |
+| CAB | 379 | Asmalı Davul 1 |
+| CAB | 380 | Asmalı Davul 2 |
+| CAB | 383 | Trombon V |
+| CAB | 384 | Trombon VI |
+| CAB | 386 | Gitar 6 |
+| CAB | 388 | Lavta 6 |
+| CAB | 389 | Gitar 5 |
+| CAB | 391 | Lavta 5 |
+| CAB | 395 | Viyolonsel 5 |
+| CAB | 396 | Viyolonsel 6 |
+| CAB | 400 | Zurna VII |
+| CAB | 4013 | Viyola 7 |
+| CAB | 4014 | Viyola 8 |
+| CAB | 402 | Korno VII |
+| CAB | 404 | Zurna VIII |
+| CAB | 405 | Tar VII |
+| CAB | 406 | Tar VIII |
+| CAB | 407 | Bağlama VII |
+| CAB | 408 | Bağlama VIII |
+| CAB | 409 | Ud VII |
+| CAB | 410 | Ud VIII |
+| CAB | 4101 | Keman 7 |
+| CAB | 4102 | Keman 8 |
+| CAB | 412 | Korno VIII |
+| CAB | 413 | Ney VII |
+| CAB | 414 | Ney VIII |
+| CAB | 415 | Mey VII |
+| CAB | 416 | Mey VIII |
+| CAB | 417 | Kaval VII |
+| CAB | 418 | Kaval VIII |
+| CAB | 4183 | Kontrbas 7 |
+| CAB | 4184 | Viyolonsel 8 |
+| CAB | 419 | Klarnet VII |
+| CAB | 420 | Klarnet VIII |
+| CAB | 421 | Obua VII |
+| CAB | 422 | Obua VIII |
+| CAB | 423 | Flüt VII |
+| CAB | 424 | Flüt VIII |
+| CAB | 425 | Bendir |
+| CAB | 426 | Kenar |
+| CAB | 427 | 3 Telli Kemençe VII |
+| CAB | 428 | 3 Telli Kemençe VIII |
+| CAB | 429 | 4 Telli Kemençe VII |
+| CAB | 430 | 4 Telli Kemençe VIII |
+| CAB | 431 | Keman VII |
+| CAB | 432 | Keman VIII |
+| CAB | 433 | Viyolonsel VII |
+| CAB | 434 | Viyolonsel VIII |
+| CAB | 435 | Viyola VII |
+| CAB | 436 | Viyola VIII |
+| CAB | 437 | Kontrbas VII |
+| CAB | 438 | Kontrbas VIII |
+| CAB | 439 | Kemane VII |
+| CAB | 440 | Kemane VIII |
+| CAB | 441 | Piyano VII |
+| CAB | 442 | Piyano VIII |
+| CAB | 443 | Yrd.Çalgı Piyano VII |
+| CAB | 444 | Yrd.Çalgı Piyano VIII |
+| CAB | 445 | Kanun VII |
+| CAB | 446 | Kanun VIII |
+| CAB | 447 | Tanbur VII |
+| CAB | 448 | Tanbur VIII |
+| CAB | 449 | Gitar VII |
+| CAB | 450 | Gitar VIII |
+| CAB | 451 | Kanun 7 |
+| CAB | 452 | Kanun 8 |
+| CAB | 453 | Tanbur 7 |
+| CAB | 454 | Tanbur 8 |
+| CAB | 455 | Tar 7 |
+| CAB | 456 | Tar 8 |
+| CAB | 457 | Bağlama 7 |
+| CAB | 458 | Bağlama 8 |
+| CAB | 459 | Ud 7 |
+| CAB | 460 | Ud 8 |
+| CAB | 461 | Ney 7 |
+| CAB | 462 | Ney 8 |
+| CAB | 463 | Mey 7 |
+| CAB | 464 | Mey 8 |
+| CAB | 465 | Kaval 7 |
+| CAB | 466 | Kaval 8 |
+| CAB | 467 | Klarnet 7 |
+| CAB | 468 | Klarnet 8 |
+| CAB | 469 | Üç Telli Kemençe 7 |
+| CAB | 470 | Üç Telli Kemençe 8 |
+| CAB | 471 | Dört Telli Kemençe 7 |
+| CAB | 472 | Dört Teli Kemençe 8 |
+| CAB | 475 | Kemane 7 |
+| CAB | 476 | Kemane 8 |
+| CAB | 479 | Koltuk Davulu |
+| CAB | 480 | Kenar |
+| CAB | 483 | Trombon VII |
+| CAB | 484 | Trombon VIII |
+| CAB | 485 | Gitar 7 |
+| CAB | 486 | Gitar 8 |
+| CAB | 487 | Lavta 7 |
+| CAB | 490 | Lavta 8 |
+| CAB | 492 | Bitirme Ödevi |
+| CAB | 495 | Viyolonsel 7 |
+| CAB | 496 | Viyolonsel 8 |
+| CAB | 701 | Karadeniz Kemençesi I |
+| CAB | 702 | Karadeniz Kemençesi II |
+| CAB | 703 | Tulum I |
+| CAB | 704 | Tulum II |
+| CAB | 705 | Zurna I |
+| CAB | 706 | Zurna II |
+| CAB | 707 | Balaban I |
+| CAB | 708 | Balaban II |
+| CAB | 710 | Sipsi II |
+| CAB | 711 | Timpani I |
+| CAB | 712 | Timpani II |
+| CAB | 713 | Pop Davul Seti I |
+| CAB | 714 | Pop Davul Seti II |
+| CAB | 715 | Lavta I |
+| CAB | 716 | Lavta II |
+| CAB | 717 | Vurmalı Türk Halk Çalgıları I |
+| CAB | 718 | Vurmalı Türk Halk Çalgıları II |
+| CAB | 720 | Kös |
+| CAB | 721 | Bas Kemençe I |
+| CAB | 723 | Oda Müziği III |
+| CAB | 724 | Oda Müziği IV |
+| CAB | 727 | Santur I |
+| CAB | 729 | Uslup Tavır ve Yorum III |
+| CAB | 730 | Uslup Tavır ve Yorum IV |
+| CAB | 731 | Toplu Uygulama I (Orkestra) |
+| CAB | 732 | Toplu Uygulama II (Orkestra) |
+| CAB | 733 | Toplu Uygulama I (THM) |
+| CAB | 734 | Toplu Uygulama II (THM) |
+| CAB | 735 | Toplu Uygulama I (TSM) |
+| CAB | 736 | Toplu Uygulama II (TSM) |
+| CAB | 741 | Toplu Uygulama III (Orkestra) |
+| CAB | 742 | Toplu Uygulama IV (Orkestra) |
+| CAB | 743 | Toplu Uygulama III (THM) |
+| CAB | 744 | Toplu Uygulama IV (THM) |
+| CAB | 745 | Toplu Uygulama III (TSM) |
+| CAB | 746 | Toplu Uygulama IV (TSM) |
+| CAB | 751 | Toplu Uygulama V (Orkestra) |
+| CAB | 752 | Toplu Uygulama VI (Orkestra) |
+| CAB | 753 | Toplu Uygulama V (THM) |
+| CAB | 754 | Toplu Uygulama VI (THM) |
+| CAB | 755 | Toplu Uygulama V (TSM) |
+| CAB | 756 | Toplu Uygulama VI (TSM) |
+| CAB | 757 | Zurna III |
+| CAB | 758 | Zurna IV |
+| CAB | 760 | Silofon Vibrafon |
+| CAB | 761 | Toplu Uygulama VII (Orkestra) |
+| CAB | 762 | Toplu Uygulama VIII (Orkestra) |
+| CAB | 763 | Toplu Uygulama VII (THM) |
+| CAB | 764 | Toplu Uygulama VIII (THM) |
+| CAB | 765 | Toplu Uygulama VII (TSM) |
+| CAB | 766 | Toplu Uygulama VIII (TSM) |
+| CAB | 767 | Uzun Hava Repertuarı I |
+| CAB | 769 | Aşıklama Reperturı I |
+| CAB | 770 | Aşıklama Rep.II |
+| CAB | 771 | III. Selim Dönemi Repertuarı |
+| CAB | 773 | Dini Müzik Repertuarı I |
+| CAB | 774 | Dini Müzik Rep.II |
+| CAB | 775 | 17.yy Saz Eserleri Repertuarı |
+| CAB | 776 | 18-19.yy Saz Eserleri Rep |
+| CAB | 777 | Oyun Havaları Repertuarı I |
+| CAB | 778 | Oyun Havaları Repertuarı II |
+| CAB | 779 | Eşlik I |
+| CAB | 780 | Eşlik II |
+| CAB | 781 | Uslup Tavır ve Yorum I |
+| CAB | 782 | Uslup Tavır ve Yorum II |
+| CAB | 783 | Alto Kemençe I |
+| CAB | 784 | Alto Kemençe II |
+| CAB | 785 | Oda Müziği I |
+| CAB | 786 | Oda Müziği II |
+| CAB | 793 | Doğaçlama Yöntemleri I |
+| CAB | 794 | Doğaçlama Yöntemleri II |
+| CAB | 797 | Rebap I |
+| CAB | 798 | Rebap II |
+| CEN | 242E | Logic Circuits Laboratory |
+| CEN | 351E | Microcomputer Lab. |
+| CEN | 4901E | Computer Engineering Design I |
+| CEN | 4902E | Computer Engineering Design II |
+| CEV | 201EL | Enviromental Chemistry I Lab. |
+| CEV | 201L | Çevre Kimyası I Lab. |
+| CEV | 202EL | Enviromental Chemistry II Lab. |
+| CEV | 202L | Çevre Kimyası II |
+| CEV | 203 | Çevre Mikrobiyolojisi |
+| CEV | 203E | Environmental Microbiology |
+| CEV | 204 | Çevre Müh. Bilg. Uyg. |
+| CEV | 204E | Comp. App. İn Environm. Eng. |
+| CEV | 216 | Çevre Müh. Bilg. Uyg. |
+| CEV | 216E | Comp. App. in Environment.Eng. |
+| CEV | 228 | Yer Bilimi |
+| CEV | 228E | Earth Science |
+| CEV | 304 | Temel İşlemler&Prosesler Lab. |
+| CEV | 304E | Unit Operations&Processes Lab. |
+| CEV | 306 | Su Temini &Atıksuların Uzakl. |
+| CEV | 306E | Water Supply&Wastewater Dispo. |
+| CEV | 329 | Katı Atık Yönetimi |
+| CEV | 329E | Solid Waste Management |
+| CEV | 330 | Su Arıtma Tesisi Tasarımı |
+| CEV | 330E | Water Treatment Plant Design |
+| CEV | 334 | Katı Atık Yönetimi |
+| CEV | 334E | Solid Waste Management |
+| CEV | 401 | Atıksu Arıtma Tesisi Tas. |
+| CEV | 401E | Wastewater Treat. Plant Design |
+| CEV | 4901 | Çevre Müh. Tasarımı I |
+| CEV | 4901E | Environmental Eng. Design I |
+| CEV | 4902 | Çevre Müh. Tasarımı II |
+| CEV | 4902E | Environmental Eng. Design II |
+| CEV | 492 | Bitirme Tasarım Projesi |
+| CEV | 492E | Graduation Design Project |
+| CHZ | 104 | Mineraloji ve Petrografi |
+| CHZ | 212 | Tanecik Teknolojisi |
+| CHZ | 213 | Zenginlstirme Önc.Haz. İşlml. |
+| CHZ | 214 | Tanecik Teknolojisi |
+| CHZ | 216 | Fiziksel Zeng. Yöntemleri |
+| CHZ | 224E | Surface and Colloid Chemistry |
+| CHZ | 232 | Zenginlstirme Önc.Haz. İşlml. |
+| CHZ | 242 | Proses Mineralojisi |
+| CHZ | 311 | Fiziksel Zeng. Yöntemleri |
+| CHZ | 321 | Kömür Hazırlama |
+| CHZ | 323 | Maden Yatakları |
+| CHZ | 323E | Ore Deposits |
+| CHZ | 325 | Kömür Hazırlama |
+| CHZ | 328E | Comp. Appl. in Mineral Proces. |
+| CHZ | 332 | Flotasyon ve Flokülasyon |
+| CHZ | 332E | Flotation and Flocculation |
+| CHZ | 421 | Cevher Haz. Proses Tasarımı |
+| CHZ | 432 | Cevher Haz. Tesis Tasarımı |
+| CHZ | 4901 | Cevher Hazırl. Müh. Tasarımı I |
+| CHZ | 4902 | Cevher Hazırl. Müh.Tasarımı II |
+| CHZ | 492 | Bitirme Çalışması |
+| CHZ | 492E | Graduation Thesis |
+| COM | 101 | Compt.& Eng. Programming |
+| DAN | 101 | Akademik Danışmanlık |
+| DAN | 301 | Kariyer Danışmanlığı |
+| DAN | 302 | Akademik Danışmanlık |
+| DEN | 326 | Bilg.Dest.Açık Deniz Yap.Hes. |
+| DEN | 451 | Gemi ve Oşinografi Lab. |
+| DEN | 482 | Bireysel Proje |
+| DEN | 4901 | Gemi & Dnz.Tek.Müh. Tasarımı I |
+| DEN | 4902 | Gemi& Dnz.Tek.Müh. Tasarımı II |
+| DFH | 102E | Maritime Safety and Security |
+| DFH | 111 | Denizde Güvenlik I |
+| DFH | 180 | Kürek ve Kano Sporları |
+| DFH | 182 | Sualtı Dalış Teknikleri |
+| DFH | 186 | Gemicilik Uygulamaları |
+| DFH | 188 | Yelkencilik |
+| DFH | 191 | Denizde Güvenlik I |
+| DFH | 201 | Temel Yüzme Becerisi |
+| DFH | 211 | Kürek ve Kano Sporları |
+| DFH | 261 | Yelkencilik |
+| DFH | 482E | Cargo Handling Simulator |
+| DUI | 231EL | Marine Communication Lab. |
+| DUI | 241 | Deniz Eğitimi I |
+| DUI | 341E | Maritime Practical Studies |
+| DUI | 351 | Deniz Eğitimi II |
+| DUI | 432 | Gemi Yönetimi ve Liderlik |
+| DUI | 451E | Cargo Handling Simulator |
+| ECN | 402E | Project Appraisal |
+| ECN | 4902E | Economic Design |
+| ECN | 492E | Graduation Project |
+| EEE | 4901E | Elect.&Comm. Eng. Design I |
+| EEE | 4902E | Elect.&Comm. Eng. Design II |
+| EEF | 221 | Elektrik Devre Temelleri Lab. |
+| EEF | 221E | Basics of Elec. Circuits Lab. |
+| EFN | 4902E | Graduation Project |
+| EHB | 101 | EHM Giriş ve Müh. Etiği |
+| EHB | 101E | Int.toElctr.&Comm.Eng.&Eng.Eth |
+| EHB | 311 | Elektroniğe Giriş Lab. |
+| EHB | 311E | Intr.to Electronics Laboratory |
+| EHB | 312 | Analog Elektronik Devr.Lab. |
+| EHB | 312E | Analog Elec. Circuits Lab. |
+| EHB | 324 | Lojik Tasarım Lab. |
+| EHB | 324E | Logic Design Lab. |
+| EHB | 4901E | Elect.&Comm. Eng. Design I |
+| EHB | 4902 | Elektronik & Hab. Müh. Tas .II |
+| EHB | 4902E | Elect.&Comm. Eng. Design II |
+| EHB | 492 | Bitirme Projesi |
+| EHB | 492E | Graduation Project |
+| EHB | 492E | Graduation Project |
+| EHB | 4902 | Elektronik & Hab. Müh. Tas. II |
+| EHB | 4902E | Elect.&Comm. Eng. Design II |
+| EHB | 4901 | Elektronik & Hab. Müh. Tas. I |
+| EHB | 4901E | Elect.&Comm. Eng. Design I |
+| ELK | 342 | Güç Elektroniği Laboratuvarı |
+| ELK | 342E | Power Electronics Laboratory |
+| ELK | 405 | Yüksek Gerilim Laboratuvarı |
+| ELK | 405E | High Voltage Lab. |
+| ELK | 406 | Elektrik Enerjisi Dağıtımı |
+| ELK | 406E | Distribution of Electr. Energy |
+| ELK | 431 | Elektrik Makinaları Lab. |
+| ELK | 431E | Electrical Machines Lab. |
+| ELK | 458 | Elektrik Mühendisliği Projesi |
+| ELK | 458E | Electrical Engineering Project |
+| ELK | 493 | Aydınlatma ve İç Tesis. Lab. |
+| ELK | 493E | Lighting Tech.&Photometry Lab. |
+| END | 441E | Industrial Engineering Project |
+| END | 449 | End. Müh. Uyg. Seminer Dersi |
+| END | 449E | Undergraduate Seminar Course |
+| END | 4901 | Endüstri Müh. Tasarımı I |
+| END | 4901E | Industrial Engineering Design I |
+| END | 4902 | Endüstri Müh. Tasarımı II |
+| END | 4902E | Industrial Engineering Design II |
+| END | 492 | Bitirme Çalışması |
+| END | 492E | Graduation Thesis |
+| END | 492 | Bitirme Çalışması |
+| END | 492E | Graduation Thesis |
+| ENR | 202 | Thermodynamics |
+| ENR | 232 | Hydraulic and Pneumatic |
+| ENR | 301 | Heat Transfer |
+| ENR | 311 | Machinery Elements |
+| ENR | 321 | Otomatic Control Systems |
+| ENT | 211E | Industrial Design Studio |
+| EUT | 220E | Industrial Design Studio I |
+| EUT | 319E | Industrial Design Studio II |
+| EUT | 320E | Industrial Design Studio III |
+| EUT | 419E | Industrial Design Studio IV |
+| EUT | 4902E | Graduation Project |
+| EUT | 492 | Bitirme Çalışması |
+| FIZ | 101EL | Physics I Lab |
+| FIZ | 101EL | Physics I Laboratory |
+| FIZ | 102EL | Physics II Lab |
+| FIZ | 113EL | Mechanics Laboratuary |
+| FIZ | 114EL | Continuos Media Laboratory |
+| FIZ | 116EL | General Physics II Laboratory |
+| FIZ | 121 | Fizik I Laboratuvarı |
+| FIZ | 142 | Fizik II Laboratuvarı |
+| FIZ | 213EL | General Physics III Laboratory |
+| FIZ | 213EL | Electricity and Magnetism Lab |
+| FIZ | 214EL | Wave Physics Laboratory |
+| FIZ | 215EL | Modern Physics Laboratory |
+| FIZ | 221 | Fizik III Laboratuvarı |
+| FIZ | 233EL | Electronics I Lab. |
+| FIZ | 252EL | Modern Physics Laboratory |
+| FIZ | 262 | Moden Fizik Lab |
+| FIZ | 274EL | Termodynamics Laboratory |
+| FIZ | 313EL | Modern Physics Laboratory |
+| FIZ | 374EL | Methods of Exp. Physics Lab. |
+| FIZ | 421 | İleri Fizik Proje Laboratuarı |
+| FIZ | 421E | Advanced Physics Project Lab |
+| FIZ | 4901 | Fizik Mühendisliği Tasarımı I |
+| FIZ | 4901E | Physics Engineering Design I |
+| FIZ | 4902 | Fizik Mühendisliği Tasarımı II |
+| FIZ | 4902E | Physics Engineering Design II |
+| FIZ | 492 | Bitirme Çalışması |
+| FIZ | 492E | Graduation Project |
+| GEM | 482 | Bireysel Bitirme Projesi |
+| GEM | 482E | Individual Graduation Project |
+| GEM | 4901 | Gemi İnş.&Gemi Mak. Müh.Tas. I |
+| GEM | 4902 | Gemi İnş.&Gem.Mak. Müh.Tas.II |
+| GEO | 182 | Geomatik Projesi 1 |
+| GEO | 182E | Geomatics Project I |
+| GEO | 206 | Bilgisayar Dest. Harita Tas. |
+| GEO | 206E | Computer Aided Map Design |
+| GEO | 216 | Bilgisayar Dest. Harita Tas. |
+| GEO | 216E | Computer Aided Map Design |
+| GEO | 282 | Geomatik Projesi II |
+| GEO | 282E | Geomatics Project II |
+| GEO | 292 | Geomatik Projesi 10 |
+| GEO | 292E | Geomatics Project 10 |
+| GEO | 382 | Geomatik Projesi III |
+| GEO | 382E | Geomatics Project III |
+| GEO | 392 | Geomatik Projesi 20 |
+| GEO | 392E | Geomatics Project |
+| GEO | 403 | CBS Projeleri |
+| GEO | 403E | GIS Projects |
+| GEO | 4901 | Geomatik Müh. Tasarımı I |
+| GEO | 4901E | Geomatics Eng. Design I |
+| GEO | 4902 | Geomatik Müh. Tasarımı II |
+| GEO | 4902E | Geomatics Eng. Design II |
+| GEO | 491 | Tasarım Projesi I |
+| GEO | 491E | Design Project I |
+| GEO | 492 | Tasarım Projesi II |
+| GEO | 492E | Design Project II |
+| GID | 4901E | Food Engineering Design I |
+| GID  | 321 | Gıda Mikrobiyolojisi Lab |
+| GID  | 321E | Food Microbiology I Lab. |
+| GID  | 323 | Gıda Mikrobiyolojisi Lab |
+| GID  | 332 | Gıda Mühendisliği Laboratuarı |
+| GID  | 332E | Food Engineering Laboratory |
+| GID  | 402 | Gıda Mühendisliği Tasarım II |
+| GID  | 402E | Food Engineering Design II |
+| GID  | 432 | Gıda Kalite Kontrol Lab |
+| GID  | 432E | Food Quality Control Lab. |
+| GID  | 433 | Gıda Kalite Kontrol Lab |
+| GID  | 450 | Gıda Müh. Özel Konular |
+| GID  | 4902 | Gıda Mühendisliği Tasarımı II |
+| GID  | 492 | Bitirme Çalışması |
+| GID  | 492E | Graduation Project |
+| GMI | 213 | Termodinamik |
+| GMI | 213E | Thermodynamics |
+| GMI | 214 | Hidrolik ve Pnömatik |
+| GMI | 225 | Gemi Dizel Makineleri I |
+| GMI | 254 | Gemi Yardımcı Makineleri I |
+| GMI | 313 | Gemi Buhar Kazanları & Operas. |
+| GMI | 320 | Gemi İnşaatı ve Stabilite |
+| GMI | 324 | Gemi Mak. Operasyon&Bakımı |
+| GMI | 333 | Gemi Dizel Makineleri II |
+| GMI | 341E | Automatic Control Systems |
+| GMI | 352 | Isı Geçişi |
+| GMI | 384E | Engine Room Simulator (ERS) I |
+| GMI | 393E | Long Term Sea Training (6 ay) |
+| GMI | 454 | Gemi Yardımcı Makineleri II |
+| GMI | 473 | Gemi Dizel Makineleri III |
+| GMI | 484E | Engine Room Simulator (ERS) II |
+| GMI | 4901 | Gemi Mak. İşl. Müh. Tasarımı I |
+| GMI | 4902 | Gemi Mak. İşl. Müh.Tasarımı II |
+| GMI | 492 | Tasarım Projesi |
+| GSB | 313 | Mimarlıkta Desen |
+| GSB | 313E | Drawing in Architecture |
+| GSB | 323 | Fotoğraf ve Mimarlık |
+| GSB | 323E | Photography & Architecture |
+| GSB | 333 | Doğaçlama, Oyun ve Oynanış |
+| GSB | 343 | Görsel Analiz |
+| GSB | 363 | Mimarlıkta Seramik Uygulamaları |
+| GUV | 351E | Maritime Practical Studies |
+| GUV | 391E | Long Term Sea Training |
+| GUV | 412E | Ship Management |
+| IAD | 206E | Surv andRepr.Tch.in Intr.Arch. |
+| IAD | 246E | Interior Arch. Design Studio I |
+| IAD | 349E | Interior Arch.Design Studio II |
+| IAD | 351E | Space And Furniture |
+| IAD | 355E | Invstg.Colr&Light in Int.Arch |
+| IAD | 366E | Interior Arch.Desgn Studio III |
+| IAD | 408E | Comm Design In Interior Arch. |
+| IAD | 449E | Interior Arch.Desgn Studio IV |
+| IAD | 4902E | Graduation Project |
+| ICM | 209E | Inter.Arch.Design Fund.Studio |
+| ICM | 246 | İç Mimarlık Projesi I |
+| ICM | 246E | Interior Arch. Design Studio I |
+| ICM | 349 | İç Mimarlık Projesi II |
+| ICM | 349E | Interior Arch. Design Studio II |
+| ICM | 366 | İç Mimarlık Projesi III |
+| ICM | 366E | Interior Arch. Design Studio III |
+| ICM | 449 | İç Mimarlık Projesi IV |
+| ICM | 449E | Interior Arch. Design Studio IV |
+| ICM | 4902 | Diploma Projesi |
+| ICM | 4902E | Graduation Project |
+| ICM | 492 | Bitirme Çalışması |
+| ICM | 492E | Graduation Project |
+| IML | 401 | İmalat Mühendisliği Laboratuvarı I |
+| IML | 401E | Manufacturing Engineering Laboratory I |
+| IML | 402 | İmalat Mühendisliği Laboratuvarı II |
+| IML | 402E | Manufacturing Engineering Laboratory II |
+| IML | 404E | Computer Simulations in Manufacturing Engineering |
+| IML | 405 | Uygulamalı İmalat Projesi |
+| IML | 4901 | İmalat Mühendisliği Tasarımı I |
+| IML | 4901E | Manufacturing Engineering Design I |
+| IML | 4902 | İmalat Mühendisliği Tasarımı II |
+| IML | 4902E | Manufacturing Engineering Design II |
+| IML | 492 | İmalat Tasarım Projesi |
+| IML | 492E | Manufacturing Design Project |
+| IND | 4901E | Industrial Engin. Design I |
+| IND | 4902E | Industrial Engin. Design II |
+| INS | 111 | İnşaat Müh. Giriş ve Etik |
+| INS | 111E | Int. to Civil Eng. & Ethics |
+| INS | 4901 | İnşaat Müh. Tasarımı I |
+| INS | 4901E | Civil Eng. Design I |
+| INS | 4902 | İnşaat Müh. Tasarımı II |
+| INS | 4902E | Civil Eng. Design II |
+| INS | 492 | Mühendislik Tasarım Projesi |
+| INS | 492E | Engineering Design Project |
+| ISL | 374 | İşletme Müh. Tasarımı I |
+| ISL | 374E | Management Eng. Design I |
+| ISL | 453 | İşletme Müh. Tasarımı II |
+| ISL | 453E | Management Eng. Design II |
+| ISL | 4901 | İşletme Mühendisliği Tasarım Projesi I |
+| ISL | 4901E | Management Engineering Design Proje I |
+| ISL | 4902 | İşletme Mühendisliği Tasarım Projesi II |
+| ISL | 4902E | Management Engineering Design Proje II |
+| ISL | 492 | İşletme Mühendisliği Tasarım Projesi I |
+| ISL | 492E | Management Engineering Design Proje I |
+| JEF | 208E | Computer Applications in Geophysics |
+| JEF | 212E | Data Processing |
+| JEF | 222 | Arama Jeofiziğinin Temelleri |
+| JEF | 232 | Mineraloji ve Petrografi |
+| JEF | 232 | Mineroloji ve Petrografi |
+| JEF | 232E | Mineralogy and Petrography |
+| JEF | 311E | Seismology |
+| JEF | 321 | Elektrik Prospeksiyon |
+| JEF | 325 | Jeofizikte Modelleme |
+| JEF | 334 | Sismik Prospeksiyon |
+| JEF | 334E | Seismic Prospecting |
+| JEF | 346 | Jeofizikte Ölçmeler |
+| JEF | 425 | Mühendislik Jeofiziği |
+| JEF | 451 | Gravite ve Manyetik Prospeksiyon |
+| JEF | 4901 | Jeofizik Mühendisliği tasarım Projesi I |
+| JEF | 4902 | Jeofizik Mühendisliği tasarım Projesi II |
+| JEF | 492 | Bitirme Çalışması |
+| JEF | 492E | Graduation Project |
+| JEO | 111 | Kristallografi |
+| JEO | 113 | Kristalografi |
+| JEO | 115 | Genel Jeoloji |
+| JEO | 117 | Genel Jeoloji |
+| JEO | 121 | Yer Bilimlerinde Tasarım |
+| JEO | 122 | Yer Bilimlerinde Tasarı Geometri |
+| JEO | 204E | Petrog. of Magmatic Rocks |
+| JEO | 211 | Mineraloji |
+| JEO | 214E | Magm. & Metamor. Rocks Petrog. |
+| JEO | 218 | Jeolojide Termodinamik |
+| JEO | 222 | Jeomekanik |
+| JEO | 233E | Paleontology |
+| JEO | 242 | Optik Mineraloji |
+| JEO | 256E | Structural Geology |
+| JEO | 301 | Metamorfik Kayaç Petrografisi |
+| JEO | 312 | Saha Jeolojisi |
+| JEO | 315 | Jeoloide Arz. Ve Hrta. Tekn. |
+| JEO | 317 | Jeoloji Haritalr & Kartografya |
+| JEO | 322 | Hidrojeoloji |
+| JEO | 330 | Maden Yatakları |
+| JEO | 331 | Petrografi |
+| JEO | 331E | Petrography |
+| JEO | 343 | Sondaj Tekniği |
+| JEO | 348 | Sedimanter Kayaç Petrografisi |
+| JEO | 359 | Saha Jeolojisi |
+| JEO | 361 | Jeolojik Haritalar&Kartografya |
+| JEO | 362 | Hidrojeoloji |
+| JEO | 370 | Sondaj Tekniği |
+| JEO | 374 | Endüstriyel Hammaddeler |
+| JEO | 411E | Tectonics |
+| JEO | 412 | Endüstriyel Hammaddeler |
+| JEO | 431 | Mühendislik Jeolojisi |
+| JEO | 473 | Mühendislik Jeolojisi |
+| JEO | 4901 | Jeol. Müh. Tasarımı I |
+| JEO | 4901E | Design in Geological Engineering I |
+| JEO | 4902 | Jeoloji Mühendisliği Tasarımı II |
+| JEO | 4902E | Geological Engineering Design II |
+| JEO | 492 | Bitirme Tasarım Projesi |
+| JEO | 492E | Graduation Design Project |
+| KIM | 101EL | General Chemistry I Lab |
+| KIM | 102EL | General Chemistry II Lab |
+| KIM | 102L | Genel Kimya II Lab |
+| KIM | 104EL | Organic Chemistry Lab. |
+| KIM | 104L | Organik Kimya Lab. |
+| KIM | 111L | Genel Kimya I Lab |
+| KIM | 114L | Genel Kimya II Lab. |
+| KIM | 202EL | Physical Chemistry Lab. |
+| KIM | 202L | Fiziksel Kimya Lab. |
+| KIM | 206EL | Ana. Chem & Inst Ana. Lab. |
+| KIM | 206L | Ana. Kimya & Enst Anz. Lab. |
+| KIM | 211L | Analitik Kimya Lab |
+| KIM | 212L | Enstrumental Analitik Yön.Lab. |
+| KIM | 223L | Anorganik Kimya Lab. |
+| KIM | 231L | Organik Kimya Lab. I |
+| KIM | 232L | Organik Kimya Lab. II |
+| KIM | 311L | Fiziksel Kimya Lab. I |
+| KIM | 312L | Fiziksel Kimya Lab. II |
+| KMM | 322 | Kimya Mühendisliği Lab I |
+| KMM | 432 | Kimya Mühendisliği Lab III |
+| KMM | 441 | Kimya Mühendisliği Lab II |
+| KMM | 451 | Kimya Mühendisliği Lab. I |
+| KMM | 451E | Chemical Engineering Lab. I |
+| KMM | 462 | Kimya Mühendisliği Lab II |
+| KMM | 462E | Chemical Engineering Lab. II |
+| KMM | 4901E | Kimya Mühendisliği Tasarımı 1 |
+| KMM | 4902E | Chem. Eng. Design II |
+| KMM | 492 | Bitirme Çalışması |
+| KMM | 492E | Graduation Project |
+| KMP | 101 | Kompozisyon I |
+| KMP | 102 | Kompozisyon II |
+| KMP | 115 | Müzik Formları I |
+| KMP | 116 | Müzik Formları II |
+| KMP | 201 | Kompozisyon III |
+| KMP | 202 | Kompozisyon IV |
+| KMP | 203 | Türk Müziği Literatürü I |
+| KMP | 204 | Türk Müziği Literatürü II |
+| KMP | 301 | Kompozisyon V |
+| KMP | 302 | Kompozisyon VI |
+| KMP | 303 | Kompozisyon Çözümleme I |
+| KMP | 304 | Kompozisyon Çözümleme II |
+| KMP | 305 | Koro Şefliği I |
+| KMP | 306 | Koro Şefliği II |
+| KMP | 307 | Prozodi |
+| KMP | 310 | Orkestrasyon I |
+| KMP | 312 | Türk Makam Müziğinde Kompozisyon |
+| KMP | 401 | Kompozisyon VII |
+| KMP | 403 | Kompozisyon Çözümleme III |
+| KMP | 411 | Orkestrasyon II |
+| KMP | 492 | Bitirme Çalışması |
+| KON | 101 | Cont.& Automation Eng. Ethics |
+| KON | 101E | Cont.& Automation Eng. Ethics |
+| KON | 103 | Kontrol & Otom. Müh.Giriş&Etik |
+| KON | 103E | Intr.toCont.& Auto.Eng.&Ethics |
+| KON | 403 | Kontrol Lab. |
+| KON | 403E | Control Laboratory |
+| KON | 411 | Kontrol Lab. |
+| KON | 411E | Control Laboratory |
+| KON | 4901 | Kontrol&Otomasyon Müh.Tasarımı I |
+| KON | 4901E | Contr.&Automation Eng.Design I |
+| KON | 4902 | Kontrol &Otomasyon Müh.Tasarımı II |
+| KON | 4902E | Contr.&Automation Eng.DesignII |
+| MAD | 101E | Tech.Draw.Appl.in Mining Eng. |
+| MAD | 205 | Mineraloji ve Petrografi |
+| MAD | 211E | Mineralogy |
+| MAD | 232 | Açık İşletmeler |
+| MAD | 243 | Yeraltı Maden İşletmeciliği |
+| MAD | 252E | Mining and Environment |
+| MAD | 304E | Drilling Techniques |
+| MAD | 307 | Cevher Hazırlama I |
+| MAD | 308 | Cevher Hazırlama II |
+| MAD | 314 | Topoğrafya |
+| MAD | 322 | Maden ve Tünel. Tah.Tasarımı |
+| MAD | 322E | Dsgn of Sup in Mines & Tunnels |
+| MAD | 351E | Rock Mechanics |
+| MAD | 408 | Madenlerde İş Sağlığı ve Güv. |
+| MAD | 422 | Maden Planlaması ve Tasarımı |
+| MAD | 422E | Mine Planning and Design |
+| MAD | 432 | Maden ve Tünellerde Kazı Mek. |
+| MAD | 440E | Computer Aided Mine Design |
+| MAD | 441E | Mine System Analysis |
+| MAD | 446E | Computer Aided Mine Design |
+| MAD | 451 | Maden Makinaları |
+| MAD | 461 | Madenlerde Havalandırma |
+| MAD | 467 | Jeoloji Haritaları |
+| MAD | 471 | Maden Elekrotekniği |
+| MAD | 4901 | Maden Müh.Tasarım Projesi I |
+| MAD | 4902 | Maden Müh.Tasarım Projesi II |
+| MAD | 492 | Bitirme Çalışması |
+| MAD | 492E | Graduation Project |
+| MAK | 200 | Atölye |
+| MAK | 401 | Makina Mühendisliği Laboratuvarı I |
+| MAK | 401E | Mechanical Engineering Laboratory I |
+| MAK | 402 | Makina Mühendisliği Laboratuvarı II |
+| MAK | 402E | Mechanical Engineering Laboratory II |
+| MAK | 403 | Uygulamalı Makina Projesi |
+| MAK | 404E | Mechanical Engineering Laboratory II |
+| MAK | 4901 | Makina Mühendisliği Tasarımı I |
+| MAK | 4901E | Mechanical Engineering Design I |
+| MAK | 4902 | Makina Mühendisliği Tasarımı II |
+| MAK | 4902E | Mechanical Engineering Design II |
+| MAK | 492 | Bitirme Tasarım Projesi |
+| MAK | 492E | Senior Design Project |
+| MAT | 4901E | Math. Engineering Design I |
+| MAT | 4902 | Matematik Müh. Tasarımı II |
+| MAT | 4902E | Math. Engineering Design II |
+| MAT | 492 | Bitirme Çalışması |
+| MAT | 492E | Graduation Project |
+| MAT | 4901 | Matematik Müh. Tasarımı I |
+| MCH | 100L | Maritime Chemistry Laboratory |
+| MDN | 210 | Mineraloji ve Petrografi |
+| MDN | 210E | Mineralogy and Petrography |
+| MEN | 201 | Marine Diesel Engines I |
+| MEN | 202 | Marine Diesel Engines II |
+| MEN | 212 | Marine Auxialiary Machinery I |
+| MEN | 301 | Engine Room Simulator (ERS) I |
+| MEN | 302 | Onboard Training |
+| MEN | 311 | Marine Boilers and Operation |
+| MEN | 321 | Operation&Maint.of Marine Eng. |
+| MEN | 401 | Oper.of Steam & Gas Turbines |
+| MEN | 402 | Graduation Design Project |
+| MEN | 411 | Marine Auxialiary Machinery II |
+| MEN | 412 | Engine Room Simulator (ERS) II |
+| MEN | 421 | Marine Diesel Engines III |
+| MET | 322 | Metalurji Lab I |
+| MET | 324 | Metalurji Lab II |
+| MET | 324E | Metallurgical Laboratory II |
+| MET | 339 | Malzeme Karakterizasyon Lab. |
+| MET | 339E | Materials Characterization Lab |
+| MET | 348 | Kalite Mühendisliği |
+| MET | 348E | Quality Engineering |
+| MET | 351 | Metalurji Lab I |
+| MET | 351E | Metallurgical Laboratory I |
+| MET | 353 | Mühendislik Uygulamalarında Tasarım Prensipleri ve Malzeme Seçimi |
+| MET | 353E | Design Principles & Materials Selection For Engineering Applications |
+| MET | 364 | Ekstraktif Metalurji Lab. |
+| MET | 364E | Extractive Metallurgy Lab. |
+| MET | 411 | Metalurji Lab II |
+| MET | 433 | Metalurji Lab III |
+| MET | 433E | Metallurgical Laboratory III |
+| MET | 435 | Problem Çözme Teknikleri, Tasarım ve Proje Yönetimi ve İnovasyon |
+| MET | 435E | Problem Solving Techniques, Design and Project Management and Innovation |
+| MET | 455 | Malzeme Proses Lab. |
+| MET | 455E | Materials Processing Lab. |
+| MET | 4901 | Met. Malz. Müh. Tasarımı I |
+| MET | 4901E | Met. & Mat. Engn. Design I |
+| MET | 4902 | Met. Malz. Müh. Tasarımı II |
+| MET | 4902E | Met. & Mat. Engn. Design II |
+| MET | 492 | Tasarım Bitirme Projesi |
+| MET | 492E | Design Project |
+| MIM | 120E | Int.toCmp.Ds.Tools&Mth.inArch. |
+| MIM | 204 | Mimarlık. Yapı Elemanları Tas. |
+| MIM | 204E | Arch.Building Element Design |
+| MIM | 211 | Mimari Proje III |
+| MIM | 211E | Architectural Design III |
+| MIM | 212 | Mimari Proje IV |
+| MIM | 212E | Architectural Design IV |
+| MIM | 242 | Çevre Kontrolü Stüdyosu |
+| MIM | 242E | Environmental Control Studio |
+| MIM | 244 | Yapı Elemanları Tasarımı |
+| MIM | 244E | Building Element Design |
+| MIM | 246 | Çevre Kontrolü Stüdyosu |
+| MIM | 246E | Environmental Control Studio |
+| MIM | 305E | Statistics |
+| MIM | 312 | Mimari Proje VI |
+| MIM | 312E | Architectural Design VI |
+| MIM | 336 | Mimarlıkta Mekan Analizi ve Teknikleri |
+| MIM | 341 | Şehircilik ve İmar Hukuku |
+| MIM | 341E | Urbanism and Planning Law |
+| MIM | 343 | Şehircilik ve İmar Hukuku |
+| MIM | 343E | Urbanism and Planning Law |
+| MIM | 351 | Mimari Proje V |
+| MIM | 351E | Architectural Design V |
+| MIM | 361 | Rölöve ve Restorasyon Stüdyosu |
+| MIM | 361E | Archtctrl Survey & Restrtn Std |
+| MIM | 377E | Cities and Architecture |
+| MIM | 379 | Tasarımda ve Yapımda Ahşap |
+| MIM | 4018 | Mimarlıkta Mekan Analizi & Tek |
+| MIM | 4028 | Mimari Tasarım & Yapımda Ahşap |
+| MIM | 4033 | İstanbul'da Koruma Sorunları |
+| MIM | 4035 | Arkeolojik Sit. Koruma Uyg. |
+| MIM | 4044 | Mimarlıkta Morfoloji |
+| MIM | 4052E | Cities and Architecture |
+| MIM | 4059E | Architecture Today |
+| MIM | 4063E | Infill Prob.in Urban Hist.Site |
+| MIM | 4064E | Mdrn Cncpts of Archtctrl Consv |
+| MIM | 411 | Mimari Proje VII |
+| MIM | 411E | Architectural Design VII |
+| MIM | 421 | Rölöve ve Restorasyon Stüdyosu |
+| MIM | 421E | Archtctrl Survey & Restrtn Std |
+| MIM | 425E | Architecture Today |
+| MIM | 431 | Uygulama Projesi |
+| MIM | 431E | Construction Project |
+| MIM | 433E | Infill Problems in Urban Historic Sites |
+| MIM | 434 | İstanbul'da Koruma Sorunları |
+| MIM | 435E | Modern Concepts of Architectural Conservation |
+| MIM | 441 | Arkeolojik Sit. Koruma Uyg. |
+| MIM | 484 | Uygulama Projesi |
+| MIM | 484E | Construction Project |
+| MIM | 4902 | Diploma Projesi |
+| MIM | 4902E | Diploma Project |
+| MIM | 491 | Mimarlıkta Morfoloji |
+| MIM | 492 | Bitirme Çalışması |
+| MIM | 492E | Graduation Project |
+| MST | 101 | Int.to Mar. Sciences & Ethics |
+| MST | 102 | Maritime Safety and Security |
+| MST | 201 | Ship Construction & Stability |
+| MST | 222 | Marine Electronics |
+| MST | 241 | Marine Electrotechnics |
+| MST | 252 | Radio Watchkeeping |
+| MTM | 302 | Onboard Training-III |
+| MTM | 331 | Maritime Practical Studies |
+| MTM | 401 | Cargo Handling Simulator |
+| MTM | 412 | Ship Management and Leadership |
+| MTO | 4901 | Meteoroloji Müh. Tasarımı I |
+| MTO | 4902 | Meteoroloji Müh. Tasarımı II |
+| MTO | 492 | Bitirme Çalışması |
+| MTO | 492E | Graduation Project |
+| MTO | 494 | Araştırma Projesi |
+| MTR | 101 | Makam Teorisi I |
+| MTR | 102 | Makam Teorisi II |
+| MTR | 103 | Müzik Teorisi I |
+| MTR | 104 | Müzik Teorisi II |
+| MTR | 105 | Ritim Uygulama I |
+| MTR | 106 | Ritim Uygulama II |
+| MTR | 121 | Makam Teorisi I |
+| MTR | 122 | Makam Teorisi II |
+| MTR | 123 | Müzik Teorisi I |
+| MTR | 124 | Müzik Teorisi II |
+| MTR | 141 | Makam Teorisi I |
+| MTR | 142 | Makam Teorisi II |
+| MTR | 143 | Müzik Teorisi I |
+| MTR | 144 | Müzik Teorisi II |
+| MTR | 201 | Makam Teorisi III |
+| MTR | 202 | Makam Teorisi IV |
+| MTR | 203 | Müzik Teorisi III |
+| MTR | 204 | Müzik Teorisi IV |
+| MTR | 207 | Teori Uygulama I |
+| MTR | 208 | Teori Uygulama II |
+| MTR | 221 | Makam Teorisi III |
+| MTR | 222 | Makam Teorisi IV |
+| MTR | 223 | Müzik Teorisi III |
+| MTR | 224 | Müzik Teorisi IV |
+| MTR | 241 | Makam Teorisi III |
+| MTR | 242 | Makam Teorisi IV |
+| MTR | 243 | Müzik Teorisi III |
+| MTR | 244 | Müzik Teorisi IV |
+| MTR | 301 | İleri Makam Teorisi I |
+| MTR | 302 | İleri Makam Teorisi II |
+| MTR | 303 | İleri Müzik Teorisi I |
+| MTR | 304 | İleri Müzik Teorisi II |
+| MTR | 307 | Teori Uygulama III |
+| MTR | 308 | Teori Uygulama IV |
+| MTR | 401 | İleri Makam Teorisi III |
+| MTR | 402 | İleri Makam Teorisi IV |
+| MTR | 403 | İleri Müzik Teorisi III |
+| MTR | 404 | İleri Müzik Teorisi IV |
+| MTR | 405 | Dikte ve Deşifre I |
+| MTR | 406 | Dikte ve Deşifre II |
+| MTR | 407 | Eser Çözümleme I |
+| MTR | 408 | Eser Çözümleme II |
+| MTR | 431 | Dikte Deşifre I |
+| MTR | 432 | Dikte Deşifre II |
+| MTR | 433 | Eser Çözümleme I |
+| MTR | 434 | Eser Çözümleme II |
+| MTR | 441 | Dikte Deşifre I |
+| MTR | 442 | Dikte Deşifre II |
+| MTR | 443 | Eser Çözümleme I |
+| MTR | 444 | Eser Çözümleme II |
+| MTR | 492 | Bitirme Çalışması |
+| MUT | 101 | Kemençe Yapımı I |
+| MUT | 102 | Kemençe Yapımı II |
+| MUT | 111 | Tanbur Yapımı |
+| MUT | 112 | Bağlama Yapımı |
+| MUT | 132 | Akustik II |
+| MUT | 141 | Kayıt Teknikleri |
+| MUT | 142 | Ses Düzenleme ve Editing |
+| MUT | 153 | Sayısal Ses Çalışma Ortamları |
+| MUT | 154 | Ses Tasarımı |
+| MUT | 201 | Kemane Yapımı |
+| MUT | 202 | Keman Yapımı I |
+| MUT | 211 | Ud Yapımı |
+| MUT | 212 | Lavta Yapımı |
+| MUT | 241 | İleri Kayıt Teknikleri |
+| MUT | 242 | Elektronik Ortam ve Müzik |
+| MUT | 253 | Prodüksiyon Analizi |
+| MUT | 267 | Stüdyo Akustiği |
+| MUT | 301 | Keman Yapımı II |
+| MUT | 302 | Viyola Yapımı |
+| MUT | 304 | Ney Yapımı |
+| MUT | 311 | Gitar Yapımı |
+| MUT | 313 | Çalgı Süsleme Sanatı |
+| MUT | 314 | Kaval Yapımı |
+| MUT | 323 | Yay Yapımı |
+| MUT | 324 | Mey Yapımı |
+| MUT | 334 | Zurna Yapımı |
+| MUT | 344 | Sipsi Yapımı |
+| MUT | 354 | Tulum Yapımı |
+| MUT | 361 | Çalgı Bilgisi I |
+| MUT | 363 | Serbest Proje Çalışması I |
+| MUT | 364 | Miskal Yapımı |
+| MUT | 368 | Çalgı Bilgisi II |
+| MUT | 371 | Çok Kanallı Miks |
+| MUT | 372 | Görüntü İçin Ses |
+| MUT | 376 | Tar Yapımı |
+| MUT | 381 | Remiks |
+| MUT | 384 | Elektro Akustik Kompozisyon |
+| MUT | 386 | Serbest Proje Çalışması II |
+| MUT | 388 | Müzik Tek. Tasarım&Geliştirme |
+| MUT | 401 | Viyolonsel Yapımı I |
+| MUT | 402 | Viyolonsel Yapımı II |
+| MUT | 403 | Bendir Yapımı |
+| MUT | 404 | Karadeniz Kemençesi Yap. |
+| MUT | 411 | Kanun Yapımı I |
+| MUT | 412 | Kanun Yapımı II |
+| MUT | 413 | Kudüm Yapımı |
+| MUT | 414 | Rebap Yapımı |
+| MUT | 423 | Davul Yapımı |
+| MUT | 433 | Def Yapımı |
+| MUT | 434 | Dombra Yapımı |
+| MUT | 436 | Piyano Bakım ve Onarım Bilgisi |
+| MUT | 441 | Mastering |
+| MUT | 443 | Nakkare Yapımı |
+| MUT | 444 | Çeng Yapımı |
+| MUT | 448 | Prodüksiyon Teknikleri |
+| MUT | 451 | Sahne Kayıt Teknikleri |
+| MUT | 452 | Bilgisayar Müziği |
+| MUT | 453 | Ksilofon Yapımı |
+| MUT | 454 | Santur Yapımı |
+| MUT | 461 | Canlı Ses Donatımı |
+| MUT | 463 | Serbest Proje Çalışması III |
+| MUT | 464 | Yaylı Tambur Yapımı |
+| MUT | 465 | Çalgı Restorasyonu |
+| MUT | 486 | Serbest Proje Çalışması IV |
+| MUT | 492 | Bitirme Çalışması |
+| MUZ | 222 | Müzik Paleografyası |
+| MUZ | 322 | Alan Araştırma Metodları |
+| MUZ | 341 | Seminer I |
+| MUZ | 342 | Seminer II |
+| MUZ | 441 | Seminer III |
+| MUZ | 442 | Seminer IV |
+| MUZ | 492 | Bitirme Çalışması |
+| PEM | 209E | Landform & Built Envir.Studio |
+| PEM | 212E | Landscape Design I |
+| PEM | 311E | Landscape Design II |
+| PEM | 312E | Landscape Design III |
+| PEM | 411E | Landscape Design IV |
+| PEM | 4902E | Graduation Project |
+| PEM | 492E | Graduation Project |
+| PET | 112 | Beden Eğitimi |
+| PET | 309E | Fluid and Rock Properties Lab. |
+| PET | 310E | Drilling and Completion Fluids Lab. |
+| PET | 321E | Petroleum and Natural Gas Lab |
+| PET | 322E | Drilling Laboratory |
+| PET | 4901E | Petroleum and Natural Gas Engineering Design I |
+| PET | 4902E | Petroleum and Natural Gas Engineering Design II |
+| PET | 492E | Graduation Project |
+| PHE | 101 | Physical Educaion |
+| PHY | 107L | Physics I Lab. |
+| PHY | 108L | Physics II Lab. |
+| RES | 101 | Teknik Resim |
+| RES | 102 | Bilg. Destekli Teknik Resim |
+| SBP | 207 | Proje III: Yöre Plan.&Tas. |
+| SBP | 207E | Project III: Site Plan.&Design |
+| SBP | 218 | Proje IV |
+| SBP | 218E | Project IV |
+| SBP | 311 | Proje V |
+| SBP | 311E | Project V |
+| SBP | 411 | Proje VII |
+| SBP | 411E | Project VII |
+| SBP | 4902 | Diploma Projesi |
+| SBP | 4902E | Graduation Project |
+| SES | 105 | Korrepetisyon I |
+| SES | 106 | Korrepetisyon II |
+| SES | 122 | Diksiyon |
+| SES | 131 | THM Repertuvarı I |
+| SES | 132 | THM Repertuvarı II |
+| SES | 133 | TSM Repertuvarı I |
+| SES | 134 | TSM Repertuvarı II |
+| SES | 209 | Korrepetisyon III |
+| SES | 210 | Korrepetisyon IV |
+| SES | 221 | Koro I (Kredisiz) |
+| SES | 222 | Koro II (Kredisiz) |
+| SES | 231 | Ağız ve Hançere Teknikleri I |
+| SES | 232 | Ağız ve Hançere Teknikleri II |
+| SES | 233 | Türk Halk Müziği Repert. III |
+| SES | 234 | THM Repertuvarı IV |
+| SES | 281 | 15.-17.Yüzyıl Türk Müziği Rep. |
+| SES | 282 | 18.yy Türk Müziği Repertuvarı |
+| SES | 283 | Türk Sanat Müziği Repert. III |
+| SES | 284 | TSM Repertuvarı IV |
+| SES | 301 | Türk Halk Müziği Repertuarı V |
+| SES | 302 | Türk Halk Müziği Repertuarı VI |
+| SES | 307 | Yöre Ağızları I |
+| SES | 308 | Yöre Ağızları II |
+| SES | 309 | Korrepetisyon V |
+| SES | 310 | Korrepetisyon VI |
+| SES | 313 | Dünya Vokal Teknikleri I |
+| SES | 314 | Dünya Vokal Teknikleri II |
+| SES | 321 | Koro III (Kredisiz) |
+| SES | 322 | Koro IV (Kredisiz) |
+| SES | 355 | Zeybek Repertuvarı |
+| SES | 356 | Hoyrat Repertuvarı |
+| SES | 357 | Karadeniz Ağzı Repertuvarı |
+| SES | 358 | Semah Repertuvarı |
+| SES | 359 | Deyiş Repertuvarı |
+| SES | 362 | Sözlü OyunHavaları Repertuvarı |
+| SES | 365 | Ses Fizyolojisine Giriş |
+| SES | 366 | Gurbet Havası Repertuvarı |
+| SES | 381 | 19.YY Türk Müziği Repertuarı |
+| SES | 382 | 20.YY Türk Müziği Repertuarı |
+| SES | 391 | Türk Sanat Müziği Repertuarı V |
+| SES | 392 | TSM Repertuarı VI |
+| SES | 401 | THM Repertuarı VII |
+| SES | 402 | THM Repertuarı VIII |
+| SES | 407 | Yöre Ağızları III |
+| SES | 408 | Yöre Ağızları IV |
+| SES | 409 | Korrepetisyon VII |
+| SES | 410 | Korrepetisyon VIII |
+| SES | 413 | Dünya Vokal Teknikleri III |
+| SES | 414 | Dünya Vokal Teknikleri IV |
+| SES | 417 | Fasıl I |
+| SES | 418 | Fasıl II |
+| SES | 421 | Koro V (Kredisiz) |
+| SES | 422 | Koro VI (Kredisiz) |
+| SES | 423 | Yrd. Repertuvar I (TSM) |
+| SES | 424 | Yrd. Repertuvar II (TSM) |
+| SES | 425 | Yrd. Repertuvar I (THM) |
+| SES | 426 | Yrd.Repertuvar II (THM) |
+| SES | 427 | Sahne Bilgisi ve Jest Mimik |
+| SES | 433 | Yrd. Repertuvar III (THM) |
+| SES | 434 | Yrd. Repertuvar IV (THM) |
+| SES | 435 | Yrd. Repertuvar III (TSM) |
+| SES | 436 | Yrd. Repertuvar IV (TSM) |
+| SES | 455 | Barak Ağzı Repertuvarı |
+| SES | 456 | Azerî Ağzı Repertuvarı |
+| SES | 457 | Aşık Repertuvarı |
+| SES | 458 | Divan Repertuvarı |
+| SES | 459 | Harput Ağzı Repertuvarı |
+| SES | 462 | Gazel Repertuvarı (THM) |
+| SES | 465 | Sahne Psikolojisi |
+| SES | 466 | Bozlak Ağzı Repertuvarı |
+| SES | 491 | TSM Repertuarı VII |
+| SES | 492 | Bitirme Çalışması |
+| SES | 494 | TSM Repertuarı VIII |
+| SNT | 102 | Fotoğraf |
+| SNT | 102E | Photography |
+| SNT | 103 | Desen |
+| SNT | 103E | Drawing |
+| SNT | 108 | Seramik |
+| SNT | 109 | Kazı Resim (Gravür) |
+| SNT | 111 | Moda Tasarımı ve Sanat |
+| SNT | 123 | Film Yapımı |
+| SNT | 123E | Film Production |
+| TDW | 102 | Technical Drawing |
+| TEK | 4901E | Textile Engineering Design I |
+| TEK | 4902E | Textile Engineering Design II |
+| TEK | 492E | Senior Design Project |
+| TES | 111E | Project I |
+| TES | 112E | Vis.Comm.I:Visualiz.&Tch.Drw. |
+| TES | 113E | Basic Design and Visual Arts |
+| TES | 121E | Project II |
+| TES | 122E | Vis.CommII:Visualization&Persp |
+| TES | 211E | Project III |
+| THO | 109 | Oyun Ritim Bilgisi I |
+| THO | 110 | Oyun Ritim Bilgisi II |
+| THO | 113 | Oyun Tekniği I |
+| THO | 114 | Oyun Tekniği II |
+| THO | 115 | Bale I |
+| THO | 116 | Bale II |
+| THO | 117 | Kondisyon Ve Esneme I (Krdsz) |
+| THO | 118 | Kondisyon Ve Esneme II(Krdsz) |
+| THO | 201 | Oyun Ritim Bilgisi III |
+| THO | 202 | Oyun Ritim Bilgisi IV |
+| THO | 203 | Türk Halk Oyunları I |
+| THO | 204 | Türk Halk Oyunları II |
+| THO | 205 | Oyunda Yöresel Tavırlar I |
+| THO | 206 | Oyunda Yöresel Tavırlar II |
+| THO | 207 | Oyun Repertuvarı I |
+| THO | 208 | Oyun Repertuvarı II |
+| THO | 303 | Türk Halk Oyunları III |
+| THO | 304 | Türk Halk Oyunları IV |
+| THO | 305 | Oyunda Yöresel Tavırlar III |
+| THO | 306 | Oyunda Yöresel Tavırlar IV |
+| THO | 307 | Oyun Repertuvarı III |
+| THO | 308 | Oyun Repertuvarı IV |
+| THO | 317 | Sahne Projesi I (Kredisiz) |
+| THO | 318 | Sahne Projesi II(Kredisiz) |
+| THO | 413 | Jest-Mimik |
+| THO | 417 | Sahne Projesi III(Kredisiz) |
+| THO | 418 | Sahne Projesi IV (Kredisiz) |
+| THO | 421 | Azeri Oyun Repertuvarı I |
+| THO | 422 | Azeri Oyun Repertuvarı II |
+| THO | 423 | Bar Oyun Repertuvarı I |
+| THO | 424 | Bar Oyun Repertuvarı II |
+| THO | 425 | Halay Oyun Repertuvarı I |
+| THO | 426 | Halay Oyun Repertuvarı II |
+| THO | 427 | Horon Oyun Repertuvarı I |
+| THO | 428 | Horon Oyun Repertuvarı II |
+| THO | 429 | Karşılama- Hora Oyun Rep. I |
+| THO | 430 | Karşılama- Hora Oyun Rep. II |
+| THO | 431 | Kaşıklı Oyunlar I |
+| THO | 432 | Kaşıklı Oyunlar II |
+| THO | 433 | Semah I |
+| THO | 434 | Semah II |
+| THO | 435 | Zeybek Oyun Repertuvarı I |
+| THO | 436 | Zeybek Oyun Repertuvarı II |
+| THO | 441 | Dans Terapi I |
+| THO | 442 | Dans Terapi II |
+| THO | 443 | Denge Performans I |
+| THO | 444 | Denge Performans II |
+| THO | 445 | Köy Seyirlik Oyunları I |
+| THO | 446 | Köy Seyirlik Oyunları II |
+| THO | 447 | Modern Dans I |
+| THO | 448 | Modern Dans II |
+| THO | 449 | Sahne Makyajı I |
+| THO | 450 | Sahne Makyajı II |
+| THO | 492 | Bitirme Çalışması |
+| UCK | 304 | Deneysel Mühendislik |
+| UCK | 304E | Experimental Engineering |
+| UCK | 328 | Yapısal Analiz ve Tasarım |
+| UCK | 328E | Structural Analysis and Design |
+| UCK | 424 | Uçak Tasarımının Temelleri II |
+| UCK | 424E | Princip. of Aircraft Design II |
+| UCK | 445 | Helikopter Tasarımı |
+| UCK | 445E | Rotorcraft Design |
+| UCK | 474 | Uçak Motor Tasarımı |
+| UCK | 474E | Aircraft Engine Design |
+| UCK | 4901 | Uçak Mühendisliği Tasarımı I |
+| UCK | 4901E | Uçak Mühendisliği Tasarımı I |
+| UCK | 4902 | Uçak Mühendisliği Tasarımı II |
+| UCK | 4902E | Uçak Mühendisliği Tasarımı II |
+| UCK | 492 | Bitirme Çalışması |
+| UCK | 492E | Graduation Project |
+| UZB | 104E | Astronaut. Eng.&Des. |
+| UZB | 106E | Int.Astronaut. Eng.&Des. |
+| UZB | 415E | Spacecraft Systems Design I |
+| UZB | 416E | Spacecraft Systems Design II |
+| UZB | 422E | Spacecraft Systems Design |
+| UZB | 4901E | Astronautical Eng. Design I |
+| UZB | 4902E | Astronautical Eng. Design II |
+| UZB | 492 | Bitirme Çalışması |
+| UZB | 492E | Graduation Project |

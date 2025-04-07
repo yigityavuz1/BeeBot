@@ -1,0 +1,33 @@
+**Title:** Hidrolik Laboratuvarı
+
+### A) Deney imkanları
+İTÜ Hidrolik Laboratuvarı, hidrolik, kıyı ve deniz mühendisliği çalışma konularına ait su yapılarının fiziksel modelleme uygulamalarını yürütmek için kurulmuştur. 
+
+**Deney İmkanları:**
+- **3 Boyutlu Sualtı Sarsma Tablası:** 1.5 x 1.5 x 1.2 m boyutlarında, 5 ton optimum, 15 ton maksimum kapasite.
+- **Dalga Baseni (1):** 25.0 × 30.0 × 0.7 m, iki dalga üreticisi.
+- **Dalga Baseni (2):** 25.0 × 25.0 × 0.6 m, düzenli dalga üreticisi ve 20 kW ısıtıcı.
+- **Dalga Kanalı (1):** 24 × 1 × 0.75 m, düzensiz dalga üreticisi.
+- **Dalga Kanalı (2):** 25.5 × 1 × 0.6 m, düzenli dalga üreticisi ve akım sirkülasyon sistemi.
+- **Dalga Kanalı (3):** 30 × 1 × 1.25 m, düzenli ve düzensiz dalga üreticisi.
+- **Geniş Dalga Kanalı:** 24 × 6 × 1.5 m, düzenli dalga üreticisi.
+- **Uzun Dalga Kanalı:** 120 × 2 × 2 m, bakımda.
+- **Tsunami Dalga Kanalı:** 24 × 0.6 × 0.5 m, solitary ve N-dalga üreticisi.
+- **Çeşitli Boyutlarda Eğim Verilebilen Akım Kanalları.**
+
+### B) Deney Enstrümanları (Ölçme aygıtları)
+- Nortek Vectrino II: Akustik Doppler Hız Profili ölçer
+- Nortek Vectrino: Akustik Doppler Hız ölçer
+- SONTEK ADV: Akustik Doppler Hız ölçer
+- Nortek AWACS: Dalga yüksekliği ve yönü ölçümleri
+- Andreea: Akustik Doppler Hız ölçer
+- Dantec Sabit Sıcaklık Anemometresi
+- Deltares OPCON: Optik Konsantrasyon Ölçer
+- HR Wallingford Dalga Monitörler
+- Kuvvet ölçerler
+- Gerilim ölçerler
+- Yük hücreleri
+- Basınç ölçerler
+- Tuzluluk ölçerler
+- Veri kaydediciler ve veri toplama sistemleri
+- Sualtı akustik kayıt sistemi

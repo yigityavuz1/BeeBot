@@ -1,0 +1,319 @@
+**Hassas Görevler ve Alınması Gereken Önlemler**
+
+1. **Akademik Takvim İşlemleri**
+   - **Personel:** Daire Başkanı, Şube Müdürü, Şef, Sistem Sorumluları
+   - **Risk Düzeyi:** Yüksek
+   - **Sonuçları:** Görevde aksaklıklar, mağduriyet riski, itibar kaybı
+   - **Önlemler:** Geçmiş yılın takvimi baz alınarak çalışma başlatılması, ilgili birimlerin önerilerinin alınması, resmi tatiller dikkate alınarak taslak oluşturulması, senato onayı ve duyurulması.
+
+2. **Bölüm/Program Açma İşlemleri**
+   - **Personel:** Daire Başkanı, Sekreter
+   - **Risk Düzeyi:** Yüksek
+   - **Sonuçları:** Cezai işlem, itibar kaybı, soruşturma
+   - **Önlemler:** Fakülte/enstitü kararları ile talebin bildirilmesi, senato ve YÖK onayı alınması.
+
+3. **Lisans Ders Planlarının Oluşturulması**
+   - **Personel:** Öğrenci Dekanı, Daire Başkanı, Sistem Sorumluları, Sekreter
+   - **Risk Düzeyi:** Yüksek
+   - **Sonuçları:** Mağduriyet, itibar kaybı
+   - **Önlemler:** Önerilerin ön incelemesi, senato onayı, planın duyurulması.
+
+4. **Öğrenci Kontenjanlarının Belirlenmesi**
+   - **Personel:** Daire Başkanı, Sekreter, Sistem Sorumlusu
+   - **Risk Düzeyi:** Yüksek
+   - **Sonuçları:** Mağduriyet, itibar kaybı
+   - **Önlemler:** Enstitülerden kontenjan istenmesi, senato onayı, ÖSYM sistemine girilmesi.
+
+5. **Yönetmelik/Yönerge Hazırlama**
+   - **Personel:** Daire Başkanı, Sekreter, İlgili Komisyon Üyeleri
+   - **Risk Düzeyi:** Yüksek
+   - **Sonuçları:** Mağduriyet, itibar kaybı
+   - **Önlemler:** YÖK kararları doğrultusunda taslak hazırlanması, senato onayı, resmi gazete ve web duyurusu.
+
+6. **Önkayıt Sisteminin Hazırlanması**
+   - **Personel:** Daire Başkanı, Sistem Sorumlusu
+   - **Risk Düzeyi:** Yüksek
+   - **Sonuçları:** Hak kaybı, mağduriyet
+   - **Önlemler:** Sistem tanımlamaları, başvuru tarihleri, belgelerin tanımlanması, test edilmesi.
+
+7. **Yurt Dışı Kontenjan Başvuru ve Kabul İşlemleri**
+   - **Personel:** Daire Başkanı, Memur, Sistem Sorumlusu
+   - **Risk Düzeyi:** Yüksek
+   - **Sonuçları:** Hak kaybı, mağduriyet
+   - **Önlemler:** Başvuru duyurusu, sistem üzerinden başvuru alınması, değerlendirme ve sonuçların duyurulması.
+
+8. **Yurt İçi ve Dışından Yatay Geçiş İşlemleri**
+   - **Personel:** Daire Başkanı, Memur, Sistem Sorumlusu
+   - **Risk Düzeyi:** Yüksek
+   - **Sonuçları:** Hak kaybı, mağduriyet
+   - **Önlemler:** Kontenjan ilanı, başvuru kontrolü, değerlendirme ve sonuçların duyurulması.
+
+9. **İTÜ İçi Yatay Geçiş, ÇAP ve Yandal İşlemleri**
+   - **Personel:** Daire Başkanı, Sistem Sorumluları, Memur
+   - **Risk Düzeyi:** Yüksek
+   - **Sonuçları:** Hak kaybı, mağduriyet
+   - **Önlemler:** Kontenjan belirlenmesi, başvuru duyurusu, yerleştirme işlemleri.
+
+10. **Merkezi Yerleştirme Puanıyla Yatay Geçiş İşlemleri**
+    - **Personel:** Daire Başkanı, Sistem Sorumluları, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Hak kaybı, mağduriyet
+    - **Önlemler:** Başvuru duyurusu, başvuru kontrolü, yerleştirme işlemleri.
+
+11. **Türk Musikisi Devlet Konservatuvarı Başvuru ve Kayıt İşlemleri**
+    - **Personel:** Daire Başkanı, Sistem Sorumlusu
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Hak kaybı, mağduriyet
+    - **Önlemler:** Başvuru duyurusu, sistem hazırlığı, sınav sonuçlarının girilmesi.
+
+12. **Moda Tasarımı ve Tekstil Geliştirme Başvuru ve Kayıt İşlemleri**
+    - **Personel:** Daire Başkanı, Sistem Sorumlusu
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Hak kaybı, mağduriyet
+    - **Önlemler:** Başvuru duyurusu, sistem hazırlığı, yerleştirme işlemleri.
+
+13. **İngilizce Yeterlilik Sınavı Başvuru İşlemleri**
+    - **Personel:** Daire Başkanı, Sistem Sorumlusu
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Hak kaybı, mağduriyet
+    - **Önlemler:** Sınav tarihleri ve ücret bilgileri, başvuru duyurusu, sınav yerlerinin belirlenmesi.
+
+14. **Lisans Programlarına Kesin Kayıt İşlemleri**
+    - **Personel:** Daire Başkanı, Şube Müdürü, Şefler, Sistem Sorumluları, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Hak kaybı, mağduriyet
+    - **Önlemler:** Kayıt hakkı kazanan öğrencilerin bilgileri, kayıt işlemleri, belgelerin alınması.
+
+15. **Lisansüstü Programlarına Başvuru ve Kayıt İşlemleri**
+    - **Personel:** Daire Başkanı, Sistem Sorumluları, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Hak kaybı, mağduriyet
+    - **Önlemler:** Başvuru duyurusu, sistem hazırlığı, değerlendirme ve sonuçların duyurulması.
+
+16. **Ders Programlarının Oluşturulması**
+    - **Personel:** Daire Başkanı, Sistem Sorumluları, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Hak kaybı, mağduriyet
+    - **Önlemler:** Ders programlarının istenmesi, sistemde işlenmesi, öğretim üyelerinin atanması.
+
+17. **SEK Gündeminin Oluşturulması ve Kararların Senatoya Gönderilmesi**
+    - **Personel:** Öğrenci Dekanı, Daire Başkanı, Sekreter
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Görevde aksaklıklar, itibar kaybı
+    - **Önlemler:** Kararların SEK ve senatoya gönderilmesi, onaylanan kararların bildirilmesi.
+
+18. **Üniversite Yönetim Kurulu ve Senato Kararları İşlemleri**
+    - **Personel:** Daire Başkanı, Şube Müdürü, Şef, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Görevde aksaklıklar, itibar kaybı
+    - **Önlemler:** Başvuruların ÜYK veya Senato'ya gönderilmesi, kararların bildirilmesi.
+
+19. **Öğrenci Katkı Payı ve Öğrenim Ücreti Tahsil Edilmesi**
+    - **Personel:** Daire Başkanı, Şube Müdürü, Sistem Sorumluları, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Maddi zarar, mağduriyet
+    - **Önlemler:** Ücretlerin tespiti, bankaya bildirilmesi, ödeme yapmayanlara engel konulması.
+
+20. **Lisans Ders Kayıt İşlemleri**
+    - **Personel:** Daire Başkanı, Şube Müdürleri, Şefler, Sistem Sorumluları, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, hak kaybı
+    - **Önlemler:** Kayıt kontrol tabloları, ders kayıt işlemleri, kontenjan düzenlemeleri.
+
+21. **Lisansüstü Ders Kayıt İşlemleri**
+    - **Personel:** Daire Başkanı, Şube Müdürleri, Şefler, Sistem Sorumluları, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, hak kaybı
+    - **Önlemler:** Kayıt kontrol tabloları, ders kayıt işlemleri, danışman atamaları.
+
+22. **Lisans Ders İntibak İşlemleri**
+    - **Personel:** Daire Başkanı, Sistem Sorumlusu, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, itibar kaybı
+    - **Önlemler:** İntibak işlemleri, komisyon kararları, raporların ilanı.
+
+23. **Kayıt Dondurma İşlemleri**
+    - **Personel:** Şube Müdürü, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, itibar kaybı
+    - **Önlemler:** Kararların işlenmesi, öğrenci bilgilendirilmesi.
+
+24. **Kayıt Silme İşlemleri**
+    - **Personel:** Daire Başkanı, Şef, Sistem Sorumlusu, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, itibar kaybı
+    - **Önlemler:** Dilekçe ile başvuru, yönetim kurulu kararı, kayıt silme işlemleri.
+
+25. **Disiplin Cezası Alan Öğrenci İşlemleri**
+    - **Personel:** Daire Başkanı, Şef, Sistem Sorumlusu, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, görevde aksaklıklar
+    - **Önlemler:** Disiplin formunun işlenmesi, öğrenciye bilgi verilmesi.
+
+26. **Final ve İki Ek Yarıyıl Sonu Sınav Programı Oluşturma İşlemleri**
+    - **Personel:** Öğrenci Dekanı, Daire Başkanı, Sistem Sorumlusu
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, itibar kaybı
+    - **Önlemler:** Sınav datasının oluşturulması, programın ilanı, sınavların gerçekleştirilmesi.
+
+27. **İki Ek Yarıyıl Sonu Sınav İşlemleri**
+    - **Personel:** Daire Başkanı, Sistem Sorumlusu
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, itibar kaybı
+    - **Önlemler:** Sınav hakkı duyurusu, sınav kayıtlarının yapılması, sonuçların işlenmesi.
+
+28. **Yarıyıl Sonu Notlarının Giriş ve Not Düzeltme İşlemleri**
+    - **Personel:** Daire Başkanı, Şef, Sistem Sorumluları, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, itibar kaybı
+    - **Önlemler:** Not girişleri, itirazların değerlendirilmesi, not değişikliklerinin işlenmesi.
+
+29. **Lisans Bitirme Esaslarına Uygunluk ve Denetim İşlemleri**
+    - **Personel:** Daire Başkanı, Sistem Sorumlusu, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, itibar kaybı
+    - **Önlemler:** Bitirme çalışması listeleri, mezuniyet raporları, denkliklerin incelenmesi.
+
+30. **ÖBS'de Dönem Kapama İşlemleri**
+    - **Personel:** Daire Başkanı, Sistem Sorumlusu
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, itibar kaybı
+    - **Önlemler:** Notların işlenmesi, dönem ve genel not ortalamalarının hesaplanması.
+
+31. **Lisans Mezuniyet İşlemleri**
+    - **Personel:** Daire Başkanı, Sistem Sorumluları, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, itibar kaybı
+    - **Önlemler:** Mezuniyet programı, eksikliklerin giderilmesi, mezun listelerinin bildirilmesi.
+
+32. **Dereceye Giren Lisans Mezunlarının Belirlenme İşlemi**
+    - **Personel:** Daire Başkanı, Sistem Sorumlusu
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, itibar kaybı
+    - **Önlemler:** Mezun listeleri, derece belirlemesi, transkriptlerin işlenmesi.
+
+33. **Lisansüstü Mezuniyet İşlemleri**
+    - **Personel:** Sistem Sorumlusu, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, itibar kaybı
+    - **Önlemler:** Mezuniyet kararlarının işlenmesi.
+
+34. **Diploma İşlemleri**
+    - **Personel:** Daire Başkanı, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, itibar kaybı
+    - **Önlemler:** Diploma numaralarının verilmesi, basılması, teslim edilmesi.
+
+35. **2.Nüsha Diploma (DUPLICAT) İşlemleri**
+    - **Personel:** Daire Başkanı, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Görevde aksaklıklar, itibar kaybı
+    - **Önlemler:** Gerekli belgelerle başvuru, yönetim kurulu kararı, diploma basılması.
+
+36. **Diploma Şerh İşlemleri**
+    - **Personel:** Daire Başkanı, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Görevde aksaklıklar, itibar kaybı
+    - **Önlemler:** Dilekçe ile başvuru, yönetim kurulu kararı, diploma şerhi.
+
+37. **Yaz Öğretimi Ders Kayıt İşlemleri**
+    - **Personel:** Daire Başkanı, Şube Müdürleri, Şefler, Sistem Sorumluları, Memurlar
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, hak kaybı
+    - **Önlemler:** Kayıt kontrol tabloları, ders programlarının işlenmesi, ücretlerin belirlenmesi.
+
+38. **Lisans Özel Öğrenci Kayıt İşlemleri**
+    - **Personel:** Daire Başkanı, Şube Müdürü, Şef, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Hak kaybı, görevde aksaklıklar
+    - **Önlemler:** Özel öğrenci numarası verilmesi, öğrenim ücreti ödemesi.
+
+39. **Gelen Değişim Öğrencileri İşlemleri**
+    - **Personel:** Daire Başkanı, Şef, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, görevde aksaklıklar
+    - **Önlemler:** Öğrenci numaralarının atanması, ders taleplerinin işlenmesi.
+
+40. **Giden Değişim Öğrencileri İşlemleri**
+    - **Personel:** Daire Başkanı, Şef, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, görevde aksaklıklar
+    - **Önlemler:** FYK kararlarının işlenmesi, derslerin transkriptlere işlenmesi.
+
+41. **YÖKSİS İle Entegrasyon ve Koordinasyon**
+    - **Personel:** Daire Başkanı, Sistem Sorumluları
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, görevde aksaklıklar
+    - **Önlemler:** Web servis verilerinin iletilmesi, veri güncellemeleri.
+
+42. **İstatistiksel Verilerin Hazırlanması**
+    - **Personel:** Daire Başkanı, Sistem Sorumluları
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, görevde aksaklıklar
+    - **Önlemler:** Veri taleplerinin değerlendirilmesi, verilerin hazırlanması.
+
+43. **Öğrenci Bilgi Sistemi (OBS) Erişimi ve Güvenliği**
+    - **Personel:** Daire Başkanı, Sistem Sorumluları
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, görevde aksaklıklar
+    - **Önlemler:** Güvenlik tedbirlerinin alınması, personelin bilinçlendirilmesi.
+
+44. **Askerlik İşlemleri**
+    - **Personel:** Daire Başkanı, Sistem Sorumlusu, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, görevde aksaklıklar
+    - **Önlemler:** Askerlik işlemlerinin YÖKSİS'e girilmesi.
+
+45. **Yabancı Uyruklu Öğrencilerin İkamet Tezkeresi İşlemleri**
+    - **Personel:** Daire Başkanı, Sistem Sorumlusu, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, görevde aksaklıklar
+    - **Önlemler:** İkamet izinlerinin alınması, dosyaların hazırlanması.
+
+46. **Kişi ve Kurumlara Bilgi/Belge Verilmesi İşlemi**
+    - **Personel:** Daire Başkanı, Şube Müdürleri, Şefler, Sistem Sorumluları, Memurlar
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, görevde aksaklıklar
+    - **Önlemler:** Bilgi taleplerinin değerlendirilmesi, belgelerin iletilmesi.
+
+47. **Gizli Yazıların Hazırlanması ve Güvenliği**
+    - **Personel:** Daire Başkanı, Şube Müdürleri, Memurlar
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Kamu zararı, cezai işlemler
+    - **Önlemler:** Gizli yazıların güvenliğinin sağlanması, personelin bilinçlendirilmesi.
+
+48. **Belgelerin Korunması ile İlgili İşlemler**
+    - **Personel:** Daire Başkanı, Şube Müdürleri, Şefler, Memurlar
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Hak kaybı, bilgiye ulaşılamaması
+    - **Önlemler:** Belgelerin korunması, ilgisiz kişilerin erişiminin engellenmesi.
+
+49. **Kurum İçi ve Dışı Yazışma İşlemleri**
+    - **Personel:** Daire Başkanı, Şube Müdürleri, Şefler, Memurlar
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Mağduriyet, görevde aksaklıklar
+    - **Önlemler:** Evrakların kayıt edilmesi, yazışmaların zamanında yapılması.
+
+50. **Birim E-posta İşlemleri**
+    - **Personel:** Daire Başkanı, Sistem Sorumlusu, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Görevde aksaklıklar, itibar kaybı
+    - **Önlemler:** E-postaların kontrolü, ilgili personele yönlendirilmesi.
+
+51. **Faaliyet Raporlarının Hazırlanması**
+    - **Personel:** Daire Başkanı, Şube Müdürü, Sistem Sorumlusu, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Görevde aksaklıklar, hataya sebebiyet verme
+    - **Önlemler:** Veri ve bilgilerin doğruluğunun kontrolü, raporların zamanında hazırlanması.
+
+52. **Taşınır Kayıt ve Kontrol İşlemleri**
+    - **Personel:** Harcama Yetkilisi, Taşınır Kontrol Yetkilisi, Taşınır Kayıt Yetkilisi
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Kamu zararı, idari soruşturma
+    - **Önlemler:** Taşınırların kontrolü, kayıtların düzenli tutulması.
+
+53. **Maaş Ödeme İşlemleri**
+    - **Personel:** Harcama Yetkilisi, Gerçekleştirme Görevlisi, Memur
+    - **Risk Düzeyi:** Yüksek
+    - **Sonuçları:** Görevde aksaklıklar, itibar kaybı
+    - **Önlemler:** Maaş değişikliklerinin işlenmesi, kontrollerin yapılması.

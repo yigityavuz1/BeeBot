@@ -1,0 +1,61 @@
+**Title: Ders İçerikleri**
+
+1. **Tanımlayıcı İstatistikler ve Olasılık Teorisi**
+   - Olasılık dağılımları, tahmin teorisi, hipotez testi, t dağılımı, ki-kare dağılımı, varyans analizi, regresyon (basit, çoklu, lojistik), korelasyon.
+
+2. **Gıda Güvenliği ve Kalite Yönetimi**
+   - Kalite yönetim sistemleri, HACCP, gıda güvenliği yönetim sistemleri, tehlike analizi, ulusal ve uluslararası standartlar.
+
+3. **Fermantasyon Teknolojisi**
+   - Mikroorganizmalar, mikrobiyal metabolizma, fermente gıdalar, gıda güvenliği.
+
+4. **Modelleme ve Sayısal Çözümleme**
+   - Sayısal türev, integral, diferansiyel denklemler, regresyon analizi, reaksiyon kinetiği.
+
+5. **Gıda Dayanıklılığı ve Kalite**
+   - Bozulma mekanizmaları, işleme ve muhafaza yöntemleri, taze ve işlenmiş gıdaların dayanıklılığı.
+
+6. **Yeni Gıda Ürünü Geliştirme**
+   - Fikir oluşturma, prototip tasarımı, ürün performans testleri, pazarlama stratejileri.
+
+7. **Besin Öğeleri ve Gıda İşleme**
+   - Gıda kompozisyonu, besinsel kalite değişimleri, pişirme teknikleri.
+
+8. **Toksikoloji**
+   - Toksisite terimleri, gıda kirleticileri, gıda alerjileri, genetik modifikasyon.
+
+9. **Mikroorganizmalar ve Gıda İlişkisi**
+   - İstenmeyen etkiler, probiyotikler, mikrobiyal gelişmenin önlenmesi.
+
+10. **Yeni Gıda İşleme Teknikleri**
+    - Gama ışınlama, UV ışınlama, aktif ve akıllı ambalajlama.
+
+11. **Süt Teknolojisi**
+    - Sütün bileşenleri, yeni teknolojiler, süt ürünlerinin işlenmesi.
+
+12. **Duyusal Analiz**
+    - Duyusal özelliklerin değerlendirilmesi, tüketici tercihleri.
+
+13. **Gıda Atıkları ve Sürdürülebilirlik**
+    - Atık kaynakları, gıda atıklarından elde edilen bileşenler.
+
+14. **Enkapsülasyon**
+    - Enkapsülasyon teknikleri, taşıyıcı malzemeler, kontrollü salım.
+
+15. **Deney Tasarımı**
+    - Gıda araştırmalarında deney tasarımı ve istatistiksel analiz.
+
+16. **Yağ Sanayi**
+    - Yağların kimyasal yapıları, işleme yöntemleri, kalite kriterleri.
+
+17. **Gıda Kaynaklı Patojenler**
+    - Patojen mikroorganizmalar, virüsler, parazitler, yeni muhafaza yöntemleri.
+
+18. **Fonksiyonel Gıdalar**
+    - Sınıflandırma, sağlık ile ilişkileri, yasal düzenlemeler.
+
+19. **Mikotoksinler**
+    - Mikotoksinlerin kontrolü ve analizi.
+
+20. **Biyoaktif Bileşenler**
+    - Sınıflandırma, kaynaklar, gıda uygulamaları.

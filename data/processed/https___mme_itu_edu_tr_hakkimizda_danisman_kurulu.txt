@@ -1,0 +1,72 @@
+**Title: Danışman Kurulu**
+
+**Members:**
+1. **Bülent YILDIRIM**
+   - **Institution:** Diler Holding, Asil Çelik
+   - **Role:** Fabrika Müdürü, Asil Çelik Yönetim Kurulu Üyesi
+   - **Sector:** Çelik üretim
+
+2. **Mustafa Gökhan ALPER**
+   - **Institution:** Assan Aluminyum
+   - **Role:** Dökümhane ve Geri Dönüşüm Direktörü
+   - **Sector:** Aluminyum
+
+3. **Kadir BALLI**
+   - **Institution:** Şişecam
+   - **Role:** Kıdemli Üretim Direktörü
+   - **Sector:** Cam
+
+4. **Serdar Ali EROL**
+   - **Institution:** AVEKS İç ve Dış Ticaret A.Ş.
+   - **Role:** Kurucu Üye
+   - **Sector:** Satış-pazarlama
+
+5. **Hüseyin SAVAŞ**
+   - **Institution:** TMMOB, METEM
+   - **Role:** Yürütme Kurulu Üyesi
+   - **Sector:** Oda/eğitim
+
+6. **Bülent ŞİRİN**
+   - **Institution:** Döktaş A.Ş.
+   - **Role:** Ar-Ge Müdürü
+   - **Sector:** Döküm
+
+7. **Gürbüz GÜZEY**
+   - **Institution:** Parsan A.Ş., Omtaş A.Ş.
+   - **Role:** Mühendislik Direktörü
+   - **Sector:** Çelik şekillendirme
+
+8. **Andaç BİRİŞÇİ**
+   - **Institution:** UK CARES
+   - **Role:** Sertifika/Denetim Uzmanı
+   - **Sector:** Sertifikalandırma
+
+9. **Alper YEŞİLÇUBUK**
+   - **Institution:** Arçelik
+   - **Role:** Teknoloji Lideri
+   - **Sector:** Beyaz Eşya
+
+10. **Oğuz GÜNDÜZ**
+    - **Institution:** Erdemir
+    - **Role:** Ar-Ge Müdürü
+    - **Sector:** Demir-Çelik Üretim
+
+11. **Ülfet Köklü**
+    - **Institution:** Ant Kalıp San. ve Tic. A.Ş.
+    - **Role:** Kalite Yöneticisi
+    - **Sector:** Kalıp İmalat ve Ticaret
+
+12. **Demet Tatar**
+    - **Institution:** Crimson Data Analytics, LLC
+    - **Role:** Şirket Kurucusu
+    - **Sector:** Veri Analizi
+
+13. **Nazım Narçin**
+    - **Institution:** Valeo Otomotiv Sanayi
+    - **Role:** Laboratuvar Müdürü
+    - **Sector:** Otomotiv
+
+**Contact Information:**
+- **Phone:** +90 (212) 285 33 81
+- **Fax:** +90 (212) 285
+- **Address:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

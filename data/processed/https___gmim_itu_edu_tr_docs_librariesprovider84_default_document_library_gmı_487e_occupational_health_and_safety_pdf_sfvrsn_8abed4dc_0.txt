@@ -1,0 +1,42 @@
+**Course Name:** Occupational Health and Safety  
+**Course Code:** GMI 487E  
+**Semester:** 7-8  
+**Local Credits:** 2  
+**ECTS Credits:** 4  
+**Course Language:** English  
+**Course Type:** Elective  
+**Prerequisites:** None  
+
+**Course Description:**  
+Requirements of occupational health and safety, OHSAS 18001, Occupational Health and Safety Management System, procedures, instructions, emergency response plans, workflow charts, regulations on workplace, OHSAS 18001 applications in the maritime sector, and risk assessment.
+
+**Course Objectives:**  
+1. To teach OHSAS 18001 and Occupational Health and Safety Management System.  
+2. To teach applications of Occupational Health and Safety Management System in the Maritime Sector.
+
+**Course Learning Outcomes:**  
+Students who pass the course will be able to:  
+I. Understand the requirements of occupational health and safety.  
+II. Understand the requirements of OHSAS 18001.  
+III. Understand Occupational Health and Safety Management System and their applications.  
+IV. Understand the audits of Occupational Health and Safety Management System.  
+V. Understand the relations of ISO 9001 and ISO 14001.
+
+**Course Plan:**  
+1. Occupational health and safety  
+2. Requirements of OHSAS 18001  
+3. Procedures, instructions, emergency response plans, workflow charts  
+4. Regulations on workplace and mandatory applications  
+5. OHSAS 18001 applications in maritime sector  
+6. Audits of Occupational Health and Safety Management System  
+7. OHSAS 18001 and ISO 14001  
+8. OHSAS 18001 and ISO 9001  
+
+**Textbook:**  
+Norm Keith, Cathy Chandler, *A Practical Guide to Occupational Health and Safety Compliance in Ontario*, Fourth Edition, 2014.
+
+**Assessment Criteria:**  
+- Midterm Exams: 25%  
+- Homework: 15%  
+- Other Activities: 10%  
+- Final Exam: 50%  

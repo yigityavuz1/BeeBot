@@ -1,0 +1,69 @@
+**Title:** Hochschule Düsseldorf Üniversitesi
+
+**Courses Offered:**
+
+1. **Advanced English for Engineers**  
+   - Course Code: 40291  
+   - Semester: 8th Semester  
+   - Type: Selective (ITB) (2023)
+
+2. **Computational Fluid Dynamics / CFD Practical Training**  
+   - Course Codes: 11301, 11302  
+   - Semester: 8th Semester  
+   - Type: Selective (MT) (2023)
+
+3. **Advanced Special Topics of Physics**  
+   - Course Code: 60341  
+   - Semester: 5th Semester  
+   - Type: Selective (TB) (2023)
+
+4. **Computer-Based Measurement Technology**  
+   - Course Code: 11201, 11202  
+   - Semester: Not specified  
+   - Type: Measurement Technique (2023)
+
+5. **Heat Transfer**  
+   - Course Code: 11021  
+   - Semester: Not specified  
+   - Type: Heat Transfer (2023)
+
+6. **Technical Combustion**  
+   - Course Code: 21021  
+   - Semester: 7th Semester  
+   - Type: Selective (TM) (2023)
+
+7. **Machine Learning**  
+   - Course Code: 60631  
+   - Semester: 7th Semester  
+   - Type: Selective (TM) (2023)
+
+8. **Spanisch**  
+   - Course Code: 60461  
+   - Semester: 8th Semester  
+   - Type: Selective (ITB) (2023)
+
+9. **Finite Element Method / FEM Practical Training**  
+   - Course Codes: 12101, 12102  
+   - Semester: 6th Semester  
+   - Type: Selective (TM) (2023)
+
+10. **Simulation of Mechanical Systems / SoMS Practical Training**  
+    - Course Codes: 120001, 120002  
+    - Semester: 6th Semester  
+    - Type: Selective (TM) (2023)
+
+11. **Software Lab**  
+    - Course Code: 40221  
+    - Semester: 7th Semester  
+    - Type: Selective (TM) (2023)
+
+12. **Control Theory**  
+    - Course Code: 40041  
+    - Semester: 7th Semester  
+    - Type: Selective (MT) (2023)
+
+**Contact Information:**
+
+- **Phone:** +90 (212) 285 31 01  
+- **Fax:** +90 (212) 285 31 39  
+- **Address:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

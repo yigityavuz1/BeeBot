@@ -1,0 +1,65 @@
+### Erasmus+ Bölüm/Program Koordinatörler Listesi
+
+#### BİLGİSAYAR ve BİLİŞİM FAKÜLTESİ
+- **Bilgisayar Mühendisliği**: Doç. Feza Buzluca
+- **Yapay Zeka ve Veri Mühendisliği**: Doç. Dr. Nazım Kemal Üre
+
+#### DENİZCİLİK FAKÜLTESİ
+- **Deniz Ulaştırma İşletme Mühendisliği**: Doç. Dr. Tanzer Satır
+- **Gemi Makineleri İşletme Mühendisliği**: Dr. Öğr. Ü. Gazi Koçak, Dr. Öğr. Ü. Kadir Çiçek
+- **Temel Bilimler**: Doç. Dr. Pelin Bolat
+
+#### ELEKTRİK ELEKTRONİK FAKÜLTESİ
+- **Elektrik Mühendisliği**: Dr. Öğr. Ü. Duygu Bayram Kara, Doç. Dr. Ramazan Çağlar
+- **Elektronik ve Haberleşme Mühendisliği**: Dr. Öğr. Ü. Semih Tedik Başaran, Dr. Öğr. Ü. Ertuğrul Güvenkaya
+- **Kontrol ve Otomasyon Mühendisliği**: Doç. Dr. Tufan Kumbasar, Doç. Dr. Volkan Sezer
+
+#### FEN - EDEBİYAT FAKÜLTESİ
+- **Fizik Mühendisliği**: Prof. Dr. Mehmet Kerim Ramazanoğlu, Doç. Dr. Cem Özgür Servantie
+- **Kimya**: Doç. Dr. Barış Yücel, Dr. Öğr. Ü. Onur Alptürk
+- **Matematik Mühendisliği**: Prof. Dr. Seher Melike Aydoğan
+- **Moleküler Biyoloji ve Genetik**: Doç. Dr. Aslı Kumbasar, Prof. Dr. Arzu Karabay Korkmaz
+
+#### GEMİ İNŞAATI ve DENİZ BİLİMLERİ FAKÜLTESİ
+- **Gemi ve Deniz Teknolojisi Mühendisliği**: Dr. Öğr. Ü. Deniz Bayraktar Bural
+- **Gemi İnşaatı ve Gemi Makinaları Mühendisliği**: Dr. Öğr. Ü. Mustafa Erden Yıldızdağ
+
+#### İNŞAAT FAKÜLTESİ
+- **Çevre Mühendisliği**: Dr. Öğr. Ü. Habibullah Uzun, Dr. Öğr. Ü. Bahar Yavuztürk Gül, Araş. Gör. Seda Nur Türköz
+- **Geomatik Mühendisliği**: Prof. Dr. Hande Demirel, Doç. Dr. Mahmut Oğuz Selbesoğlu, Doç. Dr. Ahmet Özgür Doğru
+- **İnşaat Mühendisliği**: Doç. Dr. Osman Bulut
+
+#### İŞLETME FAKÜLTESİ
+- **Ekonomi**: Dr. Öğr. Ü. Shourjo Chakravorty
+- **Endüstri Mühendisliği**: Dr. Öğr. Ü. Mehmet Yasin Ulukuş
+- **İşletme Mühendisliği**: Öğr. Gör. Dr. İdil Vedia Evcimen, Dr. Öğr. Üyesi Saeed Tasouji Hassanpour, Ar. Gör. Aziz Kemal Konyalıoğlu
+
+#### KİMYA - METALURJİ FAKÜLTESİ
+- **Gıda Mühendisliği**: Dr. Öğr. Ü. Kadriye Nur Kasapoğlu, Prof. Dr. Pervin Başaran Akocak
+- **Kimya Mühendisliği**: Prof. Dr. Devrim Barış Kaymak, Dr. Öğr. Ü. Elif Öztürk Er
+- **Metalurji ve Malzeme Mühendisliği**: Dr. Öğr. Ü. Faiz Muhaffel
+
+#### MADEN FAKÜLTESİ
+- **Cevher Hazırlama Mühendisliği**: Prof. Dr. Orhan ÖZDEMİR
+- **Jeofizik Mühendisliği**: Dr. Öğr. Ü. Caner İmren
+- **Jeoloji Mühendisliği**: Prof. Dr. Nurgül Çelik Balcı, Prof. Dr. Emin ÇİFTÇİ, Dr. Öğr. Gör. Ş. Özge GÖĞÜŞ
+- **Maden Mühendisliği**: Doç. Dr. Cüneyt Atilla Öztürk
+- **Petrol ve Doğal Gaz Mühendisliği**: Prof. Dr. Gürşat Altun
+
+#### MAKİNA MÜHENDİSLİĞİ
+- **Makina Mühendisliği**: Prof. Dr. Emin Sünbüloğlu
+
+#### MİMARLIK FAKÜLTESİ
+- **Endüstriyel Tasarım**: Dr. Öğr. Ü. Cem Alppay
+- **İç Mimarlık**: Doç. Dr. Banu Garip
+- **Mimarlık**: Doç. Dr. Sema Alaçam, Doç. Dr. Gülten Manioğlu, Dr. Öğr. Ü. Umut Almaç
+- **Peyzaj Mimarlığı**: Doç. Dr. Nilay Özlü Karaca, Dr. Öğr. Ü. Ikhwan Kim, Araş. Gör. Lal Dalay
+- **Şehir ve Bölge Planlama**: Doç. Dr. Zeynep Günay, Doç. Dr. Eda Yücesoy, Doç. Dr. Gülden Demet Oruç
+
+#### TEKSTİL TEKNOLOJİLERİ ve TASARIMI FAKÜLTESİ
+- **Tekstil Mühendisliği**: Doç. Dr. İkilem Göcek
+
+#### UÇAK ve UZAY BİLİMLERİ FAKÜLTESİ
+- **Meteoroloji Mühendisliği**: Prof. Dr. Zerefşan Kaymaz
+- **Uçak Mühendisliği**: Dr. Öğr. Ü. Oğuzcan İnal
+- **Uzay Mühendisliği**: Doç. Dr. Seher Eken

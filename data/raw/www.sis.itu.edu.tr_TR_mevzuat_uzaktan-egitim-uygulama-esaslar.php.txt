@@ -1,0 +1,67 @@
+Title: İTÜ | ÖİDB
+
+URL Source: https://www.sis.itu.edu.tr/TR/mevzuat/uzaktan-egitim-uygulama-esaslar.php
+
+Markdown Content:
+| İSTANBUL TEKNİK ÜNİVERSİTESİ  
+UZAKTAN EĞİTİM İÇİN UYGULAMA ESAS VE USULLERİ
+
+BÖLÜM I
+
+Amaç, Kapsam ve Tanımlar
+
+**Madde 1 -** Bu düzenlemenin amacı, İstanbul Teknik Üniversitesinde, lisans ve lisansüstü (birinci ve ikinci öğretimde) düzeyinde uzaktan eğitimle yürütülecek programlar açılması ve örgün eğitim programlarındaki bazı derslerin uzaktan öğretim yöntemiyle verilmesine ve derslerdeki ölçme ve değerlendirmeye ilişkin usul ve esasları belirlemektir.
+
+**Madde 2 -** Bu usul ve esaslar İstanbul Teknik Üniversitesinde uzaktan iletişim teknolojileri ile ders verilecek olan lisans ve lisansüstü programlarının yürütülmesine, örgün öğretim (birinci ve ikinci öğretim) programlarındaki bazı derslerin uzaktan iletişim teknolojileri ile verilmesine, uzaktan eğitim platformlarının kullanılmasına, ders materyallerinin hazırlanmasına, ders ölçme ve değerlendirmelerinin yapılmasına ilişkin konuları kapsar.
+
+**Madde 3-** Bu usul ve esaslar 2547 sayılı Yükseköğretim Kanunu'nun 44 üncü ve 46 ncı maddelerine ve Yükseköğretim Kurumlarında Uzaktan Öğretime İlişkin Usul ve Esaslarına dayanılarak hazırlanmıştır.
+
+BÖLÜM II
+
+Uzaktan Eğitime ilişkin Temel Esaslar
+
+**Madde 4 -** Uzaktan eğitimle yürütülecek programların açılması, yürütülmesi, gelir elde edilmesi ve diğer mali konularda Yükseköğretim Kurumlarında Uzaktan Öğretime İlişkin Usul ve Esaslar uygulanır.
+
+**Madde 5 -** Örgün eğitimle yürütülen lisans programlarındaki bazı derslerin veya bir dersin toplam saati/müfredatının % 40'ını aşmayacak şekilde belli bir kısmının uzaktan eğitim yöntemi ile verilmesi bölüm başkanlığının önerisi ve fakülte kurulunun onayından sonra senato kararı ile kabul edilir.
+
+Örgün eğitimle yürütülen lisansüstü programlarındaki bazı derslerin veya bir dersin toplam saati/müfredatının % 40'ını aşmayacak şekilde belli bir kısmının uzaktan eğitim yöntemi ile verilmesi anabilim dalı başkanlığının önerisi ve enstitü kurulu onayından sonra senato kararı ile kabul edilir.
+
+Uzaktan öğretim yoluyla verilecek dersler internet üzerinden senkron (eşzamanlı) ve Rektörlüğün belirleyeceği istisnai hallerde asenkron (farklı zamanlı) olacak şekilde üniversitenin onay verdiği çevrimiçi platformlar aracılığıyla ve bizzat öğretim elemanı tarafından verilir. Laboratuvar dersleri senkron veya asenkron olarak yürütülür. Laboratuvar derslerinin ne şekilde yürütüleceğine bölüm başkanlıkları karar verir. Öğretim üyelerinin platformlar dışında ders veya sınav yapılması talebi, gerekçesi ile birlikte Rektörlük makamına iletildiği takdirde Rektörlük bu özel durumlar için onay verebilir.
+
+Uzaktan öğretim yoluyla yürütülen programların sınavları veya örgün eğitim içinde uzaktan verilmesi uygun görülen derslerin sınavları yüzyüze veya elektronik ortamda gerçekleştirilebilir.
+
+BÖLÜM III
+
+**Uzaktan Eğitim ile Verilecek Derslerin Yürütülmesi Esasları**
+
+**Madde 6-** Örgün eğitim programlarında lisans ve lisansüstü eğitimde bölüm/programlar için açılan derslerin en az %10 ve en fazla % 40'ı ilgili kurulların onayı alınarak uzaktan eğitim yoluyla verilebilir. Her bir ders özelinde ise o dersin toplam ders saatinin % 40'ı aşılmamak üzere bir kısmı uzaktan öğretim ile verilebilir.
+
+**Madde 7-** Örgün eğitimde uzaktan eğitim ile açılan bir dersin her şube (CRN) başına öğrenci sayısı; lisans programında 200, yüksek lisans programında ise 100 öğrenci ile sınırlıdır. Derse kaydolamamış öğrencilerden mezuniyet durumunda olanların talebi üzerine bu kontenjanlar fakülte yönetim kurulu kararı ile arttırılabilir.
+
+**Madde 8-**Öğretim elemanı ders içeriğini öğrenciye dersin niteliği elverdiği ölçüde öğrenci ile etkileşim içinde olacak şekilde aktarır.
+
+**Madde 9-** (Değişik: Üniversite Senatosu 03/12/2020 - 755) Uzaktan eğitim ile verilen derslerin içeriği, örgün eğitim yoluyla verilen derslerle birebir aynıdır. Dersin içeriğinin öğrenciye çevrimiçi platformda daha iyi aktarılması amacıyla öğretim elemanı, dersin niteliğine uygun görsel materyallerden, videolardan ve yazılımlardan yararlanır.
+
+Dersi yürütmekle görevli öğretim üyesi veya görevlisi, ders anlatımının tamamını kayıt altına alır. Kaydedilen ders videoları, Ninova e-öğrenme platformunda ders sonrasında öğrencilerin izleyebilmeleri için erişime açık tutulur.
+
+**Madde 10-** Uzaktan eğitim derslerine kayıtlı öğrenciler, derse devama ilişkin olarak İTÜ Lisans ve Lisansüstü Eğitim Öğretim Yönetmeliklerinde yer alan düzenlemelere tabidir. Ders devam koşulu için gereken faaliyetler ilgili öğretim üyesi tarafından belirlenir ve eğitim dönemi başında öğrencilere duyurulur.
+
+BÖLÜM IV
+
+**Uzaktan Eğitim İçin Ölçme ve Değerlendirme Esasları**
+
+**Madde 11-** Örgün eğitim içinde uzaktan ile yürütülen derslerin yıliçi değerlendirme sınavları yüzyüze veya elektronik ortamda, final sınavı ise yüzyüze gerçekleştirilir. Tamamen uzaktan öğretim ile yürütülen programların gerek yıliçi değerlendirme gerekse final sınavları online gerçekleştirilir. Pandemi döneminde bu hüküm uygulanmaz.
+
+**Madde 12-** Öğretim platformu üzerinden yapılacak sınavlarda öğrencilerden kameralarını açmaları suretiyle kimlik ibrazı istenir.
+
+**Madde 13-** Uzaktan eğitimde bir dersteki başarının ölçülmesinde o derse ait yarıyıl içi çalışmaları ile yarıyıl sonu sınavlarında sağlanan başarı dikkate alınır. Yarıyıl sonu sınavının başarı notuna katkısı %20'den az, %40'dan fazla olamaz. Yarıyıl içi çalışmalar ödev, proje, sunum, sözlü sınav, ucu açık/evde sınav, açık kaynak sınav, kısa sınav (quiz), derse devam gibi farklı yöntemlerle değerlendirilebilir. Dersin niteliğinin uygun olması koşuluyla bu sayılan yöntemlerinden en az ikisi toplam yarıyıliçi başarısının değerlendirmesi için baz alınır. Yarıyıl içi değerlendirme kriteri olarak derse devam yılsonu toplam başarının en fazla %10'u kadar dikkate alınabilir.
+
+**Madde 14-** Aynı bölüm/program/ koordinatörlük tarafından paralel şubeler halinde verilen bir ders için aynı sınav tipi uygulanır. İlgili bölüm/ program/ koordinatör başkanlıkları gerekli koordinasyonu sağlar. Dersin öğretim elemanı, sınavda uygulayacağı sınav tipini, en geç öğretimin son ders haftasında öğrencilere e-öğretim platformu üzerinden bildirir.
+
+**Madde 15-** Teknik aksaklıklar nedeniyle online sınavların tamamlanamaması halinde öğrenci mazeret sınavı hakkını fakülte yönetim kurulu onayıyla kullanır. Öğrencinin tek bir mazeret sınavı hakkı vardır.
+
+**Madde 16-** Engelli öğrencilerin uzaktan eğitimde fırsat eşitliğinin sağlanması ve sınavlara katılmaları konusunda Yüksek Öğretim Kurumunun 07 Mayıs 2020 tarihli "Engelli Öğrencilere Yönelik Uzaktan Eğitimde Dikkat Edilmesi Gereken Hususları İçeren" kararı çerçevesinde ilgili akademik birimler gerekli tedbirleri alırlar.
+
+**Madde 17-** Bu esaslar İTÜ Senatosunun 14.05.2020 tarih ve 734 sayılı kararı ile yürürlüğe giren İstanbul Teknik Üniversitesi Çevrimiçi (Online) ve Çevrimdışı (Offline) Sınav Uygulaması Esaslarını yürürlükten kaldırır. Bu esaslar ilan edildiği tarihten itibaren yürürlüğe girer ve İTÜ Rektörlüğü tarafından yürütülür.
+
+ |

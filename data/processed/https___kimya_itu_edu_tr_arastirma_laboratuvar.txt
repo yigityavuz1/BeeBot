@@ -1,0 +1,41 @@
+**NMR Laboratuvarı**
+
+**Teknik Özellikler:**
+- **Model:** Agilent VNMRS 500 MHz Nükleer Manyetik Rezonans Spektrometresi
+- **Mıknatıs:** Magnex tipi sıvı helyum ve sıvı azot soğutmalı 11.74 Tesla gücünde süper iletken mıknatıs.
+- **Probe:** 2 RF kanallı, 1H, 19F, 13C, 31P çekirdekleri doğrudan gözlenebilir. Sıcaklık aralığı: -80 °C ile +130 °C.
+
+**İletişim:** vnmr@itu.edu.tr
+
+**NMR Analiz İstatistikleri:**
+- Toplam NMR analizi (Son 1 yıl): 25.923
+- Son 1 ayda yapılan NMR analizi: 3.270
+
+**NMR Analiz Kuralları:**
+- NMR numunesi vermeden önce kimya bölümü otomasyon sayfasına giderek NMR talebinde bulunulmalıdır. 
+- Numune kodu alınmadan getirilen örnekler kabul edilmeyecektir.
+- NMR tüpleri doğru şekilde etiketlenmelidir.
+- Standartlara uymayan tüpler kabul edilmeyecektir.
+- Yarım saati aşan tarama gerektiren numuneler gün içerisinde çekilmeyecektir.
+- 11B, 29Si gibi çekirdekler için önceden randevu alınmalıdır.
+- 2D NMR deneyleri için standart tanımlı parametreler kullanılacaktır.
+- Düşük madde miktarı ve uzun tarama gerektiren numuneler için önceden randevu alınmalıdır.
+
+**Örnek Hazırlama:**
+- Yeterli miktarda madde ve döteryum solvent kullanılmalıdır.
+- 1H-NMR için 10 mg madde, 0.6-0.75 mL döteryumlu çözücüde çözülmelidir.
+- Çözünmeden kalan katı parçacıklar süzülmelidir.
+- NMR numunesi 6 cm yüksekliğinde olmalıdır.
+- Kromik asit kullanılmamalıdır; uygun solventlerle temizlenmelidir.
+
+**NMR Sistemine Kayıt Olunması:**
+- Öğretim üyeleri ve araştırma görevlileri kayıt olmaksızın NMR talebinde bulunabilirler.
+- Doktora ve yüksek lisans öğrencileri hesap açtırmak için Abdullah Aydoğan'a e-posta göndermelidir.
+
+**NMR Sonuçlarının Alınması:**
+- NMR sonuçları çıktı olarak verilmeyecek; kullanıcılar sonuçları belirtilen adreslerden indirecektir.
+
+**İletişim Bilgileri:**
+- **Telefon:** (212) 285 3233
+- **Fax:** (212) 285 6386
+- **Adres:** İTÜ Fen Edebiyat Fakültesi Kimya Bölümü, Maslak 34469, İstanbul

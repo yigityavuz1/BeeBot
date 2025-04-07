@@ -1,0 +1,59 @@
+**Yüksek Lisans Tamamlanmış Tezleri**
+
+**2020**
+- Berrak Uzun: Kuantum bilgisayarlarda polinom interpolasyonu ile anahtar dağıtımı
+- Esmanur Yıldız: Sigara içenler, elektronik sigara içenler ve sigarayı bırakanlar arasındaki etkileşime yönelik bir dinamik sistemler yaklaşımı
+- Miray Alın: Kırım-Kongo kanamalı ateşinin matematiksel kararlılık analizi
+- Yasemin Çalış: Gecikmeli bir dinamik sistemin kararlılık analizi ve Hopf çatallanması
+- Yasin Hasanoğlu: Yüksek mertebeli Boussinesq denkleminin grup sınıflandırması
+
+**2019**
+- Aslıhan Akpınar: Biyometrik verilerin polinom interpolasyonu ile saklanması
+- Ayşe Buse Uzuner: Rosenau-Korteweg-de Vries - Düzgünleştirilmiş uzun dalga denklemleri için Fourier spektral yöntemi
+- Berivan Arı: Lineer olmayan stokastik diferansiyel denklemler için yarı-kapalı bölünmüş-adım metotlarının bazı zayıf yakınsaklık analiz sonuçları
+- Burcu Meral: SVM, NB ve KNN kullanımı ile göğüs kanseri veri sınıflandırması
+- Burcu Şansan: Cisim genişlemeleri ve origami çizimleri
+- Canan Simge Tokatlı: Üçüncü mertebeden dispersiyon içeren kübik nonlineer Schrödinger denkleminin soliton tipi çözümleri
+- Ceylan Demir: Hibrit modeli ile topluluk temelli öznitelik seçimi
+- Elif Altunok: Makine öğrenmesi için doğrusal cebirsel yöntemler
+- Handenur Esen: PT-simetrik bir potansiyel içeren yüksek mertebeden dispersif kübik-kuintik nonlineer Schrödinger denkleminin soliton tipi kesin çözümleri
+- İbrahim Halil Kılıç: Türkiye'deki dört büyük deprem veri setine üç boyutta spline interpolasyon yöntemlerinin uygulanması
+- Kerem Kabil: Makine öğrenmesinde ayrık öbekleme ve sınıflandırma algoritmaları
+- Kübra Karacan: Yüksek boyutlu model gösterilimi yöntemi ile dijital mamogramlarda meme kanseri tanısı
+- Merve Kurt: Optik potansiyeller altında Raman etkili solitonlar
+- Özgün Seymen Uzun: Finansal verilerin öngörüsü için yeni bir model
+- Zehra Hafızoğlu Gökdağ: Genelleştirilmiş Ricci rekürant Riemann ve Weyl manifoldları
+
+**2018**
+- Ayşegül Karcılı: Yüksek boyutlu model gösterilimi ile görüntü kümeleme ve görüntü erişimi
+- Burak Güler: Genetik algoritma kullanarak uçak park yeri optimizasyonu
+- Duygu Coşgun: Bölümleme algoritmaları ile veri tekilleştirme
+- Gürkan Şasi: Üç boyutlu Galile uzayında öteleme ve factorable yüzeylerin sınıflandırılması
+- Halil İbrahim Altun: Uç değerler yöntemi ile ani su baskınlarının istatiksel modellenmesi
+- Merve Atasever: Ricci solitonları ve paralel vektör alanları
+- Murat Özkaya: Matris normlarının oyun teorisindeki rolleri
+- Seçkin Özbilen: Koalisyon oluşturma oyunları: İçsel kararlılık
+
+**2017**
+- Ayşe Şebnem Yar: PT-simetrik bir potansiyel içeren doğrusal olmayan yüksek mertebe kübik-kuintik Schrödinger denkleminde optik solitonlar
+- Ecem Bektaş: Hemen hemen pseudo Ricci simetrik manifold hakkında
+- Mervenur Belin: Genelleştirilmiş Davey-Stewartson sisteminde dev dalgalar
+- Sena Kaçar: Yarı simetrik konneksiyonlu Riemann uzaylarının konform eğrilik tensörleri
+- Tau Raphael Rasethuntsa: Rekor değerlerine dayalı benzer-olmayan-bileşenlerli sistem için stres-dayanıklılık güvenilirliğinin tahmini
+
+**2016**
+- Burcu Ece Alp: PT simetrik bir potansiyel içeren doğrusal olmayan yüksek mertebe Schrödinger denkleminin temel solitonları
+- Emine Diriöz: Burulmalı G2 yapıları ve bazı sicim teorisi uygulamaları
+
+**2015**
+- Göksu Topkarcı: Yüksek mertebeden Boussinesq denklemi için Fourier spektral yöntemi
+- Hamza Kurt: Üniform kalınlıklı bir tabaka ile ikiye ayrılmış sonsuz bir elastik ortamda nonlineer enine kayma (SH) dalgalarının yayılması
+- Neşe Özdemir: İki tabakalı elastik bir ortamda nonlineer SH dalgalarının harmonik rezonans incelemesi
+- Nurlan Abdikaimov: Bazı aşırı belirgin problemlerde simetri
+- Önder Özütemiz: Yüksek boyutlu model gösterilimi yöntemi ile büyük ölçekli veri tabanlarında görüntü erişimi
+- Soner Aydınlık: Chebyshev sonlu farklar yöntemi ile adi türevli yüksek mertebe başlangıç ve sınır değer problemlerinin çözümü
+
+**İletişim Bilgileri**
+- Telefon: +90 (212) 285 32 53
+- Fax: +90 (212) 285 63 86
+- Adres: İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

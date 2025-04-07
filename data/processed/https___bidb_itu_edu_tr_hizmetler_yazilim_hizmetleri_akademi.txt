@@ -1,0 +1,21 @@
+**Title: Akademi**
+
+**Künye:**
+- İlk yayın tarihi: 2008
+- Aktif Kullanıcı Sayısı: 1500
+- Web Adresi: [http://akademi.itu.edu.tr](http://akademi.itu.edu.tr)
+
+**Açıklama:**
+İstanbul Teknik Üniversitesi mensubu öğretim üyeleri ve araştırma görevlileri için bir platformdur. Kullanıcılar, İTÜ kullanıcı adı ve şifresi ile sisteme giriş yaparak akademik bilgilerini, yayınlarını, çalışmalarını ve duyurularını paylaşabilirler.
+
+**Hizmetler Hakkında:**
+- **Lisanslı Yazılımlar:** İTÜ bünyesinde kullanılan lisanslı yazılımlar.
+- **İTÜ/NET Hizmetleri:** İTÜ'ye ait tüm yerleşkelerde bilişim teknolojileri hizmetlerini sağlamak için oluşturulan yapı.
+- **Akademi:** İTÜ mensubu öğretim üyeleri ve araştırma görevlileri için akademik portal.
+
+**İletişim:**
+- **Adres:** İTÜ Ayazağa Kampüsü, Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- **Telefon:** 0212 285 3930
+
+**Yardım Sistemi:**
+İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlar için bilet oluşturulabilir ve takibi yapılabilir.

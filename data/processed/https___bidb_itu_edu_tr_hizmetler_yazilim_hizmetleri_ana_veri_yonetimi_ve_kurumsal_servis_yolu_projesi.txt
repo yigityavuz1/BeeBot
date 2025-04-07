@@ -1,0 +1,13 @@
+**Title:** Ana Veri Yönetimi ve Kurumsal Servis Yolu Projesi
+
+**Künye:**
+- **İlk yayın tarihi:** Mayıs 2012
+
+**Proje Açıklaması:**
+Ana Veri Yönetimi ve Kurumsal Servis Yolu Projesi (Master Data Management and Cloud Services Development Platform), 2012 yılında yazılımların ihtiyaç duyduğu verilerin tek bir noktada toplanarak yönetilmesi ve farklı yazılımların birbirleri ile bütünleşik bir şekilde çalışarak iletişim kurmaları için geliştirilmiş servis odaklı mimari (Service Oriented Architecture) tabanlı yapıyı içerir. Ana Veri Yönetim Sisteminde 2016 Haziran itibariyle aktif ve pasif 80.000+ İTÜ mensubunun kişisel bilgileri, kimlik-kart, öğrencilik, personel, otopark abonelik, burs, rol-görev ve yetki bilgileri bulunmaktadır. İTÜ Bilgi İşlem Daire Başkanlığı tarafından geliştirilen 70+ uygulama, Ana Veri Yönetim Sistemi’ne Kurumsal Veri Yolu üzerinden bağlanarak bütünleşik bir şekilde çalışır.
+
+**İletişim:**
+- **Adres:** İTÜ Ayazağa Kampüsü, Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- **Telefon:** 0212 285 3930
+
+**Not:** Bu proje İTÜ Bilgi İşlem Daire Başkanlığı tarafından geliştirilmiştir.

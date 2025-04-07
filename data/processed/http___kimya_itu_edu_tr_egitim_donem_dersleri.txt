@@ -1,0 +1,30 @@
+**Title: Lisansüstü Dönem Dersleri**
+
+| CRN  | Ders Kodu | Ders Adı                                   | Öğretim Üyesi                                         | Gün       | Saat        | Kontenjan | Yazılan |
+|------|-----------|--------------------------------------------|------------------------------------------------------|-----------|-------------|-----------|---------|
+| 13365| KIM 503   | Koordinasyon Kimyası ve Uyg.              | Zehra Bayır, Hacer Yasemin Yenilmez                 | Salı     | 1030/1329   | 0         | 0       |
+| 13372| KIM 512E  | NMR Theo.&App.in Org.Chem.                | Turan Öztürk                                         | Salı     | 1430/1729   | 30        | 14      |
+| 13345| KIM 513E  | Ionic Equlibria                           | Mustafa Özcan                                        | Cuma     | 1030/1329   | 30        | 17      |
+| 13352| KIM 515E  | Quantum Chemistry                          | Nurcan Tüzün                                        | Salı     | 0930/1229   | 30        | 4       |
+| 13353| KIM 516   | Kapiler Elektro.Teori ve Uyg.             | Fatma Bedia Berker, Zeynep Kalaycıoğlu             | Salı     | 1330/1629   | 30        | 6       |
+| 13354| KIM 518E  | Bioinorganic Chemistry                     | Behice Şebnem Sesalan                                | Salı     | 1130/1429   | 30        | 11      |
+| 13355| KIM 519   | Makrosiklik Bileşikler Kimyası            | Ahmet Gül, İbrahim Özçeşmeci                        | Çarşamba | 0930/1229   | 30        | 10      |
+| 13356| KIM 525   | Iyon Değiştiriciler&Uygulama.             | --                                                   | Salı     | 0830/1129   | 0         | 0       |
+| 13404| KIM 529   | Çevre Analitik Kimyası                    | --                                                   | Çarşamba | 1430/1729   | 0         | 0       |
+| 13357| KIM 533   | Spektroskopi I                            | Bünyamin Karagöz                                     | Pazartesi| 1430/1729   | 30        | 28      |
+| 15374| KIM 537   | Doğal&Sentetik Makromoleküller            | Nilgün Kızılcan                                     | Perşembe | 0930/1229   | 30        | 11      |
+| 13358| KIM 539   | Organik Reak.Mekanizma. I                 | Emine Naciye Talınlı, İbrahim Volkan Kumbaracı      | Pazartesi| 0930/1229   | 30        | 13      |
+| 13360| KIM 552E  | Group Theory&Its Chemical Appl            | Ozan Sanlı Şentürk                                   | Salı     | 1030/1329   | 30        | 16      |
+| 13374| KIM 596   | Bilimsel Araş.,Etik ve Seminer            | Abdullah Aydoğan                                     | Perşembe | 0930/1129   | 30        | 17      |
+| 13379| KIM 607E  | Biosensors&Appl.in Chemistry               | --                                                   | --       | /           | 0         | 0       |
+| 13399| KIM 608   | Ftalosiyaninler ve Uygulam.               | Esin Hamuryudan, Mukaddes Özçeşmeci                 | Perşembe | 1330/1629   | 30        | 3       |
+| 13386| KIM 615E  | Cyclization Reac.with Metals               | --                                                   | Cuma     | 1330/1629   | 0         | 0       |
+| 13388| KIM 617   | Moleküler Düzenleme Reaksiyon.            | --                                                   | Çarşamba | 1330/1629   | 0         | 0       |
+| 14793| KIM 619E  | Synthe.of Org.Mat.for Ele.&Opt            | Turan Öztürk                                         | Pazartesi| 0930/1229   | 30        | 10      |
+| 13389| KIM 621E  | Smart Polymeric Materials                  | Oğuz Okay                                            | Çarşamba | 1030/1329   | 30        | 27      |
+| 13396| KIM 623E  | Stereochemis.&Confor.Anal.                | Cüneyt Hüseyin Ünlü                                 | Perşembe | 0930/1229   | 30        | 4       |
+| 13405| KIM 627   | Kimyasal Biyoloji                          | Caner Ünlü, Behice Şebnem Sesalan, Onur Alptürk     | Çarşamba | 0930/1229   | 30        | 8       |
+| 13400| KIM 628   | Polimerik İlaç Salım Sistem.              | Muhammet Übeydullah Kahveci                          | Salı     | 0830/1129   | 30        | 20      |
+| 13407| KIM DRT   | Tez Çalışması                             | Fatma Bedia Berker                                   | --       | /           | 200       | 51      |
+| 13408| KIM YET   | Yeterlik Aşaması                          | Fatma Bedia Berker                                   | --       | /           | 200       | 11      |
+| 13406| KIM YLT   | Tez Çalışması                             | Fatma Bedia Berker                                   | --       | /           | 200       | 46      |

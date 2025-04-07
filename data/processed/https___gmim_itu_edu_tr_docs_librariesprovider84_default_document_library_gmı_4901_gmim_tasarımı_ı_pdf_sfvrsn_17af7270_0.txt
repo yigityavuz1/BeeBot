@@ -1,0 +1,47 @@
+**Course Name:** Marine Engineering Design I  
+**Course Code:** GMI 4901  
+**Semester:** 7  
+**Local Credits:** 4  
+**ECTS Credits:** 8  
+**Course Implementation (Hours/Week):** 1 Theoretical, 6 Tutorial  
+**Department/Program:** Marine Engineering  
+**Course Type:** Compulsory  
+**Course Language:** Turkish  
+
+**Course Prerequisites:** GMI 384E MIN DD and successful completion of all courses in the first 3 semesters (except ITB and/or SNT elective package courses).
+
+**Course Description:**  
+The GMI 4901 and 4902 design courses allow students to gain design project skills from selection to completion using knowledge acquired during their undergraduate education. The design of marine engines, systems, or processes is considered through open-ended projects under realistic constraints and ethical considerations. Teams of students work on basic and alternative solutions, and results are presented effectively to a wide-ranging audience. The GMI 4901 course includes the stages of design up to production or solution implementation.
+
+**Course Objectives:**  
+1. To provide skills to use knowledge of basic science and engineering.  
+2. To teach all phases of a design project and provide design experience.  
+3. To provide teamwork awareness while improving professional and ethical responsibility.  
+4. To teach oral and written presentation skills.
+
+**Course Learning Outcomes:**  
+Students who pass the course can:  
+I. Carry out an engineering design study in a team environment and within ethical rules.  
+II. Study current, scientific and sectoral publications towards a specific goal.  
+III. Analyze available information effectively and within constraints.  
+IV. Develop a goal-oriented method for the solution of a realistic problem by evaluating different alternatives within a timeline.
+
+**Course Plan:**  
+1. Project planning  
+2. Project preparation  
+3. Research  
+4. Information analysis  
+
+**Assessment Criteria:**  
+- Midterm Exams  
+- Quizzes  
+- Homework  
+- Projects  
+- Final Exam  
+
+**Course Materials:**  
+- All kinds of professional and scientific publications  
+- The course itself is a full-scale project  
+
+**Computer Usage:**  
+In necessary situations and during final presentations.  

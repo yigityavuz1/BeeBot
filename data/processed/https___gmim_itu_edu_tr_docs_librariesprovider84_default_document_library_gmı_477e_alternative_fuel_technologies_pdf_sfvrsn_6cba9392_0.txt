@@ -1,0 +1,62 @@
+**Title:** GMI 477E Alternative Fuel Technologies
+
+**Published Time:** 2022-05-14
+
+**Course Name:** Alternative Fuel Technologies  
+**Code:** GMI 477E  
+**Semester:** 7-8  
+**Local Credits:** 2  
+**ECTS Credits:** 4  
+**Course Implementation (Hours/Week):** Theoretical: 2, Tutorial: -, Laboratory: -  
+
+**Department/Program:** Marine Engineering  
+**Course Type:** Elective  
+**Course Language:** English  
+**Course Prerequisites:** None  
+
+**Course Description:**  
+- Shipping emissions and emission formation reactions.  
+- Maritime conventions and strategies for air pollution prevention.  
+- IGF Code and classification societies’ guidelines.  
+- Physical, chemical, and special properties of liquid and gas alternative marine fuels and their production methods.  
+- Onboard storage, line specifications, combustion concepts, and fuel operations of alternative fuels.  
+
+**Course Objectives:**  
+1. To teach physical and chemical properties of alternative marine fuels.  
+2. To teach alternative fuel technologies and systems.  
+3. To teach combustion concepts of alternative marine fuels.  
+
+**Course Learning Outcomes:**  
+Students who pass the course will be able to:  
+I. Learn shipboard emissions, emission formation reactions, and maritime conventions on air pollution prevention and alternative marine fuels.  
+II. Learn physical and chemical properties of alternative marine fuels.  
+III. Understand alternative marine fuel technologies and alternative fuel operations.  
+IV. Learn combustion concepts of alternative marine fuels.  
+
+**Course Plan:**  
+1. Shipping emissions and emission formation reactions  
+2. Maritime conventions and strategies for air pollution prevention  
+3. IGF Code and classification societies’ guidelines for alternative fuelled ships  
+4. Physical, chemical, and special properties of liquid alternative marine fuels  
+5. Physical, chemical, and special properties of gaseous alternative marine fuels  
+6. Production processes and methods of alternative marine fuels  
+7. Onboard storage of liquid and gaseous alternative marine fuels  
+8. Fuel supply system specifications of alternative marine fuels  
+9. Combustion at conventional marine diesel engines  
+10. Combustion concepts for alternative marine fuels  
+11. Onboard alternative fuel operations and bunkering  
+12. Preventing adverse effects of alternative marine fuels and effective maintenance  
+13. Future alternative fuel and renewable energy combinations for maritime transportation  
+
+**Textbook:**  
+1. Singh, A. P., Sharma, Y. C., Mustafi, N. N., Agarwal, A. K. (Eds.). (2019). Alternative Fuels and Their Utilization Strategies in Internal Combustion Engines. Springer Nature Singapore Pte. Ltd. ISBN 978-981-15-0417-4  
+2. Ramadhas, A. S. (Ed.) (2011). Alternative Fuels for Transportation. CRC Press, Taylor & Francis Group. ISBN 978-1-4398-1957-9  
+
+**Other References:**  
+1. Shukla, P. C., Belgiorno, G., DiBlasio, G., Agarwal, A. K. (2021). Alcohol as an Alternative Fuel for Internal Combustion Engines. Springer Nature Singapore Pte. Ltd. ISBN 978-981-16-0930-5  
+2. Heywood, J. B. (2018). Internal Combustion Engine Fundamentals, Second Edition. McGraw-Hill Education. ISBN 9781260116106  
+
+**Assessment Criteria:**  
+- Midterm Exams: 30%  
+- Homework: 20%  
+- Final Exam: 50%  

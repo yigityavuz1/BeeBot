@@ -1,0 +1,458 @@
+Title: İTÜ | ÖİDB
+
+URL Source: https://www.sis.itu.edu.tr/TR/mevzuat/lisans-yonetmelik.php
+
+Markdown Content:
+| İSTANBUL TEKNİK ÜNİVERSİTESİ LİSANS EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ
+
+BİRİNCİ BÖLÜM
+
+Amaç, Kapsam, Dayanak ve Tanımlar
+
+**Amaç**
+
+**MADDE 1 –** (1) Bu Yönetmeliğin amacı, İstanbul Teknik Üniversitesi Denizcilik Fakültesi dışındaki fakülteler ile Türk Musikisi Devlet Konservatuvarında yürütülen lisans eğitim ve öğretimini düzenlemektir.
+
+**Kapsam**
+
+**MADDE 2 –** (1) Bu Yönetmelik, İstanbul Teknik Üniversitesine bağlı fakültelerde yürütülen eğitim ve öğretime ilişkin hükümleri kapsar. Denizcilik Fakültesi ve Türk Musikisi Devlet Konservatuvarı ile ilgili özel durumlar bu fakülte ve konservatuvara ait lisans eğitim ve öğretim yönetmeliklerinde belirlenmiştir.
+
+**Dayanak**
+
+**MADDE 3 –** (1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü, 43 üncü, 44 üncü ve 46 ncı maddelerine dayanılarak hazırlanmıştır.
+
+**Tanımlar**
+
+**MADDE 4 –** (1) Bu Yönetmelikte geçen;
+
+a) Ağırlıklı genel not ortalaması: Öğrencinin almış olduğu tüm derslerin kredilerinin başarı notları ile çarpımının toplam değerinin ortalamaya katılan başarı notu T, E, BL, BZ veya M olan dersler hariç kredi toplamına bölümünü,
+
+b) Akademik takvim: Eğitim-öğretim yılının başlama ve bitiş tarihleri ile kayıt ve sınav tarihleri gibi önemli tarihleri içeren takvimi,
+
+c) **(Değişik:RG-04/08/2019 - 30852)** Tasarım Projesi/Diploma Projesi : Öğrencinin, mezun olmadan önce, istenen mesleki düzeye ulaştığını göstermek amacıyla mezun olacağı programdan alması zorunlu olan ödevi/projeyi,
+
+ç)  **(Değişik:RG-08/01/2017-29942)** Çift Anadal Programı (ÇAP): Başarı şartını ve diğer koşulları sağlayan öğrencinin İstanbul Teknik Üniversitesi içindeki iki diploma programından eş zamanlı olarak ders alıp, iki ayrı diploma alabilmesini sağlayan programı,
+
+d) Danışman: Öğrencilerin eğitim-öğretim ve üniversite yaşamıyla ilgili sorunlarıyla ilgilenmek üzere bölüm başkanının önerisi ve ilgili yönetim kurulu kararı ile görevlendirilen öğretim elemanını,
+
+e) Dikey geçiş: Bir yükseköğretim kurumunun meslek yüksekokulundan mezun öğrencinin Yükseköğretim Kurulu ve Senato tarafından belirlenen esaslar çerçevesinde, lisans diploma programlarında öğrenime devam etme hakkı kazanmasını,
+
+f)  **(Değişik:RG-08/01/2017-29942)**  Fakülte: İstanbul Teknik Üniversitesine bağlı fakülteleri,
+
+g) Gözetim listesi: Herhangi bir yarıyıl sonunda ağırlıklı genel not ortalaması bu Yönetmeliğin 21 inci maddesinde belirtilen ortalamaların altında olan öğrencilerin oluşturduğu listeyi,
+
+ğ) İlgili Kurul: İlgili Fakülte Kurulunu,
+
+h) İlgili Yönetim Kurulu: İlgili Fakülte Yönetim Kurulunu,
+
+ı) Öğrenci İşleri Daire Başkanlığı: İstanbul Teknik Üniversitesi Öğrenci İşleri Daire Başkanlığını,
+
+i) Ön koşullu ders: Kayıt olunabilmesi için daha önce bir veya birkaç dersin başarılması koşulu aranılan dersi,
+
+j) Rektörlük: İstanbul Teknik Üniversitesi Rektörlüğünü,
+
+k) Senato: İstanbul Teknik Üniversitesi Senatosunu,
+
+l) Üniversite: İstanbul Teknik Üniversitesini,
+
+m) Üniversite Yönetim Kurulu: İstanbul Teknik Üniversitesi Yönetim Kurulunu,
+
+n) Yarıyıl: Bir akademik yıldaki güz veya bahar dönemini,
+
+o) Yaz öğretimi: Güz ve bahar yarıyılları dışında kalan yaz tatil ayları içerisinde uygulanan ve üniversitenin eğitim ve öğretim olanaklarının yaz aylarında da değerlendirilerek eğitim ve öğretim verimliliğini arttırmayı amaçlayan öğrencilerin daha kısa sürede mezun olabilmelerine olanak sağlayan ve çift ana dal yapanları destekleyen bir eğitim-öğretim programını,
+
+ö) Yüksekokul: Üniversitenin Yabancı Diller Yüksekokulunu,
+
+p) Yatay geçiş: Bir yükseköğretim kurumunun lisans programına kayıtlı olan öğrencinin Yükseköğretim Kurulu ve Senato tarafından belirlenen esaslar çerçevesinde, aynı düzeydeki diğer diploma programlarında öğrenime devam etme hakkı kazanmasını,
+
+r)  **(Ek:RG-08/01/2017-29942)** Yandal programı: Bir diploma programına kayıtlı öğrencinin öngörülen şartları taşıması kaydıyla, İstanbul Teknik Üniversitesi içinde başka bir diploma programı kapsamında belirli bir konuya yönelik sınırlı sayıda dersi almak suretiyle, diploma yerine geçmeyen bir belge alabilmesini sağlayan programı,
+
+ifade eder.
+
+İKİNCİ BÖLÜM
+
+Öğrenci Katkı Payı, Öğrenci Kayıt İşlemleri, Yatay ve Dikey Geçişler
+
+**Öğrenci katkı payı/öğrenim ücreti**
+
+**MADDE 5 –** (1) 2547 sayılı Kanunun 46 ncı maddesi ve diğer ilgili mevzuat hükümleri uyarınca belirlenen öğrenci katkı payı ve/veya öğrenim ücretleri, dönem başlarında akademik takvimde belirtilen tarihlerde ödenir. Mazeretleri ilgili birim yönetim kurulunca kabul edilenler hariç, süresi içinde katkı payı ve/veya öğrenim ücretini ödemeyenler o dönem için kayıt yaptıramaz/yeniletemez ve öğrencilik haklarından yararlanamaz.
+
+(2) Eğitim ve öğretim başladıktan sonra, öğrenci katkı payı ve/veya öğrenim ücretini yatırmış olan Üniversiteden ayrılan, çıkarılan, kaydı silinen veya mezun olanların o yarıyılda ödemiş oldukları öğrenci katkı payı ve/veya öğrenim ücreti iade edilmez. Ancak öğrenci katkı payı taksitini yatırdıktan sonra, Yüksek Öğrenim Kredi ve Yurtlar Kurumundan katkı kredisi çıkıp, katkı payı ödemesi yapılan öğrencilerin ödedikleri katkı payı ücretleri iade edilir.
+
+(3) Öğrenci değişim programlarına, ortak programlara ve benzer programlara katılan öğrencilerin katkı paylarının ve/veya öğrenim ücretlerinin nasıl ödeneceği üniversiteler arasındaki ikili anlaşmalarla belirlenir.
+
+**Kabul esasları ve kesin kayıtlar**
+
+**MADDE 6 –** (1) Üniversite fakültelerine ve bölümlerine girebilmek için, ortaöğretim kurumlarından mezun olmuş olmak ve lisans öğrenimiyle ilgili, Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM)’nin yaptığı sınavı kazanmış olmak, 2547 sayılı Yüksek Öğretim Kanununun 45 inci maddesi ve ilgili diğer mevzuatın aradığı koşulları taşımak ve başka bir yükseköğretim kurumunun**(Değişik İbare:RG-04/12/2023 - 32389)** örgün lisans programında kayıtlı olmamak gerekir.
+
+(2) Yabancı uyruklu öğrenciler ile ortaöğretiminin tamamını yurt dışında tamamlayan öğrencilerin, fakülte ve bölümlere 2547 sayılı Kanunun 14 üncü maddesinin birinci fıkrasının (f) bendi uyarınca kesin kayıt yaptırabilmesi için Yükseköğretim Kurulu ve Üniversite Senatosu tarafından belirlenen esaslarda yer alan koşulları taşıması ve başka bir yükseköğretim kurumunun **(Değişik İbare:RG-04/12/2023 - 32389)** örgün lisans programında kayıtlı olmaması gerekir.
+
+(3) Üniversiteye yerleşme hakkı kazanan adaylardan kesin kayıt için istenen belgelerin asılları veya asıllarını ibraz etmek koşulu ile onaylı örneği kabul edilir. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın yazılı beyanına dayanılarak işlem yapılır. Kesin kayıt için sahte veya tahrif edilmiş belge kullanan, yalan beyanda bulunan veya Üniversiteye giriş sınavında sahtecilik yaptığı belirlenen kişinin kaydı, kayıt tarihi itibarıyla iptal edilir ve hakkında kanuni işlemler başlatılır. Bu kişi Üniversiteden ayrılmışsa kendisine verilen diploma dâhil tüm belgeler iptal edilir. Bu kişilerin yatırmış olduğu öğrenci katkı payı ve/veya öğrenim ücretleri geri ödenmez.
+
+(4) Üniversitenin yurt dışındaki bir üniversite ile ortak düzenleyeceği programlara ait öğrencilerin kayıt işlemleri; 28/12/2006 tarihli ve 26390 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarının Yurtdışındaki Kapsama Dâhil Yükseköğretim Kurumlarıyla Ortak Eğitim ve Öğretim Programları Tesisi Hakkında Yönetmelik ile ilgili diğer mevzuat hükümlerine ve Senato kararlarına göre yürütülür.
+
+(5) Mazeretlerin kabulü ile ilgili olarak, Senatonun belirlediği esaslarda tanımlanan istisnai durumlarda, öğrenci adayları, yukarıdaki hükümlere uymak koşulu ile Öğrenci İşleri Daire Başkanlığına bir dilekçe vererek, belirledikleri vekilleri aracılığıyla kesin kayıt işlemlerini yaptırabilirler.
+
+(6) Kayıt olan öğrenciler, Üniversite tarafından düzenlenen ve tarihi ilan edilen İngilizce yeterlik sınavına alınırlar. Güz yarıyılı başlangıç tarihine kadar Senato tarafından eşdeğerliği kabul edilen ulusal ve uluslararası sınavlarda, Senato tarafından belirlenen düzeyde başarılı olduklarını belgeleyenler ile bu tarihe kadar Üniversite tarafından açılan İngilizce yeterlik sınavlarından birinde başarılı olanlar, ilgili yönetim kurulu kararı ile lisans öğrencisi olurlar ve lisans öğrenimlerine başlarlar.
+
+(7) Söz konusu sınavlarda başarısız olan veya bu sınavlara katılmayan öğrenciler ise süresi içinde Öğrenci İşleri Daire Başkanlığı aracılığıyla yüksekokula kayıt yaptırırlar ve yüksekokul tarafından yürütülen İngilizce hazırlık öğretimine devam ederler. Bu öğretim yılının sonunda yaz öğretimi dâhil, ilgili Fakülte ve bölümlerinde lisans öğretimine başlamaya hak kazanamayan öğrenciler, bir sonraki öğretim yılının başında yapılan tüm İngilizce yeterlik sınavlarına girebilirler. En geç güz yarıyılı başlangıcında yapılan İngilizce yeterlik sınavında başarılı olanlar güz yarıyılında öğrenimlerine başlayabilirler. Bu sınavlarda başarısız olan öğrencilerin ikinci kez İngilizce hazırlık öğretimine devam etme hakları yoktur. Bu öğrenciler aynı eğitim ve öğretim yılında, yüksekokulun İngilizce hazırlık öğretimi çerçevesinde yaptığı tüm yeterlik sınavlarına girerler. Yaz öğretimi sonu sınavı son haklarıdır. Bu sınavda da başarısız olan öğrencilerin Üniversite ile ilişikleri kesilir.
+
+(8) Yüksekokulun İngilizce hazırlık öğretiminin İngilizce yeterlik sınavında başarısız olan öğrenciler isterlerse, 23/3/2016 tarihli ve 29662 sayılı Resmî Gazete’de yayımlanan Yüksek Öğretim Kurumlarında Yabancı Dil Eğitim Öğretimi ve Yabancı Dille Eğitim Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmeliğin **(Değişik İbare:RG-08/01/2017-29942)**8 inci maddesinin on beşinci fıkrası uyarınca, İngilizce öğretimin zorunlu olmadığı üniversitelere yatay geçiş için başvuru yapabilirler. Yatay geçiş için başvuruda bulunmayan adayların Üniversite ile ilişikleri kesilir.
+
+(9) Üniversite **(Değişik İbare:RG-08/01/2017-29942)**ön lisans veya lisans öğrencisi öğrencisi iken yeniden ÖSYM’nin yaptığı sınava girip Üniversitenin bir lisans programına yerleştirilen öğrencilerde İngilizce yeterlik şartı aranmaz.
+
+(10) Üniversiteye kesin kabul kayıt işlemlerini süresi içinde yaptırmayan öğrenci adayları, Üniversite öğrencisi olma hakkından vazgeçmiş sayılırlar ve herhangi bir hak iddia edemezler.
+
+(11) Üniversite Yüksekokulu tarafından yapılan İngilizce hazırlık öğretiminin uygulama esasları, Senato tarafından kabul edilen Yönetmelikle düzenlenir.
+
+**Kayıt yenilenmesi**
+
+**MADDE 7 –** (1) Kayıt yenileme işlemi, derse kayıt ve öğrenci katkı payının ödenmesini içerir. Üniversite öğrencileri her yarıyıl Senato tarafından belirlenen tarihlerde kayıtlarını yenilemek zorundadırlar. İlan edilen tarihlerde kayıtlarını yenilemeyen öğrenciler, kayıt bitim tarihinden sonra bir hafta içerisinde gecikmeli kayıt yaptırırlar. Gecikmeli kayıt koşulları her yıl Üniversite Yönetim Kurulu tarafından belirlenir. Kayıt takvimi ve kayıt prosedürü bir önceki yarıyılın son haftasında Öğrenci İşleri Daire Başkanlığı tarafından ilan edilir. Kayıt yenilenmeyen yarıyıl, öğretim süresinden sayılır.
+
+(2) Kaydını yenilemeyen öğrenciye o yarıyıl içinde herhangi bir öğrenci belgesi verilmez ve bu öğrenci öğrencilik haklarından yararlanamaz.
+
+**Öğrenci işlemleri**
+
+**MADDE 8 –** (1) Üniversite fakülte ve bölümlerinde öğrencilerin işlemleri ile ilgili kararlar ilgili yönetim kurullarında alınır. Öğrenciler bu kararlar için Üniversite Yönetim Kuruluna on beş gün içinde itirazda bulunabilirler.
+
+**Danışmanlık**
+
+**MADDE 9 –** (1) Her öğrenci için ilgili bölümce bir öğretim üyesi veya öğretim görevlisi danışman olarak atanır. Danışman, öğrenimi boyunca öğrenciyi izler ve öğrencinin devam etmekte olduğu lisans öğretimi programı çerçevesinde öğrencinin alması gereken zorunlu ve seçmeli derslerle ilgili olarak öğrenciye tavsiyelerde bulunur. Öğrenci, yarıyıl kayıtlarının yapılması veya yenilenmesi sırasında derslerini kendi seçer ve sonra danışmanın onayı ve öğrenci bilgi sistemi üzerine aktarılacak danışman görüşü ile kayıt tamamlanır. Danışman öğretim üyeleri kayıt süresi içerisindeki haftalık programlar ile öğrenci görüşme saatlerini ilan eder. Geçerli bir mazereti nedeniyle Üniversitede bulunamayacak olan danışman bu durumu bir yazı ile ilgili bölüm başkanlığına bildirir. Bölüm başkanı, bu danışman yerine geçici olarak kayıt süresince bir öğretim üyesini görevlendirir ve bunu ilgili öğrencilere duyurur.
+
+**Kimlik kartı**
+
+**MADDE10 –** (1) 6 ncı madde uyarınca kesin kayıtlarını yaptıran öğrencilere, Üniversite öğrencisi olduklarını belirten fotoğraflı bir kimlik kartı Rektörlük tarafından verilir.
+
+(2) Kimlik kartının kaybedilmesi halinde yenisinin verilebilmesi için, kaybın yerel veya ulusal bir gazetede ilan edilmesi ve bu ilanın bir dilekçe ekinde ilgili birime sunulması gerekir. Bu durumda öğrenciye yeni bir öğrenci kimlik kartı verilir.
+
+**Diploma**
+
+**MADDE 11 –** (1) Üniversite tarafından verilen diplomalar Senato tarafından belirlenen yönergeye göre düzenlenir.
+
+(2) Öğrencilere diploma verilebilmesi için, katkı payı/öğrenim ücreti ve üniversite ile ilgili tüm yükümlülüklerin yerine getirilmesi zorunludur.
+
+**Yatay ve dikey geçişler**
+
+**MADDE 12 –** (1) Üniversite içinden veya dışından Üniversite fakültelerine yapılacak her türlü yatay geçiş, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Yatay Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine ve Senato tarafından belirlenen esaslara göre yürütülür.
+
+(2) Üniversite içinden yapılacak yatay geçiş kontenjanları, ilgili kurulca belirlenir ve Senato tarafından onaylanır. Üniversite dışından yapılacak yatay geçişler için kontenjanlar ise, Yükseköğretim Kurulu tarafından belirlenir. İntibak işlemleri intibak yönergesi hükümlerine göre ilgili yönetim kurulu tarafından yapılır.
+
+(3) Bu Yönetmelik uyarınca yatay ve dikey geçiş yapacak öğrenciler, Senatonun kabul ettiği İngilizce başarı belgelerinden herhangi birini sunmak veya Yüksekokul tarafından düzenlenen İngilizce yeterlik sınavını başarmak zorundadır.
+
+(4) Bu belgelerden herhangi birini sunamayan ve/veya Yüksekokul tarafından düzenlenen İngilizce yeterlik sınavını başaramayan öğrencilerin Üniversiteye yatay geçiş işlemleri yapılmaz.
+
+(5) Üniversitenin lisans programlarına başvuran dikey geçiş öğrencileri, ÖSYM tarafından yerleştirilir. Dikey geçiş öğrencilerinin kayıt işlemleri, 19/2/2002 tarihli ve 24676 sayılı Resmî Gazete’de yayımlanan Meslek Yüksekokulları ve Açıköğretim Ön Lisans Programları Mezunlarının Lisans Öğrenimine Devamları Hakkında Yönetmelik hükümlerine ve Senato tarafından belirlenen esaslara göre yürütülür.
+
+ÜÇÜNCÜ BÖLÜM
+
+Eğitim-Öğretimle İlgili Esaslar
+
+**Öğretim yılı**
+
+**MADDE 13 –** (1) Öğretim yılı, güz ve bahar yarıyılları ile yaz öğretiminden oluşur. Güz ve bahar yarıyıllarının her birinin normal süresi on dört haftadır. Gerekli hallerde bu süre Senato tarafından değiştirilebilir. Akademik takvim, her akademik yılın başlamasından önce Senato tarafından belirlenir ve ilan edilir. Yaz öğretiminin uygulama esasları Senato tarafından düzenlenir. Öğretimin yapılacağı gün ve saatler Senato tarafından belirlenir. Resmi tatil günleri öğretim ve sınav yapılmaz. Ancak gerektiğinde dersi veren birim tarafından önerilen ve Üniversite Yönetim Kurulunca uygun görülen derslerin, ders ve sınavları Cumartesi ve Pazar günleri yapılabilir.
+
+(2) 14 üncü maddenin birinci fıkrasında belirtilen azami süre içinde diploma alamayan öğrencilerin, müfredat değişikliği veya isimleri değişmemekle birlikte ders içeriğinin değişmesi ya da ders içeriği değişmemekle birlikte aradan uzun bir sürenin geçmesi nedeniyle, daha önce başarılı olunan derslerden hangilerini yeniden almaları gerektiği ilgili mevzuat hükümleri ve Yükseköğretim Kurulu Başkanlığının kararları doğrultusunda Senato tarafından belirlenir.
+
+(3) Üniversitenin, eğitim-öğretim süreçlerinin sürekli iyileştirilmesine yönelik iç ve dış kalite güvencesi uygulamaları ve eğitim-öğretimin devamına ilişkin diğer hususlar Senato tarafından belirlenir.
+
+**Öğretim süresi ve şekli**
+
+**MADDE 14 –** (1) **(Değişik:RG-08/01/2017-29942)**  Üniversitenin fakülte ve bölümlerinde kayıtlı lisans öğrencilerine;
+
+a) Lisans öğrenimlerini tamamlamak için tanınan azami süre yabancı diller yüksekokulunca düzenlenen İngilizce hazırlık öğretimindeki süre hariç, yedi yıldır.
+
+b) Azami süre sonunda mezun olamayan 15 inci maddede tanımlanan son sınıf öğrencilerine başarısız oldukları bütün dersler için iki ek sınav, ek sınav 1 ve ek sınav 2 hakkı verilir. Bu iki ek sınav hakkı bu derslerin sınavlarının açılacağı ilk iki yarıyıl sonu sınav döneminde kullandırılır. Daha önce hiç alınmamış veya alınıp da bir kez sınava girme hakkı elde edilememiş dersler için ek sınav hakları kullanılamaz. Bu sınavlar sonunda başarısız ders sayısını daha önce hiç alınmayan veya alınıp da sınava girme hakkı elde edilemeyen dersler de dâhil olmak üzere en fazla beş veya en az iki derse indirenlere üç yarıyıl, ek sınavları almadan beş derse indirenlere dört yarıyıl verilir. Ek sınavlar sonunda daha önce alınmayan veya sınava girme hakkı kazanılmayan dersler varsa öğrencilerin, bu derslere bu Yönetmelik hükümlerine göre kayıt olmaları ve belirtilen süreler içinde sınavlara girmeleri zorunludur. **(Değişik:RG-04/12/2023-32389)** Ek süreler sonunda mezuniyet şartını sağlamayan öğrencilerin Üniversite ile ilişiği kesilir.
+
+c) **(Değişik:RG- 04/08/2019 - 30852)** Azami süre sonunda mezun olamayan 15 inci maddede tanımlanan son sınıf öğrencilerine uygulamalı dersler ve daha önce alınmamış veya alınıp da sınava girme hakkı elde edilememiş dersler dışındaki derslere devam şartı aranmaz. Devam şartı aranmayan öğrenciye verilecek başarı notu, devam şartı dışındaki yarıyıl içi çalışmaları ve yarıyıl sonu sınav sonucu göz önünde bulundurularak dersin öğretim üyesince değerlendirilir. Başarısız ders sayısını tek derse indiren öğrenci sınırsız sınav hakkından yararlanır. Tek dersin Tasarım Projesi ödevi olması halinde sınırsız sınav hakkından yararlanılamaz. Kayıtlı oldukları lisans programından mezun olmak için gerekli bütün derslerden geçer not aldıkları ve öğretim planındaki mezun olmak için istenilen tüm şartları sağladıkları halde, mezun olabilmek için gerekli olan 2,00 ağırlıklı genel not ortalamasını sağlayamayan son sınıf öğrencilerine, ağırlıklı genel not ortalamalarını yükseltmek ve mezun olmak için öğretim planında yer alan derslerin içinden seçtikleri derslerden sınırsız sınav hakkı tanınır.
+
+ç) Yedi yıllık azami süresi dolmadan önce kayıtlı oldukları lisans programından mezun olmak için gerekli bütün derslerden geçer not aldıkları ve öğretim planındaki mezun olmak için istenilen tüm şartları sağladıkları halde, mezun olabilmek için gerekli olan 2,00 ağırlıklı genel not ortalamasını sağlayamayan son sınıf öğrencileri de Fakültelerine yazılı olarak başvurmaları halinde sınırsız sınav hakkından yararlanabilirler.
+
+d) **(Değişik:RG - 04/08/2019 - 30852)** Yedi yıllık azami süreden önce, kayıtlı olduğu lisans programının ders planında yer alan uygulamalı dersler ile Tasarım Projesi I ve Tasarım Projesi II derslerinden başarılı olmak şartıyla mezun olmak için tek dersi kalan öğrenciler de, bu dersten daha önce bir kez sınava girme hakkı almış olmaları şartıyla, fakültelerine dilekçe ile başvurarak açılacak yarıyıl sonu sınavına sınırsız girme hakkından yararlanabilirler. **(Mülga İbare:RG - 04/12/2023 - 32389)**
+
+e) **(Değişik:RG - 04/12/2023 - 32389)**Ek sınav 1 ve ek sınav 2 hakkı ile sınırsız sınav hakkını kullanan öğrenciler, öğrenci katkı paylarını ödemeye devam ederler ancak sınav hakkı dışındaki diğer öğrencilik haklarından yararlanamazlar. Sınırsız sınav hakkı kullanılan derslerdeki başarı durumu, eski yarıyıl içi çalışma sonuçlarına bakılmaksızın, sadece yarıyıl sonu sınav notu ile belirlenir. Açılacak sınavlara üst üste veya aralıklı olarak toplam üç eğitim-öğretim yılı hiç girmeyen öğrenci sınırsız sınav hakkından vazgeçmiş sayılır ve bu haktan artık yararlanamaz.
+
+(2) **(Değişik:RG - 04/08/2019 - 30852)** Öğretim; öğretim planında öngörülen dersler, uygulamalar, proje ve stüdyolar, laboratuvar ve atölye çalışmaları, pratik çalışmalar, stajlar, eskizler, arazi üzerinde uygulamalar, seminerler, Tasarım Projesi/Diploma Projesi ve benzeri çalışmalardan oluşabilir. Senatoda aksi kararlaştırılmadıkça, öğretim planlarındaki zorunlu ve seçmeli derslerin ve derslere bağlı olarak yapılan proje, laboratuvar, arazi çalışması gibi akademik etkinliklerin süresi bir yarıyıldır.
+
+(3) Öğretim planındaki dersler, zorunlu ve seçmeli derslerden oluşur. Zorunlu dersler, öğrencinin almak zorunda bulunduğu, seçmeli dersler ise öğrencinin belirli ders grupları içinden seçerek almak zorunda olduğu derslerdir.
+
+(4) Öğretim dili % 30 İngilizce olan lisans programlarında kayıtlı olan öğrenciler, lisans öğrenimleri süresince öğrencisi oldukları programın öğretim planında bulunan derslerin en az % 30’unu İngilizce, öğretim dili % 100 İngilizce olan lisans programlarında kayıtlı olan öğrenciler ise Türkçe verilmesi zorunlu olan dersler hariç, lisans öğrenimleri süresince öğrencisi oldukları programın öğretim planında bulunan derslerin tamamını İngilizce derslerden almak zorundadırlar. Bölüm başkanlığının uygun görmesi durumunda öğrenciler derslerden bazılarını, Üniversitenin diğer bölümlerinin/programlarının öğretim planlarında yer alan denkliği kabul edilen derslerden alabilirler.
+
+**Öğretim planları**
+
+**MADDE 15 –** (1) **(Değişik:RG - 22/07/2022-31900)** Üniversitenin fakülte ve bölümlerindeki öğretim, Yükseköğretim Kurulunca belirlenen ve Senato tarafından kabul edilen ortak dersler göz önünde tutulmak ve bölümlerin görüşleri alınmak suretiyle, ilgili kurul tarafından kararlaştırılan ve Senato tarafından onaylanan öğretim planına göre yapılır. Bunlardan;
+
+a) **(Değişik:RG - 22/07/2022-31900)** Öğretim planından en az 30 kredilik dersi tamamlayanlar ikinci sınıf,
+
+b)**(Değişik:RG - 22/07/2022-31900)** Öğretim planından en az 60 krediyi tamamlayanlar üçüncü sınıf,
+
+c) **(Değişik:RG - 22/07/2022-31900)** Öğretim planından en az 95 krediyi tamamlayanlar dördüncü sınıf,  
+öğrencisi olarak tanımlanırlar.
+
+(2) Öğrenciler birinci yarıyılda bölümlerinin ders planında yer alan birinci yarıyıl derslerini almak zorundadırlar. Ancak, öğrenimlerine ikinci yarıyıl başında başlama durumunda olan bir yarıyıl hazırlık sınıfına devam etmiş öğrenciler açılan birinci yarıyıl derslerine ek olarak 17 nci maddenin birinci fıkrasında belirtilen kredi sınırlarına uymak koşulu ile ön koşulsuz üst yarıyıl derslerini de alabilirler.
+
+(3) **(Değişik:RG - 22/07/2022-31900)** Birinci yıl sonunda en az 30, ikinci yıl sonunda en az 60 krediyi tamamlayan, sınıfındaki genel not ortalaması sıralamasında ilk % 20'lik dilimde yer alan ve genel not ortalaması en az 3.00 olan öğrenciler çift anadal programına (ÇAP) başvurabilirler. Ayrıca bu öğrenciler 17 nci maddede belirtilen en fazla kredi sınırını aşarak sekiz yarıyıldan daha kısa sürede mezun olabilirler.
+
+(4) Öğrenciler, öğrenimlerine; ön koşulsuz veya ön koşulunu sağladıkları dersleri çakışmamak, 17 nci maddenin birinci fıkrasında belirtilen kredi sınırlarına uymak ve 21 inci maddenin birinci fıkrasındaki koşulları sağlamak suretiyle devam ederler.
+
+(5) Öğretim planına dahil olan staj çalışmaları, fakülteler tarafından her bölümün özelliğine göre hazırlanan esaslara göre yapılır.
+
+(6) Üniversite binaları dışında yapılması gereken ders ve uygulamalar, yarıyıl süresince yapılabileceği gibi, ilgili birimler tarafından özel esaslarda belirtilen sürelerde, bahar yarıyılının bitiminden sonra da yaptırılabilir.
+
+**Ön koşul**
+
+**MADDE 16 –** (1) Bir programa ait derslerin ön koşulları, ilgili kurulun önerisi ve Senatonun onayı ile tüm bölümlerin öğrencilerinin ortak olarak aldıkları derslerin ön koşulları ise Senato tarafından belirlenir ve Üniversitenin resmi web sitesinde ilan edilir.
+
+(2) Bir dersin ön koşulu olarak belirlenen ders/derslerden ön koşulun sağlanabilmesi için aranacak ders notunun DD veya üzeri olması gerekir. Önkoşul olarak belirlenen bir ders, kredisiz ise ön koşulun sağlanabilmesi için bu dersten başarılı olma (BL) şartı aranır. Ön koşullar ilan edildiği tarihi izleyen yarıyılda uygulanır.
+
+**Derse yazılma**
+
+**MADDE 17 –** (1) **(Değişik:RG - 22/07/2022-31900)** 21 inci maddenin birinci fıkrasının (a) bendinde söz konusu edilen kayıtlı olduğu programın birinci sınıfının birinci yarıyıl öğrencileri ve ÇAP öğrencileri ile 21 inci maddenin (c) bendinde söz konusu edilen öğrenciler dışındaki son sınıf öğrencileri hariç olmak üzere, gözetim listesinde bulunmayan öğrencilerin, herhangi bir yarıyılda kredi yükü en az 13 kredi, en çok 22 kredi olmak zorundadır.
+
+(2) Her öğrenci 14 üncü maddenin ikinci fıkrasında tanımlanan çalışmalara aşağıda belirtilen sınırlar içinde kalarak yazılır;
+
+a) Daha fazla kredi almak isteyen öğrencilerden; 25 kredi de dahil olmak üzere en az 2.25 ağırlıklı genel not ortalaması, 25 kredinin üzerinde kredi almak isteyen öğrencilerden en az 3.00 ağırlıklı genel not ortalaması aranır.
+
+b) **(Değişik:RG - 22/07/2022-31900)** Gerekli hallerde bir yarıyılda alınması gereken en az 13 kredilik ders yükünün azaltılması yönünde ilgili yönetim kurulu kararı alınabilir.
+
+c) **(Mülga:RG - 22/07/2022-31900)**
+
+(3) Öğrenci, yarıyılın başlangıcından itibaren bir hafta içerisinde danışmanının onayını alarak ders planındaki derslerden birisini bırakıp bir başka derse kayıt yaptırabilir, ayrıca iki hafta içerisinde kayıt yaptırdığı bir dersten tümüyle çekilebilir.
+
+(4) Öğrenci birinci yarıyıl hariç bir yarıyılda en fazla bir ders, lisans öğretimi süresi içerisinde en fazla yedi dersten çekilebilir.
+
+(5) Öğrenciler tekrarlamak veya ilk defa almak zorunda oldukları derslerin çokluğu ve alınacak derslerin çakışması durumunda, kayıt olacakları yarıyılın öğretim planındaki derslerin bir kısmını veya tamamını almayabilirler. Ancak, bu nedenle derse kayıt olunamaması 14 üncü maddenin birinci fıkrasında öngörülen öğretim süresinin işlemesine engel olmaz.
+
+(6) Üniversiteye kayıtlı öğrenciler de aynı dönemde örgün öğretim yapmakta olan başka bir yükseköğretim kurumuna kayıt yaptıramaz ve öğrenim göremezler.
+
+**Bitirme tasarım projesi/Bitirme Ödevi**
+
+**MADDE 18 –** (1) **(Değişik:RG - 04/08/2019 - 30852)** Öğrencinin, mezun olmadan önce, istenen mesleki düzeye ulaştığını gösteren Tasarım projesi-çalışmasını, mezun olacağı programdan yapması zorunludur. Bitirme Tasarım projesi çalışması/bitirme ödevi, öğretim planlarının 7. yarıyılında Tasarım Projesi I, 8.yarıyılında Tasarım Projesi II (sekizinci yarıyıl )dersi olarak yer alır. Öğretim dili % 30 İngilizce olan lisans programlarında kayıtlı olan öğrencinin isteği ve Tasarım projesi çalışması yürütücüsünün uygun görmesi durumunda, Tasarım Projesi İngilizce hazırlanabilir ve başarılması durumunda kredisi, % 30 İngilizce öğretim kapsamında kabul edilir. Mimarlık Fakültesine bağlı bölümlerin öğretim planlarında Tasarım Projesi I ve II dersleri yerine sekizinci yarıyıl dersi olan Diploma Projesi yer alır.
+
+(2) **(Değişik:RG - 04/08/2019 - 30852)** Tasarım Projesi/Diploma Projesi çalışması ile ilgili hususlar, ilgili yönetim kurullarının görüşleri alınarak Senato tarafından belirlenecek esaslara göre uygulanır.
+
+DÖRDÜNCÜ BÖLÜM
+
+Notlar, İşaretler, Sınavlar ve Başarı Durumu
+
+**Yabancı dil hazırlık programı**
+
+**MADDE 19 –** (1) Yabancı dil hazırlık programındaki notlar, sınavlar ve başarı durumu ile ilgili hususlarda; 23/2/2003 tarihli ve 25029 sayılı Resmî Gazete’de yayımlanan İstanbul Teknik Üniversitesi Lisans İngilizce Hazırlık Eğitim ve Öğretim Yönetmeliği hükümleri uygulanır.
+
+**Notlar ve işaretler**
+
+**MADDE 20 –** (1) Lisans eğitim ve öğretiminde, öğrencinin bir dersteki başarısı, bağıl değerlendirme yöntemi ile belirlenir. Bu değerlendirme, öğrencinin yarıyıl içi çalışmalarında gösterdiği başarı ve yarıyıl sonu sınavında aldığı not birlikte değerlendirilerek ve sınıfın genel başarı düzeyi göz önünde bulundurularak saptanır. İlgili bölümler tarafından belirlenen en az ham not üzerindeki bağıl değerlendirme, dersi veren öğretim üyesi tarafından, notların dağılımı ve sınıf ortalaması göz önünde bulundurularak yapılır.
+
+(2) Bir dersteki başarı durumu başarı notu ile belirlenir. Başarı notu harflerinin anlamları şunlardır:
+
+a)**(Değişik:RG - 04/12/2023 - 32389)** Bir dersten (AA), (BA+), (BA), (BB+), (BB), (CB+), (CB), (CC+) ve (CC) notlarından birisini alan öğrenci o dersi başarmış sayılır.
+
+b)**(Değişik:RG - 04/12/2023 - 32389)** Bir dersten (DC+), (DC), (DD+) ve (DD) notlarından birisini alan öğrenci, o dersi şartlı başarmış kabul edilir.”
+
+c) Bir dersten (FF) notunu alan öğrenci o dersten başarısız sayılır.
+
+ç) Bir dersten (VF) notunu alan öğrenci yılsonu sınavına giremez ve başarısız kabul edilir.
+
+(3) Başarı notu harfleri dışında kullanılan diğer harflerin anlamları şunlardır:
+
+a) BL: Kredisiz olarak alınan dersten başarılı.
+
+b) BZ: Kredisiz olarak alınan dersten başarısız.
+
+c) T: Öğrencilerin kayıtlı bulundukları bir dersten bu Yönetmeliğin 17 nci maddesinin ikinci ve üçüncü fıkrasında belirtilen süre içerisinde çekildiklerini gösteren işarettir.
+
+ç) **(Değişik:RG - 04/08/2019 - 30852)** E:Proje, Tasarım projesi ve benzeri çalışmalarda, çalışmasını belirlenen sürede bitiremeyen öğrenciye verilir. Çalışmanın ne zaman tamamlanacağı öğretim üyesi tarafından belirlenir. Belirlenen sürede çalışmasını tamamlayamayan öğrenciye FF notu verilir.
+
+d)**(Ek:RG - 04/12/2023 - 32389)** M: Üniversite tarafından muaf tutulan dersler için kullanılan notu ifade eder. Bu dersler ağırlıklı genel not ortalamasına katılmaz.(4)**(Değişik:RG - 04/12/2023 - 32389)** Başarı notlarının ifade ettikleri başarı dereceleri ve katsayıları aşağıdaki tabloda gösterilmiştir:
+
+|  | Harf Notu | Başarı Notu |
+| --- | --- | --- |
+| Mükemmel | AA | 4.00 |
+| Çok iyi üzeri | BA+ | 3.75 |
+| Çok iyi | BA | 3.50 |
+| İyi üzeri | BB+ | 3.25 |
+| İyi | BB | 3.00 |
+| Orta Üzeri | CB+ | 2.75 |
+| Orta | CB | 2.50 |
+| Yeterli üzeri | CC+ | 2.25 |
+| Yeterli | CC | 2.00 |
+| Koşullu-geçer | DC+ | 1.75 |
+| Koşullu-geçer | DC | 1.50 |
+| Koşullu-geçer | DD+ | 1.25 |
+| Koşullu-geçer | DD | 1.00 |
+| Başarısız | FF | 0.00 |
+| Vizesiz başarısız | VF | 0.00 |
+
+**Gözetim listesi**
+
+**MADDE 21 –** (1) Aşağıda gösterilen öğrenciler gözetim listesine alınır:
+
+a) Birinci ve ikinci sınıfta olup herhangi bir yarıyıl sonunda ağırlıklı genel not ortalamaları 1.80’in altında olan öğrenciler,
+
+b) Üçüncü sınıfta olup ağırlıklı genel not ortalamaları 1.90’ın altında olan öğrenciler,
+
+c) Dördüncü sınıfta olup ağırlıklı genel not ortalamaları 2.00’ın altında olan öğrenciler.
+
+(2) Gözetim listesine alınan öğrencilerin bir yarıyıldaki kredi yükü en fazla 18 olabilir. Bu öğrenciler, açıldığı takdirde, daha önce başarısız oldukları, şartlı başardıkları ve/veya ön şartlarını sağladıkları dersleri yarıyıl gözetmeksizin alabilirler. Gözetim listesinde iken ağırlıklı genel not ortalamalarını belirtilen düzeylerin üzerine çıkartan öğrenciler normal statüde öğrenimlerine devam ederler.
+
+(3) Kayıtlı bulunulan yarıyıl sonu itibariyle ağırlıklı genel not ortalaması belirlenirken, alt yarıyıllardan alınamayan derslerle, 17 nci maddenin ikinci ve üçüncü fıkrası uyarınca öğrencinin çekildiği dersler ağırlıklı not ortalamasına katılmaz.
+
+**Ağırlıklı genel not ortalamasının yükseltilmesi**
+
+**MADDE 22 –** (1) Genel not ortalamasını yükseltmek isteyen öğrenci, bu Yönetmeliğin 14 üncü maddesinde belirtilen hükümler saklı kalmak koşulu ile daha önce alıp başardığı dersleri tekrar alabilir. Bu dersler için son alınan notlar geçerlidir. Öğrencinin Üniversitede aldığı derslerin bütün notları ve işaretleri öğrenim belgesinde gösterilir.
+
+(2) Öğrenciler AA notu ile geçtikleri dersleri tekrar edemezler.
+
+**Değerlendirme**
+
+**MADDE 23** – (1)**(Değişik:RG - 04/12/2023 - 32389)** Derslere %70, laboratuvar ve atölye gibi bağımsız uygulamalı derslere en az %80 oranında devam zorunludur. Senato tarafından belirlenen ders başarı ölçme ve değerlendirme esaslarına uygun şekilde, bölümün önerisi, fakülte/konservatuvar kurulunun onayı ile belirlenerek açıklanmış olan yarıyıl içi başarı notunu ve devam koşulunu sağlayan öğrenci yarıyıl sonu sınavına girer  
+(2) Yarıyıl sonu sınavı yapılmayan ve sadece yarıyıl içi çalışmasına bağlı olarak başarı notu verilen dersler ilgili bölüm başkanlığı tarafından belirlenir ve ilan edilir.  
+(3) Yarıyıl içi başarı notu; yarıyıl içinde yapılan çalışmaların, ödevlerin, projelerin, ara sınavların, kısa sınavların ve benzeri faaliyetlerin ağırlıklı ortalamasıdır. Yarıyıl başında, dersin yarıyıl içi başarı notunun ne olacağı ve ağırlıklı hesaplama değerleri ders müfredat formu üzerinde gösterilmek zorundadır. Öğretim elemanı, yarıyıl içi başarı notlarını ve yarıyıl sonu sınavına giremeyecek öğrencilerin listesini akademik takvime göre ilan eder.  
+(4) Bir dersin başarı notu; yarıyıl içi başarı notu ve yarıyıl sonu sınav notunun bağıl not sistemi ile değerlendirilmesi sonucu oluşur. Hem yarıyıl içi başarı notu hem de yarıyıl sonu sınavının ders başarı notuna katkısı bölüm başkanlığı tarafından yarıyıl başında ders müfredat formu aracılığı ile ilan edilir.  
+(5) Bir dersin yarıyıl içi başarı koşulunu yerine getiremeyen öğrenci, bu dersten VF harf notu alır ve yarıyıl sonu sınavına giremez. Bir dersten VF harf notu alarak başarısız olan öğrenci, o dersi tekrar almak ve yarıyıl içi başarı koşullarını sağlamak zorundadır.  
+(6)**(Değişik:RG - 04/12/2023 - 32389)** Yarıyıl sonu sınavının başarı notuna katkısı %40’tan az, %60’tan fazla olamaz. Gerekli görülen hallerde ilgili kurul kararı ile bu oranlar değiştirilebilir.  
+(7) Öğrencilerin bir dersteki başarı durumunu gösteren liste, akademik takvimde ilan edilen tarihe göre öğretim elemanı tarafından açıklanır. İlgili yönetim kurulu gerektiğinde bir dersin öğretim elemanından, dersle ilgili başarı durumunu yeniden değerlendirmesini isteyebilir. Yarıyıl içi ve yarıyıl sonu not dağılımlarının başarı durumu değerlendirme istatistikleri dersin öğretim elemanı tarafından ilgili bölüm başkanlığına o yarıyılın sonunda akademik takvimde ilan edilen tarihe göre teslim edilir.  
+(8) Ağırlıklı genel not ortalaması en az 2,00 olan, bir yarıyıl sonunda o yarıyılda en az 18 kredi ders almış ve başarmış öğrenci ile en az sürede mezun durumuna gelmiş olan öğrenci, sadece mezun olduğu yarıyılda kredi limiti aranılmadan aşağıda belirtilen şekilde değerlendirilir:  
+a) Yarıyıl sonu not ortalaması 3,00-3,49 arasında olan “Onur”,  
+b) 3,50-4,00 arasında olan “Yüksek Onur”,  
+öğrencisi olarak tanımlanır. Bu değerlendirmeler not belgesinde yarıyıl bazında belirtilir. Herhangi bir yarıyılda not belgesinde FF veya VF bulunan öğrenci not ortalaması yeterli olsa bile o yarıyılda “Onur” veya “Yüksek Onur” öğrencisi olamaz.”
+
+**Mazeretler**
+
+**MADDE 24 –** (1) Mazeretlerin kabulü ile ilgili olarak Senato tarafından belirlenen esaslarda tanımlanan istisnai durumlarda, yarıyıl içi sınavlarına geçerli mazeretleri nedeniyle giremeyen öğrenciler, mazeretlerinin kabul edilmesi halinde mazeret sınavına alınırlar. Öğrencilerin mazeretli sayılmasına Senato tarafından belirlenen esaslara uygun olarak, ilgili yönetim kurulu tarafından karar verilir. Bu durumda olan öğrencilerin mazeretli olduğu yarıyıl içi sınav notu mazeret sınavından aldığı nottur.
+
+(2) Mazeretleri nedeniyle yarıyıl sonu sınavına giremeyen öğrenciler mazeretlerinin bitimini izleyen beş iş günü içinde ilgili fakülteye başvururlar. Geçerli mazeretlerini, Senatonun belirlediği esaslara uygun olarak belgelendiren ve mazeretleri ilgili yönetim kurulunca kabul edilen öğrenciler, yarıyıl sonu sınavlarını izleyen hafta içerisinde yapılacak yarıyıl sonu mazeret sınavına girebilirler. Mazeretlerin kabulünün takdiri ilgili yönetim kuruluna aittir.
+
+**Yarıyıl sonu sınav dönemi**
+
+**MADDE 25 –** (1) Her yarıyıl sonunda bir sınav dönemi vardır. Sınav dönemi içinde ilgili yönetim kurulunca kabul edilecek nedenlerle sınavı yapılamayan dersler için o sınav dönemine süre eklenir.
+
+(2) **(Değişik:RG - 04/08/2019 - 30852)** Arazi üzerinde yapılması gereken derslerle, sınava girme hakkı bir arazi çalışmasının sonucuna bağlı olan derslerin sınavları arazi çalışmalarının bitiminde de yapılabilir. Tasarım Projesi sınavı/Diploma Projesi sınavı, yarıyıl sonu veya yaz öğretimi sonu sınav dönemlerinde veya onu izleyen hafta içinde yapılır.
+
+**Sınav programları ve sınavların yeri**
+
+**MADDE 26 –** (1) Yarıyıl sonu sınav programları, Öğrenci İşleri Daire Başkanlığı tarafından, sınav dönemi başlamadan en az iki hafta önce ilan edilir. Sınavlar, programda gösterilen gün, yer ve saatte Üniversite binalarında yapılır. Ancak, arazi üzerinde yapılan ders ve uygulamaların sınavları, arazi üzerinde veya Üniversite binaları dışında yapılabilir.
+
+**Sınav şekli**
+
+**MADDE 27 –** (1) Yarıyıl sonu sınavları genelde yazılı olarak yapılır. Ancak bölümlerden gelecek istek üzerine ilgili kurullar sınavın sözlü veya sözlü-yazılı veya proje değerlendirme ve/veya sunum olarak yapılmasına karar verebilir. Bu yöndeki karar yarıyılın başında öğrencilere verilen başarı değerlendirme formunda ilan edilir. Sınavları, o dersi vermekle görevli öğretim üyesi veya öğretim görevlisi, okutman ve benzeri kişiler düzenler ve yönetir. Sorumlu öğretim üyesi veya öğretim görevlisi, okutmanın sınav günü Üniversitede bulunmaması halinde, sınavı kimin yapacağı bölüm başkanı tarafından belirlenir. Sınavların düzenli bir biçimde yürütülebilmesi için ilgili fakültedeki bütün öğretim elemanları görevlendirilebilir.
+
+**Sınav sonuçlarına itiraz ve not değişikliği  
+MADDE 28 (Değişik Cümle:RG-26/01/2020-31020) (Değişik Cümle:RG-31/3/2018-30377)** – (1) Öğrenci, bir dersteki başarı durumu sonucuna, dersin başarı durumu listesinin ilan edilmesinden itibaren beş iş günü içerisinde, ilgili fakülte dekanlığına yazılı olarak başvurarak itiraz edebilir. İlgili dekanlık, dersin öğretim elemanına öğrencinin başarı notuna katkısı bulunan bütün çalışmaları tekrar inceleterek, öğrencinin itirazını ve öğretim elemanının yaptığı yeni değerlendirmeyi iki hafta içinde ilgili yönetim kurulunda karara bağlar.
+
+(2) İlan edilen notun değiştirilmesini isteyen öğretim elemanı iki hafta içerisinde öğrencinin kayıtlı olduğu fakülte dekanlığına yazılı olarak başvurur. İlgili yönetim kurulu öğretim elemanının notun değiştirilmesine ilişkin talebini iki hafta içerisinde karara bağlar.
+
+BEŞİNCİ BÖLÜM
+
+Değerlendirmeler
+
+**Birim kredi**
+
+**MADDE 29 –** (1) **(Değişik:RG - 04/08/2019 - 30852)** Ders, uygulama, laboratuvar, proje, seminer, atölye ve Tasarım Projesinin/Diploma projesinin öğretim bakımından değerlendirilmesi birim kredi üzerinden yapılır. Derslerin ve seminerlerin, bir yarıyıl süre ile haftada bir ders saati, bir kredidir. Uygulama, laboratuvar, proje ve atölye çalışmalarının haftada bir saati, yarım kredi olarak kabul edilir. Senato kararı ile sertifika almaya yönelik dersler kredisiz olarak açılabilir.
+
+**Ağırlıklı genel not ortalaması**
+
+**MADDE 30 –** (1) Ağırlıklı genel not ortalaması; öğrenim belgelerinde virgülden sonra iki hane ile gösterilir.
+
+**Öğretimi bitirme**
+
+**MADDE 31 –** (1) Kayıtlı olduğu programın öğretim planında gösterilen zorunlu derslerle, ders planında yer alan toplam krediyi sağlayacak şekilde seçmeli dersleri alan ve başaran, ağırlıklı genel not ortalamasını en az 2.00 düzeyine çıkarmış, bu Yönetmelikte belirtilen stajlar dahil, bütün çalışmaları başarmış ve aldığı kredilerin, % 100 İngilizce programında, Türkçe verilmesi zorunlu dersler hariç, tamamını İngilizce ve % 30 İngilizce programında ise en az % 30’unu İngilizce derslerden alarak tamamlamış öğrenci, öğrenimini bitirmiş/tamamlamış sayılır ve kendisine 11 inci maddede belirtilen diploma verilir. % 100 İngilizce programa yatay geçiş yapan öğrencilerin İngilizce kredisi bakımından öğrenimlerini bitirmeleri/tamamlamaları sadece geçiş yapılan programdaki dersler dikkate alınarak yapılır.
+
+(2) **(Değişik:RG- 04/08/2019 - 30852)** Kayıtlı oldukları programlarını yukarıda belirtilen şekilde tamamlayanlara, ilgili programları, aldıkları ders, proje, laboratuvar, Tasarım Projesi /Diploma Projesi ve benzeri çalışmalarını, başarı notları ve ağırlıklı genel not ortalamasını, gözetim, iyi durum, onur ve yüksek onur listelerinde olduklarını gösteren bir öğrenim belgesi/transkript verilir. Öğrenim belgesinde, öğrencinin İngilizce alarak başardığı dersler ayrıca belirtilir.
+
+ALTINCI BÖLÜM
+
+Çeşitli ve Son Hükümler
+
+**İzin ve hakların saklı tutulması**
+
+**MADDE 32 –** (1) İzin, öğrencilerin ilgili akademik birimlerin onayı ile geçici bir süre için kayıtlı oldukları programa/programlara ara vermeleridir. İzin başvurusu yapılabilmesi için başvuru tarihinde öğrencinin kayıtlı veya izinli statüde olması zorunludur. Aşağıda belirtilen nedenlerin varlığı halinde ilgili yönetim kurulu kararıyla öğrenciye izin verilebilir:
+
+a) Öğrencinin sağlık raporları ile belgelenmiş sağlıkla ilgili mazeretinin olması,
+
+b) 2547 sayılı Kanunun 7 nci maddesi uyarınca eğitim ve öğretimin aksaması sonucunu doğuracak olaylar nedeniyle Yükseköğretim Kurulunca eğitim ve öğretime ara verilmesi,
+
+c) Mahallin en büyük mülki idare amirince verilecek bir belge ile belgelenmiş olması şartı ile tabii afetler nedeniyle öğrencinin öğrenimine ara vermek zorunda kalmış olması,
+
+ç) Öğrencinin tutukluluk hali,
+
+d) Yükseköğretim Kurumları Öğrenci Disiplin Yönetmeliği hükümlerine göre öğrencinin, yükseköğretim kurumundan çıkarma cezası almasını gerektirmeyen mahkûmiyet halinin olması,
+
+e) Öğrencinin askere alınması,
+
+f) İlgili birim yönetim kurulunun haklı ve geçerli kabul edeceği diğer nedenlerin ortaya çıkması,
+
+g) Öğrencinin öğrenimini sürdürmesine engel teşkil eden ekonomik sebeplerin varlığı.
+
+(2) Yukarıda belirtilen nedenlerle izin istenilmesi halinde öğrencinin, olayın meydana gelmesinden itibaren en geç otuz gün içinde, bağlı bulunduğu fakülteye başvurması ve olayı gerekli belgelerle kanıtlaması zorunludur.
+
+(3) Hastalık, doğal afetler, tutukluluk, mahkûmiyet ve askerlik tecilinin kaldırılması gibi önceden öngörülemeyen ve bilinemeyen nedenlerle yarıyıl süresi içinde de izin verilebilir. Belirtilen nedenlerin sınav döneminde ortaya çıkması halinde, aynı usulle işlem yapılır. Yarıyıl içinde izin verilmesi halinde, öğrenci yarıyıl başından itibaren izinli sayılır.
+
+(4) Ekonomik nedenler ve ilgili yönetim kurullarınca önceden öngörülemeyen ve bilinemeyen nedenler haricinde ki kabul edilebilecek diğer nedenlerle izin ancak yarıyıl başında verilebilir. Bu durumda izin için başvurunun, nedenlerinin açıklanması ve belgelenmesinin kayıt işlemleri tamamlandıktan sonraki 30 gün içinde yapılması zorunludur. Ani hastalık ve beklenmedik haller dışında bu süreler bittikten sonra yapılacak başvurular işleme konulmaz.
+
+(5) Bir öğrenciye öğretim süresince toplam olarak en çok dört yarıyıl izin verilebilir. Ancak, ekonomik nedenlerle verilen izinler dışında bu madde de belirtilen diğer nedenlerin devamı halinde, ilgili Yönetim Kurulunca iznin uzatılması yoluna gidilebilir. Askerlik, tutukluluk ve mahkûmiyet durumlarında ise izin, bu hallerin süresi kadardır.
+
+(6) İzinli öğrencilerin Üniversiteye girişte verdiği belgeler geri verilmez. Ekonomik nedenler, yurt dışında yabancı dil öğrenimi için verilen izinler ve ilgili yönetim kurullarınca kabul edilebilecek diğer nedenlerle öğrencilere verilen ve kararda süreden sayıldığı belirtilen izinler hariç olmak üzere bu maddede belirtilen diğer nedenlerle izin ve hakların saklı tutulması halinde öğrencinin öğrenim süresi ve ek süresi işlemez ve bu süreler azami öğretim sürelerinin hesabında dikkate alınmaz. Bu süre içinde öğrenciler izinli sayılır ve tüm öğrencilik hakları saklı tutulur. İzin süresince öğrenci eğitim ve öğretim faaliyetleri ile sınavlara katılamaz. Öğrenci, izni bittiğinde izne ayrıldığı öğretim durumundan başlayarak öğrenciliğe devam eder.
+
+(7) Psikolojik rahatsızlıklar nedeni ile tüm öğretim süresi içinde devamsızlığı iki yılı aşan ve bu durumunu bir sağlık kuruluşundan alınacak sağlık raporu ile belgelendiren öğrencilerden, öğrenimlerine devam etmek istedikleri takdirde, yeniden sağlık raporu almaları istenir. Bu rapor, ilgili yönetim kurulunca incelendikten sonra, öğrencinin öğrenimine devam edip edemeyeceğine karar verilir.
+
+**Üniversiteden ayrılma**
+
+**MADDE 33 –** (1) Kendi isteği ile Üniversiteden ayrılacak öğrenci, Öğrenci İşleri Daire Başkanlığına yazılı olarak başvurur.
+
+(2)**(Değişik:RG - 04/12/2023 - 32389)** Öğrencilerin, Öğrencilerin, 2547 sayılı Kanunun 54 üncü maddesi uyarınca yükseköğretim kurumundan çıkarma cezası almış olmaları halinde ilgili birim yönetim kurulu kararıyla Üniversite ile ilişikleri kesilir
+
+(3) Azami süreler içinde katkı payı veya öğrenim ücretinin ödenmemesi ile kayıt yenilenmemesi nedeniyle öğrencilerin ilişikleri kesilmez. Ancak Senatonun kararı ve Yükseköğretim Kurulunun onayı ile dört yıl üst üste katkı payı veya öğrenim ücretinin ödenmemesi ile kayıt yenilenmemesi nedeniyle öğrencilerin ilişikleri kesilebilir.
+
+(4) İlişiği kesilen öğrencilere, yazılı olarak başvurmaları halinde durumlarını gösteren bir belge verilir. Üniversiteye kayıt sırasında verdikleri belgelerden sadece lise diploması geri verilir. Diplomanın bir fotokopisi, üzerine öğrencinin aslını elden aldığına dair yazılı beyanı alındıktan sonra öğrencinin dosyasında saklanır.
+
+(5) Üniversiteden yatay geçiş yolu ile ayrılanların dosya muhteviyatı, geçiş yaptığı yükseköğretim kurumunun yazısı üzerine ilgili birime gönderilir. Gönderilen belgelerin tümünün birer fotokopisi öğrencinin dosyasında saklanır.
+
+**Anlaşmalı yurt dışı üniversitelere gönderilen öğrenciler**
+
+**MADDE 34 –** (1) Üniversite ile yurt dışındaki bir üniversite arasında yapılan anlaşma uyarınca, öğrenci değişim programları çerçevesinde, Üniversite tarafından bir veya iki yarıyıl yurt dışındaki üniversitelere öğrenci gönderilebilir. Bu süre içinde öğrencilerin Üniversitedeki kaydı devam eder ve bu süre öğretim süresinden sayılır. Üniversiteye kayıtlı olan öğrencilerin, uluslararası öğrenci değişim programları kapsamında aynı düzeyde başka bir yükseköğretim kurumundan aldıkları ders veya uygulamaların kredileri, Senato kararı ile kayıtlı olunan diploma programındaki yükümlülüklerin yerine sayılabilir. Öğrencinin değişim programına katılarak aldığı derslerin kredisinin toplamı, kayıtlı olduğu programın toplam kredisinin üçte birinden fazla olamaz. Değişim programındaki öğrenciler katkı paylarını Üniversiteye öderler. Başvuru koşulları, kabul şartları ve başarı notlarının Üniversitedeki başarı durumuna nasıl yansıtılacağı Senato tarafından belirlenir.
+
+**Yaz öğretimi, çift ana dal ve yan dal programları**
+
+**MADDE 35 –** (1) Yaz öğretimi, çift ana dal ve yan dal programlarında uyulacak esaslar Senato tarafından belirlenir.
+
+**Ön lisans diploması**
+
+**MADDE 36 –** (1) Bağlı bulunduğu fakülteden ilişiğinin kesilmesi durumuna gelen ve dördüncü yarıyıl sonuna kadar öğretim planında bulunan zorunlu ve seçmeli ders kredilerini bu Yönetmelik hükümlerine göre başarı ile tamamlayan ve dördüncü yarıyıl sonu itibarıyla ağırlıklı genel not ortalaması en az 2.00’ye ulaşmış olan öğrencilere ön lisans diploması verilir. Ön lisans diploması alınabilmesi için % 30 veya %100 İngilizce öğretim şartı aranmaz.
+
+**Tebligat**
+
+**MADDE 37 –** (1) Her türlü tebligat, öğrencinin Üniversiteye kayıt sırasında bildirdiği ya da daha sonra öğrenci bilgi sisteminde güncellediği posta adresine taahhütlü olarak yapılmak veya Üniversite tarafından verilen resmi kullanıcı adına tanımlanmış e-posta adresine gönderilmek veya ilgili fakültede/müdürlükte/yüksekokulda ilan edilmek suretiyle tamamlanmış sayılır.
+
+(2) Öğrenci, Üniversite tarafından verilen resmi e-posta adresini aktif durumda tutmak, sürekli e-postalarını takip etmek, Üniversiteye kayıt sırasında bildirdiği adresi değiştirdiği takdirde yeni adresini öğrenci bilgi sistemi üzerinden güncellemek zorundadır.
+
+(3) Öğrencinin takip etmemesi nedeniyle e-postanın gönderildiği resmi e-posta adresinin aktif olmaması nedeniyle okunmamış tebligatlar veya yanlış/eksik adres beyan edilmiş adrese yapılmış tebligatlar tebliğ edilmiş sayılır.
+
+(4) Öğrencilerin genelini ilgilendiren yönetmelik, yönerge, senato esasları, akademik işlemler ve değişiklikler ve sair işlemler ile ilgili düzenlemeler, Üniversitenin resmi web sitesinde yayımlanır. Öğrenci duyuruları takip etmekle yükümlüdür.
+
+**Engelli öğrenciler**
+
+**MADDE 38 –** (1) Üniversite Yönetim Kurulu ve ilgili birim yönetim kurulu, engelli öğrenciler için gerekli düzenlemeleri yapma ve uygulama konusunda yetkilidir.
+
+**Disiplin**
+
+**MADDE 39 –** (1)**(Değişik:RG - 04/12/2023 - 32389)** Öğrencilerin disiplin iş ve işlemleri, 2547 sayılı Kanunun 54 üncü maddesi hükümlerine göre yürütülür.
+
+**Hüküm bulunmayan haller**
+
+**MADDE 40 –** (1) Bu Yönetmelikte hüküm bulunmayan hallerde ilgili diğer mevzuat hükümleri ile Senato ve ilgili birimlerin kurul kararları uygulanır.
+
+**Yürürlükten kaldırılan yönetmelik**
+
+**MADDE 41 –** (1) 28/9/2011 tarihli ve 28068 sayılı Resmî Gazete’de yayımlanan İstanbul Teknik Üniversitesi Lisans Eğitim ve Öğretim Yönetmeliği yürürlükten kaldırılmıştır.
+
+(2) 3/9/1993 tarihli ve 21687 sayılı Resmî Gazete’de yayımlanan İstanbul Teknik Üniversitesi Diploma, Diploma Defteri, Mezuniyet Belgesi ile Diğer Belgelerin Düzenlenmesine İlişkin Yönetmelik yürürlükten kaldırılmıştır.
+
+**Yürürlük**
+
+**MADDE 42 –** (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+**Yürütme**
+
+**MADDE 43 –** (1) Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.
+
+ |

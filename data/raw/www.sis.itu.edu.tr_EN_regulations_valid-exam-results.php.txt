@@ -1,0 +1,235 @@
+Title: İTÜ | Registrar's Office
+
+URL Source: http://www.sis.itu.edu.tr/EN/regulations/valid-exam-results.php
+
+Markdown Content:
+Valid Exam Results
+===============
+                           
+
+*   [**SIS Login**](https://www.sis.itu.edu.tr/EN/system-login/login.php)
+*   [İTÜ Homepage](https://www.itu.edu.tr/)
+*   [Ninova](https://ninova.itu.edu.tr/en/)
+*   [**Program Information**](https://www.tyyc.itu.edu.tr/index.php?Dili=EN)
+*   [Dean of Students](https://odek.itu.edu.tr/en/home)
+*   [Help](https://yardim.itu.edu.tr/birim.aspx?birim=2&ogrenci+isleri+daire+baskanligi)
+*   [Contact](https://www.sis.itu.edu.tr/EN/contact/contact.php)
+*   [TÜRKÇE](http://www.sis.itu.edu.tr/TR/mevzuat/yurtdisi-gecerli-sinavlar.php)
+*   [![Image 5](https://www.sis.itu.edu.tr/icon/search.png)](https://www.sis.itu.edu.tr/EN/search/search.php)
+
+ [![Image 6](http://www.sis.itu.edu.tr/v2/lib/img/oidb-logo-en.png)](https://www.sis.itu.edu.tr/EN/index.php)[![Image 7](http://www.sis.itu.edu.tr/v2/lib/img/oidb-logo-en.png)](https://www.sis.itu.edu.tr/EN/index.php)
+
+*   [About Us](http://www.sis.itu.edu.tr/EN/regulations/hakkimizda.html)
+    *   [History](https://www.sis.itu.edu.tr/EN/about-us/history.php)
+    *   [Mission](https://www.sis.itu.edu.tr/EN/about-us/mission.php)
+    *   [Vision](https://www.sis.itu.edu.tr/EN/about-us/vision.php)
+    *   [Activities](https://www.sis.itu.edu.tr/EN/about-us/our-activities.php)
+    *   [Management and Administrative Staff](https://www.sis.itu.edu.tr/EN/about-us/management-administrative-staff.php)
+    *   [Processes](http://www.sis.itu.edu.tr/EN/regulations/surecler.html)
+        *   [Sensitive Tasks](https://www.sis.itu.edu.tr/TR/hakkimizda/hassas-gorevler.php)
+        *   [Work Flow Processes](https://www.sis.itu.edu.tr/TR/hakkimizda/is-akis-surecleri.php)
+*   About SIS
+    *   [About the System](https://www.sis.itu.edu.tr/EN/about-sis/about-the-system.php)
+    *   [About System Login](https://www.sis.itu.edu.tr/EN/about-sis/system_login_instruction.php)
+    *   [Explanations for Students](https://www.sis.itu.edu.tr/EN/about-sis/explanations-for-students.php)
+    *   [Explanations for Instructors](https://www.sis.itu.edu.tr/EN/about-sis/explanations-for-instructors.php)
+    *   [Building Codes](https://www.sis.itu.edu.tr/EN/about-sis/building-codes.php)
+    *   [Associate Program Codes](https://www.sis.itu.edu.tr/EN/about-sis/associate-program-codes.php)
+    *   [Undergraduate Program Codes](https://www.sis.itu.edu.tr/EN/about-sis/undergraduate-program-codes.php)
+    *   [Graduate Course Codes](https://www.sis.itu.edu.tr/EN/about-sis/graduate-course-codes.php)
+*   Students
+    *   Undergraduate
+        *   [Preparatory Class](http://www.ydy.itu.edu.tr/en/homepage)
+        *   [İTÜ TÖMER (Turkish Preparatory Class)](https://tomer.itu.edu.tr/en/homepage)
+        *   [Undergraduate Course Plans](https://obs.itu.edu.tr/public/DersPlan/)
+        *   [Course Equivalence](https://obs.itu.edu.tr/public/GenelTanimlamalar/DersPlanDenklikleri)
+        *   [Prerequisites](https://obs.itu.edu.tr/public/GenelTanimlamalar/DersOnsartList)
+        *   [Course Information](https://www.sis.itu.edu.tr/EN/student/undergraduate/course-information/course-information.php)
+        *   [Double Major,Minor,Transfer Students](https://www.sis.itu.edu.tr/EN/student/undergraduate/double-major-minor-transfer-students/double-major-minor-transfer-students.php)
+        *   [Engineering Completion](https://www.sis.itu.edu.tr/EN/student/undergraduate/engineering-completion/engineering-completion.php)
+        *   [Undergraduate Adjustment Report Archive](https://www.sis.itu.edu.tr/onkayitlar/OgrenciIntibakArsivi/sonuc/index.php)
+        *   [Students Reached the Maximum Time Frame](https://www.sis.itu.edu.tr/EN/student/undergraduate/students-reached-the-maximum-time-frame/students-reached-the-maximum-time-frame.php)
+        *   [MasterBee](https://masterbee.itu.edu.tr/)
+        *   [Microcredit](https://mikrokredi.itu.edu.tr/en/home)
+    *   Graduate
+        *   [Graduate Course Codes](https://www.sis.itu.edu.tr/EN/about-sis/graduate-course-codes.php)
+        *   [Graduate Course Schedules](https://www.sis.itu.edu.tr/EN/student/course-schedules/course-schedules.php?seviye=LU)
+        *   [Graduate School](http://lee.itu.edu.tr/en/home-page)
+    *   [International Students](https://www.sis.itu.edu.tr/EN/student/intenational-students/international-students.php)
+    *   [Course Schedules](https://obs.itu.edu.tr/public/DersProgram)
+    *   [Final Exam Schedules](https://www.sis.itu.edu.tr/EN/student/final-exam-schedules/final-exam-schedules.php)
+    *   [Special Student](https://www.sis.itu.edu.tr/EN/student/special-student/special-student.php)
+    *   [Student Fee/Tuition Fee Payments](https://www.sis.itu.edu.tr/EN/student/tuition-fee/tuition-fee.php)
+    *   [Erasmus Exchange Programs](https://www.sis.itu.edu.tr/EN/student/erasmus-exchange-programs/erasmus-exchange-programs.php)
+    *   [Forms](https://www.sis.itu.edu.tr/EN/student/forms/forms.php)
+    *   [Document Fees](https://www.sis.itu.edu.tr/EN/student/document-fees/document-fees.php)
+    *   [Education Verification Processes](https://www.sis.itu.edu.tr/EN/student/education-verification-processes/education-verification-processes.php)
+    *   [Academic Calendar](https://www.sis.itu.edu.tr/EN/student/academic-calendar/academic-calendar.php)
+    *   [Equivalence Document](https://www.sis.itu.edu.tr/EN/student/equivalence-document/equivalence-document.php)
+    *   [Graduation and Diploma](https://www.sis.itu.edu.tr/EN/student/graduation-and-diploma/graduation-and-diploma.php)
+*   Registration Processes
+    *   Undergraduate
+        *   [Course Registration](https://www.sis.itu.edu.tr/EN/student/undergraduate/course-registration/undergraduate-course-registration-process.php)
+        *   [Course Registration(Double Major,Minor,etc.,)](https://www.sis.itu.edu.tr/EN/student/undergraduate/course-registration/undergraduate-course-registration-process-other.php)
+        *   [Double Major, Minor, Transfer Application](https://www.sis.itu.edu.tr/EN/student/undergraduate/course-registration/double-major-minor-transfer-application.php)
+    *   Graduate
+        *   [Master's Degree Course Stage](https://lee.itu.edu.tr/en/students/masters-degree/course-stage-procedure)
+        *   [Master's Degree Thesis Delivery](https://lee.itu.edu.tr/en/students/masters-degree/thesis-delivery-procedure)
+        *   [PhD Course and Qualifying Stage](https://lee.itu.edu.tr/en/students/phd-degree/course-and-qualifying-stage-procedure)
+        *   [PhD Thesis Proposal and Study](https://lee.itu.edu.tr/en/students/phd-degree/thesis-proposal-and-study-procedure)
+        *   [PhD Thesis Delivery](https://lee.itu.edu.tr/en/students/phd-degree/thesis-delivery-procedure)
+*   Regulations
+    *   [Regulations and Guidelines](https://www.sis.itu.edu.tr/TR/mevzuat/mevzuat.php)
+    *   [Valid English Tests](https://www.sis.itu.edu.tr/EN/regulations/valid-english-tests-and-minimum-scores.php)
+*   [Application and Admission](https://www.sis.itu.edu.tr/EN/application-admission/application-admission.php)
+*   [FAQ](https://sss.sis.itu.edu.tr/en "Frequently Asked Questions")
+*   [SIS Login](https://www.sis.itu.edu.tr/EN/system-login/login.php)
+
+[](javascript:;)
+
+*   [Homepage](http://www.sis.itu.edu.tr/EN/index.php)
+*   [Regulations](http://www.sis.itu.edu.tr/EN/regulations/)
+
+Appendix Of Instructions Related To Foreign Students's Applications And Admissions Or Bachelor Programs At Istanbul Technical University
+========================================================================================================================================
+
+| INTERNATIONAL UNDERGRADUATE STUDENTS - ADMISSION REQUIREMENTS OF EXAMINATION/HIGH SCHOOL CERTIFICATE AND MINIMUM NOTES ( EXCEPT CONSERVATORY) |
+| :-: |
+| EXAMINATION/HIGH SCHOOL CERTIFICATE | MINIMUM TYPE OF TEST | COMMENT |
+| --- | --- | --- |
+| SAT 1 (Scholastic Assessment Test) | Total 1200 / 1600  
+Math 650 / 800 | Total Minimum Point 1200  
+Math Minimum 650 |
+| ACT “American College Testing” | 26/36 |   |
+| IB “International Baccalaureate” | 30/45 |   |
+| ABITUR "German High School Proficiency" | 1-2 |   |
+| FRENCH Baccalureate | 15/20 for Economics ( Economics & Social Sciences ) 15/20 for other Sciences ( Science & Mathematics ) | It is only valid taken from French Ministry of Education and other shall not be accepted. |
+| Austrian Matura | 1-2 |   |
+| Albanian Matura+ | 9/10 | Minimum 9.0 |
+| GCE ( General Certificate of Education ) Advanced Level | One of the 3 A-Level courses must be Mathematics or Physics and its grade must be A;  
+The other two courses must have a minimum grade of C. |  |
+| AP ( Advanced Placement ) Exams | One of the 3 AP courses is in Mathematics and Computer Science or Basic Science with a grade of 5;  
+The other two courses must have a minimum grade of 4. |  |
+| TR YÖS | 400/500 |   |
+| CONSERVATORY PROGRAMS |
+| :-: |
+| EXAMINATION/HIGH SCHOOL CERTIFICATE | MINIMUM TYPE OF TEST | COMMENT |
+| --- | --- | --- |
+| SAT 1 (Scholastic Assessment Test) | Total 1000/1600 | Minimum Point 1000 |
+| SAT 1 (Scholastic Assessment Test) | 400/800 (Reasoning-MAT) | Reasoning |
+| ACT “American College Testing” | 16/36 |   |
+| GCEAL (KKTC Uyruklu Adaylar İçin) | C grade at minimum 3 lectures |   |
+| IB“International Baccalaureate” | 20/45 |   |
+| ABITUR "German High School Proficiency" | 1-2-3 |   |
+| French Baccalureate | Minimum 10 for 20 for applied program | It is only valid taken from French Ministry of Education and other shall not be accepted. |
+| GCE ( General Certificate of Education ) Advanced Level | It is required to have a minimum grade of C from 3 courses. |  |
+| AP ( Advanced Placement ) Exams | It is required to have a minimum grade of 4 from 3 courses. |  |
+| TR YÖS | 340/500 |   |
+| ITU-TRNC Exams/Diplomas and Minimum Scores Required for Admission from Abroad |
+| :-: |
+| Exam/Diploma | Minimum Score | Description |
+| --- | --- | --- |
+| GCE (General Certificate of Education) | One of the 3 A-Level subjects must be Mathematics or Physics with a minimum grade of B; the other two subjects must have a minimum grade of C (including candidates with TRNC nationality) |   |
+| SAT (Scholastic Assessment Test) | 1000/1600 and SAT 1: 600/800 Mathematics Level | Total Minimum Score 1000 and Math Minimum 600 |
+| ACT “American College Testing” | 25/36 |   |
+| IB (International Baccalaureate) | IB Diploma 27/45 |   |
+| ABITUR (General German University Entrance Qualification) | 1-3 |   |
+| French Baccalaureate | Minimum 13 out of 20 in all sections (Economics & Social Sciences and Science & Mathematics) |  |
+| Austrian Matura | 1-3 |  |
+| Albanian Matura+ | Minimum 8 out of 10 | Minimum 8 |
+| AP (Advanced Placement) Exams | 3 AP courses, provided that at least one is in Mathematics and Computer Science or Basic Sciences, with a minimum score of 4 in all of them. |   |
+| TR YÖS | 375/500 |  |
+
+SAT and ACT scores are valid for two (2) years.
+
+### Academic Calendar
+
+*   [Undergraduate Level Academic Calendar](https://www.takvim.sis.itu.edu.tr/AkademikTakvim/EN/academic-calendar/index.php?takvimadi=15 "lisansakademik")
+*   [Undergraduate Internal Transfer, Double Major, Minor Calendar](https://www.takvim.sis.itu.edu.tr/AkademikTakvim/EN/academic-calendar/index.php?takvimadi=16 "yatay")
+*   [Pre-Registration Calendar](https://www.takvim.sis.itu.edu.tr/AkademikTakvim/EN/academic-calendar/index.php?takvimadi=17 "onkayit")
+*   [Graduate Level Academic Calendar](https://www.takvim.sis.itu.edu.tr/AkademikTakvim/EN/academic-calendar/index.php?takvimadi=19 "yukseklisan")
+*   [Graduate Level Evening Education Calendar](https://www.takvim.sis.itu.edu.tr/AkademikTakvim/EN/academic-calendar/index.php?takvimadi=20 "ikinciogretim")
+*   [English Preparatory Class Calendar](https://www.takvim.sis.itu.edu.tr/AkademikTakvim/EN/academic-calendar/index.php?takvimadi=18 "ingilizce")
+
+* * *
+
+### Course Information
+
+*   [Course Plans](https://obs.itu.edu.tr/public/DersPlan/ "dersplanlari")
+*   [Course Equivalence](https://obs.itu.edu.tr/public/GenelTanimlamalar/DersPlanDenklikleri "dersdenklikleri")
+*   [Prerequisites](https://obs.itu.edu.tr/public/GenelTanimlamalar/DersOnsartList "onsartlar")
+*   [Course Information](https://www.sis.itu.edu.tr/EN/student/undergraduate/course-information/course-information.php "dersbilgileri")
+*   [Course Schedules](https://obs.itu.edu.tr/public/DersProgram "dersprogramlari")
+*   [Building Codes](https://www.sis.itu.edu.tr/EN/about-sis/building-codes.php "bina")
+*   [Undergraduate Program Codes](https://www.sis.itu.edu.tr/EN/about-sis/undergraduate-program-codes.php "lisansprogram")
+
+### Procedures
+
+*   [Application and Admission](https://www.sis.itu.edu.tr/EN/application-admission/application-admission.php "Application and Admission")
+*   [Double Major, Minor, Internal Transfer Procedures](https://www.sis.itu.edu.tr/EN/student/undergraduate/double-major-minor-transfer-students/double-major-minor-transfer-students.php "cap")
+*   [Graduation And Diploma Procedures](https://www.sis.itu.edu.tr/EN/student/graduation-and-diploma/graduation-and-diploma.php "mezuniyet")
+
+* * *
+
+### Institutes
+
+*   [Graduate School](http://lee.itu.edu.tr/en/home-page "Graduate School")
+*   [Disaster Management Institute](https://eedmi.itu.edu.tr/ "afet")
+*   [Eurasia Institute of Earth Sciences](https://eies.itu.edu.tr/ "avrasya")
+*   [Informatics Institute](http://www.be.itu.edu.tr/ "bilisim")
+*   [Energy Institute](https://enerji.itu.edu.tr/ "enerji")
+*   [Aviation Institute](http://www.sis.itu.edu.tr/EN/regulations/valid-exam-results.php# "havacilik")
+
+* * *
+
+*   [**Faculties**](https://www.itu.edu.tr/en/faculty-list "List of Faculty")
+*   * * *
+    
+    [**School of Foreign Languages**](http://www.ydy.itu.edu.tr/en/homepage "beden")
+*   * * *
+    
+    [**Turkish Music State Conservatory**](https://tmdk.itu.edu.tr/en/homepage "beden")
+*   * * *
+    
+    [**Cyber Security Vocational School**](https://sgmyo.itu.edu.tr/en/home "beden")
+
+### Other Procedures
+
+*   [Regulations](https://www.sis.itu.edu.tr/TR/mevzuat/mevzuat.php "Mevzuat")
+*   [Erasmus Exchange Program](https://www.sis.itu.edu.tr/EN/student/erasmus-exchange-programs/erasmus-exchange-programs.php "erasmus")
+*   [Mevlana Exchange Program](http://www.mevlana.itu.edu.tr/ "mevlana")
+*   [Fee/Tuition Fee](https://www.sis.itu.edu.tr/EN/student/tuition-fee/tuition-fee.php "katkipayi")
+*   [Competent Engineering Exam](https://www.sis.itu.edu.tr/EN/student/undergraduate/engineering-completion/engineering-completion.php "yetkin")
+*   [Equivalence Procedures](https://www.sis.itu.edu.tr/EN/student/equivalence-document/equivalence-document.php "denklik")
+
+* * *
+
+*   [Webmail](http://webmail.itu.edu.tr/ "webmail")
+*   [İTÜ PORTAL](https://portal.itu.edu.tr/ "portal")
+*   [Ninova](https://ninova.itu.edu.tr/ "ninova")
+*   [İTÜ Career and Internship Center](http://ikm.itu.edu.tr/ "kariyer")
+*   [International Relations Office](https://international.itu.edu.tr/home "uluslararasi")
+*   [Scholarship and Dormitories Coordination](https://yurtburs.itu.edu.tr/ "yurtburs")
+*   [Student with Disabilities Unit](https://engelsiz.itu.edu.tr/ "engelli")
+*   [Physical Education Department](https://beb.itu.edu.tr/ "beden")
+
+**Phone**+90 212 365 78 00-99 (100 line)
+
+**Fax**+90 212 285 29 09
+
+**İTÜ Ayazağa Campus**Registrar's Office  
+34469 Maslak - İstanbul
+
+**Registrar's Office**[Create Help Ticket](https://yardim.itu.edu.tr/birim.aspx?birim=2&ogrenci+isleri+daire+baskanligi)
+
+**Registrar's Office**[Clarification Text](http://www.sis.itu.edu.tr/EN/KVKK/clarification-text.php)
+
+**Registrar's Office**[ogrenciisleri@itu.edu.tr](mailto:ogrenciisleri@itu.edu.tr)
+
+[![Image 8](http://www.sis.itu.edu.tr/v2/lib/img/itu-logo-big.png)](https://www.itu.edu.tr/)
+
+[](https://www.facebook.com/itu1773)[](https://twitter.com/itu1773)[](https://www.youtube.com/itu1773)[](https://www.instagram.com/itu1773/)[](https://www.linkedin.com/school/itu1773/)
+
+[İTÜ Information Technologies Department © 2021](https://bidb.itu.edu.tr/)
+
+[➤](http://www.sis.itu.edu.tr/EN/regulations/valid-exam-results.php# "Yukarı")

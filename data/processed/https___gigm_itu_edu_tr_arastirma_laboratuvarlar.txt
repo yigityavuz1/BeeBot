@@ -1,0 +1,50 @@
+**Araştırma Laboratuvarları**
+
+**Laboratuvar Adı** | **Sorumlusu** | **E-posta**
+--- | --- | ---
+Marine Robotics Laboratory | Prof. Dr. Ömer Kemal KINACI | kinacio@itu.edu.tr
+Kontrol Teknolojileri Geliştirme Laboratuvarı | Prof. Dr. Ömer Kemal KINACI | kinacio@itu.edu.tr
+Hesaplamalı Gemi Hidrodinamiği Laboratuvarı | Prof. Dr. Uğur Oral ÜNAL | ounal@itu.edu.tr
+Gemi Emisyonları Laboratuvarı | Prof. Dr. Selma ERGİN | ergin@itu.edu.tr
+İTÜ Kavitasyon Tüneli | Prof. Dr. Uğur Oral ÜNAL | ounal@itu.edu.tr
+Ata Nutku Gemi Model Deney Laboratuvarı | Prof. Dr. Devrim Bülent DANIŞMAN | bulent.danisman@itu.edu.tr
+Prof. Mesut Savcı Gemi Mukavemeti Laboratuvarı | Dr. Öğr. Üyesi Yalçın ÜNSAN | unsany@itu.edu.tr
+İlham Artüz Deniz Teknolojisi ve Oşinografi Laboratuvarı | Doç. Dr. Ceren BİLGİN GÜNEY | bilgincer@itu.edu.tr
+Deniz Kirliği ve Ekotoksikoloji Araştırma Laboratuvarı | Araş. Gör. Dr. Oktay Eren TÜREYEN | tureyen@itu.edu.tr
+Gemi Titreşim ve Akustik Laboratuvarı | Dr. Öğr. Üyesi M. Erden YILDIZDAĞ | yildizdag@itu.edu.tr
+
+### Laboratuvar Bilgileri
+
+**Ata Nutku Gemi Model Deney Laboratuvarı**: 
+- Boyutlar: 160m x 6m x 4.5m
+- Ekipman: Büyük Deney Tankı, Küçük Deney Tankı, Sirkulasyon Kanalı, Kavitasyon Tüneli, Stabilite Tankı
+- Öğrenci kapasitesi: 20
+
+**Ekotoksikoloji Araştırma ve Eğitim Laboratuvarı**: 
+- Altyapı: Isı kontrollü oda, Çeker ocak, Işık Mikroskobu, UV-Vis Spektrofotometre, vb.
+- Projeler: TUBITAK-GSRT, ITU-ARAŞTIRMA FONU, TUBİTAK projeleri
+
+**Gemi Mukavemeti Laboratuvarı**: 
+- Yöntemler: Fotoelastisite, Strain Gauge
+- Öğrenci kapasitesi: 20
+
+**İlham Artüz Deniz Teknolojisi ve Oşinografi Laboratuvarı**: 
+- Araştırma alanları: Gemi kökenli deniz kirliliği, atık su arıtımı
+- Projeler: AB 6. Çerçeve, AB 5. Çerçeve, İTÜ Araştırma Fonu projeleri
+
+**Hesaplamalı Hidrodinamik Laboratuvarı**: 
+- Kuruluş yılı: 1996
+- Amaç: Gemi hidrodinamiği çalışmalarını desteklemek
+
+**Gemi Emisyonları Laboratuvarı**: 
+- Kuruluş yılı: 2008
+- Araştırma alanları: Enerji verimliliği, emisyon kontrolü, alternatif yakıtlar
+
+**Bilgisayar Laboratuvarları**: 
+- Kuruluş yılı: 1986
+- Öğrenci kapasitesi: 50 kişisel bilgisayar
+
+**İletişim Bilgileri**:
+- **Telefon**: +90 (212) 285 64 64
+- **Fax**: +90 (212) 285 64 54
+- **Adres**: İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

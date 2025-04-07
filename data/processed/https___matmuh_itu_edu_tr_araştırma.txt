@@ -1,0 +1,38 @@
+**Araştırma Alanları**:
+
+1. Matematiksel Finans ve Ekonomi
+2. Matematiksel Modelleme
+3. Sayısal Optimizasyon
+4. Stokastik Diferansiyel Denklemler
+5. Oyun Teorisi
+6. Diferansiyel Denklemlerin Yaklaşık Çözümleri ve Sayısal Analizi
+7. Doğrusal Olmayan Diferansiyel Denklemler
+8. Asimptotik Yöntemler
+9. Veri Analizi
+10. Makine Öğrenmesi
+11. Ağ Oluşturma Algoritmaları
+12. Simülasyon
+13. Kesirli Mertebeden Türevli Diferansiyel Denklemlerin Sayısal Çözümleri
+14. Nonlineer Dalga Yayılımı
+15. Sürekli Ortamlar Mekaniği
+16. Plak Titreşim Problemleri
+17. Hasar Mekaniği
+18. Görüntü İşleme
+19. Derin Öğrenme
+20. Yapay Zeka
+21. Tıbbi Modelleme
+22. Ekonomik Modelleme
+23. Nonlineer Davranışlar
+24. Hesaplamalı Diferansiyel Denklemler
+25. Kombinatorik
+26. Graf Teorisi
+27. Dominasyon
+28. Dengeli Ağlar
+29. NP-Tam Sorular
+30. Fonksiyonel Analiz
+31. Operatörler Teorisi
+32. Lineer Operatörlerin Dinamikleri
+33. Aşırıdönüşsel Operatörler
+34. Operatör ve Matris Fonksiyonlar
+
+Bu liste, bölümün araştırma alanlarını kapsamaktadır.

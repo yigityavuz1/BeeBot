@@ -1,0 +1,35 @@
+**Title: Warsaw University of Technology**
+
+### Courses and Equivalents
+
+| Warsaw University of Technology Code | Course Name                                   | ITU Code | ITU Course Name                          |
+|--------------------------------------|----------------------------------------------|----------|------------------------------------------|
+| 1130-AERO0-ISA-4001                 | Aerodynamics 1                               | UCK351   | Aerodinamik (2021)                      |
+| ANS619                               | Aircraft Engine Design 1                     | UCK474   | Uçak Motor Tasarımı (2021)              |
+| 1130-AERO0-ISA4002                  | Astronautics                                 | ITB      | 5. YY Seçime Bağlı (ITB) (2022)        |
+| 1130-POWER-ISA-4005                 | Electric Power Systems                        | TM       | 7. YY Seçime Bağlı (TM) (2022)         |
+| ANK479                               | Finite Element Method 2                      | UZB318E  | Finite Element Method (2021)            |
+| ANK423                               | Heat Transfer I                              | UZB317   | Isı Geçişi (2021)                       |
+| ANW124                               | Machine Design 1                             | UCK361E  | Design of Machine Elements (2021)       |
+| ANK365                               | Machine Design 2                             | UCK361E  | Design of Machine Elements (2021)       |
+| 1130-00000-ISA-2006                 | Mechanics                                    | DNK201   | Dinamik (2021)                          |
+| ANK433                               | Propulsion System                            | UCK421E  | Jet Propulsion Principles                |
+| ANK472                               | Mechanics of Flight                          | UCK322E  | Flight Mechanics (2021)                 |
+| 1130-POWER-ISA-4016                 | Measurement and Technique of Experiment      | UCK372E  | Experimental Engineering (2022)         |
+| ANW125                               | Machine Design 2                             | UCK361E  | Design of Machine Elements               |
+| 1130-POWER-ISA-6007                 | Finite Element Method 1                      | TM       | 8. YY. Seçime Bağlı TM (2022)          |
+| ANK380                               | Combustion and Fuels                         | TM       | 6 YY seçime Bağlı TM (2022)            |
+| ANS631                               | Aircraft Engine Design                       | UCK474   | Uçak Motor Tasarımı (2021)              |
+| ANK308                               | Aircraft Design 2                            | UCK451E  | Principles of Aircraft Design            |
+| 1130-AERO0-ISA-6004                 | Aircraft Maintenance                          | UCK471E  | Aircraft Maintenance Manag (2021)       |
+| 1130-00000-ISA2008                   | Thermodynamics 1                             | UCK205E  | Thermodynamics I (2022)                 |
+| ANK413                               | Thermodynamics 3                             | UCK2012E | Thermodynamics                           |
+| 1130-AERO0-ISA-6014                 | Structure and Assembling of Airframe        | UZB331   | Hava Uzay Yapıları (2021)               |
+| 1130-AERO0-ISA-7003                 | Computational Fluid Mechanics                | MT       | 6.YY Seçime Bağlı MT (2022)            |
+| 1130-00000-ISA-3006                 | Fluid Mechanics I                            | AKM214   | Akışkanlar Mekaniği (2021)             |
+| 1130-POWER ISA-4003                 | Combustion and Fuels                        | UCK427   | Yanma (2021)                            |
+
+**Contact Information:**
+- **Phone:** +90 (212) 285 31 01
+- **Fax:** +90 (212) 285 31 39
+- **Address:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

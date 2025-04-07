@@ -1,0 +1,94 @@
+**Title:** Ders Katalog Formları
+
+**KIM kodlu dersler için VF koşulları:**
+- Derse devam: Minimum %70
+- Yıl içi çalışmalarından başarı: Minimum %30
+
+**LAB dersleri için VF koşulları:**
+- Derse devam: Minimum %80
+- Yıl içi çalışmalarından başarı: Minimum %50
+
+**Ders Listesi:**
+
+| Ders Kodu | Dersin Adı |
+| --- | --- |
+| KIM 101/KIM 101E | Genel Kimya I |
+| KIM 101EL | General Chemistry I Lab |
+| KIM 102/KIM 102E | Genel Kimya II |
+| KIM 102L/KIM 102EL | Genel Kimya Lab II |
+| KIM 104/KIM 104E | Organik Kimya |
+| KIM 104L/KIM 104EL | Organik Kimya Lab |
+| KIM 111/KIM 111E | Genel Kimya I |
+| KIM 111L/KIM 111EL | Genel Kimya I Lab |
+| KIM 113 | Kimyaya Giriş ve Etik |
+| KIM 114 | Genel Kimya II |
+| KIM 114L | Genel Kimya II Lab |
+| KIM 202/KIM 202E | Fiziksel Kimya |
+| KIM 202L/KIM 202EL | Fiziksel Kimya Lab |
+| KIM 203/KIM 203E | Analitik Kimya |
+| KIM 204 | Genel Kimya II |
+| KIM 205/KIM 205E | Organik Kimya |
+| KIM 206/KIM 206E | Analitik Kimya&Ens. Analiz |
+| KIM 206L/KIM 206EL | Ana. Kimya & Enst. Analiz Lab |
+| KIM 207/KIM 207E | İnorganik Kimya |
+| KIM 208/KIM 208E | İleri Organik Kimya |
+| KIM 210/KIM 210E | Polimer Kimyasına Giriş |
+| KIM 211E | Analytical Chemistry |
+| KIM 211L | Analitik Kimya Lab |
+| KIM 212/KIM 212E | Enstrumental Analitik Yönteml |
+| KIM 212L | Enstrumental Analitik Yön.Lab |
+| KIM 214E | Strct & Properties of Polymers |
+| KIM 219E | Comp.Applications in Chemistry |
+| KIM 223 | Anorganik Kimya I |
+| KIM 223L | Anorganik Kimya Lab |
+| KIM 224E | Inorganic Chemistry II |
+| KIM 231/KIM 231E | Organik Kimya I |
+| KIM 231L | Organik Kimya Lab. I |
+| KIM 232/KIM 232E | Organik Kimya II |
+| KIM 232L | Organik Kimya Lab. II |
+| KIM 252/KIM 252E | Kimyasal Termodinamik |
+| KIM 262E | Int. Quantum Chemistry |
+| KIM 303E | Organic Chemistry I |
+| KIM 304E | Organic Chemistry II |
+| KIM 311/KIM 311E | Fiziksel Kimya I |
+| KIM 311L | Fiziksel Kimya Lab. I |
+| KIM 312/KIM 312E | Fiziksel Kimya II |
+| KIM 312L | Fiziksel Kimya Lab. II |
+| KIM 313E | Structural Organic Chemistry |
+| KIM 314 | Tekstil Boyar Maddeleri |
+| KIM 315E | The Chemistry of Elements |
+| KIM 316 | Yakıt Kimyası |
+| KIM 318/KIM 318E | Kolloid Kimyası |
+| KIM 319E | Cosmetic Chemistry |
+| KIM 320/KIM 320E | Organometal Kimyasına Giriş |
+| KIM 323E | Natural Products Chemistry |
+| KIM 324 | Adli Kimya |
+| KIM 325E | Intr. to Bioinorganic Chem. |
+| KIM 326E | Introduction to Biochemistry |
+| KIM 328/KIM 328E | Biyokimya II |
+| KIM 413 | İlaç Kimyası |
+| KIM 414/KIM 414E | Gıda Kimyası |
+| KIM 415 | Yüzey Aktif Maddeler |
+| KIM 416 | Organik Petrokimya |
+| KIM 418 | Polimerlerin Fiziksel Kimyası |
+| KIM 422/KIM 422E | Endüstriyel Kimya |
+| KIM 425 | Su Kimyası |
+| KIM 427/KIM 427E | Seramik Kimyası |
+| KIM 429 | Yeşil Kimya |
+| KIM 435 | Çevre Kimyası I |
+| KIM 436 | Çevre Kimyası II |
+| KIM 437E | NMR Spectroscopy; An Intr. |
+| KIM 471/KIM 471E | Organik Kimya III |
+| KIM 472E | Electrochemistry |
+| KIM 473E | Organic Structure Analysis |
+| KIM 474/KIM 474E | Polimer Kimyası |
+| KIM 481E | Industrial Polymers |
+| KIM 482E | Organic Reactions |
+| KIM 483/KIM 483E | Yüzey ve Termal Analiz Yönt. |
+| KIM 484/KIM 484E | Anorganik Kimya III |
+| KIM 454E | Introduction to Computational Chemistry |
+
+**İletişim Bilgileri:**
+- **Telefon:** +90 212 285 3233
+- **Fax:** +90 212 285 6386
+- **Adres:** İTÜ Fen Edebiyat Fakültesi Kimya Bölümü, Maslak 34469, İstanbul

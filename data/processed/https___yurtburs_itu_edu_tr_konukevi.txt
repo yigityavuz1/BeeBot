@@ -1,0 +1,23 @@
+**Title: Konukevi Ücretleri**
+
+**İTÜ Yılmaz Akdoruk Öğrenci Konukevi Oda Fiyatları**
+
+**KATEGORİ: TÜRK + YABANCI**
+
+| ODA CİNSİ | TUTAR |
+|-----------|-------|
+| **Üniversite Dışı Sivil Misafir** | |
+| Kişibaşı - Türk (2 Kişilik) | 816,00 ₺ |
+| Tek Kişi - Türk (Tek Kişi) | 1.326,00 ₺ |
+| Kişibaşı - Yabancı (2 Kişilik) | 1.530,00 ₺ |
+| Tek Kişi - Yabancı (Tek Kişi) | 2.448,00 ₺ |
+| **Kamu Personelleri ve İTÜ Mezunları** | |
+| Kişibaşı (2 Kişilik) | 765,00 ₺ |
+| Tek Kişi (Tek Kişi) | 1.020,00 ₺ |
+| **İTÜ Personeli (Akademik+İdari)** | |
+| Kişibaşı (2 Kişilik) | 408,00 ₺ |
+| Tek Kişi (Tek Kişi) | 663,00 ₺ |
+| **İTÜ Öğrencisi** | |
+| Kişibaşı (2 Kişilik) | 357,00 ₺ |
+
+**NOT:** Yılmaz Akdoruk Öğrenci Konukevi oda fiyatlarına %2 konaklama vergisi dahildir.

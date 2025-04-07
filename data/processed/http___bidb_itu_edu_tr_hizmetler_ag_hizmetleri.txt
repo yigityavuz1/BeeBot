@@ -1,0 +1,26 @@
+**Title: Ağ Hizmetleri**
+
+**Ağ Hizmetleri:**
+
+- **Internet:** İTÜ-BİDB, İTÜ/NET'e bağlanan kullanıcıların İnternet ve yerel ağda bulunan kaynaklara erişimini sağlar.
+
+- **Kablosuz:** İTU/NET Kablosuz ağına "EDUROAM" ve "İTU/NET Misafir" SSID'leri ile erişim sağlanmaktadır.
+
+- **İTÜ/NET Hizmetleri:** İTÜ'ye ait tüm yerleşkelerde bilişim teknolojileri hizmetlerini almak veya vermek üzere oluşturulmuş bir yapıdır.
+
+- **VPN:** Kullanıcıların halka açık ağlar üzerinden güvenli bir şekilde kendi kurum kaynaklarına erişimini sağlar.
+
+**Hizmetler Hakkında:**
+
+- **Web Sitesi Barındırma:** Linux (PHP + MySQL) veya Windows (.NET + MSSQL) site barındırma hizmeti verilmektedir.
+
+- **Alan Adı:** İdari ve akademik birimler, kulüpler ve akademik amaçlı projeler için alan adı başvurusu yapılabilir.
+
+- **Mozaik:** Site barındırma hizmetine ek olarak, sıfırdan bir web sitesi hazırlamak için hızlı ve güvenli bir proje.
+
+**İletişim:**
+
+- **Adres:** İTÜ Ayazağa Kampüsü, Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- **Telefon:** 0212 285 3930
+
+**BİDB Yardım:** İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız için bilet oluşturabilir ve takibini yapabilirsiniz.

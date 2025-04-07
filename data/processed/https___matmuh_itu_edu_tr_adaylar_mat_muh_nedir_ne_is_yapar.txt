@@ -1,0 +1,34 @@
+### Matematik Mühendisliği Nedir?
+
+Matematik mühendisliği, matematiğin teorik alt yapısının mühendislik formasyonu ile harmanlanması sonucu, analiz yapabilme, algoritmik düşünme ve modelleme geliştirme becerilerine sahip öğrenciler yetiştiren disiplinler arası bir lisans programıdır. Öğrencilerine teorik ve uygulamalı matematik alanlarında iyi bir temel sunarak, çeşitli mühendislik bilimleri, bilişim teknolojileri, yazılım, ekonomi, finans, yapay zeka, makine öğrenmesi ve veri bilimi gibi alanlarda profesyonel kariyer imkanı sağlar.
+
+### Matematik Mühendisi Ne Yapar?
+
+Matematik mühendisleri, farklı sektörlerdeki problemleri matematiksel altyapı ve modern teknolojik araçlar kullanarak analiz ederler. Teorik çalışmaların pratiğe dönüştürülmesi için entegrasyon işlemlerini gerçekleştirirler. Oluşturdukları modellerle işlerin bilimsel bir temele oturtulmasını sağlarlar. Tasarladıkları algoritmalar sayesinde sistem verilerini analiz eder, hataları tespit etmek için test modülleri geliştirir ve optimizasyon ilkelerini kullanarak doğru çözümler üretirler.
+
+### Matematik Mühendisliği İş Olanakları
+
+Matematik mühendisleri, aldıkları çok yönlü lisans eğitimi sonrasında çeşitli alanlarda çalışabilirler. Başlıca iş olanakları şunlardır:
+- Akademisyen
+- Veri bilimci
+- İş analisti
+- Yazılım geliştirme uzmanı
+- Yazılım mühendisi
+- Sistem analisti
+- Siber güvenlik analisti
+- Ağ ve bilgisayar sistemleri yöneticisi
+- Veri tabanı yöneticisi
+- İşletim sistemi yöneticisi
+- Şifre uzmanı (kriptolog)
+- Web ara yüz geliştiricisi
+- Proje yöneticisi
+- Yapay zeka uzmanı
+- Makine öğrenmesi uzmanı
+- Arama motorları optimizasyonu uzmanı (SEO)
+- Planlama ve optimizasyon uzmanı
+- Kurumsal mimari uzmanı
+- Risk analisti
+- Finansal analist
+- Bulut teknolojileri uzmanı
+- Mobil uygulama geliştiricisi
+- SAP danışmanı

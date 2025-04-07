@@ -1,0 +1,79 @@
+**Ders Planı**
+
+**1. Yarıyıl**
+- KIM 101E: General Chemistry I, Kredi: 3, AKTS: 4.5
+- KIM 101EL: General Chemistry I Lab, Kredi: 1, AKTS: 1.5
+- PET 113E: Introduction to Petroleum & Natural Gas Engineering, Kredi: 1, AKTS: 3
+- MAT 103E: Mathematics I, Kredi: 4, AKTS: 6
+- FIZ 101E: Physics I, Kredi: 3, AKTS: 4.5
+- FIZ 101EL: Physics I Laboratory, Kredi: 1, AKTS: 1.5
+- RES 107E: Technical Drawing, Kredi: 2, AKTS: 3
+- DAN 101: Academic Advising, Kredi: 1, AKTS: 1
+- ING 112: English I, Kredi: 3, AKTS: 3.5
+
+**2. Yarıyıl**
+- KIM 102E: General Chemistry II, Kredi: 3, AKTS: 4.5
+- KIM 102EL: General Chemistry II Lab, Kredi: 1, AKTS: 1.5
+- MAT 104E: Mathematics II, Kredi: 4, AKTS: 6.5
+- FIZ 102E: Physics II, Kredi: 3, AKTS: 4.5
+- FIZ 102EL: Physics II Laboratory, Kredi: 1, AKTS: 1.5
+- BIL 100E: Introduction to Programming Language (PYTHON), Kredi: 2, AKTS: 4.5
+- ETK 101E: Engineering Ethics, Kredi: 1, AKTS: 2
+- ING 201: English III, Kredi: 3, AKTS: 3.5
+- PET 112: Physical Education, Kredi: 0, AKTS: 1
+
+**3. Yarıyıl**
+- MAT 210E: Engineering Mathematics, Kredi: 4, AKTS: 5.5
+- EKO 201E: Economics, Kredi: 3, AKTS: 4
+- STA 204E: Statics & Strength of Materials, Kredi: 3, AKTS: 4.5
+- JEO 112E: General Geology, Kredi: 3, AKTS: 4.5
+- PET 211E: Petroleum Fluid Properties, Kredi: 3, AKTS: 6
+- TUR 101: Turkish Language I, Kredi: 2, AKTS: 2
+- MAT 271E: Probability and Statistics, Kredi: 3, AKTS: 5
+
+**4. Yarıyıl**
+- AKM 204E: Fluid Mechanics, Kredi: 3, AKTS: 5
+- PET 212E: Rock Properties, Kredi: 3, AKTS: 6
+- MAT 202E: Numerical Methods, Kredi: 3, AKTS: 5
+- TUR 102: Turkish Language II, Kredi: 2, AKTS: 2
+- ELK 221E: Fundamentals of Electrical Engineering, Kredi: 3, AKTS: 4.5
+- 4th Semester Elective Course (TB), Kredi: 3
+- 4th Semester Elective Course (TM), Kredi: 3
+
+**5. Yarıyıl**
+- ATA 101: Atatürk's Principles & History of Revolution I, Kredi: 2, AKTS: 2
+- PET 342E: Reservoir Engineering, Kredi: 3, AKTS: 6
+- PET 335E: Well Logging I, Kredi: 3, AKTS: 6
+- JEO 445E: Petroleum and Natural Gas Geology, Kredi: 3, AKTS: 3
+- TER 201E: Thermodynamics, Kredi: 3, AKTS: 4.5
+- PET 309E: Fluid and Rock Properties Lab, Kredi: 1, AKTS: 2
+- PET 333E: Drilling Engineering, Kredi: 3, AKTS: 6
+
+**6. Yarıyıl**
+- ATA 102: Atatürk's Principles & History of Revolution II, Kredi: 2, AKTS: 2
+- MAL 201E: Materials Science, Kredi: 3, AKTS: 5
+- MAK 311E: Heat Transfer, Kredi: 3, AKTS: 5
+- PET 332E: Production Engineering & Surface Facilities, Kredi: 3, AKTS: 6
+- PET 310E: Drilling & Completion Fluids Lab, Kredi: 1, AKTS: 2
+- PET 417E: Flow Through Porous Media, Kredi: 3, AKTS: 6
+- DAN 301: Career Counseling, Kredi: 1, AKTS: 1
+- 6th Semester Elective Course (MT), Kredi: 3
+
+**7. Yarıyıl**
+- PET 412E: Petroleum & Natural Gas Economics, Kredi: 3, AKTS: 5
+- PET 4901E: Petroleum & Natural Gas Engineering Design I, Kredi: 4, AKTS: 6
+- PET 409E: Well Design and Completions, Kredi: 3, AKTS: 6
+- 7th Semester Elective Course I (MT), Kredi: 3
+- 7th Semester Elective Course II (MT), Kredi: 3
+- 7th Semester Elective Course (ITB), Kredi: 3
+
+**8. Yarıyıl**
+- PET 4902E: Petroleum & Natural Gas Engineering Design II, Kredi: 4, AKTS: 8
+- PET 431E: Natural Gas Systems Engineering, Kredi: 3, AKTS: 6
+- PET 407E: Geothermal Engineering, Kredi: 3, AKTS: 6
+- 8th Semester Elective Course (MT), Kredi: 3
+- 8th Semester Elective Course (SNT), Kredi: 3
+
+**TOPLAM KREDİ:** 150  
+**TOPLAM AKTS:** 240.5  
+**Z:** Zorunlu, **S:** Seçmeli

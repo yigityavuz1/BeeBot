@@ -1,0 +1,46 @@
+**Title:** Süperiletken Araştırma ve Geliştirme Laboratuvarı
+
+**Sorumlu:** Prof. Dr. Ahmet CANSIZ (acansiz@itu.edu.tr)
+
+**Öğrenciler:** Araş. Gör. Emre AKYERDEN (akyerden@itu.edu.tr), Ahmet Furkan REİSOĞLU
+
+**Oda No:** 8206 
+
+**Araştırma Konuları:**
+- Sürekli mıknatıs konfigürasyonu
+- Süperiletken-sürekli mıknatıs kuvvet ölçümü ve modelleme
+- Süperiletken manyetik levitasyon tren
+- Manyetik dişli
+- Süperiletken manyetik dişli
+- Süperiletken manyetik yatak ve sürücü sistemleri
+- Süperiletken manyetik enerji depolama
+- Batarya enerji depolama
+- Süperiletken manyetik-batarya enerji depolama
+- Süperiletken volan enerji depolama
+- Süperiletken hatalı akım sınırlayıcı
+
+**Çeşitli Konular:**
+- Isı eşanjörleri
+- Isı transferi iyileştirme
+- Elektromanyetik fırlatma sistemleri
+
+**Laboratuvar İmkanları:**
+- Sürekli mıknatıs mıknatıslanma (magnetization) ölçüm sistemi
+- Sürekli mıknatıs kuvvet ölçüm sistemi
+- Süperiletken-sürekli mıknatıs kuvvet ölçümü sistemi
+- Manyetik alan ölçüm sistemi (Hall probe)
+- Süperiletken manyetik akı tuzaklama sistemi
+
+**Selected Publications:**
+1. A. Cansiz and I. Yildizer, “The design considerations for a superconducting magnetic bearing system”, Cryogenics, 63, 180-185, 2014.
+2. I. Kotcioglu and A. Cansiz, “The efficiency analysis of a finned cross-flow heat recovery unit”, Experimental Heat Transfer, 28, 1, 9-22, 2015.
+3. I. Yildizer, A. Cansiz and K. Ozturk, “Optimization of levitation and guidance forces in a superconducting Maglev system”, Cryogenics, 78, 57-65, 2016.
+4. O. Guney and A. Cansiz, “Design of fault current limiter using core with initial permeability”, IET Generation, Transmission & Distribution, 11, 14, 3516-3521, 2017.
+5. A. Cansiz and D. T. McGuiness, “Optimization of the force and stiffness in a superconducting magnetic bearing based on a particular permanent-magnet superconductor configuration”, IEEE Trans. On Appl. Supercond., 28, 2, 1-8, 5201208, 2018.
+6. A. Cansiz, C. Faydaci, T. Qureshi, O. Usta, D. T. McGuiness, “Integration of a SMES-Battery based Hybrid Energy Storage System into Micro-Grids”, J. Supercond. Novel Magn., 31, 5, 1449-1457, 2018.
+7. A. Cansiz, E. Akyerden, “The use of high temperature superconductor bulk in a co-axial magnetic gear”, Cryogenics, 98, 80-86, 2019.
+
+**İletişim:**
+- **Telefon:** +90 (212) 285 6745
+- **Fax:** +90 (212) 285 6700
+- **Adres:** İTÜ Ayazağa Kampüsü, Elektrik Elektronik Fakültesi, 34469, Maslak, İstanbul

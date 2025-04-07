@@ -1,0 +1,41 @@
+**Title:** Bilişim Teknolojileri Uzmanlığı
+
+**Program Başlangıcı:** 01 Şubat 2025 - Çevrimiçi
+
+**Günler:** Cumartesi/Pazar
+
+**Saatler:** 09:30 – 16:30 (öğle arası 1 saat)
+
+**Program Süresi:** 63 Saat
+
+**Program Ücreti:** 22.500 TL + %10 KDV
+
+**Program Koordinatörü:** Öğrt. Gör. Murat Sekmen
+
+**Programın Amacı:**
+BT uzmanlığı kursunun amacı, katılımcılara bilgi teknolojileri alanında sağlam bir temel sağlayarak onları siber güvenlik uzmanlığı eğitimine hazırlamaktır. Bu kurs, bilgisayar donanımı, işletim sistemleri, ağ temelleri, programlama ve betik yazma, veri tabanı yönetimi ve sanallaştırma gibi konuları kapsar.
+
+**Katılımcılarda Aranan Nitelikler:**
+- Temel bilgisayar bilgisi yeterli olacaktır.
+- Program sonunda katılımcılara sertifika sınavı yapılacaktır. Başarı sağlayan katılımcılar Uzmanlık Sertifikası, diğerleri Katılım Sertifikası alacaktır.
+- %70 Devam zorunluluğu bulunmaktadır.
+
+**Program İçeriği:**
+1. **Bilişim Teknolojilerine Giriş**
+2. **Bilgisayar Donanımının Temelleri**
+3. **İşletim Sistemlerinin Temelleri**
+4. **Ağ Temelleri**
+5. **Temel Programlama ve Betik**
+6. **Veritabanı Temelleri**
+7. **Sanallaştırma ve Bulut Bilişim Temelleri**
+
+**Programın Öğretim Elemanları:**
+- **Prof. Dr. Kemal Bıçakcı:** Bilişim Teknolojilerine Giriş, İşletim Sistemlerinin Temelleri
+- **Öğr. Gör. Engin Baysal:** Bilgisayar Donanımının Temelleri
+- **Öğr. Gör. Anıl Suat Terliksiz:** Ağ Temelleri, Temel Programlama ve Betik
+- **Öğr. Gör. Murat Sekmen:** Veritabanı Temelleri, Sanallaştırma ve Bulut Bilişim Temelleri
+
+**İletişim Bilgileri:**
+- **Telefon:** (212) 251 08 09
+- **E-posta:** itusem@itu.edu.tr
+- **Adres:** İTÜ Taşkışla Binası No.133 Taksim, İstanbul

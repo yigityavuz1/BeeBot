@@ -1,0 +1,25 @@
+**Title:** Mezun Bilgi Sistemi
+
+**KÜNYE:**
+- İlk yayın tarihi: 2003
+- Aktif kullanıcı sayısı: 39.484
+- Web Adresi: [http://mbs.itu.edu.tr](http://mbs.itu.edu.tr)
+
+**Açıklama:**
+İTÜ Mezun Bilgi Sistemi, İTÜ ve İTÜ mezunları arasındaki ilişkileri daha etkin kılmak, etkinlik ve projeleri mezunlara ulaştırmak ve geri dönüşüm mekanizmaları geliştirmek amacıyla yapılandırılmış etkileşimli bir elektronik veritabanıdır. Mezunların kişisel bilgilerini güncellemeleri ve sistem yöneticisi tarafından onaylanması gerekmektedir.
+
+**İletişim:**
+Sistemle ilgili sorular için Mezunlarla İletişim Ofisi'nden destek alınabilir.
+
+**İletişim Bilgileri:**
+- **Adres:** İTÜ Ayazağa Kampüsü, Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- **Telefon:** 0212 285 3930
+
+**Hizmetler Hakkında:**
+- **Akademi:** İTÜ mensubu öğretim üyeleri ve araştırma görevlileri için akademik portal.
+- **Veti:** Veri Toplama ve İstatistik Sistemi.
+- **Ninova:** Elektronik öğrenme platformu.
+- **Portal:** Mezunlar için etkinlik ve projeleri ulaştırma amacıyla yapılandırılmıştır.
+
+**Yardım:**
+İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlar için bilet oluşturulabilir ve takibi yapılabilir.

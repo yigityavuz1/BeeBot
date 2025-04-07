@@ -1,0 +1,28 @@
+**Title:** Bitirme Tasarım Projesi (BTP-ELK492)
+
+**Important Information:**
+
+- **Submission Requirements:**
+  - Submit the Bitirme Tasarım Projesi report in PDF format.
+  - Include the BTP Submission Form approved by your advisor along with the Turnitin Similarity Report as a single PDF file.
+  - Submit your Midterm Reports with the "Midterm Report Submission Form" to the department secretary by the specified deadline.
+
+- **Submission Guidelines:**
+  - After the deadline, the ITU Ninova system will not allow any file uploads. Plan accordingly as the submission date is final and no extensions will be granted without valid excuses.
+  - The BTP Submission Form must be filled out electronically, printed, signed by your advisor, and converted to PDF. Merge this with the Turnitin report into one PDF file named "ELK_BTP_TF_2018FALL_StudentID.pdf".
+  - The maximum file size for uploads is 20MB. If your PDF exceeds this size, reduce the resolution of images within the document or compress the file using RAR or ZIP formats. You can split larger files into multiple parts, ensuring each is under 20MB.
+
+- **Turnitin Requirements:**
+  - The similarity rate in the Turnitin report must be below 25% for acceptance.
+  - The Turnitin database compares your document with previous submissions, including those from past years in the ITU Electrical Engineering Department.
+
+- **Turnitin Submission Steps:**
+  - Your advisor must have a Turnitin account created by the ITU Library.
+  - They will create a class and assignment for you to submit your document.
+  - Students must register using the provided Class ID and Enrollment Key.
+  - If you encounter issues with the upload button not appearing, try using a different web browser.
+
+- **Final Submission:**
+  - The Turnitin similarity report must be saved in PDF format and uploaded along with the BTP Submission Form as a single document in the ITU Ninova system.
+
+**Note:** All processes are conducted electronically, and no physical documents need to be submitted to the department secretary.

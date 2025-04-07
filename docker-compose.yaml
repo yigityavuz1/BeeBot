@@ -1,0 +1,48 @@
+version: '3.4'
+services:
+  weaviate:
+    container_name: weaviate
+    command:
+    - --host
+    - 0.0.0.0
+    - --port
+    - '8080'
+    - --scheme
+    - http
+    image: semitechnologies/weaviate:1.28.4
+    ports:
+    - 8080:8080
+    - 50051:50051
+    restart: on-failure:0
+    volumes:
+      - ./weaviate-data-backup:/var/lib/weaviate
+    environment:
+      QUERY_DEFAULTS_LIMIT: 25
+      AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED: 'true'
+      PERSISTENCE_DATA_PATH: '/var/lib/weaviate'
+      BACKUP_FILESYSTEM_PATH: '/var/lib/weaviate/backups'
+      ENABLE_API_BASED_MODULES: 'true'
+      DEFAULT_VECTORIZER_MODULE: 'text2vec-openai'
+      ENABLE_MODULES: 'text2vec-openai,qna-openai,backup-filesystem'
+      CLUSTER_HOSTNAME: 'openai-weaviate-cluster'
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+      ASYNC_INDEXING: 'true'
+
+  beebot:
+    container_name: beebot
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./:/app  # Mount the entire project directory for hot reloading
+      - /app/__pycache__  # Exclude bytecode cache directory
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - RAW_DATA_DIR=data/raw
+      - PROCESSED_DATA_DIR=data/processed
+      - PDF_TEXT_DIR=data/pdf_text
+      - WEAVIATE_HOST=weaviate
+      - WEAVIATE_PORT=8080
+      - WEAVIATE_PORT_GRPC=50051
+    depends_on:
+      - weaviate

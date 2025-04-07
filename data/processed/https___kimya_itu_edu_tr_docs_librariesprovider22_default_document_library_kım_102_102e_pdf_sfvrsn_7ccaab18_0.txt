@@ -1,0 +1,72 @@
+**Course Name:** General Chemistry II  
+**Course Code:** KIM102 - KIM102E  
+**Semester:** 2  
+**Local Credits:** 3  
+**ECTS Credits:** 4.5  
+**Department/Program:** Petroleum and Natural Gas Engineering  
+**Course Type:** Compulsory  
+**Course Language:** Turkish/English  
+**Prerequisites:** KIM 101 MIN DD / KIM 101E MIN DD  
+
+**Course Description:**  
+- Chemical Equilibrium  
+- Acids and Bases  
+- Acid-Base Equilibria  
+- Solubility  
+- Complex-Ion Equilibria  
+- Spontaneous Change - Entropy and Free Energy  
+- Electrochemistry  
+- Main-Group Elements I – Metals  
+- Main-Group Elements II – Nonmetals  
+- Transition Elements  
+- Complex Ions and Coordination Chemistry  
+- Nuclear Chemistry  
+- Organic Chemistry  
+
+**Course Objectives:**  
+1. To teach the basic concepts and principles of chemistry.  
+2. To provide the theoretical and practical knowledge together.  
+3. To improve students' problem-solving skills.  
+4. To explain the importance of chemistry in daily life.  
+
+**Course Learning Outcomes:**  
+Students who pass the course will be able to:  
+1. Understand and comment on chemical equilibrium.  
+2. Solve problems related to acids and bases.  
+3. Perform calculations involving complex-ion equilibria.  
+4. Apply concepts of entropy and free energy.  
+5. Understand industrial electrolysis and batteries.  
+6. Know how elements and compounds are found in nature and their methods of isolation and applications.  
+7. Understand the formation and nomenclature of coordination compounds.  
+8. Identify nuclear particles and discuss nuclear reactions.  
+9. Gain preliminary knowledge in organic chemistry.  
+
+**Course Plan:**  
+1. Chemical Equilibrium  
+2. Acids and Bases  
+3. Acid-Base Equilibria  
+4. Solubility  
+5. Complex-Ion Equilibria  
+6. Spontaneous Change - Entropy and Free Energy  
+7. Electrochemistry  
+8. Main-Group Elements I – Metals  
+9. Main-Group Elements II – Nonmetals  
+10. Transition Elements  
+11. Complex Ions and Coordination Compounds  
+12. Nuclear Chemistry  
+13. Organic Chemistry - Nomenclature  
+14. Organic Chemistry - Reactions  
+
+**Textbook:**  
+R.H. Petrucci, W.S. Harwood, F.G. Herring, J.D. Madura, 2007, General Chemistry, Pearson Prentice Hall, ISBN: 0-13-198825-.
+
+**Other References:**  
+- R.H. Petrucci, W.S. Harwood, F.G. Herring, 2005, Genel Kimya 2, Palme Yayıncılık, ISBN: 0-13-014329-.  
+- R. Chang, 2000, Kimya - Fen ve Mühendislik Bölümleri için, Beta Basım Yayım, ISBN: 975-486-954-.  
+
+**Assessment Criteria:**  
+- Midterm Exams: 2 (40%)  
+- Quizzes: 10 (10%)  
+- Final Exam: 1 (50%)  
+
+This cleaned text retains all relevant information regarding the course structure, objectives, learning outcomes, and assessment criteria while removing unnecessary links and extraneous details.

@@ -1,0 +1,45 @@
+**Title:** İsveç Kungliga Teknika Hogskolan
+
+**Course Equivalents:**
+
+| Dersin Kodu | Dersin Adı                                      | Dersin Kodu | Dersin Adı                        |
+|-------------|-------------------------------------------------|--------------|-----------------------------------|
+| 4E1238      | Aeroelasticity                                  | UCK472       | Aeroelastisite                    |
+| 2D1380      | Artificial Intelligence                          | BLG435E      | Artificial Intelligence            |
+| 2E1200      | Automatic Control                               | UCK 362E     | Automatic Control                  |
+| 4E1113      | Fibre Composites-Analysis and Design           | UCK236E      | Composite Materials                |
+| 4E1114      | Fiber Composites-Materials and Manufacturing    | UCK236E      | Composite Materials                |
+| SD2800      | Experimental Aerodynamics                        | UCK372       | Deneysel Mühendislik              |
+| 1N1703      | Macroeconomics                                  | EKO201       | Ekonomi                           |
+| 211401      | Research Methodology and Scientific Writing      | ING201       | English III                       |
+| DN2260      | The Finite Element Method                       | UZB318E      | Finite Element Method             |
+| SD2601      | Fundamentals of Flight                          | UCK362       | Flight Mechanics                   |
+| SG2223      | Fluid Mechanics                                  | AKM204E      | Fluid Mechanics                    |
+| 4E1111      | Lightweight Structures and FEM                  | UZB 331      | Hava Uzay Yapıları                |
+| SD2615      | Air Traffic Management and Modern Avionics      | UCK457       | Havayolu İşletmeciliği            |
+| 4E1239      | Computational Aerodynamics                       | UCK419       | Hesaplamalı Aerodinamik           |
+| MH3253      | Fluid Mechanics and Heat Transfer                | UZB232       | Isı Geçişi                        |
+| AH2007      | International Economics                          |              |                                   |
+| AK1210      | Swedish Society, Culture and Industry in Historical Perspective | ITB |                                   |
+| DT2213      | Musical Communication and Music Technology       | ITB          |                                   |
+| SE2126      | Mathematical Mechanics                           | MAL201       | Malzeme Bilimi                    |
+| SD2155      | Flow Acoustics                                  |              |                                   |
+| SD2416      | Structural Optimisation and Sandwich Design      |              |                                   |
+| SD2151      | Modern Multibody Dynamics                        |              |                                   |
+| DN2255      | Numerical Solutions of Differential Equations    | UCK348       | Müh. Bilg. Uygulamaları           |
+| DN2255      | Numerical Solutions of Differential Equations    | MAT202E      | Numerical Methods                  |
+| 2E1119      | Measurement Technologies                         | UZB341       | Ölçme Tekniği                    |
+| MJ2440      | Measurement Techniques                           | UZB341       | Ölçme Tekniği                    |
+| HM1M03      | Project Planning                                 | END339       | Proje Planlama                    |
+| DD2425      | Robotics and Autonomous Systems                  | UZB438       | Robotik Kontrol Sistemleri        |
+| MJ2246      | Rocket Propulsion                                | UZB441E      | Rocket Propulsion                  |
+| 5C1215      | Compressible Flow                                | UZB362       | Sıkıştırılabilir Aerodinamik      |
+| 5C1151      | Modern Multibody Dynamics                        | UZB3345      | Sistem Dinamiği                   |
+| EL1820      | Modeling of Dynamical Systems                    | UZB345       | Sistem Dinamiği                   |
+| EF2260      | Space Environment and Spacecraft Engineering     | UZB411E      | Space Environment                  |
+
+**Contact Information:**
+
+- **Phone:** +90 (212) 285 31 01
+- **Fax:** +90 (212) 285 31 39
+- **Address:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

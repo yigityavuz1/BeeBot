@@ -1,0 +1,43 @@
+**Title: DİĞER SALONLAR**
+
+**İSTANBUL TEKNİK ÜNİVERSİTESİ SALON KULLANIM OLANAKLARI**
+
+| KAPASİTE GRUBU     | BULUNDUĞU YER                | SALON ADI                       | KAPASİTE | NOT                  |
+|---------------------|------------------------------|----------------------------------|----------|----------------------|
+| 10-15 KİŞİ          | Bilişim Enstitüsü            | 409 Nolu Toplantı Odası        | 10       | Toplantı Düzeni      |
+|                     | Bilişim Enstitüsü            | 412 Nolu Toplantı Odası        | 10       |                      |
+|                     | Makina Fak.                  | Toplantı Salonu                | 12       | Masa Düzeni          |
+|                     | Elektrik-Elektronik Fak.     | 2 Adet Toplantı Salonu         | 20       | Seminar Salonu       |
+|                     | Kimya -Met Fak.              | Toplantı Salonu                | 25       |                      |
+|                     | İşletme Fak.                 | FK                              | 30       |                      |
+|                     | Uçak-Uzay Bilimleri Fak.     | Seminar Odası                   | 30       |                      |
+|                     | Afet Yön.Enstitüsü          | Toplantı Salonu                | 30       | Derslik              |
+|                     | Afet Yön.Enstitüsü          | Seminar Odası                   | 30       |                      |
+|                     | Mimarlık Fak.                | Senato Odası                   | 40       |                      |
+|                     | Makina Fak.                  | Dekanlık Toplantı Salonu       | 40       | Toplantı Düzeni      |
+|                     | Enerji Enst.                 | Seminar Odası                   | 40       |                      |
+|                     | Elektrik-Elektronik Fak.     | 6307 Nolu Salon                 | 50       | Amfi Düzeninde       |
+|                     | Bilişim Enstitüsü            | 411 Seminer Odası              | 50       |                      |
+|                     | Fen- Edebiyat Fak.           | Toplantı Salonu                | 50       |                      |
+| 50-100 KİŞİ        | Makina Fak.                  | Doktora Salon                   | 55       | Tiyatro Düzeni       |
+|                     | Makina Fak.                  | Mavi Salon                      | 72       | Tiyatro Düzeni       |
+|                     | Makina Fak.                  | Görsel Eğitim Salonu           | 72       | Tiyatro Düzeni       |
+|                     | Gemi İnşaat Fak.            | Konferans Salonu               | 90       |                      |
+|                     | Elektrik-Elektronik Fak.     | 1302 Nolu Salon                 | 96       | Sabit Kolçaklı       |
+|                     | Uçak-Uzay Bilimleri Fak.     | TAV                             | 99       |                      |
+| 100-150 KİŞİ       | Afet Yön.Enstitüsü          | Remzi Ülker                    | 142      |                      |
+|                     | Maden Fak.                   | İhsan Ketin Kon.Salonu        | 134      |                      |
+|                     | Elektrik-Elektronik Fak.     | İdris Yamantürk Kon.Salonu    | 140      |                      |
+|                     | Mimarlık Fak.                | 127 No'lu oda                  | 150      |                      |
+|                     | Kimya -Met Fak.              | D-201 Konferans Salonu         | 150      | Sıra Düzeni          |
+|                     | Elektrik-Elektronik Fak.     | Ömer Korzay Konferans Salonu   | 110      |                      |
+|                     | İnşaat Fak.                  | Nahit Kumbasar Kon.Salonu      | 104      | Tiyatro Düzeni       |
+| 150-250 KİŞİ       | Mimarlık Fak.                | 109 No'lu oda                  | 250      |                      |
+|                     | Bilgisayar Bilişim F.        | Konferans Salonu               | 250      | Tiyatro Düzeni       |
+| 250-450 KİŞİ       | Makina Fak.                  | Orhan Öcalgiray Salonu         | 305      | Tiyatro Düzeni       |
+
+**İletişim Bilgileri:**
+- **Adres:** İTÜ Etkinlik ve Protokol Şube Müdürlüğü, Ayazağa Yerleşkesi, 34469 Maslak, İSTANBUL
+- **Telefon:** (0212) 285 3975
+- **Faks:** (0212) 285 3975
+- **Email:** protokol@itu.edu.tr

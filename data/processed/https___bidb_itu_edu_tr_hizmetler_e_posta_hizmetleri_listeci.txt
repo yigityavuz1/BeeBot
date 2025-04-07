@@ -1,0 +1,28 @@
+**Title: Listeci**
+
+**KÜNYE**
+- Liste sayısı: 600
+- Hizmetin İlk verildiği yıl: 2001
+- Aktif kullanıcı sayısı: 50.000
+- Günlük ortalama dağıtılan mail sayısı: [Webmail](https://webmail.itu.edu.tr)
+- Web adresi: [Listeci](https://listeci.itu.edu.tr)
+
+**Hizmet Tanımı:**
+Listeci hizmeti, İTÜ/BİDB tarafından sunulan e-posta liste hizmetidir. E-posta listeleri, tek bir e-postanın aynı anda birden çok kişiye dağıtılmasını sağlar. İTÜ/BİDB tarafından sunulan e-posta grup hizmeti, duyuru listelerini ve tartışma listelerini içermektedir. İsteyen birimler bu amaçlar dâhilinde dilekçeyle liste talebinde bulunabilirler.
+
+**Genel Listeler:**
+- Tumokul: Tüm okul mensuplarına
+- Akademik: Akademik kullanıcılara
+- İdari: İdari kullanıcılara
+- Öğrenciler: Tüm okul öğrencilerine
+
+E-postalar moderatör onayından sonra ilgili mensuplara dağıtılır. Genel listelerin moderasyon işleminden İTÜ İletişim Ofisi sorumludur.
+
+**İletişim:**
+İTÜ Ayazağa Kampüsü  
+Bilgi İşlem Daire Başkanlığı  
+Maslak-Sarıyer / İstanbul  
+0212 285 3930
+
+**BİDB YARDIM:**
+İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz.

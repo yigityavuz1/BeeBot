@@ -1,0 +1,21 @@
+### Kontrol ve Otomasyon Mühendisliği
+
+Kontrol ve otomasyon mühendisliği, bir sistemi uygun yazılım ve donanımlarla istenilen duruma yönlendirme problemiyle ilgilenir. Sanayi devriminden sonra gelişen teknoloji ile üretimdeki hızlı artış, yeni mühendislik alanlarının doğmasına yol açmıştır. Kontrol ve otomasyon mühendisliği; elektrik, elektronik, mekanik ve bilgisayar tabanlı endüstriyel üretim sistemlerinin planlanan biçimde çalışmasını sağlayan bilgi ve teknolojileri üretir ve uygular.
+
+#### Araştırma Alanları
+
+Günümüzde endüstriden beklentiler daha ekonomik, kaliteli ve hatasız ürünlerdir. Bu ihtiyacı karşılamak için otomasyon, endüstriyel uygulamalardan ayrı tutulamaz. Kontrol ve otomasyon mühendislerine sanayide sıkça ihtiyaç duyulmaktadır. Ayrıca, bina otomasyonu kontrol ve otomasyon mühendislerinin yaygın çalışma alanlarındandır.
+
+İnsansız kara ve hava araçlarının otomatik pilot tasarımı, havacılık ve uzay sektöründe önemli bir uygulama alanıdır. Tıp ve teknolojik gelişmeler de yeni çalışma sahaları yaratmaktadır; biyonik kollar ve ameliyat robotları bu gelişmelere örnek teşkil eder.
+
+#### Kontrol Mühendisliği'nin Temel Eğitim ve Araştırma Alanları
+
+* Kontrol ve Sistem Teorisi
+* Modelleme, Simülasyon ve Sistem Belirleme
+* Endüstriyel Otomasyon ve Robotik
+* Proses Kontrol, Ölçme ve Enstrümantasyon
+* Hareket Kontrol Sistemleri
+* Sürücü Sistemler
+* Akıllı Sistemler
+* Endüstriyel Veri İletişim Sistemleri
+* Bilgisayar Tabanlı Gerçek Zaman Kontrol Sistemleri

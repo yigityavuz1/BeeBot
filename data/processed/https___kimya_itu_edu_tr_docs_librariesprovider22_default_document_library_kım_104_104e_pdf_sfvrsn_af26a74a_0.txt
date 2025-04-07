@@ -1,0 +1,58 @@
+**Course Name:** Organic Chemistry  
+**Course Code:** KIM 104 -104E  
+**Semester:** 4  
+**Local Credits:** 3  
+**ECTS Credits:** 4.5  
+**Department/Program:** Food Engineering, Chemical Engineering  
+**Course Type:** Compulsory  
+**Course Language:** English  
+**Course Prerequisites:** KIM 101 MIN DD or KIM 101E MIN DD  
+
+**Course Description:**  
+The scope of organic chemistry includes chemical bonding, atomic properties of carbon, hybrid orbitals, aliphatic hydrocarbons (alkanes, cycloalkanes), alkenes, alkynes, halogenated compounds, alcohols, diols, ethers, aromatic compounds, aldehydes, ketones, carboxylic acids and derivatives, amines, and polymers.
+
+**Course Objectives:**  
+1. To teach the basic concepts and principles of organic chemistry.  
+2. To provide theoretical and practical knowledge together.  
+3. To improve the ability of organic problem-solving and critical decision-making.  
+4. To explain the importance of organic chemistry in daily life.  
+5. To encourage logical and positive thinking regarding the importance of organic chemistry in engineering.
+
+**Course Learning Outcomes:**  
+Students who pass the course satisfactorily can:  
+1. Learn and apply the basic concepts and principles of organic chemistry.  
+2. Integrate and interpret theoretical and practical knowledge.  
+3. Develop problem-solving skills in organic chemistry.  
+4. Understand the relevance of organic chemistry in everyday life.  
+5. Think logically and positively about organic chemistry's significance in engineering.  
+6. Apply theoretical organic knowledge in laboratory and industrial settings.  
+7. Scale laboratory reactions to industrial production.
+
+**Course Plan:**  
+- Week 1: Chemical Bonds, Carbon Atom, Hybrid Orbitals  
+- Week 2: Aliphatic Hydrocarbons (Alkanes, Cycloalkanes)  
+- Week 3: Alkenes  
+- Week 4: Alkynes  
+- Week 5: Halogenated Compounds  
+- Week 6: Alcohols, Diols, and Ethers  
+- Week 7: Aromatic Compounds  
+- Week 8: Aromatic Compounds  
+- Week 9: Aldehydes and Ketones I  
+- Week 10: Aldehydes and Ketones II  
+- Week 11: Carboxylic Acids and Derivatives I  
+- Week 12: Carboxylic Acids and Derivatives II  
+- Week 13: Amines  
+- Week 14: Polymers  
+
+**Textbook:**  
+- Paula Yurkanis Bruice, 2015, *Essential Organic Chemistry*, 3rd Edition, Pearson.
+
+**Other References:**  
+- Solomons & Fryhle, *Organic Chemistry*, 12th Edition, 2016, J&Wiley.  
+- David R. Klein, *Organic Chemistry*, 3rd Edition, Wiley, 2017.  
+- Philip S. Bailey, Christina A. Bailey, 2000, *Organic Chemistry*, Prentice Hall.  
+- Robert C. Atkins, Francis A. Carey, 2002, *Organic Chemistry*, 3rd Edition, McGraw Hill.
+
+**Assessment Criteria:**  
+- Midterm Exams: 2 (50%)  
+- Final Exam: 1 (50%)

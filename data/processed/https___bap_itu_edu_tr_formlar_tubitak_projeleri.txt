@@ -1,0 +1,27 @@
+**Title: TÜBİTAK Projeleri**
+
+1. **Sözleşmenin Hazırlanması:**
+   - TÜBİTAK ARDEB Proje Takip Sistemi (PTS) üzerinden "projeno.pdf" adlı dosya ile proje yürütücülerine gönderilir.
+   - Projenin sözleşme süreci tamamlandığında, TÜBİTAK ARDEB Müdürlüğü tarafından sözleşme PTS'ye yüklenir.
+   - Proje yürütücülerine PTS kanalıyla ve e-posta yoluyla bildirim yapılır.
+
+2. **Sözleşmenin Teslimi:**
+   - Proje yürütücüleri, onaylı proje sözleşmesi ve bütçe tablosunu içeren "projeno.pdf" dosyasını Bilimsel Araştırma Projeleri Koordinasyon Birimine (BAP Birimi) teslim eder.
+
+**Dikkat Edilmesi Gerekenler:**
+- Teslim tarihi için BAP Biriminin talimatlarına uyulmalıdır.
+- Sözleşme ve bütçe tablosu eksiksiz ve hatasız olmalıdır.
+- Belgeler "pdf" formatında ve "projeno.pdf" adında olmalıdır.
+
+**Teslim Yöntemleri:**
+- Belgeler ıslak imzalı olarak BAP Birimine elden teslim edilebilir.
+- Belgeler taranarak ve imzalanarak BAP Biriminin e-posta adresine gönderilebilir.
+
+**BAP Biriminin Görevleri:**
+- Teslim edilen belgeleri kontrol eder.
+- Eksiklik veya hata varsa proje yürütücüsünden düzeltme talep eder.
+- Belgeleri onayladıktan sonra projeyi başlatmak için gerekli işlemleri başlatır.
+
+**İletişim:**
+- BAP Birimi ile iletişim için kurumunuzun web sitesindeki bilgilere bakabilirsiniz.
+- Sorularınız veya sorunlarınız için BAP Birimi ile e-posta veya telefon yoluyla iletişime geçebilirsiniz.

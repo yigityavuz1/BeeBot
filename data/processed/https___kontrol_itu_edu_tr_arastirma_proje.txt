@@ -1,0 +1,109 @@
+**Projeler**
+
+1. **Kafa Hareketleriyle Kontrol Edilebilen Yeni Nesil Yarı Otonom Elektrikli Tekerlekli Sandalye Geliştirilmesi**
+   - **Proje Görevlileri:** Doç. Dr. Volkan Sezer
+   - **Türü-Bütçesi:** Tübitak 3001 Araştırma projesi - 59999TL
+   - **Başlangıç Yılı:** 2016
+   - **Süre (Yıl):** 1,3
+   - **Açıklama:** Tekerlekli sandalye kullanmak zorunda olan hastalar için yarı-otonom bir sistem geliştirilmesi.
+
+2. **Elektrikle Isınan İç Giyim**
+   - **Proje Görevlileri:** Doç. Dr. Osman Kaan Erol
+   - **Türü-Bütçesi:** BAP
+   - **Başlangıç Yılı:** 2015
+   - **Süre (Yıl):** 2
+
+3. **Consensus Control with Adaptive Model Predictive Controller**
+   - **Proje Görevlileri:** Yaprak Yalçın
+   - **Araştırmacılar:** Anıl Yılmaz
+   - **Türü-Bütçesi:** ITU BAP Research Grant, 2019-2021, Project code: MYL-2019-42167
+   - **Açıklama:** Otonom araçlarda konsensüs kontrol problemi ve MPC kontrol yapısının geliştirilmesi.
+
+4. **Dinamik Vestibüler Sistem Analiz Algoritması Geliştirilmesi ve Denge Tespit Cihazı Tasarımı**
+   - **Proje Görevlileri:** Doç. Dr. Serhat İkizoğlu
+   - **Türü-Bütçesi:** TÜBİTAK 1001 Projesi
+   - **Başlangıç Yılı:** 2015
+   - **Süre (Yıl):** 2
+
+5. **Mobil Telefon Hat Sahibinin İhtiyaçlarının Bulanık Öbekleme Tabanlı Modellenmesi ve Uygun Tarifenin Sezgisel Eniyileme Yöntemleriyle Belirlenmesi**
+   - **Proje Görevlileri:** Yrd. Doç. Dr. Engin Yeşil
+   - **Türü-Bütçesi:** Getron Bilişim Hizmetleri A.Ş.
+   - **Başlangıç Yılı:** 2014
+   - **Süre (Yıl):** 1
+
+6. **TEKNOKENT TÜMOSAN Dizel Motoru İçin Elektronik Kontrol Ünitesi Geliştirme**
+   - **Proje Görevlileri:** Prof. Dr. Metin Gökaşan
+   - **Türü-Bütçesi:** Tümosan Motor ve Traktör San. A.Ş.
+   - **Başlangıç Yılı:** 2014
+   - **Süre (Yıl):** 1
+
+7. **İTÜ NOVA Elektrikli Araçlarda Elektrikli Tahrik Sistemini Kontrol Ederek Motoru Süren, İstendiğinde Bataryaları Ek Bir Şarj Ünitesi Kullanmadan Şarj Edebilen Güç Kontrol Sistemi**
+   - **Proje Görevlileri:** Prof. Dr. Metin Gökaşan
+   - **Türü-Bütçesi:** İTÜNOVA Teknoloji A.Ş.
+   - **Başlangıç Yılı:** 2014
+   - **Süre (Yıl):** 1
+
+8. **İDİS Demiryolu İzleme ve Sinyalizasyon**
+   - **Proje Görevlileri:** Prof. Dr. Mehmet Turan Söylemez
+   - **Türü-Bütçesi:** ABE Teknoloji Mühendislik Hizmetleri A.Ş.
+   - **Başlangıç Yılı:** 2014
+   - **Süre (Yıl):** 1
+
+9. **Marmaray hat kesimindeki işletme yönetim merkezi bakım onarım sistemlerinin periyodik bakımlarının yürütülmesi, işletmecilikte karşılaşabilecek aksaklıklarla ilgili teknik destek alınması**
+   - **Proje Görevlileri:** Prof. Dr. Mehmet Turan Söylemez
+   - **Türü-Bütçesi:** T.C. Devlet Demir Yolları İşletmesi
+   - **Başlangıç Yılı:** 2014
+   - **Süre (Yıl):** 1
+
+10. **Mobil Telefon Hat Sahibinin İhtiyaçlarının Bulanık Öbekleme Tabanlı Modellenmesi ve Uygun Tarifenin Sezgisel En iyileme Yöntemleriyle Belirlenmesi**
+    - **Proje Görevlileri:** Yrd. Doç. Dr. Engin Yeşil
+    - **Türü-Bütçesi:** Teknoloji Çözümleri Yazılım Araştırma Geliştirme Sanayi ve Ticaret Limited Şirketi
+    - **Başlangıç Yılı:** 2014
+    - **Süre (Yıl):** 2
+
+11. **İ.D.İ.S. Demiryolu İzleme ve Sinyalizasyon**
+    - **Proje Görevlileri:** Prof. Dr. Mehmet Turan Söylemez
+    - **Türü-Bütçesi:** ABE Teknoloji Mühendislik Hizmetleri A.Ş.
+    - **Başlangıç Yılı:** 2013
+    - **Süre (Yıl):** 2
+
+12. **Metrobüs Araçlarının Hibrit Elektrikli Araca Dönüştürülmesi İçin Sürücü Sistemlerinin Geliştirilmesi**
+    - **Proje Görevlileri:** Prof. Dr. Metin Gökaşan
+    - **Türü-Bütçesi:** İstanbul Ulaşım Sanayi ve Ticaret A.Ş.
+    - **Başlangıç Yılı:** 2013
+    - **Süre (Yıl):** 1
+
+13. **Elektrifikasyon projelerinde hat gerilim düşümlerinin simülasyonla takip edilmesi**
+    - **Proje Görevlileri:** Prof. Dr. Mehmet Turan Söylemez
+    - **Türü-Bütçesi:** T.C. Devlet Demir Yolları İşletmesi Genel Müdürlüğü
+    - **Başlangıç Yılı:** 2013
+    - **Süre (Yıl):** 1
+
+14. **Hazır Giyimde Talep Tahmini ve İlk Sipariş Planlaması**
+    - **Proje Görevlileri:** Yrd. Doç. Dr. Engin Yeşil
+    - **Türü-Bütçesi:** Getron Bilişim Hizmetleri A.Ş.
+    - **Başlangıç Yılı:** 2013
+    - **Süre (Yıl):** 1
+
+15. **Yeniden Yapılandırılabilir Modüler Robotik Sistem Tasarımı ve Kontrolü**
+    - **Proje Görevlileri:** Doç. Dr. Serhat İkizoğlu
+    - **Türü-Bütçesi:** TÜBİTAK 2241-A
+    - **Başlangıç Yılı:** 2013
+    - **Süre (Yıl):** 
+
+16. **Estimating Stock Transactions Using Fuzzy Cognitive Maps And Investor-Based Modeling System**
+    - **Proje Görevlileri:** Yrd. Doç. Dr. Engin Yeşil
+    - **Türü-Bütçesi:** TÜBİTAK
+    - **Başlangıç Yılı:** 2012
+    - **Süre (Yıl):** 2
+
+17. **Advanced Vehicle Technology Research and Development Center**
+    - **Proje Görevlileri:** Yrd. Doç. Dr. Engin Yeşil
+    - **Türü-Bütçesi:** DPT
+    - **Başlangıç Yılı:** 2011
+    - **Süre (Yıl):** 3
+
+**İletişim Bilgileri:**
+- **Telefon:** +90 212 285 35 75
+- **Fax:** +90 212 285 29 20
+- **Adres:** İTÜ Ayazağa Kampüsü, PK: 34469, Maslak / İstanbul

@@ -1,0 +1,18 @@
+**Alan Adı Talep Koşulları**
+
+İTÜ/BİDB, itu.edu.tr alan adına ait sorumluluklarından ötürü alt alan adı talepleri almamakta, sadece alan adı taleplerini değerlendirmektedir. 
+
+**Kabul Edilen Alan Adı Başvuruları:**
+- İdari Birimler
+- Akademik Birimler
+- Kulüpler
+- Akademik Projeler
+- Konferans, Çalıştay vb. Akademik Toplantılar
+
+**Dikkat Edilmesi Gerekenler:**
+- Alan adınızın kullanım amacını doğru temsil etmesine dikkat edin.
+- Alan adınızın 3 karakterden daha uzun olmasına dikkat edin.
+- Kurumunuz için açılmış olan bir alan adının alt alan adı olarak kayıt talebiniz varsa yukarıdaki kuralları dikkate almayabilirsiniz.
+- Alan adı başvurusunda URL adresi talep etmeyiniz; yönlendirme sadece bir IP adresi veya başka bir alan adı olabilir.
+- İTÜ/BİDB tarafından sağlanan bir web hizmeti alacaksanız, alan adı talebi için ayrıca yazılı başvuru yapmanıza gerek yoktur; web hizmeti başvuru yazınızda belirtmeniz yeterlidir.
+- Alan Adı Tahsis Sözleşmesi'ni okuduğunuzdan emin olun.

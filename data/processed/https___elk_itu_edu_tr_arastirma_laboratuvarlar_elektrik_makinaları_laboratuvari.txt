@@ -1,0 +1,28 @@
+**Title:** Elektrik Makinaları Laboratuvarı
+
+**Technical Equipment:**
+1. Kurulu güç: 250 kVA
+2. 25 kW, 220 V doğru gerilim kaynağı
+3. 25 kW, 110 V doğru gerilim kaynağı
+4. 80 kVA, 50 Hz, 0...380 V ayarlı alternatif gerilim kaynağı
+5. 25 kW, 0...220 V ayarlı doğru gerilim kaynağı
+6. 22 kW, 380 V, 10...100 Hz, değişken frekans kaynağı
+7. 55 kW gücüne kadar motor yükleme deneyleri için dinamofren
+8. Sargı yalıtım deneyi için 10 kV luk doğru gerilim kaynağı
+
+**Laboratory Facilities:**
+- 14 adet deney masası
+- 3 adet çok amaçlı deney masası
+- 1 adet sanayi deney masası
+- Toplam alan: 1900 m²
+- Yaklaşık 40 km kablo ve 1000’e yakın şalter ve kontaktör kullanılmıştır
+- Laboratuar, bir yarıyılda yaklaşık 150 öğrenciye 10 farklı deney yapma olanağı sunmaktadır
+
+**Experiments Conducted:**
+- Elektrik makinelerinin plaka değerlerinin belirlenmesine yönelik deneyler
+- Küçük elektrik makineleri (dikiş makinası motoru, süpürge motoru, çamaşır makinası motoru vb.) yükleme, ısınma ve izolasyon deneyleri
+
+**Contact Information:**
+- **Phone:** +90 (212) 285 6745
+- **Fax:** +90 (212) 285 6700
+- **Address:** İTÜ Ayazağa Kampüsü, Elektrik Elektronik Fakültesi, 34469, Maslak, İstanbul

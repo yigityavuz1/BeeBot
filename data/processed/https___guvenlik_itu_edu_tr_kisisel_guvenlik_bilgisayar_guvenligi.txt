@@ -1,0 +1,44 @@
+**Bilgisayar Güvenliği**
+
+Bilgisayar güvenliği, bilgisayarın izinsiz kullanılması engelleme anlamına gelmektedir.
+
+**Neden Güvenlik?**
+- Kişisel bilgilerimizin korunması önemlidir.
+- Bilgiler bilgisayar ortamında tutulmakta ve korunması gerekmektedir.
+
+**Neden Tehlikeli?**
+- Saldırılar hızla artmakta ve karmaşıklaşmaktadır.
+- Saldırgan sayısı artmakta ve saldırı programları kolayca erişilebilir hale gelmektedir.
+- Güvenlik açıkları artmaktadır.
+
+**Kimler Saldırıyor?**
+- Geçiş bilgisayarı olarak kullananlar.
+- Bilgi çalanlar.
+- Zevk için saldıranlar.
+
+**Neden Saldırmak Kolay?**
+- Yeni güvenlik açıkları sürekli tespit edilmekte ve yayınlanmaktadır.
+- Hazır saldırı programlarının bulunması saldırıları kolaylaştırmaktadır.
+
+**Son Kullanıcıların Sıkça Yaptığı Hatalar ve Önlemler**
+1. **Masaüstü Bilgisayarlar Üzerinde Sunucu Nitelikli İşletim Sistemleri**: Kullanıcıların uygun işletim sistemleri kullanması sağlanmalıdır.
+2. **Masaüstü Bilgisayarlar Üzerinde Sunucu Nitelikli Uygulamalar**: Güvenli yazılımlar kullanılmalıdır.
+3. **İşletim Sistemleri Güncellemeleri**: Kullanıcılar güncellemeleri yapmalıdır.
+4. **Uygulama Yazılımları Güncellemeleri**: Uygulama yazılımları da güncellenmelidir.
+5. **Masaüstü Bilgisayarda Yönetici Hakları**: Gereksiz yönetici hakları verilmemelidir.
+6. **Anti Virüs Yazılımları ve Güncellemeler**: Anti virüs yazılımları kullanılmalı ve güncellenmelidir.
+7. **Dosya Paylaşımları**: Kullanıcılar dosya paylaşımının riskleri konusunda bilinçlendirilmelidir.
+8. **Dosya Alışverişi**: Güvenilir kaynaklardan dosya indirilmelidir.
+9. **Web Üzerinde Bilinçsiz Çalıştırılan Programlar**: Güvenlik ayarları yapılmalıdır.
+10. **E-posta Eklentileri**: Bilinmeyen e-posta eklentileri çalıştırılmamalıdır.
+11. **Güvenlik Standartları ve Kullanım Politikaları**: Kullanıcılar bu standartların önemini anlamalıdır.
+
+**Genel Tavsiyeler**
+- Program ayarlarını güvenli hale getirin.
+- Firewall (güvenlik duvarı) kullanın.
+- Güçlü şifreler oluşturun ve düzenli olarak değiştirin.
+- İyi bir anti virüs programı kullanın ve güncelleyin.
+- Şifrelerinizi güvenli bir şekilde yönetin.
+- Düzenli yedek alın ve güvenli bir yerde saklayın.
+- Bilmediğiniz konularda bilgi alın.
+- Şifrelerinizi karışık bir şekilde girin.

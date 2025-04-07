@@ -1,0 +1,11 @@
+**Title:** Bitirme Tasarım Projesi
+
+**Contact Information:**
+- **Phone:** +90 212 285 62 70
+- **Fax:** 0212 285 62 63
+- **Address:** İTÜ Ayazağa Yerleşkesi, Maden Fakültesi, 34469 Maslak/İstanbul, Türkiye
+
+**Guidelines for Graduation Design Project:**
+- For PET 492E: [PDGMB_BTP_rapor_taslağı](https://petrol.itu.edu.tr/docs/librariesprovider25/default-document-library/pdgmb_btp_rapor_tasla%C4%9F%C4%B1.doc?sfvrsn=a8b0da21_0)
+- [PDGMB_BTP_yazım_kılavuzu.pdf](http://web.itu.edu.tr/~yamanlar/btp.pdf)
+- For PET 4901/2E: [PET 4901/2E Rapor Şablonu](https://petrol.itu.edu.tr/docs/librariesprovider25/default-document-library/reporttemplate.docx)

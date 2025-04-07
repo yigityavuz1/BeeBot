@@ -1,0 +1,173 @@
+Title: İTÜ | ÖİDB
+
+URL Source: https://www.sis.itu.edu.tr/TR/obs-hakkinda/ogretim-uyesi-icin-aciklamalar.php
+
+Markdown Content:
+Öğretim Üyeleri İle İlgili Açıklamalar
+--------------------------------------
+
+SİSTEM'E KULLANICI GİRİŞİ
+-------------------------
+
+*   www.sis.itu.edu.tr web sitesi ana sayfasında yer alan "Sisteme Giriş" linkini tıklayınız.
+*   WEB istemciniz yeni gelecek sayfada İTÜ GİRİŞ sunucu ve sayfasına yönlenecektir. Bu sayfada yer alan “kullanıcı adı ve şifresi” bölümlerine İTÜ giriş bilgilerini giriniz.
+*   Öğrenci Bilgi Otomasyon Sistemine sadece İTÜ GİRİŞ kullanıcı girişi ardından erişilebilecektir. Bu giriş ardından istemciniz kapatılana kadar İTÜ GİRİŞ hakları ile kullanımınız devam edecektir.
+*   İTÜ GİRİŞ kaydınız doğrulandığında, WEB istemciniz Öğrenci Bilgi Sistemi “Banner” girişine gelecektir. Öğrenci Bilgi Sistemine Giriş yapacağınız kullanıcı numaranızın şifresini PIN alanına girip, Login butonuna basarak sistem girişini tamamlayabilirsiniz.
+*   İstanbul Teknik Üniversitesi – Öğrenci Bilgi Sistemleri Ana Menü başlıklı sayfaya gireceksiniz. Bu sayfa, sistemin giriş sayfasıdır.
+*   Kullanıcı numaranızı ve / veya şifrenizi üst üste 5 defa yanlış girmeniz durumunda hesabınız kilitlenecektir. Sisteme tekrar girebilmeniz için yardım bileti oluşturma ekranında kategori seçiminden "PIN İşlemleri" Alt kategori seçiminden ise "PIN Bloke işlemleri" seçip yardım bileti gönderdiğiniz taktirde tarafınıza yeni şifreniz gönderilecektir .
+
+ŞİFRE DEĞİŞTİRME
+----------------
+
+Öğrenci Bilgi Sistemleri otomasyonu tarafından verilmiş olan ilk şifreniz ile sisteme bağlanır bağlanmaz hemen şifrenizi sizin hatırınızda kalabilecek bir şifre ile değiştirmenizi tavsiye ederiz.Şifre değiştirme sayısında bir sınır yoktur. Şifrenizi istediğiniz an istediğiniz kadar değiştirebilirsiniz.
+
+*   Sisteme girip İstanbul Teknik Üniversitesi Öğrenci Bilgi Sistemleri Ana Menü'süne ulaştıktan sonra 'Kişisel Bilgiler' menü öğesini tıklayınız.
+*   Kişisel Bilgiler Menüsü altında bulunan 'PIN Değiştir' menü öğesini tıklayınız.
+*   Eski şifrenizi 'Enter Old PIN' alanına girdikten sonra yeni şifrenizi sırasıyla önce 'Enter new PIN' alanına sonra da tekrar 'Re-enter New PIN' alanına girdikten sonra 'Change PIN' butonuna basınız.
+*   Şifre değişikliğinin başarılı olması için yeni şifrenizin eski şifrenizden farklı olması ve altı sayısal karakterden oluşması gerekmektedir.
+*   5\. Şifre değişikliği işleminizin başarılı olması durumunda sistem sizi 'Kişisel Bilgiler Menüsü'ne gönderecek ve sayfasının ilk satırında 'Your Changes were saved successfully' mesajı verecektir. Bu andan itibaren sisteme girişleriniz ancak ve ancak yeni şifreniz ile olacaktır.
+
+ADRES, TELEFON VE E-POSTA BİLGİLERİNİ GÖRME / GÜNCELLEME
+--------------------------------------------------------
+
+İstanbul Teknik Üniversitesi adres tipinde gördüğünüz adres sizlere Bilgi İşlem Merkezi tarafından verilen adrestir. Bu adres resmi iletişim kanalı olarak kullanılacağından bu adreste lütfen herhangi bir değişiklik yapmayınız.
+
+*   Sisteme girip 'İstanbul Teknik Üniversitesi Ana Menü'süne ulaştıktan sonra 'Kişisel Bilgiler' menü öğesini tıklayınız.
+*   Kişisel Bilgiler Menüsü altında adres, telefon ve e-posta bilgilerinizi görme ve güncelleme için dört menü öğesi ile karşılaşacaksınız.
+*   Sistemde kayıtlı olan adres ve telefon bilgilerinizi görmek için 'Adres ve Telefon Bilgilerini Görme' menü öğesini tıklayınız.
+*   Güncelleme için ise 'Adres ve Telefon Bilgilerini Güncelle' menü öğesine tıklayınız. Adres tipini seçerek 'Update Adress and Phones'a basınız ve yeni adresinizi giriniz.
+*   Sistemde kayıtlı olan e-posta bilgilerinizi görmek için 'E-posta Adreslerini Görme' menü öğesini tıklayınız.
+*   Güncelleme için ise 'E-mail Adresi Güncelle' menü öğesinden adres tipini seçerek 'Update E-Mail Addresses'a basınız. Kulanmayı tercih ettiğiniz E-posta adresi için 'Preferred' seçeneğini işaretleyiniz.
+
+AYRINTILI ÇİZELGENİN GÖRÜNTÜLENMESİ VE SYLLABUS FORMUNUN CRN BAZINDA GÜNCELLENMESİ
+----------------------------------------------------------------------------------
+
+*   ‘Öğretim Üyesi’ menüsüne tıklayınız.
+*   ‘Ayrıntılı Çizelge’ menüsüne tıklayınız. Term seçiniz.
+*   CRN bazında Ayrıntılı Çizelgeniz görüntülenir.
+*   İsterseniz Syllabus kısmında maintain tuşu ile Syllabus bilgilerine ulaşıp CRN bazında syllabus formunda değişiklik yapıp Submit ile kaydedebilirsiniz.
+
+AYRINTILI SINIF LİSTESİNİN WORD veya EXCEL DÖKÜMANI OLARAK KAYDEDİLMESİ
+-----------------------------------------------------------------------
+
+*   ‘Öğretim Üyesi’ Servisi menüsüne tıklayınız.
+*   ‘Öğrenci Listesi’ menüsüne tıklayınız.
+*   Term ve CRN seçerek derse ait öğrenci listenize buradan ulaşarak Word ve Excel dökümanı olarak listeyi indirebilirsiniz.
+
+YARIYIL SONU SINAVINA GİREBİLME KOŞULUNU YERİNE GETİREMEYEN ÖĞRENCİLERİN LİSTESİNİN İLANI
+-----------------------------------------------------------------------------------------
+
+*   Sisteme girip 'İstanbul Teknik Üniversitesi Ana Menü'süne ulaştıktan sonra 'Öğretim Elemanı’ menü öğesini tıklayınız.
+*   ‘Final Notlar’ menüsünü seçiniz.
+*   Term kısmından bulunduğunuz dönemi seçip submit butonuna basınız.
+*   İlgili CRN i seçip submit butonuna basınız.
+*   Final Grades kısmında yarıyıl sonu sınavına girebilme koşulunu yerine getirmeyen öğrencilere ‘VF’ notu seçip Submit butonuna basınız.
+*   Sistemde bu notlar her gün saat 17:30 - 18:30 saatleri arasında öğrenci tarihçesine işlenecektir. Tarihçeye işlenen notların yanında Rolled kısmı ‘Y’ olarak görünür ve öğrenciye ilan edilmiş olur. Bu işlemle, notların öğrenciye web üzerinden ilan edilmiş olduğunu ve ancak Fakülte Yönetim Kurulu kararıyla değiştirilebileceğini unutmayınız.
+*   İlan edilen listenin görüntülenmesi;  
+    ‘Dönem Seçme’den bulunduğunuz dönemi seçiniz.  
+    ‘CRN Seçme’den ilgili CRN i seçiniz.  
+    ‘Final Giremez Listesi’ menüsüne giriniz.
+
+YARIYIL SONU BAŞARI NOTLARININ GİRİLMESİ
+----------------------------------------
+
+Eğitim Öğretim yılı Dönem başarı notlarını girme Akademik Takvimde belirtilen Son final notu giriş tarihi sonuna kadar web üzerinden olacaktır. Dersi olan tüm öğretim elemanlarının, öğrencilerinin notlarını bu süre içerisinde web'e girmesi sistemin zamanında ve eksiksiz yürütülebilmesi için gerek koşuldur.
+
+*   Ana sayfadan Ders Programları bağlantısına girerek o dönemde üniversite tarafından açılan vermiş olduğunuz dersleri inceleyerek CRN numaralarını not ediniz.
+*   Sisteme girip 'İstanbul Teknik Üniversitesi Ana Menü'süne ulaştıktan sonra 'Öğretim Elemanları Menüsü' nü tıklayınız.
+*   ‘Final Notlar’ menüsünü seçiniz.
+*   Term kısmından bulunduğunuz dönemi seçip submit butonuna basınız.
+*   İlgili CRN i seçip submit butonuna basınız.
+*   “Final Grades” kısmında öğrencilere ait notları giriniz.Bu kısımda daha önce eğer varsa Final sınavına girme hakkı elde edemeyen öğrencilerin notları ‘VF’ olarak görünecektir.
+*   Notları girdikten sonra submit butonuna basınız.Sistemde bu notlar her gün saat 17:30 - 18:30 saatleri arasında öğrenci tarihçesine işlenecektir. Tarihçeye işlenen notların yanında Rolled kısmı ‘Y’ olarak görünür ve öğrenciye ilan edilmiş olur. Bu işlemle, notların öğrenciye web üzerinden ilan edilmiş olduğunu ve ancak Fakülte Yönetim Kurulu kararıyla değiştirilebileceğini unutmayınız.
+*   Mazeret sınavı notlarının sisteme işlenmesi
+Öğretim Üyesi Servisi,Mazeret Notları linkinden dönem ve crn seçilerek mazeret notları girilmesi gerekmektedir.
+
+İKİ EK YARIYIL SONU SINAV HAKKI
+-------------------------------
+
+Dersinize ait Ek-1 ve Ek-2 sınavları için “Ek sınav Öğrenci Listesi”ne ve “Ek Sınav Not Girişi” linklerine ulaşmak için ;
+
+*   www.sis.itu.edu.tr adresinden girdikten sonra “Öğretim Üyesi Servisi” Menüsü altında bulunan “Ek sınav Öğrenci Listesi” ve “Ek Sınav Not Girişi” linklerinde dersinizin dönemini seçiniz ,ilgili ”CRN” yi seçiniz ve hangi Ek sınavı seçmek istiyorsanız Ek1 veya Ek2 Sınavını tikleyip “Submit” ediniz.
+*   Ek Sınav Not Girişi sayfasında notları submit ettikten sonra değişiklik yapamazsınız. Ek sınava girmemiş öğrencinin notunu ‘Girmedi’ olarak seçiniz.
+
+ÖĞRENCİ BİLGİLERİNE ULAŞMA
+--------------------------
+
+*   Sisteme girip 'İstanbul Teknik Üniversitesi Ana Menü'süne ulaştıktan sonra 'Öğretim Elemanı’ menü öğesini tıklayınız.
+*   'Öğretim Elemanları Menüsü'nde yer alan ' Öğrenci Menüsü' menü öğesini tıklayınız.
+*   'Öğretim Elemanı - Öğrenci Menüsü'nde yer alan 'Öğrenci No Seçme' menü öğesine tıklayarak, ister öğrenci numarasına göre arama yaparak istediğiniz öğrencinin bilgilerine ulaşabilirsiniz.
+*   Menüde yer alan 'Öğrenci Adres ve Telefon Bilgilerini Görme', 'Öğrenci E-posta Adreslerini Görme' menü öğelerinden ise seçmiş olduğunuz öğrencinin kişisel bilgilerine ulaşabilirsiniz.
+*   Öğrencilerinizin ders programına ulaşmak için de 'Öğrenci Çizelgesi' menü öğesini kullanabilirsiniz.
+*   Staj Bilgileri linkinden öğrencilerinizin stajlarını görüntüleyebilirsiniz.
+
+DANIŞMAN ÖĞRETİM ÜYELERİ
+------------------------
+
+‘Öğretim Üyesi’ Menüsü altında yer alan ‘Danışmanlar Menüsü’ne girildiğinde Danışmanı olduğunuz öğrencilerin e-mail, adres ve akademik durum bilgilerine ulaşabilirsiniz. Buradan tüm danışmanı olduğunuz öğrencilere mail gönderebilirsiniz.
+
+DERS DEĞİŞTİRME (ADD-DROP) İŞLEMLERİ İÇİN:
+------------------------------------------
+
+Kayıt haftası sonrası İTÜ Lisans Eğitim Öğretim Yönetmeliğine göre yapılacak olan ders değiştirme ve derslerden çekilme işlemini, danışmanların danışmanı olduğu öğrencilerle birlikte yapması gerekmektedir.
+
+*   ‘Öğretim Üyesi’ menüsüne tıklayınız.
+*   ‘Öğrenci Menüsü’ öğesine tıklayınız.
+*   ‘Dönem Seç’ kısmından bulunduğunuz dönemi seçiniz.
+*   ‘Ders Ekle/Çıkar’ menüsüne tıklayınız.
+*   Ders ekleme/çıkarma yapacağınız ‘öğrenci no’ sunu girip ‘Submit’ butonuna basınız.
+*   ‘Student PIN’ kısmına öğrencinin sisteme giriş şifresini giriniz. ‘Submit’ butonuna basınız.
+*   ‘Current Schedule’ kısmında öğrencinin bu döneme ait kayıtlı olduğu dersler gelir.
+*   Ders çıkarmak(Drop) için Action kısmında ilgili CRN de ‘Ders Değiştirme-Web’ seçeneğini seçip ‘Submit’ butonuna basınız.
+*   Ders eklemek(Add) için ‘Add Classes Worksheet’ kısmında kutucuğa CRN ‘i yazıp ‘Submit’ butonuna basınız.
+*   Yazılı derslerin son hali ‘Current Schedule’ kısmında göründüğü gibidir.
+
+DERSTEN ÇEKİLME İŞLEMİ (WİTHDRAWAL) İŞLEMİ İÇİN:
+------------------------------------------------
+
+Yönetmeliğe göre bir öğrenci bir dönemde en fazla bir dersten çekilebilir.
+
+*   ‘Öğretim Üyesi’ menüsüne tıklayınız.
+*   ‘Öğrenci Menüsü’ öğesine tıklayınız.
+*   ‘Dönem Seç’ kısmından bulunduğunuz dönemi seçiniz.
+*   ‘Ders Ekle/Çıkar’ menüsüne tıklayınız.
+*   Dersten çekilme yapacağınız ‘öğrenci no’ sunu girip ‘Submit’ butonuna basınız.
+*   ‘Student PIN’ kısmına öğrencinin sisteme giriş şifresini giriniz. ‘Submit’ butonuna basınız.
+*   ‘Current Schedule’ kısmında öğrencinin bu döneme ait kayıtlı olduğu dersler gelir.
+*   Dersten çekilme(Withdrawal) için Action kısmında ilgili CRN de ‘Dersten Çekilme-Web’ seçeneğini seçip ‘Submit’ butonuna basınız.
+*   Yazılı derslerin son hali ‘Current Schedule’ kısmında göründüğü gibidir. Çekildiğiniz Ders Statusu ‘Dersten Çekilme- Web’ olarak görünecektir.
+*   Dersten çekilme işleminde tekrar bir ders seçilmeyecektir.
+
+KAYITLI DERSLER İÇİN DANIŞMAN GÖRÜŞÜNÜN VERİLMESİ
+-------------------------------------------------
+
+#### A. DÖNEME AİT HAFTALIK GÖRÜŞME PLANININ İLANI
+
+*   ‘Öğretim Üyesi Servisi’ menüsüne tıklayınız.
+*   ‘Danışmanlar ‘ menüsüne tıklayınız.
+*   ‘Dönem Seçme’ menü öğesine tıklayınız.
+*   İlgili dönemi seçip ‘Submit’ butonuna basınız.
+*   Kayıttan sonraki hafta da danışmanı olduğunuz öğrencilerle görüşme için uygun olduğunuz gün ve saatleri ‘Danışman İçin Haftalık Görüşme Planı ‘formuna aşağıdaki şekilde giriniz.
+*   Hafta/Week kısmına haftayı: hafta başlangıç günü/ay/yıl olarak örneğin : 16-04-2011 şeklinde giriniz.
+*   Uygun olduğunuz saatleri ilgili günlere örneğin 09:00-13:00 şeklinde giriniz.
+*   Yazmak istediğiniz mesaj varsa mesaj kısmına giriniz.
+*   ‘Submit’ butonuna basınız.
+Belirlediğiniz görüşme tarih ve saat bilgileri danışmanı olduğunuz öğrencilerin sayfalarına yansıyacaktır.
+
+**B. DANIŞMAN ONAY FORMUNUN DOLDURULMASI**
+
+*   ‘Öğretim Üyesi Servisi’ menüsüne tıklayınız.
+*   ‘Danışmanlar ‘ menüsüne tıklayınız.
+*   ‘Dönem Seçme’ menü öğesine tıklayınız.
+*   İlgili dönemi seçip ‘Submit’ butonuna basınız.
+*   ‘Danışman Onay Formu’ menüsüne tıklayınız.
+*   Derslerini görüşeceğiniz danışmanı olduğunuz öğrenci no sunu giriniz ve ‘Submit’ butonuna basınız.
+*   Ekrana öğrenci ve kayıt olduğu derslerin bilgileri gelir. Bu aşamada danışman mevcut lisans yönetmeliğine göre seçtiği öğrencisinin seçtiği dersleri değiştirme konusunda görüş bildirebilir.Ancak yönetmeliğin müsaade ettiği derslerin alınmaması konusunda sınırlama getiremez. Bu konudaki düşüncelerinizi kayda almak için ‘Görüş’ kısmına görüşünüzü yazıp , ‘Submit’ butonuna basınız.
+*   İlgili öğrencinin dönem kaydına ilişkin görüşleriniz sisteme kaydedilmiş olur.Bu öğrenci sayfasına da yansır.’Print’ butonuna basarak bu formun bir nüshasını kendi dosyalarınızda saklayınız.
+*   İsterseniz geçmiş dönemlere ait Danışman onay formlarını dönem ve öğrenci no seçerek görüntüleyebilirsiniz.
+
+ÖĞRETİM ELEMANLARI ÇİZELGE BİLGİLERİ
+------------------------------------
+
+*   Öğretim Üyesi’ Servisi menüsüne tıklayınız .
+*   'Ayrıntılı Çizelge' ve 'Gün Bazında Çizelge' menülerinden de kendi çizelgenize ulaşabilirsiniz.

@@ -1,0 +1,65 @@
+**ZORUNLU STAJ YAPACAK İTÜ MATEMATİK MÜHENDİSLİĞİ ÖĞRENCİLERİ İÇİN UYARILAR VE AKIŞ ŞEMASI**
+
+**UYARILAR:**
+
+1. Staj yapacak öğrenciler, İTÜ Staj Genel Esasları, İTÜ Matematik Mühendisliği Bölümü Staj Esasları belgelerini ve İTÜ Kariyer ve Staj Merkezinin yayınladığı Staj Süreci Adımlarını okumalıdır.
+
+2. Zorunlu staj süresi Matematik Mühendisliği Bölümü için 30 çalışma günüdür.
+
+3. Bir seferde 10 günden az yapılan staj kabul edilmeyecektir.
+
+4. Staj tarihleri haftada en az 3 çalışma günü olacak şekilde belirlenmelidir.
+
+5. Staj yapılacak tarihler, öğrencinin sınav ve derslerinin olduğu günlerle çakışamaz (Yaz okulu dahil).
+
+6. İş güvenliği eğitimini tamamlamadan staj başlangıcı yapılamaz.
+
+7. Yurtiçi staj işlemlerine İTÜ Portal üzerinden başlanır.
+   - Öğrencinin çalışma staj takvimi ve staj modülündeki ilgili alanların doldurulması gerekmektedir.
+   - İTÜ Portal üzerinden işlem gerçekleştirmeden yapılan stajlar geçersiz sayılacaktır.
+   - Öğrenci, İTÜ Portal’daki işlemleri modül tarafından atanan tarih aralıklarında gerçekleştirmek zorundadır. Aksi durumda staj geçersiz sayılacaktır.
+   - SGK işlemleri, İTÜ Kariyer ve Staj Merkezi tarafından yürütülür.
+
+8. Erasmus ve yurtdışı stajları portal sistemine kaydedilmeyecek. Zorunlu staj olarak sayılmasının istenmesi durumunda, öğrenci:
+   - Firmadan alacağı staj tarihlerini de içeren staj kabul belgesi ve iş sözleşmeleri,
+   - Sigorta yaptırdığına dair belge,
+   - Pasaport fotokopisi,
+   - Staj raporu ile staj komisyonuna başvurabilir.
+
+9. Staj bitiminde, Staj Raporu, Staj Sözleşmesi, Ek-1, Ek-2, Ek-3 formları ve Staj Çalışma Takvimi ıslak imzalı nüshaları:
+   - Yaz dönemi stajlarında akademik yılın başlama tarihinden itibaren en fazla 1 ay içerisinde,
+   - Dönem içi stajlarda staj bitimini takip eden 15 gün içinde Matematik Mühendisliği Bölüm Sekreterliği'ndeki kutuya bırakılmalıdır.
+
+10. Stajın değerlendirmesi ve onayı, Portal ve Ninova’da istenen belgeler yüklendikten sonra elektronik ortamda yapılmaktadır.
+
+11. Sorularınız için öncelikle İTÜ Kariyer ve Staj Merkezi’nin Sıkça Sorulan Sorularını kontrol ediniz.
+
+**AKIŞ ŞEMASI:**
+
+**A. Staj öncesinde**
+
+i. Öğrenci, en geç staj başlangıç tarihinden 15 gün önce zorunlu staj başvurusunu Portal’da İTÜ kullanıcı adı ve şifresi ile gerçekleştirir.
+
+ii. Sistem tarafından üretilen İTÜ Öğrenci Staj Sözleşmesini ve EK-1 Staj Başvuru Formu öğrenci tarafından doldurulur ve imzalanır.
+
+iii. Firmaya/kuruma, staj sözleşmesi ve EK-1 formu imza ve kaşe ile onaylatılmalı. Sonra, Staj Komisyonu > Dekanlık sırası takip edilip onayları için ıslak imza veya e-onay alınması gerekmektedir.
+
+iv. Tüm mercilere onaylatılmış sözleşme ve Ek-1 formu staj başlangıç tarihine en geç 6 gün kala Portal’a yüklenmelidir.
+
+**B. Staj sırasında ve sonrasında**
+
+İTÜ Staj Genel Esasları ve Öğrenci Staj Sözleşmesi’ndeki maddeler halinde açıklanan adımlar izlenmelidir.
+
+**C. Staj onayı**
+
+i. Her staj çalışmasından sonra, staj raporu hazırlanmalıdır.
+
+ii. Raporda staj süresince yapılanlar gün gün yazılmalıdır.
+
+iii. Staj Rapor Kapağı ve Staj Rapor Taslağı, İTÜ Matematik Mühendisliği web sitesinden indirilebilir.
+
+iv. Staj Raporu, firma/kurum yetkilisine imzalatılmalı.
+
+v. Staj Raporu, Öğrenci Staj Sözleşmesi, Ek-1 Formu ve Staj Çalışma Takvimi (imzalı ve onaylı) tek bir pdf dosyası şeklinde birleştirilerek Portal’a ve Ninova’da açmış olan staj sınıfına ödev olarak yüklenmelidir.
+
+vi. Ninova’daki staj sınıfına kendinizi eklettirmek için bölüm staj komisyonu üyelerinden herhangi birine öğrenci numaranızı içeren bir e-posta yollanmalıdır.

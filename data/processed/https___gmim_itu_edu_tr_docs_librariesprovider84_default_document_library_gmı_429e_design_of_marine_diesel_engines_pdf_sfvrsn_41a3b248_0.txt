@@ -1,0 +1,60 @@
+**Title:** GMI 429E Design of Marine Diesel Engines  
+**Published Time:** 2022-05-15  
+
+**Course Name:** Design of Marine Diesel Engines  
+**Course Code:** GMI 429E  
+**Semester:** 5-7-8  
+**Local Credits:** 2  
+**ECTS Credits:** 2  
+**Course Type:** Elective  
+**Course Language:** English  
+**Prerequisites:** None  
+
+**Course Description:**  
+- Requirements of the design process.  
+- Heat computations.  
+- Maximum gas pressure force.  
+- Inertia forces of axial moving masses.  
+- First, second etc. harmonics.  
+- Forces on engine parts: Piston, crosshead, crankshaft etc.  
+- Piston acceleration.  
+- Weight and strength calculations of the moving masses.  
+- Strength calculations of the piston, piston rod, connecting rod, and crankshaft.  
+
+**Course Objectives:**  
+1. To teach about requirements of the design process.  
+2. To teach about design of stationary and moving parts of marine diesel engines.  
+
+**Course Learning Outcomes:**  
+Students who pass the course will be able to:  
+I. Learn about requirements of the design process.  
+II. Learn about structural projects and their components.  
+III. Learn about mechanical projects and their components.  
+IV. Learn about thermodynamic projects and their components.  
+
+**Course Plan:**  
+1. Requirements of the design process  
+2. Heat computations  
+3. Maximum gas pressure force  
+4. Inertia forces of axial moving masses  
+5. First, second etc. harmonics  
+6. Centrifugal forces of rotational moving masses  
+7. The forces affecting piston, piston rod, and crosshead block  
+8. The forces affecting connecting rod  
+9. The forces affecting crankshaft  
+10. Tangential force, horizontal force, and vertical force  
+11. Piston acceleration  
+12. Weight and strength calculations of the moving masses  
+13. Strength calculations of the piston, piston rod, and connecting rod  
+14. Strength calculations of the crankshaft  
+
+**Textbook:**  
+Yousef Haik, Tamer M. Shahin, *Engineering Design Process*, CL Engineering, USA 2011.  
+
+**Other References:**  
+1. Atila Ertas - Jesse C. Jones, *The Engineering Design Process*, John Wiley & Sons, Inc., 2nd ed., 1996.  
+2. Fahrettin Küçükşahin, *Dizel Motorlarının Tasarımı*, Birsen Yayınevi, 2014.  
+
+**Assessment Criteria:**  
+- Midterm Exams: 40%  
+- Final Exam: 60%  

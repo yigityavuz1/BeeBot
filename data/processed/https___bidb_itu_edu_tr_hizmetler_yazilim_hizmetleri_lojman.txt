@@ -1,0 +1,16 @@
+**Title:** Lojman Yönetim Sistemi
+
+**Künye:**
+- **İlk yayın tarihi:** Mart 2015
+- **Aktif kullanıcı sayısı:** 550
+- **Web Adresi:** [http://konaklama.itu.edu.tr/lojman/](http://konaklama.itu.edu.tr/lojman/)
+
+**Açıklama:**
+Lojman Yönetim Sistemi, İstanbul Teknik Üniversitesi bünyesinde bulunan lojman yerleştirmeleri için hazırlanmış başvuru takip sistemidir. Lojman Ofisi tarafından belirlenen dönemler içerisinde yapılan başvurular, personele ait bilgilere göre puanlandırılır ve bağlı oldukları birim yetkilileri tarafından onaylanır. Onaylama süreci sonrasında elde edilen puan sırasına göre başvuruda bulunan kişiler tercih ettikleri lojmanlara yerleşir.
+
+**İletişim:**
+- **Adres:** İTÜ Ayazağa Kampüsü, Bilgi İşlem Daire Başkanlığı, Maslak-Sarıyer / İstanbul
+- **Telefon:** 0212 285 3930
+
+**Yardım:**
+İTÜ/BİDB tarafından geliştirilen yardım sistemi ile sorunlarınız ile ilgili biletlerinizi oluşturabilir ve takibini yapabilirsiniz.

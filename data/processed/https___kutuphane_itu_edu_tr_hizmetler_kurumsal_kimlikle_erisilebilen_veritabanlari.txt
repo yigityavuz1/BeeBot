@@ -1,0 +1,51 @@
+**Kurumsal Kimlikle Erişilebilen Veritabanları**
+
+Türkiye’nin yüksek eğitim ve araştırma kurumları için **YETKİM** (TÜBİTAK-ULAKBİM) adı ile bir kimlik federasyonu kurulmuştur. Kullanıcılar **YETKİM**’e tanımlı veritabanlarına internete bağlı herhangi bir bilgisayar aracılığı ile bağlanabilirler.
+
+**Önemli Hatırlatma:**
+1. Kurumsal kullanıcı adı girişi İTÜ Eposta hesabınızdaki kullanıcı adı ve şifresiyle yapılmaktadır. Kullanıcı adı “@itu.edu.tr” uzantısı olmadan yazılmalıdır.
+2. İTÜ’nün YETKİM’de tanımlı kurumsal isimleri Türkçe, İstanbul Teknik Üniversitesi, İngilizce İstanbul Technical University veya Technical University of Istanbul şeklindedir.
+
+**Kurumsal Kimlik ile Erişim Sağlanan Veritabanları Listesi:**
+- ACM DIGITAL LIBRARY
+- AMERICAN INSTITUTE of PHYSICS (AIP)
+- AMERICAN CHEMICAL SOCIETY (ACS)
+- ANNUAL REVIEWS
+- ASME (The American Society of Mechanical Engineers) Digital Collection
+- CAMBRIDGE CORE JOURNALS
+- EBSCOhost
+- EMERALD INSIGHTS JOURNALS
+- IEEEXPLORE
+- JSTOR ARCHIVE JOURNAL CONTENT
+- NATURE
+- OXFORD JOURNALS
+- PROQUEST
+- REAXYS
+- SAGE Journals
+- SCIENCEDIRECT JOURNALS & BOOKS
+- SCOPUS
+- SPRINGER
+- TAYLOR & FRANCIS JOURNALS
+- WILEY ONLINE LIBRARY JOURNALS
+
+**Erişim Yöntemleri:**
+1. **AIP**: "Sign in via your Institution" bağlantısını takip edin, "Turkey - YETKIM" ve "Istanbul Technical University" seçin.
+2. **ACM**: "Get Access" bağlantısını takip edin, "Sign in" > "Institutional Login" altında "Istanbul Technical University" seçin.
+3. **ACS**: "Find my institution" veya "Access Through ..." bağlantısını takip edin, üniversitenizi seçin.
+4. **Annual Reviews**: "Access Through Your Library/Institution" bağlantısını takip edin, üniversitenizi seçin.
+5. **Cambridge Core**: "Log In" butonuna tıklayın, "Access through Istanbul Technical University" seçin.
+6. **Emerald Insights**: "Login" butonuna tıklayın, üniversitenizi seçin.
+7. **JSTOR**: "Log In" butonuna tıklayın, üniversitenizi seçin.
+8. **IEEEXplore**: "Institutional Sign In" veya "Sign in to Continue Reading" bağlantısını takip edin, üniversitenizi seçin.
+9. **Nature**: "Access via your institution" bağlantısını takip edin, üniversitenizi seçin.
+10. **REAXYS**: "Sign in" butonuna tıklayın, "Sign in via your institution" linkine giriş yapın, üniversitenizi seçin.
+11. **SAGE Journals**: "GET ACCESS" bağlantısını takip edin, üniversitenizi seçin.
+12. **Science Direct**: "Sign in" butonuna tıklayın, "SIGN IN VIA YOUR INSTITUTION" butonuna tıklayın, üniversitenizi seçin.
+13. **Scopus**: "Sign in" butonuna tıklayın, "SIGN IN VIA YOUR INSTITUTION" butonuna tıklayın, üniversitenizi seçin.
+14. **Taylor & Francis**: "Log in" butonuna tıklayın, "Login with Istanbul Technical University" butonuna giriş yapın.
+15. **Wiley**: "Login" linkine giriş yapın, "INSTITUTIONAL LOGIN" linkine giriş yapın, üniversitenizi seçin.
+16. **EBSCOhost**: "Access Through Institution" butonuna tıklayın, üniversitenizi seçin.
+17. **Oxford Journals**: "Get Access" > "Sign in through your institution" bağlantısını takip edin, üniversitenizi seçin.
+18. **ProQuest**: "Log in through your library to access more features" bağlantısını takip edin, üniversitenizi seçin.
+
+Bu veritabanlarını kullanabilmektesiniz.

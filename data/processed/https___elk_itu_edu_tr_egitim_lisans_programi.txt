@@ -1,0 +1,21 @@
+**Title: Lisans Programı**
+
+**Program Overview:**
+ÖSYM ile Elektrik Mühendisliği Lisans Programı'na giren öğrenciler mezun olabilmek için, toplam 153 kredilik ders alarak başarılı olmak durumundadır. Bu dersler; temel bilim, temel mühendislik, insan ve toplum bilimi ile Elektrik Mühendisliği meslek ve tasarım dersleri kümelerinden oluşmaktadır. Temel bilim dersleri ile öğrencilere tüm mühendisliklerin temelini oluşturan matematik, fizik ve kimya alanlarında köklü bir altyapı kazandırılırken, temel mühendislik dersleri ile mühendislik alanlarına ilişkin geniş bir vizyon verilmeye çalışılmaktadır. Meslek ve tasarım derslerinin amacı ise; öğrencilere elektrik mühendisliğinin temellerini, ilkelerini ve elektrik mühendisliği teknolojilerini kavratmak ve bunları mühendislik sistemleri tasarımında ve ileri teknolojiler geliştirmede kullanabilme becerisi kazandırmaktır. İnsan ve toplum bilimi kümesindeki derslerin amacı ise; öğrencilerin toplumun etkin bireyleri olmalarını sağlamak, ayrıca öğrencilere yazılı ve sözlü iletişim becerisi kazandırmaktır.
+
+**Laboratory Facilities:**
+Elektrik Mühendisliği Lisans Eğitimi'nde teorik seviyedeki dersleri desteklemek için; gelişmiş bilgisayarlarla ve internet bağlantıları ile donatılmış bilgisayar simülasyonu laboratuarları ile sayı ve kalite açısından zengin deney ve test laboratuarları bulunmaktadır.
+
+**Quality Assurance:**
+İki Döngülü Kalite Geliştirme çevrimi çerçevesinde, yeni mezunların Elektrik Mühendisliği Lisans Programı Eğitim Çıktılarını (a-l) en az %70 oranında sağlamaları beklenir. Ayrıca yeni mezunların, İTÜ Elektrik Mühendisliği Program Kriterlerinin (1-4) gerektirdiği bilgi ve beceriye sahip olma durumundadırlar.
+
+**Contact Information:**
+- **Telefon:** +90 (212) 285 6745
+- **Fax:** +90 (212) 285 6700
+- **Adres:** İTÜ Ayazağa Kampüsü, Elektrik Elektronik Fakültesi, 34469, Maslak, İstanbul
+
+**Relevant Links:**
+- [Ders İçerikleri](https://elk.itu.edu.tr/egitim/lisans-programi/ders-icerikleri)
+- [Staj](https://elk.itu.edu.tr/egitim/lisans-programi/staj)
+- [Bitirme Tasarım Projesi (BTP-ELK492)](https://elk.itu.edu.tr/egitim/lisans-programi/BTP)
+- [Elektrik Müh. Tasarımı (EMT- ELK4901/4902)](https://elk.itu.edu.tr/egitim/lisans-programi/EMT)

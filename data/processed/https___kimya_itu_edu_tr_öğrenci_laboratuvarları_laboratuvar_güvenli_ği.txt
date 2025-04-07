@@ -1,0 +1,40 @@
+### Laboratuvar Güvenliği
+
+#### Güvenlik Dokümanları
+- Laboratuvar Kuralları
+- Genel Güvenlik Kuralları
+- Laboratuvar Güvenlik Kitapçığı
+
+#### Acil Durumda Yapılacaklar
+- Yangın ihbar: 110
+- Polis: 155
+- Acil sağlık hizmetleri: 112
+- Bina güvenliği: 212-285-3975
+- İTÜ Güvenlik: 212-285-6814
+- Kimyasal, biyolojik veya radyoaktif maddeler döküldüğünde veya gaz kaçağı durumlarında acil sağlık hizmetleri ve İTÜ Güvenlik ile iletişime geçin.
+- Durumu danışmanınıza ve Kimya Bölüm sekreterliğine 212-285-3233 numaralı telefondan bildirin.
+
+#### Atık Yönetimi
+1. Laboratuardaki kimyasal atıklar uygun şekilde ayrılmalıdır.
+2. Her laboratuarda uygun toplama kabı bulundurulmalıdır.
+   - Sıvı atıklar 2.5 lt cam şişe veya plastik kaplarda biriktirilecektir.
+   - Katı atıklar 30 lt’lik kapaklı fıçılarda toplanacaktır.
+   - Diğer atıklar 30 lt’lik atık fıçılarında toplanacaktır.
+   - Kimyasal şişeleri boş olarak 30 lt fıçı içerisinde depolanacaktır.
+   - Plastik ambalajlar ayrı fıçı içerisinde depolanacaktır.
+3. Oksitleyici, indirgeyici ve pyroforik maddeler uygun ambalaj içinde atık fıçılarında toplanacaktır.
+4. Atık fıçıları kapakları sıkıca kapatılacak ve sızdırmazlık sağlanacaktır.
+5. Boş şişe ve plastik ambalajların bırakılması yasaktır.
+6. Öğrenci laboratuvarları atık kontrolünden teknisyenler ve uzmanlar sorumludur.
+7. Genel atık deposuna teslim, bölüm teknisyen ve uzmanlarından alınacak randevu ile gerçekleştirilecektir.
+8. Uygun olmayan ambalajlardaki atıklar teslim alınmayacaktır.
+9. Katı ve sıvı kimyasal atıklar ayrı ayrı istiflenecektir.
+10. Kullanılmış piller belirli alanlarda toplanacaktır.
+11. Radyoaktif, biyolojik ve patlayıcı maddelerin kullanılması durumunda bölüm başkanlığı bilgilendirilmelidir.
+
+#### Bölüm Kimyasal Depo Kullanımı
+1. Depodan çıkan ve yeni giren kimyasallar kayıt altına alınacaktır.
+2. Öğrenci laboratuvarlarının atıklarının oluşturulmasından bölüm teknik elemanları sorumludur.
+3. Araştırma laboratuvarlarındaki atıkların depoya nakli, araştırma grup üyeleri tarafından gerçekleştirilecektir.
+4. Depodaki çözücü varillerinden çözücü alımları belirli günlerde yapılacaktır.
+5. Depo başka bir amaç için kullanılmayacaktır.

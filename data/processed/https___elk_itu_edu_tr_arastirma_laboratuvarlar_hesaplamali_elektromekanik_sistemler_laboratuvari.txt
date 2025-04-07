@@ -1,0 +1,12 @@
+**Title:** Hesaplamalı Elektromekanik Sistemler Laboratuvarı
+
+**Description:** Hesaplamalı Elektromekanik Sistemler Laboratuvarı (CEMSys Lab.) enerji verimliliği odaklı elektromekanik sistemlerin geliştirilmesi, ulusal ve uluslararası projelerin yapılması ve lisansüstü düzeyde araştırmalar için bir laboratuvar olarak faaliyet göstermektedir. Laboratuvar, elektrik enerjisinin verimli kullanımı ve motor/generatör kontrol sistemlerinin verimliliği üzerine araştırmalar yapmaktadır.
+
+**Contact Information:**
+- **Phone:** +90 (212) 285 6745
+- **Fax:** +90 (212) 285 6700
+- **Address:** İTÜ Ayazağa Kampüsü, Elektrik Elektronik Fakültesi, 34469, Maslak, İstanbul
+
+**Relevant Links:**
+- [Laboratuvarlar](https://elk.itu.edu.tr/arastirma/laboratuvarlar)
+- [Hesaplamalı Elektromekanik Sistemler Laboratuvarı](https://elk.itu.edu.tr/arastirma/laboratuvarlar/hesaplamali-elektromekanik-sistemler-laboratuvari)

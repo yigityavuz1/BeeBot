@@ -1,0 +1,46 @@
+**Title:** Univesidad De Sevilla
+
+**Course Equivalencies:**
+
+| Universidad de Sevilla Course Code | Course Name (Spanish) | ITU Course Code | Course Name (Turkish) |
+|-------------------------------------|-----------------------|------------------|------------------------|
+| 1970022                             | Aerodinamical         | UCK351           | Aerodinamik (2021)     |
+| 1230047                             | Aeroelasticity        | UCK472           | Aeroelastisite         |
+|                                     | Estructuras Aerospaciales | UZB331       | Aerospace Structures    |
+| 1230073                             | Explotacion del Transporte Aereo | UCK457  | Airline Management      |
+| 1230072                             | Explotacion, Mantenimiento Y Gestion de Aeropuertos | UCK457 | Airline Management |
+|                                     | Mecanica de Fluidos I | AKM205           | Akışkanlar Mekaniği    |
+| 1230027                             | Control Automatico    | UCK362E          | Automatic Control       |
+|                                     | Avionica y sistemas de navegacion | UCK448 | Avionic Systems        |
+| 1230037                             | Mechanism of Composite Materials | UCK236E | Composite Materials     |
+| 1230037                             | Mecanica de los Materiales Compuestos | UCK236E | Composite Materials     |
+|                                     | Aerodinamica II      | UZB362           | Compressible Aerodynamics |
+|                                     | Diseno Mecanico      | UCK361E          | Design of Machine Elements |
+| 1230032                             | Flight Mechanics I    | UCK322E          | Flight Mechanics        |
+| 1230048                             | Sistemas de Control de Vuelo | UCK441E | Flight Stability and Control |
+| 12300022                            | Mecanica de Fluidos I | AKM204E          | Fluid Mechanics         |
+| 12300028                            | Transmision de Calor  | UZB232           | Heat Transfer          |
+| 1300022                             | Management and Control of Public Spending | ITB151E | Human Resources and Management |
+|                                     | Tecnologia Electronica | ELE222E          | Int. to Electronics     |
+| 1230038                             | Technology Manufacturing Aerospace | MAK351 | İmal Usulleri         |
+| 1230017                             | sistemas Propulsion    | UCK421           | Jet Propulsion Principles |
+|                                     | Sistemas de Control Propulsion | UCK421 | Jet Propulsion Principles |
+| 1230016                             | Resistencia de Materiales | MUK204         | Mukavemet II           |
+| 1230023                             | Metodos Matematicos    | MAT202E         | Numerical Methods       |
+| 1230019                             | Metodos Estadisticos de la Ingenierla | MAT271 | Probability and Statistics |
+| 1230046                             | Aerodynamics II       | UZB362           | Sıkıştırılabilir Aerodinamik |
+| 1970022                             | Aerodinámica I        | UCK351           | Aerodinamik            |
+| 1970013                             | Ciencia y Tecnología de Materiales Aeroespaciales | MAL201 | Malzeme Bilimi       |
+| 1970031                             | Sistemas de propulsión | UCK421           | Tepki ile Tahrik       |
+| 1970060                             | Sistemas de Aeronaves  | MT               | 7.Dönem MT             |
+| 1970003                             | Emprasa               | ITB              | 8.Dönem Seçime Bağlı Ders ITB |
+| 1970028                             | Mecanica de Fluidos II | AKM215          | Akışkanlar Mekaniği II (2021) |
+| 1970057                             | Mecanica del Vuelo    | UCK322E          | Flight Mechanics (2021) |
+| 1970023                             | Diseno y Fabricacion Asistidos Por Ordenador | UZB487E | CAD/CAM (2021)      |
+| 1970024                             | Estructuras          | UCK328E          | Yapısal Analiz ve Tasarım (2021) |
+| 1970060                             | Sistemas de Aeronaves  | UCK488           | Uçak Sistemleri (2021) |
+
+**Contact Information:**
+- **Phone:** +90 (212) 285 31 01
+- **Fax:** +90 (212) 285 31 39
+- **Address:** İTÜ Ayazağa Kampüsü, 34469, Maslak, İstanbul

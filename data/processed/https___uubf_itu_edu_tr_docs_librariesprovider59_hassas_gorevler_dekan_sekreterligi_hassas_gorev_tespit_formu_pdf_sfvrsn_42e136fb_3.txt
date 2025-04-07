@@ -1,0 +1,27 @@
+**Hassas Görevler Tespit Formu**
+
+**Birim:** UÇAK VE UZAY BİLİMLERİ FAKÜLTESİ  
+**Alt Birim:** Dekan Sekreterliği  
+
+| Sıra No | Hassas Görevler | Hassas Görevi Olan Personel | Risk Düzeyi | Görevin Yerine Getirilmeme Sonucu | Alınması Gereken Önlemler veya Kontroller |
+|---------|------------------|------------------------------|--------------|-----------------------------------|------------------------------------------|
+| 1       | Endüstri Danışma Kurulu Toplantısı'nın organize edilmesi ve İşveren Anket Formlarının doldurtulması | Dekan Sekreteri | Orta | İşlerin aksaması ve itibar kaybı | Planlamanın doğru yapılması ve işlerin takip edilmesi |
+| 2       | Fakültemizi tanımak için yapılan öğrenci ve çeşitli kurum/kuruluş ziyaretlerinin planlanması ve yazışmalarının yapılması | Dekan Sekreteri | Orta | İtibar kaybı ve hak mağduriyeti | Programlamanın zamanında yapılması ve bilgilendirme |
+| 3       | Fakültemize gelen misafirlerin konaklama-rezervasyonlarının yapılması | Dekan Sekreteri | Düşük | Kişilerin mağduriyeti | İşlerin takip edilmesi |
+| 4       | Meslekte 20. ve 30. Yıl Töreni'nin organize edilmesi | Dekan Sekreteri | Yüksek | Kurum itibarının zedelenmesi ve aksaklıklar | Zamanlama ve planlamanın doğru yapılması |
+| 5       | Milli Savunma Bakanlığı ve NATO Yazışmalarının yapılması | Dekan Sekreteri | Orta | Bilgi aktarımının zamanında gerçekleşmemesi | İşlerin takibinin yapılması |
+| 6       | Öğrenci Kulüp ve Takımlarının; sponsorluk, gümrük ve etkinlik yazışmalarının yapılması | Dekan Sekreteri | Orta | Aksaklıkların yaşanması ve hak mağduriyeti | İşlerin takibinin yapılması |
+| 7       | Çeşitli kurum ve kuruluşlarla imzalanan protokol ve sözleşmelerin yazışmalarının yapılması | Dekan Sekreteri | Orta | Kurum itibarının zedelenmesi | İşlerin takibinin yapılması |
+| 8       | Fakülteye bağlı laboratuvarlarla ilgili yazışmaları yapmak, yeni kurulan laboratuvarların açılış törenlerini organize etmek | Dekan Sekreteri | Düşük | Organizasyonel aksaklıkların yaşanması | Zamanlama ve planlamanın doğru yapılması |
+| 9       | Komisyon güncellemelerini ve tüm yazışmaları yapmak | Dekan Sekreteri | Düşük | Bilgilendirmede eksiklik | Sürekli güncellemenin yapılması |
+| 10      | Ar-Ge çalışmaları ile ilgili yazışmaları ve toplantı organizayonlarını yapmak | Dekan Sekreteri | Düşük | İşlerin aksaması | İşlerin düzenli takibinin yapılması |
+| 11      | Kalite ve iç kontrol ile ilgili yazışmaları ve toplantı organizayonlarını yapmak | Dekan Sekreteri | Yüksek | Süreçlerde aksaklık yaşanması | İş takibinin yapılması |
+| 12      | Fakülte seminerlerinin duyurusunun yapılması | Dekan Sekreteri | Orta | İstenilen katılımcı kitlesine ulaşamamak | Duyurunun zamanında yapılması |
+| 13      | Mezuniyet Töreni organizasyonunun yapılması | Dekan Sekreteri | Yüksek | Organizasyonda aksaklıklar | Zaman yönetimini iyi yapmak |
+| 14      | Fakülte faaliyet raporunu hazırlamak | Dekan Sekreteri | Yüksek | İtibar kaybı | Verilerin zamanında edinilmesi |
+| 15      | Yıl sonunda büro içerisinde gerekli düzenlemeyi sağlamak | Dekan Sekreteri | Yüksek | Çalışma veriminin düşmesi | Çalışma veriminin düşmesi |
+| 16      | Fakülte faaliyet raporunu hazırlamak | Dekan Sekreteri | Yüksek | İtibar kaybı | Verilerin zamanında edinilmesi |
+| 17      | Yıl sonunda büro içerisinde gerekli düzenlemeyi sağlamak | Dekan Sekreteri | Yüksek | Çalışma veriminin düşmesi | Düzenli ve sistematik çalışmanın sağlanması |
+
+**Hazırlayan:** İlgili Alt Birim Amiri  
+**Onaylayan:** Birim Amiri

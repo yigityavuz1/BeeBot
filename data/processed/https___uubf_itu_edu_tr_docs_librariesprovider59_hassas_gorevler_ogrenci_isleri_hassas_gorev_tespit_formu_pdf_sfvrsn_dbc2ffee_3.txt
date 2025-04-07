@@ -1,0 +1,44 @@
+**Title:** UUBF Hassas Görevler
+
+**Hassas Görevler:**
+
+1. **Görev:** Öğrencilerle ilgili her türlü belgeyi zamanında göndermek  
+   **Personel:** Öğrenci İşleri Personeli  
+   **Risk Düzeyi:** Yüksek  
+   **Sonuç:** Hak ve zaman kaybı  
+   **Önlemler:** Yazışma sürelerine özen gösterip zamanında cevap verilmesi  
+
+2. **Görev:** Yıl sonunda büro içerisinde gerekli düzenlemeyi sağlamak  
+   **Personel:** Öğrenci İşleri Personeli  
+   **Risk Düzeyi:** Orta  
+   **Sonuç:** Çalışma veriminin düşmesi  
+   **Önlemler:** Dönem içerisinde farkedilen eksikliklerin giderilmesi  
+
+3. **Görev:** Öğrenci disiplin işlemlerini takip edip, ilgili birimlere bilgi vermek  
+   **Personel:** Öğrenci İşleri Personeli  
+   **Risk Düzeyi:** Yüksek  
+   **Sonuç:** Yasalara uymama ve düzenin bozulması  
+   **Önlemler:** Takip işlemlerinin yasal süre içerisinde yapılması  
+
+4. **Görev:** Fakülte Kurulu, Fakülte Yönetim Kurulu ve Disiplin Kurulu kararlarını takip etmek ve yerine getirmek  
+   **Personel:** Öğrenci İşleri Personeli  
+   **Risk Düzeyi:** Yüksek  
+   **Sonuç:** Hak ve zaman kaybı  
+   **Önlemler:** Yapılan değişiklikleri takip etmek ve zamanında görevi yerine getirmek  
+
+5. **Görev:** Eğitim-Öğretim ile ilgili ders görevlendirmesi, haftalık ders programı ve sınav programının zamanında yapılmasına yardımcı olmak  
+   **Personel:** Öğrenci İşleri Personeli  
+   **Risk Düzeyi:** Orta  
+   **Sonuç:** Eğitim-Öğretim faaliyetlerinde aksama, öğrencilerde hak kaybı, kurumsal itibar kaybı  
+   **Önlemler:** Akademik Takvime uyulması ve eğitimden sorumlu Bölüm Başkan Yardımcısı ile koordinasyon halinde olmak  
+
+6. **Görev:** Diğer fakültelerce verilen havuz dersleri için gözetmen görevlendirmesi bilgi akışını sağlamak  
+   **Personel:** Öğrenci İşleri Personeli  
+   **Risk Düzeyi:** Yüksek  
+   **Sonuç:** Eğitim-Öğretim faaliyetlerinde aksama, öğrencilerde hak kaybı  
+   **Önlemler:** Görevlendirmelerin zamanında yapılması, onayların alınması, EBYS'den gerekli yazışmaların yapılması  
+
+**Birim:** Uçak ve Uzay Bilimleri Fakültesi  
+**Alt Birim:** Öğrenci İşleri  
+**Hazırlayan:** İlgili Alt Birim Amiri  
+**Onaylayan:** Birim Amiri

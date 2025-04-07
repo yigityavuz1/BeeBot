@@ -1,0 +1,11 @@
+**Title: Avans Alınabilmesi İçin Gerekli Belgeler**
+
+Avans ödemesi için **Avans Senedi** belgesinin düzenlenerek elden veya e-posta ile BAP Birimine iletilmesi gerekmektedir. Avans senedi belgesinin iletilmesinin akabinde Veri Giriş Görevlisi MYS sistemi üzerinde Harcama Onay Belgesi düzenler. Harcama Onay Belgesi, Gerçekleştirme Görevlisi ve Harcama Yetkilisi tarafından onaylandıktan sonra MYS üzerinde Ödeme Emri Belgesi düzenlenir. Belge Gerçekleştirme Görevlisi tarafından onaya gönderilir ve Harcama Yetkilisi tarafından e-imza ile onaylandıktan sonra işlemler menüsünden proje koordinatörüne gönderilir. BAP birimi sistem üzerinden evrakı muhasebeye gönderir ve en geç 4 iş günü içinde ödeme gerçekleşir.
+
+TÜBİTAK tarafından 2024 yılı için belirlenen avans limiti 200.000,-TL'dir. Mutemet öğrenci olamaz. Bir proje için birden fazla avans mutemeti tayin edilebileceği gibi bir mutemet birden fazla projeden avans alabilir. Açılan avansların hesaba yattığı tarihten itibaren 2 ay içinde kapatılması zorunludur. 2 ay içinde kapatılmayan avans tutarları için ilgili kanunlara göre Strateji Geliştirme Daire Başkanlığımız tarafından gecikme faizi hesaplanacak ve avans alan kişiden tahsil edilecektir.
+
+**NOT:** Bir mutemet aynı anda hem yolluk avansı hem de iş avansı alabilir.
+
+**GERÇEKLEŞTİRME GÖREVLİSİ HAKKINDA ÖNEMLİ NOT:** Gerçekleştirme Görevlisi olarak öncelikle projedeki araştırmacılardan (İTÜ mensubu olmak şartıyla - öğrenci hariç) birisi imza atacaktır. Yoksa bölüm veya fakülteden birisi gerçekleştirme görevlisi olarak proje yürütücüsü tarafından görevlendirilecek ve birimimize yazı ile bildirilecektir.
+
+**Belgeler**
