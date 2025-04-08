@@ -55,6 +55,22 @@ Lütfen cevabını aşağıdaki JSON formatında ver:
   "confidence": 0.8 (Cevabın doğruluğuna dair 0-1 arası güven skoru)
 }}
 """
+# Web search prompt for OpenAI's web search tool
+WEB_SEARCH_PROMPT = """
+Sen İstanbul Teknik Üniversitesi (İTÜ) için web araştırması yapan bir asistansın.
+Aşağıdaki sorguyla ilgili İTÜ hakkında web'de bilgi ara: {query}
+
+Her bir arama sonucu için şu formatı kullan:
+
+[SONUÇ]
+Başlık: [sayfanın başlığı]
+URL: [sayfanın URL'si]
+Özet: [sayfadan ilgili bir alıntı]
+[/SONUÇ]
+
+En alakalı 3-5 arama sonucunu sağla.
+Sonuçları Türkçe olarak açıkla.
+"""
 
 def get_response_messages(system_prompt, context_prompt, source_type, strict_content, relaxed_content, web_content, query):
     """Create the messages for the LLM response generation."""

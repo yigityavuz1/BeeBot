@@ -15,6 +15,9 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Create data directories
 RUN mkdir -p /app/data/raw /app/data/processed /app/data/pdf_text
 
+# Set Python to run in unbuffered mode to ensure logs are visible immediately
+#ENV PYTHONUNBUFFERED=1
+
 # Copy the application code
 COPY . .
 

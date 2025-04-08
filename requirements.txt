@@ -103,7 +103,7 @@ networkx==3.4.2
 notebook==7.3.2
 notebook_shim==0.2.4
 numpy==1.26.4
-openai==1.63.1
+openai==1.71.0
 orjson==3.10.15
 overrides==7.7.0
 packaging==24.2

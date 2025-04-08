@@ -5,6 +5,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.docstore.document import Document
 import tiktoken
 from dotenv import load_dotenv
+from tools import logger
 
 class DataProcessor:
     """Class for processing text data and converting it to LangChain documents."""
@@ -25,20 +26,26 @@ class DataProcessor:
             chunk_overlap=400,  
             separators=["\n\n", "\n", " ", ""]
         )
+        logger.info(f"DataProcessor initialized with directories: raw={self.raw_data_dir}, pdf_text={self.pdf_text_dir}, processed={self.processed_data_dir}")
     
     def create_langchain_documents_raw(self) -> List[Document]:
         """Creates LangChain Document objects from .txt files in the raw data directory."""
         directory = self.raw_data_dir
         if not os.path.isdir(directory):
-            print(f"Warning: {directory} is not a valid directory. Skipping raw document processing.")
+            logger.warning(f"Warning: {directory} is not a valid directory. Skipping raw document processing.")
             return []
 
         documents = []
-        for file in os.listdir(directory):
+        logger.info(f"Processing raw documents from {directory}")
+        files = os.listdir(directory)
+        logger.info(f"Found {len(files)} files in raw data directory")
+        
+        for file in files:
             file_path = os.path.join(directory, file)
 
             if file.endswith(".txt") and os.path.isfile(file_path):
                 try:
+                    logger.debug(f"Processing raw file: {file}")
                     with open(file_path, 'r', encoding='utf-8') as f:
                         content = f.read()
                     
@@ -50,12 +57,12 @@ class DataProcessor:
                         }
                     )
                     documents.append(doc)
-                    print(f"Processed raw file: {file}")
+                    logger.info(f"Processed raw file: {file} with {len(content)} characters")
 
                 except Exception as e:
-                    print(f"Error reading {file_path}: {e}")
+                    logger.error(f"Error reading {file_path}: {e}")
 
-        print(f"Processed {len(documents)} raw documents")
+        logger.info(f"Processed {len(documents)} raw documents")
         return documents
     
     def parse_pdf_text_files(self) -> List[Document]:
@@ -64,13 +71,16 @@ class DataProcessor:
         all_docs = []
         
         if not os.path.isdir(directory):
-            print(f"Warning: {directory} is not a valid directory. Skipping PDF text processing.")
+            logger.warning(f"Warning: {directory} is not a valid directory. Skipping PDF text processing.")
             return []
-            
+        
+        logger.info(f"Processing PDF text files from {directory}")
         txt_file_paths = glob.glob(os.path.join(directory, "*.txt"))
+        logger.info(f"Found {len(txt_file_paths)} .txt files in PDF text directory")
         
         for file_path in txt_file_paths:
             try:
+                logger.debug(f"Processing PDF text file: {os.path.basename(file_path)}")
                 with open(file_path, 'r', encoding='utf-8') as f:
                     full_text = f.read()
 
@@ -82,6 +92,7 @@ class DataProcessor:
 
                 # Create chunks
                 chunks = self.text_splitter.split_text(full_text)
+                logger.info(f"Split {os.path.basename(file_path)} into {len(chunks)} chunks")
 
                 # Create Document objects for each chunk
                 for i, chunk in enumerate(chunks):
@@ -92,27 +103,32 @@ class DataProcessor:
                     doc = Document(page_content=chunk, metadata=chunk_metadata)
                     all_docs.append(doc)
                 
-                print(f"Processed PDF text file: {os.path.basename(file_path)} into {len(chunks)} chunks")
+                logger.info(f"Processed PDF text file: {os.path.basename(file_path)} into {len(chunks)} chunks")
             
             except Exception as e:
-                print(f"Error processing {file_path}: {e}")
+                logger.error(f"Error processing {file_path}: {e}")
         
-        print(f"Processed {len(all_docs)} PDF text chunks")
+        logger.info(f"Processed {len(all_docs)} PDF text chunks")
         return all_docs
     
     def create_langchain_documents_results(self) -> List[Document]:
         """Creates LangChain Document objects from .txt files in the processed data directory."""
         directory = self.processed_data_dir
         if not os.path.isdir(directory):
-            print(f"Warning: {directory} is not a valid directory. Skipping results processing.")
+            logger.warning(f"Warning: {directory} is not a valid directory. Skipping results processing.")
             return []
 
         documents = []
-        for file in os.listdir(directory):
+        logger.info(f"Processing result documents from {directory}")
+        files = os.listdir(directory)
+        logger.info(f"Found {len(files)} files in processed data directory")
+        
+        for file in files:
             file_path = os.path.join(directory, file)
 
             if file.endswith(".txt") and os.path.isfile(file_path):
                 try:
+                    logger.debug(f"Processing results file: {file}")
                     with open(file_path, 'r', encoding='utf-8') as f:
                         content = f.read()
                     
@@ -124,12 +140,12 @@ class DataProcessor:
                         }
                     )
                     documents.append(doc)
-                    print(f"Processed results file: {file}")
+                    logger.info(f"Processed results file: {file} with {len(content)} characters")
 
                 except Exception as e:
-                    print(f"Error reading {file_path}: {e}")
+                    logger.error(f"Error reading {file_path}: {e}")
 
-        print(f"Processed {len(documents)} result documents")
+        logger.info(f"Processed {len(documents)} result documents")
         return documents
     
     def count_tokens(self, text: str) -> int:
@@ -151,6 +167,7 @@ class DataProcessor:
         first_chunk = text[:midpoint + overlap_chars]
         second_chunk = text[midpoint - overlap_chars:]
         
+        logger.debug(f"Split text of length {len(text)} with {overlap_percentage}% overlap into chunks of lengths {len(first_chunk)} and {len(second_chunk)}")
         return first_chunk, second_chunk
     
     def chunk_documents_by_tokens(self, documents: List[Document], max_tokens: int = 8000, 
@@ -166,6 +183,8 @@ class DataProcessor:
         Returns:
             New list of Document objects, with chunked documents and proper metadata
         """
+        logger.info(f"Chunking {len(documents)} documents with max_tokens={max_tokens}, overlap_percentage={overlap_percentage}")
+        
         def process_document(doc, chunk_idx=0):
             """
             Recursively process a document, splitting if necessary.
@@ -181,12 +200,15 @@ class DataProcessor:
                 new_metadata["token_count"] = token_count
                 new_metadata["content_length"] = len(doc.page_content)
                 
+                logger.debug(f"Document with chunk_index {chunk_idx} is within token limit ({token_count}/{max_tokens})")
+                
                 return [Document(
                     page_content=doc.page_content,
                     metadata=new_metadata
                 )]
             
             # If document exceeds token limit, split recursively
+            logger.debug(f"Document with chunk_index {chunk_idx} exceeds token limit ({token_count}/{max_tokens}), splitting")
             first_half, second_half = self.split_text(doc.page_content, overlap_percentage)
             
             # Create documents from the halves
@@ -217,9 +239,9 @@ class DataProcessor:
         new_count = len(chunked_docs)
         chunked_count = sum(1 for doc in chunked_docs if "." in str(doc.metadata.get("chunk_index", "")))
         
-        print(f"Original documents: {original_count}")
-        print(f"After chunking: {new_count}")
-        print(f"Documents that needed chunking: {chunked_count}")
+        logger.info(f"Original documents: {original_count}")
+        logger.info(f"After chunking: {new_count}")
+        logger.info(f"Documents that needed chunking: {chunked_count}")
         
         return chunked_docs
     
@@ -230,7 +252,7 @@ class DataProcessor:
         Returns:
             List of processed and chunked documents
         """
-        print("Starting document processing...")
+        logger.info("Starting document processing...")
         
         # Gather documents from all sources
         docs_pdf = self.parse_pdf_text_files()
@@ -241,23 +263,24 @@ class DataProcessor:
         unified_docs = docs_pdf + docs_raw + docs_results
         
         if not unified_docs:
-            print("No documents found for processing.")
+            logger.warning("No documents found for processing.")
             return []
             
-        print(f"Combined {len(unified_docs)} documents from all sources.")
+        logger.info(f"Combined {len(unified_docs)} documents from all sources.")
         
         # Chunk documents based on token count
         chunked_docs = self.chunk_documents_by_tokens(unified_docs)
         
-        print(f"Document processing complete. Total processed documents: {len(chunked_docs)}")
+        logger.info(f"Document processing complete. Total processed documents: {len(chunked_docs)}")
         return chunked_docs
 
 
 # For standalone execution
 def main():
+    logger.info("Starting standalone document processing")
     processor = DataProcessor()
     chunked_docs = processor.process_all_documents()
-    print(f"Processed {len(chunked_docs)} documents total")
+    logger.info(f"Processed {len(chunked_docs)} documents total")
     return chunked_docs
 
 if __name__ == "__main__":
